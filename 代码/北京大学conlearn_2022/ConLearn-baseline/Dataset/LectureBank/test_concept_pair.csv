@@ -1,0 +1,95 @@
+linguistics basics,noisy channel model,1
+parsing,gated recurrent units,0
+shallow parsing,agent-based view of ai,0
+probabilities,recursive neural network,1
+machine translation techniques,penn treebank,0
+monte carlo methods,tsne,0
+linear regression,neural language modeling,0
+parsing,lexicalized parsing,1
+sentiment analysis,social media analysis,1
+word embedding variations,word sense disambiguation,1
+sentence representations,transfer learning,0
+recurrent neural networks,parsing evaluation,0
+Mixture Models,Variations of GANs,0
+nlp for databases,bidirectional recurrent neural networks,0
+first-order logic,recurrent neural networks,0
+dependency parsing,evaluation of dependency parsing,1
+character level language models,problem solving and search,0
+statistical part of speech tagging,multi-task learning,0
+search,a* search,1
+transition based dependency parsing,training neural networks,0
+KKT conditions,phonetics,0
+latent variable models,convolutional neural networks,0
+natural language processing intro,penn treebank,1
+vector representations,evaluation of text classification,1
+toolkits for information retrieval,text mining,1
+probabilities,latent variable models,1
+latent variable models,speech signal analysis,0
+semi supervised learning,latent dirichlet allocation,0
+multi-agent systems,game playing in ai,1
+informed search,neural networks,0
+graphical models,others,0
+conditional probability,lexicalized parsing,0
+word distributions,document representation,1
+Mean Field Approximation,decision trees,0
+discourse parsing,maximum likelihood estimation,0
+predicate logic,speech synthesis,0
+State Space Models,Message Passing,0
+speech processing,probabilistic grammars,0
+language modeling,neural language modeling,1
+calculus,newton method,1
+loss function,latent variable models,1
+data structures and algorithms,ResNet,0
+Manifold Learning,activation functions,0
+one-shot learning,others,0
+planning,Gaussian graphical models,0
+vector semantics,word sense disambiguation,1
+neural language modeling,inference,0
+latent variable models,language identification,0
+generative adversarial networks,Variations of GANs,1
+uncertainty,training neural networks,0
+calculus,latent variable models,1
+others,activation functions,0
+information extraction,social network extraction,1
+evaluation of text classification,language identification,1
+Unsupervised learning,reinforcement learning,1
+classification,log-linear models,0
+machine learning resources,tsne,1
+Belief Propagation,python,0
+perceptron,speech signal analysis,0
+kernel function,Mixture Models,1
+loss function,classification,1
+discourse analysis,discourse parsing,1
+nlp for databases,stack lstm,0
+crawling the web,planning,0
+text to speech generation,wordnet,0
+vector representations,tsne,1
+shallow parsing,cky parsing,1
+nlp and vision,others,0
+variational bayes models,cky parsing,0
+linguistics basics,shift-reduce parsing,1
+Canonical Correlation Analysis,discourse parsing,0
+sentence representations,seq2seq,0
+vector representations,word embedding,1
+phonetics,mathematical models,0
+dimensionality reduction,singular value decomposition,1
+logic and reasoning,propositional logic,1
+facial recognition systems,random walks and harmonic functions,0
+Canonical Correlation Analysis,recurrent neural networks,0
+Variable Elimination,morphology and lexicon,0
+graph theory,context sensitive grammar,0
+search,informed search,1
+probabilities,cky parsing,1
+seq2seq,neural summarization,1
+random walks and harmonic functions,relation extraction,1
+probabilities,Dirichlet Processes,1
+text similarity,information extraction,1
+chinese nlp,automated essay scoring,1
+logic and logical agents,text summarization,0
+linear algebra,Message Passing,1
+dual problems,deep learning tools,0
+natural language processing intro,cky parsing,1
+bagging,discourse analysis,0
+deep Q-network,computational phonology,0
+beam search,neural summarization,1
+natural language processing intro,language identification,1

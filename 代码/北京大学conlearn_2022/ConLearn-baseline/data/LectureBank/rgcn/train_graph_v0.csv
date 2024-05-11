@@ -1,0 +1,3845 @@
+1,depend_on_r,2
+2,depend_on_r,27
+2,depend_on_r,3
+2,depend_on_r,5
+2,depend_on_r,1
+3,depend_on_r,5
+3,depend_on_r,6
+3,depend_on_r,7
+3,depend_on_r,8
+3,depend_on_r,13
+3,depend_on_r,15
+3,depend_on_r,16
+3,depend_on_r,17
+3,depend_on_r,18
+3,depend_on_r,2
+5,depend_on_r,2
+5,depend_on_r,27
+5,depend_on_r,3
+6,depend_on_r,7
+6,depend_on_r,8
+6,depend_on_r,9
+6,depend_on_r,11
+6,depend_on_r,13
+6,depend_on_r,16
+6,depend_on_r,3
+7,depend_on_r,8
+7,depend_on_r,9
+7,depend_on_r,12
+7,depend_on_r,13
+7,depend_on_r,18
+7,depend_on_r,3
+7,depend_on_r,6
+8,depend_on_r,16
+8,depend_on_r,18
+8,depend_on_r,3
+8,depend_on_r,6
+8,depend_on_r,7
+9,depend_on_r,6
+9,depend_on_r,7
+10,depend_on_r,15
+10,depend_on_r,20
+10,depend_on_r,26
+10,depend_on_r,28
+11,depend_on_r,6
+12,depend_on_r,15
+12,depend_on_r,18
+12,depend_on_r,20
+12,depend_on_r,7
+13,depend_on_r,3
+13,depend_on_r,6
+13,depend_on_r,7
+14,depend_on_r,26
+14,depend_on_r,29
+15,depend_on_r,20
+15,depend_on_r,3
+15,depend_on_r,10
+15,depend_on_r,12
+16,depend_on_r,3
+16,depend_on_r,6
+16,depend_on_r,8
+17,depend_on_r,18
+17,depend_on_r,27
+17,depend_on_r,3
+18,depend_on_r,3
+18,depend_on_r,7
+18,depend_on_r,8
+18,depend_on_r,12
+18,depend_on_r,17
+19,depend_on_r,21
+19,depend_on_r,24
+20,depend_on_r,10
+20,depend_on_r,12
+20,depend_on_r,15
+21,depend_on_r,19
+22,depend_on_r,23
+22,depend_on_r,24
+23,depend_on_r,24
+23,depend_on_r,22
+24,depend_on_r,19
+24,depend_on_r,22
+24,depend_on_r,23
+26,depend_on_r,29
+26,depend_on_r,10
+26,depend_on_r,14
+27,depend_on_r,5
+27,depend_on_r,17
+27,depend_on_r,2
+28,depend_on_r,29
+28,depend_on_r,10
+29,depend_on_r,14
+29,depend_on_r,26
+29,depend_on_r,28
+30,depend_on_r,31
+30,depend_on_r,32
+30,depend_on_r,33
+30,depend_on_r,34
+30,depend_on_r,35
+30,depend_on_r,36
+30,depend_on_r,37
+30,depend_on_r,376
+30,depend_on_r,38
+30,depend_on_r,39
+30,depend_on_r,40
+30,depend_on_r,401
+30,depend_on_r,458
+30,depend_on_r,461
+30,depend_on_r,465
+30,depend_on_r,466
+30,depend_on_r,468
+30,depend_on_r,473
+30,depend_on_r,474
+30,depend_on_r,70
+30,depend_on_r,135
+30,depend_on_r,142
+30,depend_on_r,148
+30,depend_on_r,149
+30,depend_on_r,155
+30,depend_on_r,157
+30,depend_on_r,158
+30,depend_on_r,160
+30,depend_on_r,163
+30,depend_on_r,258
+30,depend_on_r,278
+30,depend_on_r,279
+31,depend_on_r,32
+31,depend_on_r,33
+31,depend_on_r,34
+31,depend_on_r,35
+31,depend_on_r,38
+31,depend_on_r,39
+31,depend_on_r,40
+31,depend_on_r,466
+31,depend_on_r,469
+31,depend_on_r,470
+31,depend_on_r,474
+31,depend_on_r,125
+31,depend_on_r,129
+31,depend_on_r,148
+31,depend_on_r,149
+31,depend_on_r,155
+31,depend_on_r,156
+31,depend_on_r,158
+31,depend_on_r,159
+31,depend_on_r,30
+32,depend_on_r,33
+32,depend_on_r,34
+32,depend_on_r,35
+32,depend_on_r,38
+32,depend_on_r,39
+32,depend_on_r,40
+32,depend_on_r,461
+32,depend_on_r,466
+32,depend_on_r,468
+32,depend_on_r,469
+32,depend_on_r,470
+32,depend_on_r,472
+32,depend_on_r,474
+32,depend_on_r,125
+32,depend_on_r,126
+32,depend_on_r,129
+32,depend_on_r,145
+32,depend_on_r,148
+32,depend_on_r,149
+32,depend_on_r,152
+32,depend_on_r,155
+32,depend_on_r,156
+32,depend_on_r,158
+32,depend_on_r,159
+32,depend_on_r,164
+32,depend_on_r,261
+32,depend_on_r,262
+32,depend_on_r,263
+32,depend_on_r,30
+32,depend_on_r,31
+33,depend_on_r,34
+33,depend_on_r,35
+33,depend_on_r,38
+33,depend_on_r,39
+33,depend_on_r,40
+33,depend_on_r,466
+33,depend_on_r,468
+33,depend_on_r,469
+33,depend_on_r,470
+33,depend_on_r,472
+33,depend_on_r,474
+33,depend_on_r,125
+33,depend_on_r,129
+33,depend_on_r,145
+33,depend_on_r,148
+33,depend_on_r,149
+33,depend_on_r,152
+33,depend_on_r,155
+33,depend_on_r,156
+33,depend_on_r,158
+33,depend_on_r,159
+33,depend_on_r,261
+33,depend_on_r,262
+33,depend_on_r,30
+33,depend_on_r,31
+33,depend_on_r,32
+34,depend_on_r,35
+34,depend_on_r,36
+34,depend_on_r,38
+34,depend_on_r,39
+34,depend_on_r,40
+34,depend_on_r,401
+34,depend_on_r,464
+34,depend_on_r,466
+34,depend_on_r,469
+34,depend_on_r,474
+34,depend_on_r,148
+34,depend_on_r,149
+34,depend_on_r,154
+34,depend_on_r,155
+34,depend_on_r,158
+34,depend_on_r,159
+34,depend_on_r,160
+34,depend_on_r,261
+34,depend_on_r,271
+34,depend_on_r,278
+34,depend_on_r,30
+34,depend_on_r,31
+34,depend_on_r,32
+34,depend_on_r,33
+35,depend_on_r,36
+35,depend_on_r,38
+35,depend_on_r,39
+35,depend_on_r,40
+35,depend_on_r,401
+35,depend_on_r,466
+35,depend_on_r,468
+35,depend_on_r,469
+35,depend_on_r,470
+35,depend_on_r,472
+35,depend_on_r,474
+35,depend_on_r,70
+35,depend_on_r,129
+35,depend_on_r,135
+35,depend_on_r,149
+35,depend_on_r,154
+35,depend_on_r,155
+35,depend_on_r,157
+35,depend_on_r,158
+35,depend_on_r,160
+35,depend_on_r,163
+35,depend_on_r,30
+35,depend_on_r,31
+35,depend_on_r,32
+35,depend_on_r,33
+35,depend_on_r,34
+36,depend_on_r,37
+36,depend_on_r,468
+36,depend_on_r,474
+36,depend_on_r,158
+36,depend_on_r,160
+36,depend_on_r,30
+36,depend_on_r,34
+36,depend_on_r,35
+37,depend_on_r,158
+37,depend_on_r,30
+37,depend_on_r,36
+38,depend_on_r,40
+38,depend_on_r,401
+38,depend_on_r,466
+38,depend_on_r,470
+38,depend_on_r,135
+38,depend_on_r,149
+38,depend_on_r,154
+38,depend_on_r,155
+38,depend_on_r,158
+38,depend_on_r,163
+38,depend_on_r,30
+38,depend_on_r,31
+38,depend_on_r,32
+38,depend_on_r,33
+38,depend_on_r,34
+38,depend_on_r,35
+39,depend_on_r,40
+39,depend_on_r,466
+39,depend_on_r,474
+39,depend_on_r,155
+39,depend_on_r,30
+39,depend_on_r,31
+39,depend_on_r,32
+39,depend_on_r,33
+39,depend_on_r,34
+39,depend_on_r,35
+40,depend_on_r,466
+40,depend_on_r,125
+40,depend_on_r,129
+40,depend_on_r,130
+40,depend_on_r,135
+40,depend_on_r,149
+40,depend_on_r,155
+40,depend_on_r,160
+40,depend_on_r,163
+40,depend_on_r,30
+40,depend_on_r,31
+40,depend_on_r,32
+40,depend_on_r,33
+40,depend_on_r,34
+40,depend_on_r,35
+40,depend_on_r,38
+40,depend_on_r,39
+59,depend_on_r,388
+59,depend_on_r,407
+59,depend_on_r,458
+59,depend_on_r,465
+61,depend_on_r,144
+69,depend_on_r,495
+69,depend_on_r,497
+70,depend_on_r,71
+70,depend_on_r,30
+70,depend_on_r,35
+70,depend_on_r,458
+70,depend_on_r,461
+70,depend_on_r,464
+70,depend_on_r,468
+71,depend_on_r,70
+74,depend_on_r,76
+74,depend_on_r,93
+74,depend_on_r,96
+74,depend_on_r,388
+74,depend_on_r,398
+74,depend_on_r,407
+74,depend_on_r,458
+75,depend_on_r,390
+75,depend_on_r,399
+75,depend_on_r,460
+76,depend_on_r,84
+76,depend_on_r,86
+76,depend_on_r,93
+76,depend_on_r,389
+76,depend_on_r,398
+76,depend_on_r,74
+77,depend_on_r,79
+78,depend_on_r,79
+78,depend_on_r,347
+79,depend_on_r,77
+79,depend_on_r,78
+80,depend_on_r,379
+82,depend_on_r,83
+82,depend_on_r,84
+82,depend_on_r,389
+82,depend_on_r,392
+82,depend_on_r,398
+82,depend_on_r,459
+83,depend_on_r,84
+83,depend_on_r,85
+83,depend_on_r,90
+83,depend_on_r,92
+83,depend_on_r,392
+83,depend_on_r,398
+83,depend_on_r,407
+83,depend_on_r,458
+83,depend_on_r,82
+84,depend_on_r,92
+84,depend_on_r,389
+84,depend_on_r,392
+84,depend_on_r,398
+84,depend_on_r,407
+84,depend_on_r,458
+84,depend_on_r,459
+84,depend_on_r,461
+84,depend_on_r,76
+84,depend_on_r,82
+84,depend_on_r,83
+85,depend_on_r,407
+85,depend_on_r,458
+85,depend_on_r,83
+86,depend_on_r,93
+86,depend_on_r,389
+86,depend_on_r,393
+86,depend_on_r,398
+86,depend_on_r,76
+87,depend_on_r,88
+88,depend_on_r,87
+90,depend_on_r,91
+90,depend_on_r,83
+91,depend_on_r,92
+91,depend_on_r,90
+92,depend_on_r,407
+92,depend_on_r,458
+92,depend_on_r,467
+92,depend_on_r,83
+92,depend_on_r,84
+92,depend_on_r,91
+93,depend_on_r,94
+93,depend_on_r,95
+93,depend_on_r,96
+93,depend_on_r,398
+93,depend_on_r,74
+93,depend_on_r,76
+93,depend_on_r,86
+94,depend_on_r,95
+94,depend_on_r,93
+95,depend_on_r,93
+95,depend_on_r,94
+96,depend_on_r,74
+96,depend_on_r,93
+124,depend_on_r,142
+124,depend_on_r,257
+124,depend_on_r,277
+125,depend_on_r,126
+125,depend_on_r,129
+125,depend_on_r,130
+125,depend_on_r,135
+125,depend_on_r,148
+125,depend_on_r,149
+125,depend_on_r,155
+125,depend_on_r,31
+125,depend_on_r,32
+125,depend_on_r,33
+125,depend_on_r,40
+125,depend_on_r,461
+125,depend_on_r,466
+125,depend_on_r,482
+125,depend_on_r,530
+126,depend_on_r,129
+126,depend_on_r,130
+126,depend_on_r,135
+126,depend_on_r,32
+126,depend_on_r,466
+126,depend_on_r,482
+126,depend_on_r,125
+128,depend_on_r,129
+129,depend_on_r,130
+129,depend_on_r,135
+129,depend_on_r,148
+129,depend_on_r,149
+129,depend_on_r,155
+129,depend_on_r,262
+129,depend_on_r,278
+129,depend_on_r,31
+129,depend_on_r,32
+129,depend_on_r,33
+129,depend_on_r,35
+129,depend_on_r,40
+129,depend_on_r,482
+129,depend_on_r,515
+129,depend_on_r,530
+129,depend_on_r,125
+129,depend_on_r,126
+129,depend_on_r,128
+130,depend_on_r,135
+130,depend_on_r,155
+130,depend_on_r,157
+130,depend_on_r,163
+130,depend_on_r,40
+130,depend_on_r,515
+130,depend_on_r,530
+130,depend_on_r,125
+130,depend_on_r,126
+130,depend_on_r,129
+132,depend_on_r,136
+134,depend_on_r,139
+134,depend_on_r,347
+134,depend_on_r,407
+134,depend_on_r,458
+134,depend_on_r,461
+135,depend_on_r,142
+135,depend_on_r,155
+135,depend_on_r,157
+135,depend_on_r,160
+135,depend_on_r,163
+135,depend_on_r,30
+135,depend_on_r,329
+135,depend_on_r,330
+135,depend_on_r,339
+135,depend_on_r,340
+135,depend_on_r,35
+135,depend_on_r,38
+135,depend_on_r,40
+135,depend_on_r,515
+135,depend_on_r,530
+135,depend_on_r,125
+135,depend_on_r,126
+135,depend_on_r,129
+135,depend_on_r,130
+136,depend_on_r,132
+139,depend_on_r,347
+139,depend_on_r,392
+139,depend_on_r,459
+139,depend_on_r,461
+139,depend_on_r,466
+139,depend_on_r,468
+139,depend_on_r,470
+139,depend_on_r,134
+142,depend_on_r,157
+142,depend_on_r,162
+142,depend_on_r,163
+142,depend_on_r,257
+142,depend_on_r,30
+142,depend_on_r,340
+142,depend_on_r,343
+142,depend_on_r,124
+142,depend_on_r,135
+143,depend_on_r,144
+143,depend_on_r,146
+143,depend_on_r,147
+143,depend_on_r,164
+143,depend_on_r,463
+144,depend_on_r,61
+144,depend_on_r,143
+145,depend_on_r,146
+145,depend_on_r,164
+145,depend_on_r,32
+145,depend_on_r,33
+146,depend_on_r,150
+146,depend_on_r,164
+146,depend_on_r,394
+146,depend_on_r,143
+146,depend_on_r,145
+147,depend_on_r,485
+147,depend_on_r,143
+148,depend_on_r,149
+148,depend_on_r,155
+148,depend_on_r,156
+148,depend_on_r,158
+148,depend_on_r,159
+148,depend_on_r,164
+148,depend_on_r,271
+148,depend_on_r,278
+148,depend_on_r,30
+148,depend_on_r,31
+148,depend_on_r,32
+148,depend_on_r,33
+148,depend_on_r,34
+148,depend_on_r,461
+148,depend_on_r,466
+148,depend_on_r,469
+148,depend_on_r,125
+148,depend_on_r,129
+149,depend_on_r,155
+149,depend_on_r,156
+149,depend_on_r,158
+149,depend_on_r,160
+149,depend_on_r,163
+149,depend_on_r,278
+149,depend_on_r,30
+149,depend_on_r,31
+149,depend_on_r,32
+149,depend_on_r,33
+149,depend_on_r,34
+149,depend_on_r,35
+149,depend_on_r,38
+149,depend_on_r,40
+149,depend_on_r,461
+149,depend_on_r,466
+149,depend_on_r,125
+149,depend_on_r,129
+149,depend_on_r,148
+150,depend_on_r,146
+152,depend_on_r,32
+152,depend_on_r,33
+154,depend_on_r,155
+154,depend_on_r,157
+154,depend_on_r,166
+154,depend_on_r,34
+154,depend_on_r,35
+154,depend_on_r,38
+155,depend_on_r,156
+155,depend_on_r,157
+155,depend_on_r,158
+155,depend_on_r,160
+155,depend_on_r,163
+155,depend_on_r,166
+155,depend_on_r,30
+155,depend_on_r,31
+155,depend_on_r,32
+155,depend_on_r,33
+155,depend_on_r,34
+155,depend_on_r,35
+155,depend_on_r,38
+155,depend_on_r,39
+155,depend_on_r,40
+155,depend_on_r,466
+155,depend_on_r,470
+155,depend_on_r,515
+155,depend_on_r,530
+155,depend_on_r,125
+155,depend_on_r,129
+155,depend_on_r,130
+155,depend_on_r,135
+155,depend_on_r,148
+155,depend_on_r,149
+155,depend_on_r,154
+156,depend_on_r,158
+156,depend_on_r,159
+156,depend_on_r,160
+156,depend_on_r,164
+156,depend_on_r,31
+156,depend_on_r,32
+156,depend_on_r,33
+156,depend_on_r,466
+156,depend_on_r,469
+156,depend_on_r,148
+156,depend_on_r,149
+156,depend_on_r,155
+157,depend_on_r,160
+157,depend_on_r,163
+157,depend_on_r,30
+157,depend_on_r,35
+157,depend_on_r,401
+157,depend_on_r,130
+157,depend_on_r,135
+157,depend_on_r,142
+157,depend_on_r,154
+157,depend_on_r,155
+158,depend_on_r,159
+158,depend_on_r,160
+158,depend_on_r,166
+158,depend_on_r,30
+158,depend_on_r,31
+158,depend_on_r,32
+158,depend_on_r,33
+158,depend_on_r,34
+158,depend_on_r,35
+158,depend_on_r,36
+158,depend_on_r,37
+158,depend_on_r,38
+158,depend_on_r,466
+158,depend_on_r,468
+158,depend_on_r,148
+158,depend_on_r,149
+158,depend_on_r,155
+158,depend_on_r,156
+159,depend_on_r,31
+159,depend_on_r,32
+159,depend_on_r,33
+159,depend_on_r,34
+159,depend_on_r,148
+159,depend_on_r,156
+159,depend_on_r,158
+160,depend_on_r,163
+160,depend_on_r,30
+160,depend_on_r,34
+160,depend_on_r,35
+160,depend_on_r,36
+160,depend_on_r,40
+160,depend_on_r,135
+160,depend_on_r,149
+160,depend_on_r,155
+160,depend_on_r,156
+160,depend_on_r,157
+160,depend_on_r,158
+162,depend_on_r,142
+163,depend_on_r,166
+163,depend_on_r,30
+163,depend_on_r,339
+163,depend_on_r,35
+163,depend_on_r,38
+163,depend_on_r,40
+163,depend_on_r,130
+163,depend_on_r,135
+163,depend_on_r,142
+163,depend_on_r,149
+163,depend_on_r,155
+163,depend_on_r,157
+163,depend_on_r,160
+164,depend_on_r,32
+164,depend_on_r,394
+164,depend_on_r,463
+164,depend_on_r,143
+164,depend_on_r,145
+164,depend_on_r,146
+164,depend_on_r,148
+164,depend_on_r,156
+165,depend_on_r,388
+166,depend_on_r,154
+166,depend_on_r,155
+166,depend_on_r,158
+166,depend_on_r,163
+257,depend_on_r,269
+257,depend_on_r,277
+257,depend_on_r,124
+257,depend_on_r,142
+258,depend_on_r,261
+258,depend_on_r,264
+258,depend_on_r,269
+258,depend_on_r,270
+258,depend_on_r,271
+258,depend_on_r,272
+258,depend_on_r,278
+258,depend_on_r,279
+258,depend_on_r,30
+259,depend_on_r,260
+259,depend_on_r,261
+259,depend_on_r,262
+259,depend_on_r,263
+259,depend_on_r,271
+259,depend_on_r,275
+259,depend_on_r,276
+259,depend_on_r,278
+259,depend_on_r,279
+260,depend_on_r,263
+260,depend_on_r,271
+260,depend_on_r,279
+260,depend_on_r,259
+261,depend_on_r,262
+261,depend_on_r,263
+261,depend_on_r,271
+261,depend_on_r,276
+261,depend_on_r,278
+261,depend_on_r,279
+261,depend_on_r,32
+261,depend_on_r,33
+261,depend_on_r,34
+261,depend_on_r,258
+261,depend_on_r,259
+262,depend_on_r,263
+262,depend_on_r,278
+262,depend_on_r,279
+262,depend_on_r,32
+262,depend_on_r,33
+262,depend_on_r,129
+262,depend_on_r,259
+262,depend_on_r,261
+263,depend_on_r,271
+263,depend_on_r,278
+263,depend_on_r,279
+263,depend_on_r,32
+263,depend_on_r,259
+263,depend_on_r,260
+263,depend_on_r,261
+263,depend_on_r,262
+264,depend_on_r,266
+264,depend_on_r,269
+264,depend_on_r,270
+264,depend_on_r,258
+265,depend_on_r,266
+266,depend_on_r,264
+266,depend_on_r,265
+267,depend_on_r,268
+268,depend_on_r,267
+269,depend_on_r,270
+269,depend_on_r,272
+269,depend_on_r,277
+269,depend_on_r,280
+269,depend_on_r,257
+269,depend_on_r,258
+269,depend_on_r,264
+270,depend_on_r,258
+270,depend_on_r,264
+270,depend_on_r,269
+271,depend_on_r,272
+271,depend_on_r,276
+271,depend_on_r,278
+271,depend_on_r,279
+271,depend_on_r,34
+271,depend_on_r,148
+271,depend_on_r,258
+271,depend_on_r,259
+271,depend_on_r,260
+271,depend_on_r,261
+271,depend_on_r,263
+272,depend_on_r,277
+272,depend_on_r,280
+272,depend_on_r,258
+272,depend_on_r,269
+272,depend_on_r,271
+273,depend_on_r,278
+273,depend_on_r,279
+275,depend_on_r,276
+275,depend_on_r,259
+276,depend_on_r,279
+276,depend_on_r,259
+276,depend_on_r,261
+276,depend_on_r,271
+276,depend_on_r,275
+277,depend_on_r,280
+277,depend_on_r,124
+277,depend_on_r,257
+277,depend_on_r,269
+277,depend_on_r,272
+278,depend_on_r,279
+278,depend_on_r,30
+278,depend_on_r,34
+278,depend_on_r,129
+278,depend_on_r,148
+278,depend_on_r,149
+278,depend_on_r,258
+278,depend_on_r,259
+278,depend_on_r,261
+278,depend_on_r,262
+278,depend_on_r,263
+278,depend_on_r,271
+278,depend_on_r,273
+279,depend_on_r,30
+279,depend_on_r,258
+279,depend_on_r,259
+279,depend_on_r,260
+279,depend_on_r,261
+279,depend_on_r,262
+279,depend_on_r,263
+279,depend_on_r,271
+279,depend_on_r,273
+279,depend_on_r,276
+279,depend_on_r,278
+280,depend_on_r,269
+280,depend_on_r,272
+280,depend_on_r,277
+319,depend_on_r,320
+319,depend_on_r,329
+319,depend_on_r,339
+319,depend_on_r,340
+320,depend_on_r,319
+322,depend_on_r,323
+322,depend_on_r,324
+322,depend_on_r,325
+322,depend_on_r,326
+323,depend_on_r,327
+323,depend_on_r,322
+324,depend_on_r,325
+324,depend_on_r,326
+324,depend_on_r,330
+324,depend_on_r,322
+325,depend_on_r,322
+325,depend_on_r,324
+326,depend_on_r,322
+326,depend_on_r,324
+327,depend_on_r,323
+329,depend_on_r,330
+329,depend_on_r,331
+329,depend_on_r,333
+329,depend_on_r,339
+329,depend_on_r,340
+329,depend_on_r,135
+329,depend_on_r,319
+330,depend_on_r,333
+330,depend_on_r,515
+330,depend_on_r,135
+330,depend_on_r,324
+330,depend_on_r,329
+331,depend_on_r,329
+333,depend_on_r,335
+333,depend_on_r,339
+333,depend_on_r,340
+333,depend_on_r,329
+333,depend_on_r,330
+335,depend_on_r,339
+335,depend_on_r,340
+335,depend_on_r,333
+339,depend_on_r,340
+339,depend_on_r,135
+339,depend_on_r,163
+339,depend_on_r,319
+339,depend_on_r,329
+339,depend_on_r,333
+339,depend_on_r,335
+340,depend_on_r,343
+340,depend_on_r,458
+340,depend_on_r,135
+340,depend_on_r,142
+340,depend_on_r,319
+340,depend_on_r,329
+340,depend_on_r,333
+340,depend_on_r,335
+340,depend_on_r,339
+343,depend_on_r,142
+343,depend_on_r,340
+347,depend_on_r,392
+347,depend_on_r,458
+347,depend_on_r,461
+347,depend_on_r,465
+347,depend_on_r,468
+347,depend_on_r,473
+347,depend_on_r,78
+347,depend_on_r,134
+347,depend_on_r,139
+376,depend_on_r,382
+376,depend_on_r,30
+379,depend_on_r,80
+382,depend_on_r,384
+382,depend_on_r,376
+384,depend_on_r,382
+388,depend_on_r,458
+388,depend_on_r,465
+388,depend_on_r,59
+388,depend_on_r,74
+388,depend_on_r,165
+389,depend_on_r,392
+389,depend_on_r,398
+389,depend_on_r,76
+389,depend_on_r,82
+389,depend_on_r,84
+389,depend_on_r,86
+390,depend_on_r,460
+390,depend_on_r,75
+392,depend_on_r,393
+392,depend_on_r,398
+392,depend_on_r,407
+392,depend_on_r,458
+392,depend_on_r,459
+392,depend_on_r,461
+392,depend_on_r,465
+392,depend_on_r,468
+392,depend_on_r,82
+392,depend_on_r,83
+392,depend_on_r,84
+392,depend_on_r,139
+392,depend_on_r,347
+392,depend_on_r,389
+393,depend_on_r,407
+393,depend_on_r,458
+393,depend_on_r,86
+393,depend_on_r,392
+394,depend_on_r,146
+394,depend_on_r,164
+397,depend_on_r,464
+398,depend_on_r,74
+398,depend_on_r,76
+398,depend_on_r,82
+398,depend_on_r,83
+398,depend_on_r,84
+398,depend_on_r,86
+398,depend_on_r,93
+398,depend_on_r,389
+398,depend_on_r,392
+399,depend_on_r,75
+400,depend_on_r,471
+401,depend_on_r,470
+401,depend_on_r,157
+401,depend_on_r,30
+401,depend_on_r,34
+401,depend_on_r,35
+401,depend_on_r,38
+407,depend_on_r,458
+407,depend_on_r,465
+407,depend_on_r,467
+407,depend_on_r,468
+407,depend_on_r,473
+407,depend_on_r,59
+407,depend_on_r,74
+407,depend_on_r,83
+407,depend_on_r,84
+407,depend_on_r,85
+407,depend_on_r,92
+407,depend_on_r,134
+407,depend_on_r,392
+407,depend_on_r,393
+458,depend_on_r,461
+458,depend_on_r,464
+458,depend_on_r,465
+458,depend_on_r,467
+458,depend_on_r,468
+458,depend_on_r,473
+458,depend_on_r,59
+458,depend_on_r,70
+458,depend_on_r,74
+458,depend_on_r,83
+458,depend_on_r,84
+458,depend_on_r,85
+458,depend_on_r,92
+458,depend_on_r,134
+458,depend_on_r,30
+458,depend_on_r,340
+458,depend_on_r,347
+458,depend_on_r,388
+458,depend_on_r,392
+458,depend_on_r,393
+458,depend_on_r,407
+459,depend_on_r,460
+459,depend_on_r,461
+459,depend_on_r,466
+459,depend_on_r,82
+459,depend_on_r,84
+459,depend_on_r,139
+459,depend_on_r,392
+460,depend_on_r,461
+460,depend_on_r,466
+460,depend_on_r,468
+460,depend_on_r,474
+460,depend_on_r,75
+460,depend_on_r,390
+460,depend_on_r,459
+461,depend_on_r,464
+461,depend_on_r,466
+461,depend_on_r,468
+461,depend_on_r,469
+461,depend_on_r,470
+461,depend_on_r,70
+461,depend_on_r,84
+461,depend_on_r,125
+461,depend_on_r,134
+461,depend_on_r,139
+461,depend_on_r,148
+461,depend_on_r,149
+461,depend_on_r,30
+461,depend_on_r,32
+461,depend_on_r,347
+461,depend_on_r,392
+461,depend_on_r,458
+461,depend_on_r,459
+461,depend_on_r,460
+463,depend_on_r,143
+463,depend_on_r,164
+464,depend_on_r,466
+464,depend_on_r,468
+464,depend_on_r,70
+464,depend_on_r,34
+464,depend_on_r,397
+464,depend_on_r,458
+464,depend_on_r,461
+465,depend_on_r,467
+465,depend_on_r,468
+465,depend_on_r,473
+465,depend_on_r,59
+465,depend_on_r,30
+465,depend_on_r,347
+465,depend_on_r,388
+465,depend_on_r,392
+465,depend_on_r,407
+465,depend_on_r,458
+466,depend_on_r,468
+466,depend_on_r,469
+466,depend_on_r,470
+466,depend_on_r,472
+466,depend_on_r,474
+466,depend_on_r,125
+466,depend_on_r,126
+466,depend_on_r,139
+466,depend_on_r,148
+466,depend_on_r,149
+466,depend_on_r,155
+466,depend_on_r,156
+466,depend_on_r,158
+466,depend_on_r,30
+466,depend_on_r,31
+466,depend_on_r,32
+466,depend_on_r,33
+466,depend_on_r,34
+466,depend_on_r,35
+466,depend_on_r,38
+466,depend_on_r,39
+466,depend_on_r,40
+466,depend_on_r,459
+466,depend_on_r,460
+466,depend_on_r,461
+466,depend_on_r,464
+467,depend_on_r,468
+467,depend_on_r,92
+467,depend_on_r,407
+467,depend_on_r,458
+467,depend_on_r,465
+468,depend_on_r,469
+468,depend_on_r,470
+468,depend_on_r,472
+468,depend_on_r,473
+468,depend_on_r,474
+468,depend_on_r,70
+468,depend_on_r,139
+468,depend_on_r,158
+468,depend_on_r,30
+468,depend_on_r,32
+468,depend_on_r,33
+468,depend_on_r,347
+468,depend_on_r,35
+468,depend_on_r,36
+468,depend_on_r,392
+468,depend_on_r,407
+468,depend_on_r,458
+468,depend_on_r,460
+468,depend_on_r,461
+468,depend_on_r,464
+468,depend_on_r,465
+468,depend_on_r,466
+468,depend_on_r,467
+469,depend_on_r,470
+469,depend_on_r,472
+469,depend_on_r,474
+469,depend_on_r,148
+469,depend_on_r,156
+469,depend_on_r,31
+469,depend_on_r,32
+469,depend_on_r,33
+469,depend_on_r,34
+469,depend_on_r,35
+469,depend_on_r,461
+469,depend_on_r,466
+469,depend_on_r,468
+470,depend_on_r,139
+470,depend_on_r,155
+470,depend_on_r,31
+470,depend_on_r,32
+470,depend_on_r,33
+470,depend_on_r,35
+470,depend_on_r,38
+470,depend_on_r,401
+470,depend_on_r,461
+470,depend_on_r,466
+470,depend_on_r,468
+470,depend_on_r,469
+471,depend_on_r,400
+472,depend_on_r,474
+472,depend_on_r,32
+472,depend_on_r,33
+472,depend_on_r,35
+472,depend_on_r,466
+472,depend_on_r,468
+472,depend_on_r,469
+473,depend_on_r,30
+473,depend_on_r,347
+473,depend_on_r,407
+473,depend_on_r,458
+473,depend_on_r,465
+473,depend_on_r,468
+474,depend_on_r,30
+474,depend_on_r,31
+474,depend_on_r,32
+474,depend_on_r,33
+474,depend_on_r,34
+474,depend_on_r,35
+474,depend_on_r,36
+474,depend_on_r,39
+474,depend_on_r,460
+474,depend_on_r,466
+474,depend_on_r,468
+474,depend_on_r,469
+474,depend_on_r,472
+478,depend_on_r,479
+478,depend_on_r,481
+478,depend_on_r,485
+479,depend_on_r,481
+479,depend_on_r,478
+481,depend_on_r,485
+481,depend_on_r,478
+481,depend_on_r,479
+482,depend_on_r,125
+482,depend_on_r,126
+482,depend_on_r,129
+485,depend_on_r,147
+485,depend_on_r,478
+485,depend_on_r,481
+493,depend_on_r,494
+494,depend_on_r,493
+495,depend_on_r,497
+495,depend_on_r,69
+497,depend_on_r,69
+497,depend_on_r,495
+511,depend_on_r,517
+511,depend_on_r,521
+512,depend_on_r,513
+513,depend_on_r,516
+513,depend_on_r,517
+513,depend_on_r,520
+513,depend_on_r,521
+513,depend_on_r,528
+513,depend_on_r,533
+513,depend_on_r,512
+514,depend_on_r,515
+515,depend_on_r,530
+515,depend_on_r,129
+515,depend_on_r,130
+515,depend_on_r,135
+515,depend_on_r,155
+515,depend_on_r,330
+515,depend_on_r,514
+516,depend_on_r,517
+516,depend_on_r,520
+516,depend_on_r,521
+516,depend_on_r,528
+516,depend_on_r,533
+516,depend_on_r,513
+517,depend_on_r,520
+517,depend_on_r,521
+517,depend_on_r,528
+517,depend_on_r,533
+517,depend_on_r,511
+517,depend_on_r,513
+517,depend_on_r,516
+518,depend_on_r,519
+519,depend_on_r,518
+520,depend_on_r,521
+520,depend_on_r,528
+520,depend_on_r,533
+520,depend_on_r,513
+520,depend_on_r,516
+520,depend_on_r,517
+521,depend_on_r,528
+521,depend_on_r,533
+521,depend_on_r,511
+521,depend_on_r,513
+521,depend_on_r,516
+521,depend_on_r,517
+521,depend_on_r,520
+528,depend_on_r,532
+528,depend_on_r,533
+528,depend_on_r,513
+528,depend_on_r,516
+528,depend_on_r,517
+528,depend_on_r,520
+528,depend_on_r,521
+530,depend_on_r,125
+530,depend_on_r,129
+530,depend_on_r,130
+530,depend_on_r,135
+530,depend_on_r,155
+530,depend_on_r,515
+531,depend_on_r,533
+532,depend_on_r,533
+532,depend_on_r,528
+533,depend_on_r,513
+533,depend_on_r,516
+533,depend_on_r,517
+533,depend_on_r,520
+533,depend_on_r,521
+533,depend_on_r,528
+533,depend_on_r,531
+533,depend_on_r,532
+1,r_contain_c,markov decision processes
+1,r_contain_c,planning
+1,r_contain_c,structured sparsity
+1,r_contain_c,search
+1,r_contain_c,uncertainty
+1,r_contain_c,information theory
+1,r_contain_c,inference
+1,r_contain_c,reinforcement learning
+1,r_contain_c,learning
+1,r_contain_c,probabilities
+1,r_contain_c,bayesian network
+1,r_contain_c,hidden markov models
+1,r_contain_c,optimization
+1,r_contain_c,speech recognition
+1,r_contain_c,classification
+1,r_contain_c,computer vision
+1,r_contain_c,bayes theorem
+1,r_contain_c,imagenet
+1,r_contain_c,machine translation
+1,r_contain_c,information retrieval
+1,r_contain_c,recommendation system
+1,r_contain_c,clustering
+1,r_contain_c,graphical models
+1,r_contain_c,kernels
+1,r_contain_c,Markov Random Fields
+1,r_contain_c,Sampling
+10,r_contain_c,others
+10,r_contain_c,inference
+10,r_contain_c,learning
+10,r_contain_c,optimization
+10,r_contain_c,regularization
+10,r_contain_c,logistic regression
+10,r_contain_c,graphical models
+10,r_contain_c,loss function
+10,r_contain_c,Gaussian graphical models
+11,r_contain_c,gradient descent
+11,r_contain_c,inference
+11,r_contain_c,robotics
+11,r_contain_c,learning
+11,r_contain_c,neural networks
+11,r_contain_c,graphical models
+11,r_contain_c,linear regression
+11,r_contain_c,State Space Models
+12,r_contain_c,parts of speech
+12,r_contain_c,entropy
+12,r_contain_c,others
+12,r_contain_c,search
+12,r_contain_c,inference
+12,r_contain_c,learning
+12,r_contain_c,probabilities
+12,r_contain_c,conditional probability
+12,r_contain_c,bayes theorem
+12,r_contain_c,graphical models
+12,r_contain_c,Belief Propagation
+12,r_contain_c,Unsupervised learning
+12,r_contain_c,Sampling
+124,r_contain_c,structured prediction
+124,r_contain_c,shallow parsing
+124,r_contain_c,semi-supervised learning
+124,r_contain_c,semantic parsing
+124,r_contain_c,named entity recognition
+124,r_contain_c,dependency parsing
+124,r_contain_c,transliteration
+124,r_contain_c,others
+124,r_contain_c,search
+124,r_contain_c,uncertainty
+124,r_contain_c,inference
+124,r_contain_c,learning
+124,r_contain_c,perceptron
+124,r_contain_c,optimization
+124,r_contain_c,classification
+124,r_contain_c,parsing
+124,r_contain_c,logistic regression
+124,r_contain_c,neural networks
+124,r_contain_c,relation extraction
+124,r_contain_c,semantic role labeling
+124,r_contain_c,named entity recognition
+124,r_contain_c,information extraction
+124,r_contain_c,knowledge representation
+124,r_contain_c,entailment
+125,r_contain_c,learning
+125,r_contain_c,perceptron
+125,r_contain_c,optimization
+125,r_contain_c,object detection
+125,r_contain_c,regularization
+125,r_contain_c,classification
+125,r_contain_c,logistic regression
+125,r_contain_c,loss function
+125,r_contain_c,support vector machines
+126,r_contain_c,gradient descent
+126,r_contain_c,learning
+126,r_contain_c,perceptron
+126,r_contain_c,optimization
+126,r_contain_c,regularization
+126,r_contain_c,classification
+126,r_contain_c,logistic regression
+126,r_contain_c,loss function
+126,r_contain_c,kernels
+126,r_contain_c,support vector machines
+128,r_contain_c,shallow parsing
+128,r_contain_c,named entity recognition
+128,r_contain_c,entropy
+128,r_contain_c,others
+128,r_contain_c,inference
+128,r_contain_c,learning
+128,r_contain_c,perceptron
+128,r_contain_c,probabilities
+128,r_contain_c,constraint satisfaction
+128,r_contain_c,parsing
+128,r_contain_c,named entity recognition
+128,r_contain_c,Unsupervised learning
+129,r_contain_c,structured prediction
+129,r_contain_c,structured learning
+129,r_contain_c,gradient descent
+129,r_contain_c,entropy
+129,r_contain_c,others
+129,r_contain_c,search
+129,r_contain_c,inference
+129,r_contain_c,learning
+129,r_contain_c,perceptron
+129,r_contain_c,probabilities
+129,r_contain_c,conditional probability
+129,r_contain_c,hidden markov models
+129,r_contain_c,optimization
+129,r_contain_c,regularization
+129,r_contain_c,classification
+129,r_contain_c,normalization
+129,r_contain_c,log-linear models
+129,r_contain_c,logistic regression
+129,r_contain_c,neural networks
+129,r_contain_c,information extraction
+129,r_contain_c,Markov chains
+13,r_contain_c,calculus
+13,r_contain_c,entropy
+13,r_contain_c,uncertainty
+13,r_contain_c,inference
+13,r_contain_c,learning
+13,r_contain_c,optimization
+13,r_contain_c,monte carlo methods
+13,r_contain_c,clustering
+13,r_contain_c,markov chain monte carlo
+13,r_contain_c,graphical models
+13,r_contain_c,Message Passing
+13,r_contain_c,Belief Propagation
+13,r_contain_c,Mean Field Approximation
+13,r_contain_c,Sampling
+130,r_contain_c,structured prediction
+130,r_contain_c,structured learning
+130,r_contain_c,others
+130,r_contain_c,inference
+130,r_contain_c,learning
+130,r_contain_c,perceptron
+130,r_contain_c,data structures
+130,r_contain_c,optimization
+130,r_contain_c,Markov Random Fields
+131,r_contain_c,structured prediction
+131,r_contain_c,structured learning
+131,r_contain_c,dependency parsing
+131,r_contain_c,search
+131,r_contain_c,inference
+131,r_contain_c,learning
+131,r_contain_c,perceptron
+131,r_contain_c,hidden markov models
+131,r_contain_c,classification
+131,r_contain_c,parsing
+131,r_contain_c,dynamic programming
+131,r_contain_c,Sampling
+132,r_contain_c,structured prediction
+132,r_contain_c,structured learning
+132,r_contain_c,inference
+132,r_contain_c,learning
+132,r_contain_c,perceptron
+132,r_contain_c,optimization
+132,r_contain_c,clustering
+133,r_contain_c,structured prediction
+133,r_contain_c,collaborative filtering
+133,r_contain_c,learning
+133,r_contain_c,perceptron
+133,r_contain_c,information retrieval
+134,r_contain_c,parts of speech
+134,r_contain_c,dependency parsing
+134,r_contain_c,inference
+134,r_contain_c,learning
+134,r_contain_c,perceptron
+134,r_contain_c,classification
+134,r_contain_c,parsing
+135,r_contain_c,structured prediction
+135,r_contain_c,shallow parsing
+135,r_contain_c,structured learning
+135,r_contain_c,inference
+135,r_contain_c,learning
+135,r_contain_c,perceptron
+135,r_contain_c,regularization
+135,r_contain_c,classification
+135,r_contain_c,parsing
+136,r_contain_c,structured prediction
+136,r_contain_c,structured learning
+136,r_contain_c,inference
+136,r_contain_c,learning
+136,r_contain_c,perceptron
+136,r_contain_c,optimization
+136,r_contain_c,clustering
+137,r_contain_c,structured prediction
+137,r_contain_c,dependency parsing
+137,r_contain_c,search
+137,r_contain_c,inference
+137,r_contain_c,learning
+137,r_contain_c,gibbs sampling
+137,r_contain_c,beam search
+137,r_contain_c,dual decomposition
+137,r_contain_c,parsing
+137,r_contain_c,linear programming
+137,r_contain_c,dynamic programming
+137,r_contain_c,Belief Propagation
+137,r_contain_c,Sampling
+138,r_contain_c,structured prediction
+138,r_contain_c,search
+138,r_contain_c,inference
+138,r_contain_c,learning
+138,r_contain_c,optimization
+138,r_contain_c,loss function
+139,r_contain_c,named entity recognition
+139,r_contain_c,gradient descent
+139,r_contain_c,entropy
+139,r_contain_c,structured sparsity
+139,r_contain_c,inference
+139,r_contain_c,learning
+139,r_contain_c,probabilities
+139,r_contain_c,conditional probability
+139,r_contain_c,regularization
+139,r_contain_c,normalization
+139,r_contain_c,newton method
+139,r_contain_c,named entity recognition
+139,r_contain_c,information extraction
+139,r_contain_c,loss function
+14,r_contain_c,entropy
+14,r_contain_c,inference
+14,r_contain_c,probabilities
+14,r_contain_c,optimization
+14,r_contain_c,normalization
+14,r_contain_c,clustering
+14,r_contain_c,graphical models
+14,r_contain_c,Message Passing
+14,r_contain_c,Belief Propagation
+14,r_contain_c,Mean Field Approximation
+140,r_contain_c,semi-supervised learning
+140,r_contain_c,inference
+140,r_contain_c,learning
+140,r_contain_c,optimization
+140,r_contain_c,maximum likelihood estimation
+140,r_contain_c,parsing
+141,r_contain_c,inference
+141,r_contain_c,learning
+141,r_contain_c,perceptron
+141,r_contain_c,conditional probability
+141,r_contain_c,hidden markov models
+141,r_contain_c,normalization
+141,r_contain_c,linear programming
+141,r_contain_c,dynamic programming
+141,r_contain_c,semantic role labeling
+141,r_contain_c,information extraction
+142,r_contain_c,syntax
+142,r_contain_c,discourse analysis
+142,r_contain_c,learning
+142,r_contain_c,python
+142,r_contain_c,parsing
+142,r_contain_c,expert systems
+142,r_contain_c,penn treebank
+142,r_contain_c,neural networks
+142,r_contain_c,linear algebra
+142,r_contain_c,Unsupervised learning
+143,r_contain_c,parts of speech
+143,r_contain_c,gradient descent
+143,r_contain_c,inference
+143,r_contain_c,learning
+143,r_contain_c,perceptron
+143,r_contain_c,neural networks
+143,r_contain_c,support vector machines
+143,r_contain_c,Naive Bayes
+144,r_contain_c,gradient descent
+144,r_contain_c,others
+144,r_contain_c,inference
+144,r_contain_c,learning
+144,r_contain_c,perceptron
+144,r_contain_c,imagenet
+144,r_contain_c,reading comprehension
+145,r_contain_c,syntax
+145,r_contain_c,search
+145,r_contain_c,inference
+145,r_contain_c,hidden markov models
+145,r_contain_c,beam search
+145,r_contain_c,parsing
+145,r_contain_c,preprocessing
+145,r_contain_c,dynamic programming
+145,r_contain_c,Markov chains
+145,r_contain_c,Naive Bayes
+146,r_contain_c,search
+146,r_contain_c,inference
+146,r_contain_c,learning
+146,r_contain_c,beam search
+146,r_contain_c,neural networks
+146,r_contain_c,Naive Bayes
+147,r_contain_c,search
+147,r_contain_c,seq2seq
+147,r_contain_c,beam search
+147,r_contain_c,neural networks
+147,r_contain_c,training neural networks
+147,r_contain_c,kernels
+148,r_contain_c,syntax
+148,r_contain_c,inference
+148,r_contain_c,learning
+148,r_contain_c,wordnet
+148,r_contain_c,neural networks
+148,r_contain_c,clustering
+148,r_contain_c,Mixture Models
+148,r_contain_c,Sampling
+149,r_contain_c,inference
+149,r_contain_c,learning
+149,r_contain_c,recurrent neural networks
+149,r_contain_c,neural networks
+149,r_contain_c,language modeling
+149,r_contain_c,entailment
+15,r_contain_c,syntax
+15,r_contain_c,calculus
+15,r_contain_c,statistical machine translation
+15,r_contain_c,entropy
+15,r_contain_c,search
+15,r_contain_c,inference
+15,r_contain_c,learning
+15,r_contain_c,optimization
+15,r_contain_c,gibbs sampling
+15,r_contain_c,classification
+15,r_contain_c,normalization
+15,r_contain_c,machine translation
+15,r_contain_c,dimensionality reduction
+15,r_contain_c,clustering
+15,r_contain_c,markov chain monte carlo
+15,r_contain_c,graphical models
+15,r_contain_c,Belief Propagation
+15,r_contain_c,Mean Field Approximation
+15,r_contain_c,Sampling
+150,r_contain_c,syntax
+150,r_contain_c,inference
+150,r_contain_c,parsing
+151,r_contain_c,syntax
+151,r_contain_c,dependency parsing
+151,r_contain_c,parsing
+151,r_contain_c,penn treebank
+151,r_contain_c,lexicalized parsing
+151,r_contain_c,dynamic programming
+151,r_contain_c,Naive Bayes
+152,r_contain_c,syntax
+152,r_contain_c,dependency parsing
+152,r_contain_c,search
+152,r_contain_c,inference
+152,r_contain_c,learning
+152,r_contain_c,parsing
+152,r_contain_c,preprocessing
+152,r_contain_c,lexicalized parsing
+152,r_contain_c,dynamic programming
+152,r_contain_c,neural parsing
+152,r_contain_c,dependency syntax
+153,r_contain_c,syntax
+153,r_contain_c,dependency parsing
+153,r_contain_c,search
+153,r_contain_c,uncertainty
+153,r_contain_c,inference
+153,r_contain_c,perceptron
+153,r_contain_c,beam search
+153,r_contain_c,syntaxnet
+153,r_contain_c,parsing
+153,r_contain_c,penn treebank
+153,r_contain_c,dependency syntax
+154,r_contain_c,syntax
+154,r_contain_c,calculus
+154,r_contain_c,combinatory categorial grammar
+154,r_contain_c,others
+154,r_contain_c,search
+154,r_contain_c,learning
+154,r_contain_c,perceptron
+154,r_contain_c,beam search
+154,r_contain_c,parsing
+154,r_contain_c,dependency syntax
+154,r_contain_c,first-order logic
+155,r_contain_c,syntax
+155,r_contain_c,calculus
+155,r_contain_c,others
+155,r_contain_c,search
+155,r_contain_c,inference
+155,r_contain_c,learning
+155,r_contain_c,perceptron
+155,r_contain_c,seq2seq
+155,r_contain_c,beam search
+155,r_contain_c,parsing
+155,r_contain_c,Sampling
+156,r_contain_c,pointer networks
+156,r_contain_c,learning
+156,r_contain_c,seq2seq
+156,r_contain_c,parsing
+157,r_contain_c,syntax
+157,r_contain_c,seq2seq
+157,r_contain_c,parsing
+157,r_contain_c,Naive Bayes
+158,r_contain_c,syntax
+158,r_contain_c,search
+158,r_contain_c,beam search
+158,r_contain_c,n-gram models
+158,r_contain_c,parsing
+158,r_contain_c,penn treebank
+158,r_contain_c,neural networks
+158,r_contain_c,language modeling
+158,r_contain_c,noisy channel model
+159,r_contain_c,syntax
+159,r_contain_c,search
+159,r_contain_c,seq2seq
+159,r_contain_c,beam search
+159,r_contain_c,word embedding
+159,r_contain_c,parsing
+159,r_contain_c,noisy channel model
+16,r_contain_c,inference
+16,r_contain_c,probabilities
+16,r_contain_c,normalization
+16,r_contain_c,monte carlo methods
+16,r_contain_c,markov chain monte carlo
+16,r_contain_c,graphical models
+16,r_contain_c,Belief Propagation
+16,r_contain_c,Mean Field Approximation
+16,r_contain_c,Sampling
+160,r_contain_c,memory networks
+160,r_contain_c,others
+160,r_contain_c,reading comprehension
+160,r_contain_c,parsing
+160,r_contain_c,entailment
+161,r_contain_c,syntax
+161,r_contain_c,memory networks
+161,r_contain_c,others
+161,r_contain_c,learning
+161,r_contain_c,seq2seq
+161,r_contain_c,stemming
+161,r_contain_c,neural networks
+161,r_contain_c,language modeling
+161,r_contain_c,Autoencoders
+162,r_contain_c,others
+162,r_contain_c,search
+162,r_contain_c,learning
+162,r_contain_c,seq2seq
+162,r_contain_c,parsing
+163,r_contain_c,others
+163,r_contain_c,search
+163,r_contain_c,inference
+163,r_contain_c,reinforcement learning
+163,r_contain_c,learning
+163,r_contain_c,seq2seq
+163,r_contain_c,k-nn
+163,r_contain_c,imagenet
+163,r_contain_c,parsing
+163,r_contain_c,neural networks
+163,r_contain_c,ResNet
+164,r_contain_c,transfer learning
+164,r_contain_c,entropy
+164,r_contain_c,inference
+164,r_contain_c,learning
+164,r_contain_c,hidden markov models
+164,r_contain_c,parsing
+164,r_contain_c,clustering
+164,r_contain_c,language modeling
+164,r_contain_c,entailment
+164,r_contain_c,Unsupervised learning
+164,r_contain_c,Autoencoders
+164,r_contain_c,Sampling
+165,r_contain_c,sentiment analysis
+165,r_contain_c,others
+165,r_contain_c,search
+165,r_contain_c,multi-task learning
+165,r_contain_c,inference
+165,r_contain_c,learning
+165,r_contain_c,discourse model
+165,r_contain_c,discourse parsing
+165,r_contain_c,machine translation
+165,r_contain_c,highway networks
+165,r_contain_c,parsing
+165,r_contain_c,penn treebank
+165,r_contain_c,preprocessing
+165,r_contain_c,neural networks
+165,r_contain_c,clustering
+166,r_contain_c,dependency parsing
+166,r_contain_c,inference
+166,r_contain_c,learning
+166,r_contain_c,gibbs sampling
+166,r_contain_c,parsing
+166,r_contain_c,Sampling
+17,r_contain_c,inference
+17,r_contain_c,gibbs sampling
+17,r_contain_c,latent dirichlet allocation
+17,r_contain_c,monte carlo methods
+17,r_contain_c,markov chain monte carlo
+17,r_contain_c,graphical models
+17,r_contain_c,Markov chains
+17,r_contain_c,Mixture Models
+17,r_contain_c,Sampling
+18,r_contain_c,inference
+18,r_contain_c,gibbs sampling
+18,r_contain_c,latent dirichlet allocation
+18,r_contain_c,monte carlo methods
+18,r_contain_c,clustering
+18,r_contain_c,markov chain monte carlo
+18,r_contain_c,graphical models
+18,r_contain_c,Markov Random Fields
+18,r_contain_c,Mixture Models
+18,r_contain_c,Sampling
+19,r_contain_c,inference
+19,r_contain_c,clustering
+19,r_contain_c,graphical models
+19,r_contain_c,Dirichlet Processes
+19,r_contain_c,Mixture Models
+19,r_contain_c,Sampling
+2,r_contain_c,inference
+2,r_contain_c,learning
+2,r_contain_c,probabilities
+2,r_contain_c,conditional probability
+2,r_contain_c,bayesian network
+2,r_contain_c,hidden markov models
+2,r_contain_c,graphical models
+2,r_contain_c,Mixture Models
+2,r_contain_c,Sampling
+20,r_contain_c,inference
+20,r_contain_c,gibbs sampling
+20,r_contain_c,clustering
+20,r_contain_c,markov chain monte carlo
+20,r_contain_c,graphical models
+20,r_contain_c,Sampling
+21,r_contain_c,particle filter
+21,r_contain_c,inference
+21,r_contain_c,probabilities
+21,r_contain_c,latent variable models
+21,r_contain_c,clustering
+21,r_contain_c,feature selection
+21,r_contain_c,graphical models
+21,r_contain_c,Mixture Models
+22,r_contain_c,entropy
+22,r_contain_c,inference
+22,r_contain_c,learning
+22,r_contain_c,conditional probability
+22,r_contain_c,optimization
+22,r_contain_c,latent variable models
+22,r_contain_c,graphical models
+22,r_contain_c,linear algebra
+22,r_contain_c,kernels
+22,r_contain_c,Variable Elimination
+22,r_contain_c,Message Passing
+22,r_contain_c,Belief Propagation
+22,r_contain_c,Hilbert Space
+23,r_contain_c,matrix multiplication
+23,r_contain_c,inference
+23,r_contain_c,learning
+23,r_contain_c,probabilities
+23,r_contain_c,conditional probability
+23,r_contain_c,normalization
+23,r_contain_c,graphical models
+23,r_contain_c,kernels
+23,r_contain_c,Message Passing
+23,r_contain_c,Belief Propagation
+23,r_contain_c,Hilbert Space
+23,r_contain_c,Kernel Graphical Models
+24,r_contain_c,spectral methods
+24,r_contain_c,learning
+24,r_contain_c,probabilities
+24,r_contain_c,normalization
+24,r_contain_c,parsing
+24,r_contain_c,latent variable models
+24,r_contain_c,matrix factorization
+24,r_contain_c,graphical models
+24,r_contain_c,linear algebra
+24,r_contain_c,kernels
+24,r_contain_c,Hilbert Space
+25,r_contain_c,gradient descent
+25,r_contain_c,others
+25,r_contain_c,uncertainty
+25,r_contain_c,learning
+25,r_contain_c,feature learning
+25,r_contain_c,optimization
+25,r_contain_c,clustering
+25,r_contain_c,graphical models
+25,r_contain_c,linear regression
+257,r_contain_c,structured prediction
+257,r_contain_c,syntax
+257,r_contain_c,dialog systems
+257,r_contain_c,lexical semantics
+257,r_contain_c,others
+257,r_contain_c,inference
+257,r_contain_c,learning
+257,r_contain_c,discourse model
+257,r_contain_c,tokenization
+257,r_contain_c,machine translation
+257,r_contain_c,python
+257,r_contain_c,parsing
+257,r_contain_c,word sense disambiguation
+257,r_contain_c,information extraction
+258,r_contain_c,planning
+258,r_contain_c,parts of speech
+258,r_contain_c,others
+258,r_contain_c,learning
+258,r_contain_c,probabilities
+258,r_contain_c,tokenization
+258,r_contain_c,machine translation
+258,r_contain_c,python
+258,r_contain_c,parsing
+258,r_contain_c,regular expressions
+258,r_contain_c,penn treebank
+258,r_contain_c,chomsky hierarchy
+259,r_contain_c,learning
+259,r_contain_c,probabilities
+259,r_contain_c,conditional probability
+259,r_contain_c,speech recognition
+259,r_contain_c,maximum likelihood estimation
+259,r_contain_c,n-gram models
+259,r_contain_c,machine translation
+259,r_contain_c,language modeling
+259,r_contain_c,Sampling
+26,r_contain_c,structured sparsity
+26,r_contain_c,others
+26,r_contain_c,learning
+26,r_contain_c,optimization
+26,r_contain_c,maximum likelihood estimation
+26,r_contain_c,kernel function
+26,r_contain_c,graphical models
+26,r_contain_c,linear regression
+260,r_contain_c,probabilities
+260,r_contain_c,conditional probability
+260,r_contain_c,optimization
+260,r_contain_c,maximum likelihood estimation
+261,r_contain_c,semantic parsing
+261,r_contain_c,parts of speech
+261,r_contain_c,learning
+261,r_contain_c,probabilities
+261,r_contain_c,hidden markov models
+261,r_contain_c,speech recognition
+261,r_contain_c,machine translation
+261,r_contain_c,parsing
+261,r_contain_c,penn treebank
+261,r_contain_c,speech synthesis
+261,r_contain_c,information extraction
+262,r_contain_c,search
+262,r_contain_c,learning
+262,r_contain_c,probabilities
+262,r_contain_c,hidden markov models
+262,r_contain_c,dynamic programming
+262,r_contain_c,Unsupervised learning
+263,r_contain_c,shallow parsing
+263,r_contain_c,named entity recognition
+263,r_contain_c,entropy
+263,r_contain_c,learning
+263,r_contain_c,probabilities
+263,r_contain_c,hidden markov models
+263,r_contain_c,optimization
+263,r_contain_c,speech recognition
+263,r_contain_c,maximum likelihood estimation
+263,r_contain_c,parsing
+263,r_contain_c,logistic regression
+263,r_contain_c,graphical models
+263,r_contain_c,dynamic programming
+263,r_contain_c,named entity recognition
+264,r_contain_c,syntax
+264,r_contain_c,entropy
+264,r_contain_c,programming languages
+264,r_contain_c,search
+264,r_contain_c,learning
+264,r_contain_c,probabilities
+264,r_contain_c,data structures
+264,r_contain_c,hidden markov models
+264,r_contain_c,optimization
+264,r_contain_c,maximum likelihood estimation
+264,r_contain_c,parsing
+264,r_contain_c,logistic regression
+264,r_contain_c,feature selection
+264,r_contain_c,graphical models
+264,r_contain_c,dynamic programming
+265,r_contain_c,syntax
+265,r_contain_c,cky parsing
+265,r_contain_c,probabilities
+265,r_contain_c,parsing
+265,r_contain_c,dynamic programming
+266,r_contain_c,learning
+266,r_contain_c,probabilities
+266,r_contain_c,statistical parsing
+266,r_contain_c,parsing
+266,r_contain_c,unlexicalized parsing
+266,r_contain_c,information retrieval
+266,r_contain_c,penn treebank
+266,r_contain_c,dynamic programming
+267,r_contain_c,dependency parsing
+267,r_contain_c,learning
+267,r_contain_c,probabilities
+267,r_contain_c,data structures
+267,r_contain_c,parsing
+267,r_contain_c,unlexicalized parsing
+267,r_contain_c,penn treebank
+267,r_contain_c,shift-reduce parsing
+268,r_contain_c,dependency parsing
+268,r_contain_c,combinatory categorial grammar
+268,r_contain_c,data structures
+268,r_contain_c,context-sensitive grammars
+268,r_contain_c,parsing
+268,r_contain_c,chomsky hierarchy
+268,r_contain_c,shift-reduce parsing
+269,r_contain_c,syntax
+269,r_contain_c,lexical semantics
+269,r_contain_c,combinatory categorial grammar
+269,r_contain_c,predicate logic
+27,r_contain_c,search
+27,r_contain_c,inference
+27,r_contain_c,gibbs sampling
+27,r_contain_c,latent dirichlet allocation
+27,r_contain_c,monte carlo methods
+27,r_contain_c,clustering
+27,r_contain_c,markov chain monte carlo
+27,r_contain_c,graphical models
+27,r_contain_c,Dirichlet Processes
+27,r_contain_c,Sampling
+270,r_contain_c,lexical semantics
+270,r_contain_c,combinatory categorial grammar
+270,r_contain_c,learning
+270,r_contain_c,predicate logic
+270,r_contain_c,parsing
+270,r_contain_c,semantic role labeling
+271,r_contain_c,lexical semantics
+271,r_contain_c,question answering
+271,r_contain_c,question answering
+271,r_contain_c,probabilities
+271,r_contain_c,predicate logic
+271,r_contain_c,parsing
+271,r_contain_c,information retrieval
+271,r_contain_c,vector representations
+271,r_contain_c,language modeling
+271,r_contain_c,semantic similarity
+271,r_contain_c,word sense disambiguation
+271,r_contain_c,singular value decomposition
+272,r_contain_c,semi-supervised learning
+272,r_contain_c,thesaurus-based similarity
+272,r_contain_c,question answering
+272,r_contain_c,question answering
+272,r_contain_c,search
+272,r_contain_c,learning
+272,r_contain_c,wordnet
+272,r_contain_c,bootstrapping
+272,r_contain_c,machine translation
+272,r_contain_c,information retrieval
+272,r_contain_c,neural networks
+272,r_contain_c,word sense disambiguation
+272,r_contain_c,entailment
+273,r_contain_c,calculus
+273,r_contain_c,gradient descent
+273,r_contain_c,entropy
+273,r_contain_c,learning
+273,r_contain_c,perceptron
+273,r_contain_c,probabilities
+273,r_contain_c,optimization
+273,r_contain_c,regularization
+273,r_contain_c,classification
+273,r_contain_c,activation functions
+273,r_contain_c,machine translation
+273,r_contain_c,logistic regression
+273,r_contain_c,neural networks
+273,r_contain_c,language modeling
+273,r_contain_c,loss function
+274,r_contain_c,syntax
+274,r_contain_c,statistical machine translation
+274,r_contain_c,information theory
+274,r_contain_c,probabilities
+274,r_contain_c,predicate logic
+274,r_contain_c,machine translation
+274,r_contain_c,neural machine translation
+274,r_contain_c,noisy channel model
+275,r_contain_c,syntax
+275,r_contain_c,statistical machine translation
+275,r_contain_c,learning
+275,r_contain_c,probabilities
+275,r_contain_c,machine translation
+275,r_contain_c,noisy channel model
+275,r_contain_c,the ibm models
+276,r_contain_c,syntax
+276,r_contain_c,search
+276,r_contain_c,probabilities
+276,r_contain_c,seq2seq
+276,r_contain_c,beam search
+276,r_contain_c,recurrent neural networks
+276,r_contain_c,machine translation
+276,r_contain_c,heuristic search
+276,r_contain_c,neural networks
+276,r_contain_c,the ibm models
+277,r_contain_c,search
+277,r_contain_c,inference
+277,r_contain_c,beam search
+277,r_contain_c,discourse parsing
+277,r_contain_c,heuristic search
+277,r_contain_c,parsing
+278,r_contain_c,lexical semantics
+278,r_contain_c,learning
+278,r_contain_c,perceptron
+278,r_contain_c,recursive neural networks
+278,r_contain_c,probabilities
+278,r_contain_c,seq2seq
+278,r_contain_c,optimization
+278,r_contain_c,speech recognition
+278,r_contain_c,computer vision
+278,r_contain_c,recurrent neural networks
+278,r_contain_c,imagenet
+278,r_contain_c,n-gram models
+278,r_contain_c,activation functions
+278,r_contain_c,machine translation
+278,r_contain_c,parsing
+278,r_contain_c,logistic regression
+278,r_contain_c,neural networks
+278,r_contain_c,vector representations
+278,r_contain_c,language modeling
+278,r_contain_c,semantic role labeling
+278,r_contain_c,Sampling
+279,r_contain_c,learning
+279,r_contain_c,seq2seq
+279,r_contain_c,optimization
+279,r_contain_c,recurrent neural networks
+279,r_contain_c,n-gram models
+279,r_contain_c,logistic regression
+279,r_contain_c,neural networks
+279,r_contain_c,vector representations
+279,r_contain_c,language modeling
+279,r_contain_c,Sampling
+28,r_contain_c,structured prediction
+28,r_contain_c,entropy
+28,r_contain_c,dependency parsing
+28,r_contain_c,others
+28,r_contain_c,search
+28,r_contain_c,inference
+28,r_contain_c,learning
+28,r_contain_c,optimization
+28,r_contain_c,regularization
+28,r_contain_c,classification
+28,r_contain_c,normalization
+28,r_contain_c,part of speech tagging
+28,r_contain_c,parsing
+28,r_contain_c,logistic regression
+28,r_contain_c,dual problems
+28,r_contain_c,context free grammars
+28,r_contain_c,handwriting recognition
+28,r_contain_c,clustering
+28,r_contain_c,feature selection
+28,r_contain_c,graphical models
+28,r_contain_c,loss function
+28,r_contain_c,kernels
+28,r_contain_c,support vector machines
+280,r_contain_c,markov decision processes
+280,r_contain_c,planning
+280,r_contain_c,dialog systems
+280,r_contain_c,discourse model
+280,r_contain_c,seq2seq
+280,r_contain_c,machine translation
+280,r_contain_c,python
+29,r_contain_c,semi-supervised learning
+29,r_contain_c,entropy
+29,r_contain_c,others
+29,r_contain_c,search
+29,r_contain_c,uncertainty
+29,r_contain_c,inference
+29,r_contain_c,learning
+29,r_contain_c,optimization
+29,r_contain_c,maximum likelihood estimation
+29,r_contain_c,regularization
+29,r_contain_c,classification
+29,r_contain_c,normalization
+29,r_contain_c,latent dirichlet allocation
+29,r_contain_c,latent variable models
+29,r_contain_c,clustering
+29,r_contain_c,feature selection
+29,r_contain_c,graphical models
+29,r_contain_c,loss function
+29,r_contain_c,Mixture Models
+3,r_contain_c,inference
+3,r_contain_c,learning
+3,r_contain_c,probabilities
+3,r_contain_c,conditional probability
+3,r_contain_c,bayesian network
+3,r_contain_c,gibbs sampling
+3,r_contain_c,normalization
+3,r_contain_c,information retrieval
+3,r_contain_c,graphical models
+3,r_contain_c,Markov Random Fields
+3,r_contain_c,Sampling
+30,r_contain_c,spectral methods
+30,r_contain_c,sentiment analysis
+30,r_contain_c,semantic parsing
+30,r_contain_c,question answering
+30,r_contain_c,question answering
+30,r_contain_c,others
+30,r_contain_c,robotics
+30,r_contain_c,reinforcement learning
+30,r_contain_c,learning
+30,r_contain_c,speech recognition
+30,r_contain_c,wordnet
+30,r_contain_c,classification
+30,r_contain_c,recurrent neural networks
+30,r_contain_c,backpropagation
+30,r_contain_c,machine translation
+30,r_contain_c,python
+30,r_contain_c,parsing
+30,r_contain_c,logistic regression
+30,r_contain_c,neural networks
+30,r_contain_c,clustering
+30,r_contain_c,matrix factorization
+30,r_contain_c,language modeling
+30,r_contain_c,linear algebra
+30,r_contain_c,loss function
+31,r_contain_c,spectral methods
+31,r_contain_c,entropy
+31,r_contain_c,dependency parsing
+31,r_contain_c,others
+31,r_contain_c,robotics
+31,r_contain_c,learning
+31,r_contain_c,probabilities
+31,r_contain_c,conditional probability
+31,r_contain_c,wordnet
+31,r_contain_c,parsing
+31,r_contain_c,logistic regression
+31,r_contain_c,clustering
+31,r_contain_c,vector representations
+31,r_contain_c,matrix factorization
+31,r_contain_c,Sampling
+31,r_contain_c,Canonical Correlation Analysis
+319,r_contain_c,planning
+319,r_contain_c,transfer learning
+319,r_contain_c,search
+319,r_contain_c,robotics
+319,r_contain_c,reinforcement learning
+319,r_contain_c,learning
+319,r_contain_c,monte carlo tree search
+319,r_contain_c,optimization
+319,r_contain_c,computer vision
+319,r_contain_c,neural networks
+319,r_contain_c,Unsupervised learning
+319,r_contain_c,Meta-Learning
+32,r_contain_c,spelling correction
+32,r_contain_c,semantic parsing
+32,r_contain_c,parts of speech
+32,r_contain_c,named entity recognition
+32,r_contain_c,entropy
+32,r_contain_c,others
+32,r_contain_c,inference
+32,r_contain_c,robotics
+32,r_contain_c,learning
+32,r_contain_c,perceptron
+32,r_contain_c,probabilities
+32,r_contain_c,hidden markov models
+32,r_contain_c,wordnet
+32,r_contain_c,classification
+32,r_contain_c,bootstrapping
+32,r_contain_c,log-linear models
+32,r_contain_c,parsing
+32,r_contain_c,logistic regression
+32,r_contain_c,penn treebank
+32,r_contain_c,edit distance
+32,r_contain_c,preprocessing
+32,r_contain_c,language modeling
+32,r_contain_c,dynamic programming
+32,r_contain_c,named entity recognition
+32,r_contain_c,Markov chains
+320,r_contain_c,structured prediction
+320,r_contain_c,gradient descent
+320,r_contain_c,learning
+320,r_contain_c,classification
+320,r_contain_c,latent variable models
+320,r_contain_c,Sampling
+321,r_contain_c,gradient descent
+321,r_contain_c,python
+321,r_contain_c,neural networks
+322,r_contain_c,planning
+322,r_contain_c,gradient descent
+322,r_contain_c,search
+322,r_contain_c,reinforcement learning
+322,r_contain_c,learning
+322,r_contain_c,monte carlo tree search
+322,r_contain_c,optimization
+322,r_contain_c,backpropagation
+322,r_contain_c,convolutional neural networks
+322,r_contain_c,neural networks
+322,r_contain_c,dynamic programming
+322,r_contain_c,policy gradient methods
+323,r_contain_c,search
+323,r_contain_c,reinforcement learning
+323,r_contain_c,learning
+323,r_contain_c,optimization
+323,r_contain_c,neural networks
+323,r_contain_c,Sampling
+324,r_contain_c,entropy
+324,r_contain_c,reinforcement learning
+324,r_contain_c,learning
+324,r_contain_c,policy gradient methods
+324,r_contain_c,AlphaGo
+325,r_contain_c,gradient descent
+325,r_contain_c,learning
+325,r_contain_c,neural networks
+325,r_contain_c,dynamic programming
+326,r_contain_c,gradient descent
+326,r_contain_c,entropy
+326,r_contain_c,reinforcement learning
+326,r_contain_c,learning
+326,r_contain_c,optimization
+326,r_contain_c,neural networks
+326,r_contain_c,Autoencoders
+326,r_contain_c,Sampling
+327,r_contain_c,reinforcement learning
+327,r_contain_c,learning
+327,r_contain_c,optimization
+327,r_contain_c,regularization
+327,r_contain_c,Sampling
+328,r_contain_c,planning
+328,r_contain_c,entropy
+328,r_contain_c,search
+328,r_contain_c,reinforcement learning
+328,r_contain_c,learning
+328,r_contain_c,monte carlo tree search
+328,r_contain_c,optimization
+328,r_contain_c,dynamic programming
+329,r_contain_c,planning
+329,r_contain_c,entropy
+329,r_contain_c,search
+329,r_contain_c,uncertainty
+329,r_contain_c,inference
+329,r_contain_c,robotics
+329,r_contain_c,reinforcement learning
+329,r_contain_c,learning
+329,r_contain_c,neural networks
+329,r_contain_c,Sampling
+33,r_contain_c,calculus
+33,r_contain_c,cky parsing
+33,r_contain_c,semantic parsing
+33,r_contain_c,entropy
+33,r_contain_c,dependency parsing
+33,r_contain_c,combinatory categorial grammar
+33,r_contain_c,others
+33,r_contain_c,search
+33,r_contain_c,inference
+33,r_contain_c,learning
+33,r_contain_c,probabilities
+33,r_contain_c,recursive neural network
+33,r_contain_c,beam search
+33,r_contain_c,syntaxnet
+33,r_contain_c,parsing
+33,r_contain_c,dynamic programming
+330,r_contain_c,planning
+330,r_contain_c,search
+330,r_contain_c,reinforcement learning
+330,r_contain_c,learning
+330,r_contain_c,optimization
+330,r_contain_c,classification
+330,r_contain_c,dynamic programming
+331,r_contain_c,planning
+331,r_contain_c,others
+331,r_contain_c,uncertainty
+331,r_contain_c,reinforcement learning
+331,r_contain_c,learning
+331,r_contain_c,bootstrapping
+331,r_contain_c,neural networks
+331,r_contain_c,Sampling
+332,r_contain_c,entropy
+332,r_contain_c,information theory
+332,r_contain_c,reinforcement learning
+332,r_contain_c,learning
+332,r_contain_c,Unsupervised learning
+332,r_contain_c,Meta-Learning
+333,r_contain_c,reinforcement learning
+333,r_contain_c,learning
+333,r_contain_c,bootstrapping
+333,r_contain_c,dynamic programming
+333,r_contain_c,Sampling
+334,r_contain_c,others
+334,r_contain_c,reinforcement learning
+334,r_contain_c,learning
+334,r_contain_c,probabilities
+334,r_contain_c,Sampling
+335,r_contain_c,entropy
+335,r_contain_c,uncertainty
+335,r_contain_c,reinforcement learning
+335,r_contain_c,learning
+335,r_contain_c,optimization
+335,r_contain_c,regularization
+335,r_contain_c,bootstrapping
+336,r_contain_c,entropy
+336,r_contain_c,inference
+336,r_contain_c,learning
+336,r_contain_c,variational autoencoders
+336,r_contain_c,latent variable models
+336,r_contain_c,Autoencoders
+337,r_contain_c,planning
+337,r_contain_c,transfer learning
+337,r_contain_c,entropy
+337,r_contain_c,others
+337,r_contain_c,inference
+337,r_contain_c,reinforcement learning
+337,r_contain_c,learning
+337,r_contain_c,dynamic programming
+338,r_contain_c,planning
+338,r_contain_c,generative adversarial networks
+338,r_contain_c,entropy
+338,r_contain_c,reinforcement learning
+338,r_contain_c,learning
+338,r_contain_c,optimization
+338,r_contain_c,Sampling
+339,r_contain_c,transfer learning
+339,r_contain_c,entropy
+339,r_contain_c,domain adaptation
+339,r_contain_c,others
+339,r_contain_c,search
+339,r_contain_c,multi-task learning
+339,r_contain_c,reinforcement learning
+339,r_contain_c,learning
+339,r_contain_c,optimization
+339,r_contain_c,computer vision
+339,r_contain_c,neural networks
+339,r_contain_c,Meta-Learning
+34,r_contain_c,calculus
+34,r_contain_c,semantic parsing
+34,r_contain_c,question answering
+34,r_contain_c,question answering
+34,r_contain_c,combinatory categorial grammar
+34,r_contain_c,others
+34,r_contain_c,paraphrasing
+34,r_contain_c,learning
+34,r_contain_c,constraint satisfaction
+34,r_contain_c,bootstrapping
+34,r_contain_c,parsing
+34,r_contain_c,logistic regression
+34,r_contain_c,clustering
+34,r_contain_c,semantic role labeling
+34,r_contain_c,information extraction
+34,r_contain_c,parsing evaluation
+340,r_contain_c,transfer learning
+340,r_contain_c,entropy
+340,r_contain_c,domain adaptation
+340,r_contain_c,others
+340,r_contain_c,search
+340,r_contain_c,multi-task learning
+340,r_contain_c,inference
+340,r_contain_c,robotics
+340,r_contain_c,reinforcement learning
+340,r_contain_c,learning
+340,r_contain_c,optimization
+340,r_contain_c,classification
+340,r_contain_c,computer vision
+340,r_contain_c,recurrent neural networks
+340,r_contain_c,neural networks
+340,r_contain_c,Meta-Learning
+340,r_contain_c,Sampling
+343,r_contain_c,calculus
+343,r_contain_c,semantic parsing
+343,r_contain_c,search
+343,r_contain_c,inference
+343,r_contain_c,learning
+343,r_contain_c,seq2seq
+343,r_contain_c,optimization
+343,r_contain_c,speech recognition
+343,r_contain_c,computer vision
+343,r_contain_c,imagenet
+343,r_contain_c,python
+343,r_contain_c,parsing
+343,r_contain_c,linear algebra
+347,r_contain_c,learning
+347,r_contain_c,regularization
+347,r_contain_c,text generation
+347,r_contain_c,Unsupervised learning
+347,r_contain_c,Sampling
+348,r_contain_c,sentiment analysis
+348,r_contain_c,transfer learning
+348,r_contain_c,one-shot learning
+348,r_contain_c,learning
+348,r_contain_c,regularization
+348,r_contain_c,reading comprehension
+35,r_contain_c,calculus
+35,r_contain_c,semantic parsing
+35,r_contain_c,memory networks
+35,r_contain_c,gradient descent
+35,r_contain_c,entropy
+35,r_contain_c,question answering
+35,r_contain_c,question answering
+35,r_contain_c,others
+35,r_contain_c,paraphrasing
+35,r_contain_c,search
+35,r_contain_c,inference
+35,r_contain_c,learning
+35,r_contain_c,classification
+35,r_contain_c,reading comprehension
+35,r_contain_c,word embedding
+35,r_contain_c,parsing
+35,r_contain_c,logistic regression
+35,r_contain_c,information retrieval
+35,r_contain_c,preprocessing
+35,r_contain_c,relation extraction
+35,r_contain_c,semantic role labeling
+35,r_contain_c,information extraction
+36,r_contain_c,syntax
+36,r_contain_c,statistical machine translation
+36,r_contain_c,others
+36,r_contain_c,search
+36,r_contain_c,learning
+36,r_contain_c,optimization
+36,r_contain_c,beam search
+36,r_contain_c,machine translation
+36,r_contain_c,neural machine translation
+36,r_contain_c,entailment
+37,r_contain_c,syntax
+37,r_contain_c,statistical machine translation
+37,r_contain_c,others
+37,r_contain_c,search
+37,r_contain_c,robotics
+37,r_contain_c,learning
+37,r_contain_c,probabilities
+37,r_contain_c,beam search
+37,r_contain_c,classification
+37,r_contain_c,machine translation
+37,r_contain_c,parsing
+37,r_contain_c,entailment
+376,r_contain_c,semi-supervised learning
+376,r_contain_c,entropy
+376,r_contain_c,search
+376,r_contain_c,reinforcement learning
+376,r_contain_c,learning
+376,r_contain_c,probabilities
+376,r_contain_c,decision trees
+376,r_contain_c,optimization
+376,r_contain_c,backpropagation
+376,r_contain_c,python
+376,r_contain_c,logistic regression
+376,r_contain_c,preprocessing
+376,r_contain_c,neural networks
+376,r_contain_c,handwriting recognition
+376,r_contain_c,dimensionality reduction
+376,r_contain_c,clustering
+376,r_contain_c,feature selection
+376,r_contain_c,graphical models
+376,r_contain_c,support vector machines
+376,r_contain_c,linear regression
+376,r_contain_c,Unsupervised learning
+376,r_contain_c,Sampling
+376,r_contain_c,Naive Bayes
+377,r_contain_c,search
+377,r_contain_c,learning
+377,r_contain_c,data structures
+377,r_contain_c,python
+377,r_contain_c,dimensionality reduction
+378,r_contain_c,learning
+378,r_contain_c,data structures
+378,r_contain_c,optimization
+378,r_contain_c,normalization
+378,r_contain_c,python
+378,r_contain_c,preprocessing
+378,r_contain_c,dimensionality reduction
+378,r_contain_c,feature selection
+378,r_contain_c,Sampling
+379,r_contain_c,entropy
+379,r_contain_c,others
+379,r_contain_c,learning
+379,r_contain_c,decision trees
+379,r_contain_c,optimization
+379,r_contain_c,python
+379,r_contain_c,Unsupervised learning
+38,r_contain_c,planning
+38,r_contain_c,dialog systems
+38,r_contain_c,semantic parsing
+38,r_contain_c,statistical machine translation
+38,r_contain_c,others
+38,r_contain_c,multi-task learning
+38,r_contain_c,learning
+38,r_contain_c,probabilities
+38,r_contain_c,seq2seq
+38,r_contain_c,speech recognition
+38,r_contain_c,classification
+38,r_contain_c,attention models
+38,r_contain_c,knowledge graph
+38,r_contain_c,backpropagation
+38,r_contain_c,machine translation
+38,r_contain_c,parsing
+38,r_contain_c,regular expressions
+38,r_contain_c,information retrieval
+38,r_contain_c,neural machine translation
+38,r_contain_c,Message Passing
+38,r_contain_c,Sequence to sequence
+380,r_contain_c,bias-variance
+380,r_contain_c,bagging
+380,r_contain_c,learning
+380,r_contain_c,random forest
+380,r_contain_c,classification
+380,r_contain_c,python
+380,r_contain_c,neural networks
+380,r_contain_c,feature selection
+380,r_contain_c,linear regression
+380,r_contain_c,Sampling
+381,r_contain_c,bias-variance
+381,r_contain_c,learning
+382,r_contain_c,uncertainty
+382,r_contain_c,learning
+382,r_contain_c,bootstrapping
+382,r_contain_c,Sampling
+383,r_contain_c,others
+383,r_contain_c,learning
+383,r_contain_c,optimization
+383,r_contain_c,logistic regression
+383,r_contain_c,Sampling
+384,r_contain_c,learning
+384,r_contain_c,probabilities
+384,r_contain_c,optimization
+384,r_contain_c,classification
+384,r_contain_c,Sampling
+385,r_contain_c,bias-variance
+385,r_contain_c,learning
+385,r_contain_c,python
+385,r_contain_c,dimensionality reduction
+386,r_contain_c,entropy
+386,r_contain_c,search
+386,r_contain_c,learning
+386,r_contain_c,random forest
+386,r_contain_c,regularization
+386,r_contain_c,classification
+386,r_contain_c,logistic regression
+386,r_contain_c,dimensionality reduction
+386,r_contain_c,feature selection
+386,r_contain_c,Sampling
+387,r_contain_c,gradient descent
+387,r_contain_c,entropy
+387,r_contain_c,search
+387,r_contain_c,learning
+387,r_contain_c,probabilities
+387,r_contain_c,conditional probability
+387,r_contain_c,optimization
+387,r_contain_c,python
+387,r_contain_c,spectral clustering
+387,r_contain_c,dimensionality reduction
+387,r_contain_c,clustering
+387,r_contain_c,feature selection
+387,r_contain_c,tsne
+387,r_contain_c,linear discriminant analysis
+387,r_contain_c,kullback leibler divergence
+387,r_contain_c,Manifold Learning
+387,r_contain_c,Autoencoders
+387,r_contain_c,Principal Component Analysis
+388,r_contain_c,spelling correction
+388,r_contain_c,syntax
+388,r_contain_c,sentiment analysis
+388,r_contain_c,parts of speech
+388,r_contain_c,named entity recognition
+388,r_contain_c,question answering
+388,r_contain_c,dependency parsing
+388,r_contain_c,question answering
+388,r_contain_c,information theory
+388,r_contain_c,learning
+388,r_contain_c,speech recognition
+388,r_contain_c,classification
+388,r_contain_c,knowledge graph
+388,r_contain_c,text summarization
+388,r_contain_c,machine translation
+388,r_contain_c,parsing
+388,r_contain_c,language modeling
+388,r_contain_c,word sense disambiguation
+388,r_contain_c,named entity recognition
+388,r_contain_c,information extraction
+389,r_contain_c,sentiment analysis
+389,r_contain_c,search
+389,r_contain_c,learning
+389,r_contain_c,decision trees
+389,r_contain_c,tokenization
+389,r_contain_c,stemming
+389,r_contain_c,normalization
+389,r_contain_c,regular expressions
+389,r_contain_c,logistic regression
+389,r_contain_c,information retrieval
+389,r_contain_c,information extraction
+39,r_contain_c,question answering
+39,r_contain_c,question answering
+39,r_contain_c,inference
+39,r_contain_c,learning
+39,r_contain_c,perceptron
+39,r_contain_c,probabilities
+39,r_contain_c,normalization
+39,r_contain_c,caption generation
+39,r_contain_c,entailment
+39,r_contain_c,Sampling
+390,r_contain_c,sentiment analysis
+390,r_contain_c,planning
+390,r_contain_c,language identification
+390,r_contain_c,learning
+390,r_contain_c,probabilities
+390,r_contain_c,decision trees
+390,r_contain_c,optimization
+390,r_contain_c,classification
+390,r_contain_c,logistic regression
+390,r_contain_c,Sampling
+390,r_contain_c,Naive Bayes
+391,r_contain_c,sentiment analysis
+391,r_contain_c,gradient descent
+391,r_contain_c,entropy
+391,r_contain_c,others
+391,r_contain_c,learning
+391,r_contain_c,perceptron
+391,r_contain_c,probabilities
+391,r_contain_c,conditional probability
+391,r_contain_c,hidden markov models
+391,r_contain_c,optimization
+391,r_contain_c,regularization
+391,r_contain_c,classification
+391,r_contain_c,n-gram models
+391,r_contain_c,machine translation
+391,r_contain_c,parsing
+391,r_contain_c,logistic regression
+391,r_contain_c,feature selection
+391,r_contain_c,graphical models
+391,r_contain_c,support vector machines
+391,r_contain_c,linear regression
+391,r_contain_c,Naive Bayes
+392,r_contain_c,probabilities
+392,r_contain_c,speech recognition
+392,r_contain_c,classification
+392,r_contain_c,n-gram models
+392,r_contain_c,machine translation
+392,r_contain_c,language modeling
+393,r_contain_c,parts of speech
+393,r_contain_c,others
+393,r_contain_c,perceptron
+393,r_contain_c,probabilities
+393,r_contain_c,penn treebank
+394,r_contain_c,named entity recognition
+394,r_contain_c,search
+394,r_contain_c,inference
+394,r_contain_c,learning
+394,r_contain_c,conditional probability
+394,r_contain_c,hidden markov models
+394,r_contain_c,log-linear models
+394,r_contain_c,vector representations
+394,r_contain_c,dynamic programming
+394,r_contain_c,named entity recognition
+395,r_contain_c,syntax
+395,r_contain_c,parts of speech
+395,r_contain_c,context free grammar
+395,r_contain_c,machine translation
+395,r_contain_c,parsing
+395,r_contain_c,context free grammars
+396,r_contain_c,cky parsing
+396,r_contain_c,probabilities
+396,r_contain_c,context free grammar
+396,r_contain_c,parsing
+396,r_contain_c,context free grammars
+396,r_contain_c,probabilistic context free grammars
+396,r_contain_c,dynamic programming
+397,r_contain_c,syntax
+397,r_contain_c,dependency parsing
+397,r_contain_c,learning
+397,r_contain_c,parsing
+397,r_contain_c,penn treebank
+397,r_contain_c,relation extraction
+397,r_contain_c,dynamic programming
+397,r_contain_c,dependency syntax
+397,r_contain_c,evaluation of dependency parsing
+398,r_contain_c,thesaurus-based similarity
+398,r_contain_c,question answering
+398,r_contain_c,question answering
+398,r_contain_c,probabilities
+398,r_contain_c,wordnet
+398,r_contain_c,machine translation
+398,r_contain_c,python
+398,r_contain_c,information retrieval
+398,r_contain_c,clustering
+398,r_contain_c,language modeling
+398,r_contain_c,semantic similarity
+398,r_contain_c,information extraction
+398,r_contain_c,entailment
+399,r_contain_c,syntax
+399,r_contain_c,classification
+399,r_contain_c,clustering
+4,r_contain_c,collaborative filtering
+4,r_contain_c,others
+4,r_contain_c,inference
+4,r_contain_c,learning
+4,r_contain_c,conditional probability
+4,r_contain_c,classification
+4,r_contain_c,normalization
+4,r_contain_c,monte carlo methods
+4,r_contain_c,markov chain monte carlo
+4,r_contain_c,graphical models
+4,r_contain_c,Variable Elimination
+4,r_contain_c,Message Passing
+4,r_contain_c,Belief Propagation
+4,r_contain_c,Sampling
+40,r_contain_c,planning
+40,r_contain_c,entropy
+40,r_contain_c,others
+40,r_contain_c,search
+40,r_contain_c,uncertainty
+40,r_contain_c,inference
+40,r_contain_c,robotics
+40,r_contain_c,reinforcement learning
+40,r_contain_c,learning
+40,r_contain_c,seq2seq
+40,r_contain_c,machine translation
+40,r_contain_c,word embedding
+40,r_contain_c,neural machine translation
+40,r_contain_c,penn treebank
+40,r_contain_c,loss function
+40,r_contain_c,Sampling
+400,r_contain_c,learning
+400,r_contain_c,probabilities
+400,r_contain_c,vector semantics
+400,r_contain_c,dimensionality reduction
+400,r_contain_c,clustering
+400,r_contain_c,singular value decomposition
+401,r_contain_c,syntax
+401,r_contain_c,question answering
+401,r_contain_c,question answering
+401,r_contain_c,others
+401,r_contain_c,inference
+401,r_contain_c,classification
+401,r_contain_c,machine translation
+401,r_contain_c,parsing
+401,r_contain_c,logistic regression
+401,r_contain_c,semantic role labeling
+402,r_contain_c,others
+402,r_contain_c,paraphrasing
+402,r_contain_c,search
+402,r_contain_c,learning
+402,r_contain_c,wordnet
+402,r_contain_c,query expansion
+403,r_contain_c,learning
+403,r_contain_c,wordnet
+403,r_contain_c,bootstrapping
+404,r_contain_c,question answering
+404,r_contain_c,question answering
+404,r_contain_c,learning
+404,r_contain_c,wordnet
+404,r_contain_c,classification
+404,r_contain_c,bootstrapping
+404,r_contain_c,relation extraction
+404,r_contain_c,information extraction
+404,r_contain_c,Unsupervised learning
+405,r_contain_c,others
+405,r_contain_c,learning
+405,r_contain_c,parsing
+405,r_contain_c,clustering
+406,r_contain_c,named entity recognition
+406,r_contain_c,inference
+406,r_contain_c,learning
+406,r_contain_c,named entity recognition
+406,r_contain_c,information extraction
+407,r_contain_c,syntax
+407,r_contain_c,named entity recognition
+407,r_contain_c,search
+407,r_contain_c,learning
+407,r_contain_c,optimization
+407,r_contain_c,speech recognition
+407,r_contain_c,computer vision
+407,r_contain_c,backpropagation
+407,r_contain_c,imagenet
+407,r_contain_c,machine translation
+407,r_contain_c,word embedding
+407,r_contain_c,logistic regression
+407,r_contain_c,neural networks
+407,r_contain_c,named entity recognition
+407,r_contain_c,Principal Component Analysis
+407,r_contain_c,Sequence to sequence
+458,r_contain_c,syntax
+458,r_contain_c,sentiment analysis
+458,r_contain_c,calculus
+458,r_contain_c,dialog systems
+458,r_contain_c,gradient descent
+458,r_contain_c,question answering
+458,r_contain_c,question answering
+458,r_contain_c,search
+458,r_contain_c,inference
+458,r_contain_c,learning
+458,r_contain_c,optimization
+458,r_contain_c,speech recognition
+458,r_contain_c,wordnet
+458,r_contain_c,regularization
+458,r_contain_c,classification
+458,r_contain_c,computer vision
+458,r_contain_c,recurrent neural networks
+458,r_contain_c,imagenet
+458,r_contain_c,machine translation
+458,r_contain_c,python
+458,r_contain_c,parsing
+458,r_contain_c,convolutional neural networks
+458,r_contain_c,regular expressions
+458,r_contain_c,logistic regression
+458,r_contain_c,neural machine translation
+458,r_contain_c,neural networks
+458,r_contain_c,vector representations
+458,r_contain_c,linear algebra
+459,r_contain_c,bag of words model
+459,r_contain_c,gradient descent
+459,r_contain_c,search
+459,r_contain_c,learning
+459,r_contain_c,optimization
+459,r_contain_c,wordnet
+459,r_contain_c,loss function
+459,r_contain_c,Sampling
+460,r_contain_c,syntax
+460,r_contain_c,named entity recognition
+460,r_contain_c,entropy
+460,r_contain_c,search
+460,r_contain_c,learning
+460,r_contain_c,classification
+460,r_contain_c,normalization
+460,r_contain_c,python
+460,r_contain_c,dimensionality reduction
+460,r_contain_c,clustering
+460,r_contain_c,semantic similarity
+460,r_contain_c,cross entropy
+460,r_contain_c,named entity recognition
+460,r_contain_c,singular value decomposition
+460,r_contain_c,Sampling
+461,r_contain_c,matrix multiplication
+461,r_contain_c,named entity recognition
+461,r_contain_c,entropy
+461,r_contain_c,learning
+461,r_contain_c,optimization
+461,r_contain_c,regularization
+461,r_contain_c,classification
+461,r_contain_c,backpropagation
+461,r_contain_c,python
+461,r_contain_c,logistic regression
+461,r_contain_c,neural networks
+461,r_contain_c,cross entropy
+461,r_contain_c,named entity recognition
+461,r_contain_c,loss function
+461,r_contain_c,Sampling
+462,r_contain_c,gradient descent
+462,r_contain_c,learning
+462,r_contain_c,backpropagation
+462,r_contain_c,neural networks
+463,r_contain_c,inference
+463,r_contain_c,learning
+463,r_contain_c,python
+463,r_contain_c,preprocessing
+463,r_contain_c,loss function
+463,r_contain_c,linear regression
+463,r_contain_c,Sampling
+464,r_contain_c,syntax
+464,r_contain_c,entropy
+464,r_contain_c,dependency parsing
+464,r_contain_c,others
+464,r_contain_c,search
+464,r_contain_c,inference
+464,r_contain_c,learning
+464,r_contain_c,probabilities
+464,r_contain_c,beam search
+464,r_contain_c,classification
+464,r_contain_c,constraint satisfaction
+464,r_contain_c,syntaxnet
+464,r_contain_c,bootstrapping
+464,r_contain_c,word embedding
+464,r_contain_c,parsing
+464,r_contain_c,logistic regression
+464,r_contain_c,penn treebank
+464,r_contain_c,neural networks
+464,r_contain_c,vector representations
+464,r_contain_c,dynamic programming
+464,r_contain_c,dependency syntax
+464,r_contain_c,evaluation of dependency parsing
+465,r_contain_c,calculus
+465,r_contain_c,named entity recognition
+465,r_contain_c,gradient descent
+465,r_contain_c,entropy
+465,r_contain_c,question answering
+465,r_contain_c,question answering
+465,r_contain_c,learning
+465,r_contain_c,probabilities
+465,r_contain_c,speech recognition
+465,r_contain_c,classification
+465,r_contain_c,recurrent neural networks
+465,r_contain_c,backpropagation
+465,r_contain_c,machine translation
+465,r_contain_c,neural networks
+465,r_contain_c,language modeling
+465,r_contain_c,named entity recognition
+465,r_contain_c,loss function
+465,r_contain_c,Sampling
+466,r_contain_c,gradient descent
+466,r_contain_c,entropy
+466,r_contain_c,learning
+466,r_contain_c,optimization
+466,r_contain_c,classification
+466,r_contain_c,recurrent neural networks
+466,r_contain_c,machine translation
+466,r_contain_c,parsing
+466,r_contain_c,neural networks
+466,r_contain_c,gated recurrent units
+466,r_contain_c,language modeling
+466,r_contain_c,cross entropy
+466,r_contain_c,Sequence to sequence
+467,r_contain_c,syntax
+467,r_contain_c,statistical machine translation
+467,r_contain_c,search
+467,r_contain_c,learning
+467,r_contain_c,seq2seq
+467,r_contain_c,beam search
+467,r_contain_c,backpropagation
+467,r_contain_c,machine translation
+467,r_contain_c,heuristic search
+467,r_contain_c,python
+467,r_contain_c,parsing
+467,r_contain_c,neural machine translation
+468,r_contain_c,sentiment analysis
+468,r_contain_c,transliteration
+468,r_contain_c,search
+468,r_contain_c,inference
+468,r_contain_c,reinforcement learning
+468,r_contain_c,learning
+468,r_contain_c,seq2seq
+468,r_contain_c,optimization
+468,r_contain_c,beam search
+468,r_contain_c,regularization
+468,r_contain_c,classification
+468,r_contain_c,recurrent neural networks
+468,r_contain_c,machine translation
+468,r_contain_c,caption generation
+468,r_contain_c,neural machine translation
+468,r_contain_c,penn treebank
+468,r_contain_c,neural networks
+468,r_contain_c,language modeling
+468,r_contain_c,word segmentation
+468,r_contain_c,Mixture Models
+469,r_contain_c,entropy
+469,r_contain_c,search
+469,r_contain_c,inference
+469,r_contain_c,learning
+469,r_contain_c,recursive neural networks
+469,r_contain_c,recursive neural network
+469,r_contain_c,beam search
+469,r_contain_c,regularization
+469,r_contain_c,classification
+469,r_contain_c,normalization
+469,r_contain_c,backpropagation
+469,r_contain_c,machine translation
+469,r_contain_c,parsing
+469,r_contain_c,convolutional neural networks
+469,r_contain_c,neural machine translation
+469,r_contain_c,neural networks
+469,r_contain_c,Autoencoders
+470,r_contain_c,entropy
+470,r_contain_c,others
+470,r_contain_c,inference
+470,r_contain_c,reinforcement learning
+470,r_contain_c,learning
+470,r_contain_c,probabilities
+470,r_contain_c,word embedding
+470,r_contain_c,neural networks
+470,r_contain_c,clustering
+471,r_contain_c,search
+471,r_contain_c,learning
+471,r_contain_c,recursive neural networks
+471,r_contain_c,recursive neural network
+471,r_contain_c,wordnet
+471,r_contain_c,beam search
+471,r_contain_c,classification
+471,r_contain_c,stemming
+471,r_contain_c,recurrent neural networks
+471,r_contain_c,backpropagation
+471,r_contain_c,python
+471,r_contain_c,parsing
+471,r_contain_c,neural networks
+471,r_contain_c,vector representations
+472,r_contain_c,sentiment analysis
+472,r_contain_c,memory networks
+472,r_contain_c,entropy
+472,r_contain_c,question answering
+472,r_contain_c,question answering
+472,r_contain_c,search
+472,r_contain_c,inference
+472,r_contain_c,reinforcement learning
+472,r_contain_c,learning
+472,r_contain_c,seq2seq
+472,r_contain_c,optimization
+472,r_contain_c,regularization
+472,r_contain_c,classification
+472,r_contain_c,recurrent neural networks
+472,r_contain_c,part of speech tagging
+472,r_contain_c,machine translation
+472,r_contain_c,neural machine translation
+472,r_contain_c,penn treebank
+472,r_contain_c,neural networks
+472,r_contain_c,language modeling
+472,r_contain_c,Sequence to sequence
+473,r_contain_c,sentiment analysis
+473,r_contain_c,semi-supervised learning
+473,r_contain_c,transfer learning
+473,r_contain_c,named entity recognition
+473,r_contain_c,gradient descent
+473,r_contain_c,question answering
+473,r_contain_c,question answering
+473,r_contain_c,inference
+473,r_contain_c,learning
+473,r_contain_c,seq2seq
+473,r_contain_c,optimization
+473,r_contain_c,regularization
+473,r_contain_c,classification
+473,r_contain_c,computer vision
+473,r_contain_c,normalization
+473,r_contain_c,imagenet
+473,r_contain_c,machine translation
+473,r_contain_c,parsing
+473,r_contain_c,penn treebank
+473,r_contain_c,preprocessing
+473,r_contain_c,language modeling
+473,r_contain_c,named entity recognition
+473,r_contain_c,loss function
+473,r_contain_c,entailment
+473,r_contain_c,Unsupervised learning
+473,r_contain_c,AlphaGo
+474,r_contain_c,sentiment analysis
+474,r_contain_c,transfer learning
+474,r_contain_c,question answering
+474,r_contain_c,dependency parsing
+474,r_contain_c,question answering
+474,r_contain_c,search
+474,r_contain_c,inference
+474,r_contain_c,reinforcement learning
+474,r_contain_c,learning
+474,r_contain_c,seq2seq
+474,r_contain_c,regularization
+474,r_contain_c,classification
+474,r_contain_c,part of speech tagging
+474,r_contain_c,sentence representations
+474,r_contain_c,machine translation
+474,r_contain_c,parsing
+474,r_contain_c,penn treebank
+474,r_contain_c,language modeling
+474,r_contain_c,entailment
+474,r_contain_c,Mixture Models
+475,r_contain_c,entropy
+475,r_contain_c,question answering
+475,r_contain_c,question answering
+475,r_contain_c,reinforcement learning
+475,r_contain_c,learning
+475,r_contain_c,seq2seq
+475,r_contain_c,text summarization
+475,r_contain_c,machine translation
+475,r_contain_c,text generation
+475,r_contain_c,neural networks
+475,r_contain_c,semantic similarity
+475,r_contain_c,cross entropy
+475,r_contain_c,loss function
+476,r_contain_c,graph theory
+476,r_contain_c,gradient descent
+476,r_contain_c,class logistics
+476,r_contain_c,search
+476,r_contain_c,learning
+476,r_contain_c,perceptron
+476,r_contain_c,optimization
+476,r_contain_c,regularization
+476,r_contain_c,classification
+476,r_contain_c,python
+476,r_contain_c,neural networks
+476,r_contain_c,graphical models
+476,r_contain_c,linear algebra
+476,r_contain_c,autonomous cars
+476,r_contain_c,Unsupervised learning
+476,r_contain_c,ResNet
+477,r_contain_c,generative adversarial networks
+477,r_contain_c,reinforcement learning
+477,r_contain_c,learning
+477,r_contain_c,classification
+477,r_contain_c,clustering
+477,r_contain_c,pagerank
+477,r_contain_c,Unsupervised learning
+478,r_contain_c,gradient descent
+478,r_contain_c,learning
+478,r_contain_c,optimization
+478,r_contain_c,backpropagation
+478,r_contain_c,python
+478,r_contain_c,neural networks
+478,r_contain_c,linear algebra
+478,r_contain_c,loss function
+478,r_contain_c,linear regression
+479,r_contain_c,gradient descent
+479,r_contain_c,learning
+479,r_contain_c,optimization
+479,r_contain_c,classification
+479,r_contain_c,logistic regression
+479,r_contain_c,neural networks
+479,r_contain_c,loss function
+479,r_contain_c,linear regression
+480,r_contain_c,gradient descent
+480,r_contain_c,learning
+480,r_contain_c,normalization
+480,r_contain_c,neural networks
+480,r_contain_c,loss function
+481,r_contain_c,gradient descent
+481,r_contain_c,learning
+481,r_contain_c,optimization
+481,r_contain_c,regularization
+481,r_contain_c,classification
+481,r_contain_c,neural networks
+481,r_contain_c,feature selection
+481,r_contain_c,loss function
+482,r_contain_c,genetic algorithms
+482,r_contain_c,gradient descent
+482,r_contain_c,others
+482,r_contain_c,search
+482,r_contain_c,learning
+482,r_contain_c,regularization
+482,r_contain_c,classification
+482,r_contain_c,python
+482,r_contain_c,logistic regression
+482,r_contain_c,neural networks
+482,r_contain_c,loss function
+483,r_contain_c,generative adversarial networks
+483,r_contain_c,inference
+483,r_contain_c,learning
+483,r_contain_c,k means
+483,r_contain_c,dimensionality reduction
+483,r_contain_c,clustering
+483,r_contain_c,matrix factorization
+483,r_contain_c,linear algebra
+483,r_contain_c,loss function
+483,r_contain_c,Unsupervised learning
+483,r_contain_c,Principal Component Analysis
+484,r_contain_c,collaborative filtering
+484,r_contain_c,gradient descent
+484,r_contain_c,search
+484,r_contain_c,learning
+484,r_contain_c,optimization
+484,r_contain_c,regularization
+484,r_contain_c,neural networks
+484,r_contain_c,matrix factorization
+484,r_contain_c,linear regression
+485,r_contain_c,gradient descent
+485,r_contain_c,speech processing
+485,r_contain_c,learning
+485,r_contain_c,perceptron
+485,r_contain_c,random forest
+485,r_contain_c,regularization
+485,r_contain_c,classification
+485,r_contain_c,computer vision
+485,r_contain_c,recurrent neural networks
+485,r_contain_c,backpropagation
+485,r_contain_c,convolutional neural networks
+485,r_contain_c,logistic regression
+485,r_contain_c,neural networks
+485,r_contain_c,training neural networks
+485,r_contain_c,loss function
+486,r_contain_c,learning
+486,r_contain_c,optimization
+486,r_contain_c,speech recognition
+486,r_contain_c,regularization
+486,r_contain_c,machine translation
+486,r_contain_c,convolutional neural networks
+486,r_contain_c,neural networks
+487,r_contain_c,gradient descent
+487,r_contain_c,classification
+487,r_contain_c,python
+487,r_contain_c,logistic regression
+488,r_contain_c,gradient descent
+488,r_contain_c,learning
+488,r_contain_c,backpropagation
+488,r_contain_c,activation functions
+488,r_contain_c,logistic regression
+488,r_contain_c,neural networks
+489,r_contain_c,learning
+489,r_contain_c,logistic regression
+489,r_contain_c,neural networks
+490,r_contain_c,learning
+490,r_contain_c,optimization
+490,r_contain_c,regularization
+490,r_contain_c,classification
+490,r_contain_c,activation functions
+490,r_contain_c,logistic regression
+491,r_contain_c,gradient descent
+491,r_contain_c,learning
+491,r_contain_c,optimization
+491,r_contain_c,neural networks
+492,r_contain_c,gradient descent
+492,r_contain_c,learning
+492,r_contain_c,regularization
+492,r_contain_c,classification
+492,r_contain_c,normalization
+492,r_contain_c,neural networks
+493,r_contain_c,gradient descent
+493,r_contain_c,search
+493,r_contain_c,learning
+493,r_contain_c,optimization
+493,r_contain_c,regularization
+493,r_contain_c,classification
+493,r_contain_c,activation functions
+494,r_contain_c,transfer learning
+494,r_contain_c,multi-task learning
+494,r_contain_c,learning
+494,r_contain_c,speech recognition
+494,r_contain_c,machine translation
+495,r_contain_c,gradient descent
+495,r_contain_c,convolutional neural network
+495,r_contain_c,learning
+495,r_contain_c,object detection
+495,r_contain_c,classification
+495,r_contain_c,computer vision
+495,r_contain_c,convolutional neural networks
+495,r_contain_c,neural networks
+496,r_contain_c,transfer learning
+496,r_contain_c,learning
+496,r_contain_c,classification
+496,r_contain_c,computer vision
+496,r_contain_c,imagenet
+496,r_contain_c,convolutional neural networks
+496,r_contain_c,neural networks
+496,r_contain_c,ResNet
+497,r_contain_c,learning
+497,r_contain_c,object detection
+497,r_contain_c,classification
+497,r_contain_c,convolutional neural networks
+497,r_contain_c,neural networks
+498,r_contain_c,gradient descent
+498,r_contain_c,one-shot learning
+498,r_contain_c,learning
+498,r_contain_c,classification
+498,r_contain_c,clustering
+498,r_contain_c,loss function
+499,r_contain_c,speech recognition
+499,r_contain_c,classification
+499,r_contain_c,recurrent neural networks
+499,r_contain_c,backpropagation
+499,r_contain_c,machine translation
+499,r_contain_c,neural machine translation
+499,r_contain_c,neural networks
+499,r_contain_c,Sampling
+5,r_contain_c,others
+5,r_contain_c,inference
+5,r_contain_c,probabilities
+5,r_contain_c,conditional probability
+5,r_contain_c,hidden markov models
+5,r_contain_c,graphical models
+5,r_contain_c,dynamic programming
+5,r_contain_c,Message Passing
+5,r_contain_c,Belief Propagation
+500,r_contain_c,transfer learning
+500,r_contain_c,named entity recognition
+500,r_contain_c,learning
+500,r_contain_c,classification
+500,r_contain_c,word embedding
+500,r_contain_c,named entity recognition
+500,r_contain_c,Sampling
+501,r_contain_c,statistical machine translation
+501,r_contain_c,search
+501,r_contain_c,learning
+501,r_contain_c,optimization
+501,r_contain_c,speech recognition
+501,r_contain_c,beam search
+501,r_contain_c,regularization
+501,r_contain_c,classification
+501,r_contain_c,normalization
+501,r_contain_c,recurrent neural networks
+501,r_contain_c,machine translation
+501,r_contain_c,caption generation
+501,r_contain_c,convolutional neural networks
+501,r_contain_c,neural machine translation
+501,r_contain_c,neural networks
+501,r_contain_c,Sequence to sequence
+502,r_contain_c,question answering
+502,r_contain_c,question answering
+502,r_contain_c,others
+502,r_contain_c,learning
+502,r_contain_c,object detection
+502,r_contain_c,machine translation
+502,r_contain_c,python
+502,r_contain_c,convolutional neural networks
+502,r_contain_c,logistic regression
+502,r_contain_c,text generation
+502,r_contain_c,neural networks
+503,r_contain_c,learning
+503,r_contain_c,speech recognition
+503,r_contain_c,imagenet
+503,r_contain_c,logistic regression
+503,r_contain_c,neural networks
+503,r_contain_c,clustering
+504,r_contain_c,learning
+504,r_contain_c,regularization
+504,r_contain_c,backpropagation
+504,r_contain_c,logistic regression
+505,r_contain_c,generative adversarial networks
+505,r_contain_c,entropy
+505,r_contain_c,learning
+505,r_contain_c,normalization
+505,r_contain_c,imagenet
+505,r_contain_c,neural networks
+505,r_contain_c,loss function
+506,r_contain_c,transfer learning
+506,r_contain_c,convolutional neural network
+506,r_contain_c,entropy
+506,r_contain_c,learning
+506,r_contain_c,classification
+506,r_contain_c,cross entropy
+506,r_contain_c,loss function
+508,r_contain_c,entropy
+508,r_contain_c,search
+508,r_contain_c,learning
+508,r_contain_c,regularization
+508,r_contain_c,computer vision
+508,r_contain_c,recurrent neural networks
+508,r_contain_c,backpropagation
+508,r_contain_c,imagenet
+508,r_contain_c,neural networks
+508,r_contain_c,language modeling
+508,r_contain_c,cross entropy
+509,r_contain_c,gradient descent
+509,r_contain_c,robotics
+509,r_contain_c,reinforcement learning
+509,r_contain_c,learning
+509,r_contain_c,backpropagation
+509,r_contain_c,deep Q-network
+509,r_contain_c,preprocessing
+509,r_contain_c,loss function
+509,r_contain_c,Meta-Learning
+509,r_contain_c,AlphaGo
+511,r_contain_c,planning
+511,r_contain_c,dialog systems
+511,r_contain_c,question answering
+511,r_contain_c,question answering
+511,r_contain_c,search
+511,r_contain_c,uncertainty
+511,r_contain_c,robotics
+511,r_contain_c,learning
+511,r_contain_c,speech recognition
+511,r_contain_c,classification
+511,r_contain_c,constraint satisfaction
+511,r_contain_c,search engines
+511,r_contain_c,machine translation
+511,r_contain_c,python
+511,r_contain_c,expert systems
+511,r_contain_c,neural networks
+511,r_contain_c,speech synthesis
+511,r_contain_c,AlphaGo
+512,r_contain_c,planning
+512,r_contain_c,search
+512,r_contain_c,python
+513,r_contain_c,planning
+513,r_contain_c,a* search
+513,r_contain_c,search
+513,r_contain_c,informed search
+513,r_contain_c,speech recognition
+513,r_contain_c,machine translation
+514,r_contain_c,planning
+514,r_contain_c,search
+514,r_contain_c,optimization
+514,r_contain_c,constraint satisfaction
+515,r_contain_c,genetic algorithms
+515,r_contain_c,search
+515,r_contain_c,constraint satisfaction
+515,r_contain_c,adversarial search
+516,r_contain_c,search
+516,r_contain_c,uncertainty
+516,r_contain_c,monte carlo tree search
+516,r_contain_c,adversarial search
+517,r_contain_c,markov decision processes
+517,r_contain_c,search
+517,r_contain_c,uncertainty
+517,r_contain_c,reinforcement learning
+517,r_contain_c,learning
+517,r_contain_c,probabilities
+518,r_contain_c,markov decision processes
+518,r_contain_c,search
+519,r_contain_c,markov decision processes
+519,r_contain_c,planning
+519,r_contain_c,search
+519,r_contain_c,reinforcement learning
+519,r_contain_c,learning
+519,r_contain_c,Sampling
+520,r_contain_c,planning
+520,r_contain_c,reinforcement learning
+520,r_contain_c,learning
+521,r_contain_c,planning
+521,r_contain_c,search
+521,r_contain_c,uncertainty
+521,r_contain_c,reinforcement learning
+521,r_contain_c,learning
+521,r_contain_c,optimization
+521,r_contain_c,constraint satisfaction
+522,r_contain_c,planning
+522,r_contain_c,others
+522,r_contain_c,search
+522,r_contain_c,uncertainty
+522,r_contain_c,inference
+522,r_contain_c,learning
+522,r_contain_c,probabilities
+522,r_contain_c,conditional probability
+522,r_contain_c,speech recognition
+522,r_contain_c,constraint satisfaction
+522,r_contain_c,normalization
+523,r_contain_c,inference
+523,r_contain_c,probabilities
+523,r_contain_c,conditional probability
+523,r_contain_c,graphical models
+524,r_contain_c,inference
+524,r_contain_c,learning
+524,r_contain_c,conditional probability
+524,r_contain_c,Variable Elimination
+524,r_contain_c,Sampling
+525,r_contain_c,inference
+525,r_contain_c,learning
+525,r_contain_c,conditional probability
+525,r_contain_c,Variable Elimination
+525,r_contain_c,Sampling
+526,r_contain_c,inference
+526,r_contain_c,learning
+526,r_contain_c,probabilities
+526,r_contain_c,conditional probability
+526,r_contain_c,gibbs sampling
+526,r_contain_c,python
+526,r_contain_c,monte carlo methods
+526,r_contain_c,markov chain monte carlo
+526,r_contain_c,Variable Elimination
+526,r_contain_c,Sampling
+527,r_contain_c,probabilities
+528,r_contain_c,search
+528,r_contain_c,uncertainty
+528,r_contain_c,inference
+528,r_contain_c,probabilities
+528,r_contain_c,conditional probability
+528,r_contain_c,hidden markov models
+528,r_contain_c,speech recognition
+528,r_contain_c,gibbs sampling
+528,r_contain_c,search engines
+528,r_contain_c,machine translation
+528,r_contain_c,pagerank
+528,r_contain_c,Markov chains
+528,r_contain_c,Sampling
+529,r_contain_c,particle filter
+529,r_contain_c,uncertainty
+529,r_contain_c,inference
+529,r_contain_c,probabilities
+529,r_contain_c,hidden markov models
+529,r_contain_c,speech recognition
+529,r_contain_c,Variable Elimination
+529,r_contain_c,Sampling
+530,r_contain_c,inference
+530,r_contain_c,learning
+530,r_contain_c,probabilities
+530,r_contain_c,conditional probability
+530,r_contain_c,optimization
+530,r_contain_c,regularization
+530,r_contain_c,classification
+530,r_contain_c,clustering
+530,r_contain_c,Sampling
+530,r_contain_c,Naive Bayes
+531,r_contain_c,learning
+531,r_contain_c,perceptron
+531,r_contain_c,probabilities
+531,r_contain_c,optimization
+531,r_contain_c,maximum likelihood estimation
+531,r_contain_c,logistic regression
+532,r_contain_c,learning
+532,r_contain_c,probabilities
+532,r_contain_c,optimization
+532,r_contain_c,speech recognition
+532,r_contain_c,object detection
+532,r_contain_c,maximum likelihood estimation
+532,r_contain_c,classification
+532,r_contain_c,computer vision
+532,r_contain_c,backpropagation
+532,r_contain_c,activation functions
+532,r_contain_c,machine translation
+532,r_contain_c,logistic regression
+532,r_contain_c,neural machine translation
+532,r_contain_c,neural networks
+532,r_contain_c,Visual QA
+533,r_contain_c,entropy
+533,r_contain_c,learning
+533,r_contain_c,perceptron
+533,r_contain_c,conditional probability
+533,r_contain_c,decision trees
+533,r_contain_c,speech recognition
+533,r_contain_c,object detection
+533,r_contain_c,regularization
+533,r_contain_c,classification
+533,r_contain_c,computer vision
+533,r_contain_c,machine translation
+533,r_contain_c,logistic regression
+533,r_contain_c,neural machine translation
+533,r_contain_c,neural networks
+533,r_contain_c,clustering
+533,r_contain_c,feature selection
+533,r_contain_c,Visual QA
+534,r_contain_c,entropy
+534,r_contain_c,search
+534,r_contain_c,inference
+534,r_contain_c,robotics
+534,r_contain_c,reinforcement learning
+534,r_contain_c,learning
+534,r_contain_c,optimization
+534,r_contain_c,imagenet
+534,r_contain_c,neural networks
+534,r_contain_c,cross entropy
+534,r_contain_c,Markov chains
+534,r_contain_c,Unsupervised learning
+534,r_contain_c,Sampling
+59,r_contain_c,sentiment analysis
+59,r_contain_c,statistical machine translation
+59,r_contain_c,memory networks
+59,r_contain_c,gradient descent
+59,r_contain_c,convolutional neural network
+59,r_contain_c,inference
+59,r_contain_c,learning
+59,r_contain_c,optimization
+59,r_contain_c,recurrent neural networks
+59,r_contain_c,sentence representations
+59,r_contain_c,machine translation
+59,r_contain_c,convolutional neural networks
+59,r_contain_c,neural networks
+6,r_contain_c,gradient descent
+6,r_contain_c,inference
+6,r_contain_c,learning
+6,r_contain_c,perceptron
+6,r_contain_c,bayesian network
+6,r_contain_c,classification
+6,r_contain_c,logistic regression
+6,r_contain_c,graphical models
+6,r_contain_c,linear regression
+6,r_contain_c,Markov Random Fields
+60,r_contain_c,named entity recognition
+60,r_contain_c,entropy
+60,r_contain_c,learning
+60,r_contain_c,word embedding
+60,r_contain_c,neural networks
+60,r_contain_c,named entity recognition
+61,r_contain_c,calculus
+61,r_contain_c,gradient descent
+61,r_contain_c,search
+61,r_contain_c,reinforcement learning
+61,r_contain_c,learning
+61,r_contain_c,optimization
+61,r_contain_c,regularization
+61,r_contain_c,backpropagation
+61,r_contain_c,dynamic programming
+61,r_contain_c,Unsupervised learning
+62,r_contain_c,syntax
+62,r_contain_c,transfer learning
+62,r_contain_c,learning
+62,r_contain_c,word embedding
+62,r_contain_c,matrix factorization
+62,r_contain_c,Sampling
+63,r_contain_c,inference
+63,r_contain_c,learning
+63,r_contain_c,recurrent neural networks
+63,r_contain_c,neural networks
+64,r_contain_c,learning
+64,r_contain_c,python
+64,r_contain_c,linear algebra
+64,r_contain_c,loss function
+64,r_contain_c,linear regression
+65,r_contain_c,gradient descent
+65,r_contain_c,learning
+66,r_contain_c,entropy
+66,r_contain_c,search
+66,r_contain_c,uncertainty
+66,r_contain_c,learning
+66,r_contain_c,probabilities
+66,r_contain_c,speech recognition
+66,r_contain_c,beam search
+66,r_contain_c,machine translation
+66,r_contain_c,caption generation
+66,r_contain_c,word embedding
+66,r_contain_c,language modeling
+66,r_contain_c,cross entropy
+67,r_contain_c,search
+67,r_contain_c,probabilities
+67,r_contain_c,seq2seq
+67,r_contain_c,beam search
+67,r_contain_c,language modeling
+68,r_contain_c,search
+68,r_contain_c,inference
+68,r_contain_c,learning
+68,r_contain_c,reading comprehension
+68,r_contain_c,entailment
+68,r_contain_c,Unsupervised learning
+69,r_contain_c,syntax
+69,r_contain_c,convolutional neural network
+69,r_contain_c,learning
+69,r_contain_c,classification
+69,r_contain_c,convolutional neural networks
+69,r_contain_c,neural networks
+7,r_contain_c,entropy
+7,r_contain_c,search
+7,r_contain_c,inference
+7,r_contain_c,learning
+7,r_contain_c,probabilities
+7,r_contain_c,conditional probability
+7,r_contain_c,bayesian network
+7,r_contain_c,optimization
+7,r_contain_c,classification
+7,r_contain_c,normalization
+7,r_contain_c,logistic regression
+7,r_contain_c,graphical models
+7,r_contain_c,linear regression
+7,r_contain_c,Unsupervised learning
+70,r_contain_c,syntax
+70,r_contain_c,reinforcement learning
+70,r_contain_c,learning
+70,r_contain_c,seq2seq
+70,r_contain_c,predicate logic
+70,r_contain_c,backpropagation
+70,r_contain_c,sentence representations
+70,r_contain_c,parsing
+70,r_contain_c,neural networks
+70,r_contain_c,Autoencoders
+70,r_contain_c,Sequence to sequence
+71,r_contain_c,syntax
+71,r_contain_c,others
+71,r_contain_c,learning
+71,r_contain_c,predicate logic
+71,r_contain_c,sentence representations
+71,r_contain_c,parsing
+71,r_contain_c,neural networks
+71,r_contain_c,Autoencoders
+72,r_contain_c,gradient descent
+72,r_contain_c,question answering
+72,r_contain_c,question answering
+72,r_contain_c,search
+72,r_contain_c,learning
+72,r_contain_c,optimization
+72,r_contain_c,beam search
+72,r_contain_c,caption generation
+73,r_contain_c,gradient descent
+73,r_contain_c,reinforcement learning
+73,r_contain_c,learning
+73,r_contain_c,probabilities
+73,r_contain_c,bootstrapping
+73,r_contain_c,Unsupervised learning
+74,r_contain_c,structured prediction
+74,r_contain_c,syntax
+74,r_contain_c,search
+74,r_contain_c,probabilities
+74,r_contain_c,classification
+74,r_contain_c,machine translation
+74,r_contain_c,parsing
+74,r_contain_c,word sense disambiguation
+75,r_contain_c,question answering
+75,r_contain_c,question answering
+75,r_contain_c,probabilities
+75,r_contain_c,vector semantics
+75,r_contain_c,vector representations
+75,r_contain_c,semantic similarity
+75,r_contain_c,word sense disambiguation
+75,r_contain_c,singular value decomposition
+76,r_contain_c,others
+76,r_contain_c,learning
+76,r_contain_c,wordnet
+76,r_contain_c,classification
+76,r_contain_c,vector semantics
+76,r_contain_c,machine translation
+76,r_contain_c,information retrieval
+76,r_contain_c,semantic similarity
+76,r_contain_c,word sense disambiguation
+77,r_contain_c,sentiment analysis
+77,r_contain_c,language identification
+77,r_contain_c,learning
+77,r_contain_c,perceptron
+77,r_contain_c,conditional probability
+77,r_contain_c,classification
+77,r_contain_c,support vector machines
+78,r_contain_c,learning
+78,r_contain_c,perceptron
+78,r_contain_c,conditional probability
+78,r_contain_c,classification
+79,r_contain_c,calculus
+79,r_contain_c,uncertainty
+79,r_contain_c,learning
+79,r_contain_c,perceptron
+79,r_contain_c,probabilities
+79,r_contain_c,optimization
+79,r_contain_c,regularization
+79,r_contain_c,classification
+79,r_contain_c,logistic regression
+8,r_contain_c,entropy
+8,r_contain_c,inference
+8,r_contain_c,learning
+8,r_contain_c,probabilities
+8,r_contain_c,optimization
+8,r_contain_c,normalization
+8,r_contain_c,logistic regression
+8,r_contain_c,graphical models
+8,r_contain_c,cross entropy
+8,r_contain_c,Gaussian graphical models
+80,r_contain_c,others
+80,r_contain_c,uncertainty
+80,r_contain_c,learning
+80,r_contain_c,perceptron
+80,r_contain_c,optimization
+80,r_contain_c,regularization
+80,r_contain_c,classification
+80,r_contain_c,logistic regression
+80,r_contain_c,neural networks
+80,r_contain_c,loss function
+81,r_contain_c,gradient descent
+81,r_contain_c,perceptron
+81,r_contain_c,classification
+81,r_contain_c,activation functions
+81,r_contain_c,logistic regression
+81,r_contain_c,neural networks
+81,r_contain_c,training neural networks
+82,r_contain_c,probabilities
+82,r_contain_c,speech recognition
+82,r_contain_c,classification
+82,r_contain_c,n-gram models
+82,r_contain_c,machine translation
+82,r_contain_c,language modeling
+83,r_contain_c,recurrent neural networks
+83,r_contain_c,n-gram models
+83,r_contain_c,neural networks
+83,r_contain_c,language modeling
+83,r_contain_c,loss function
+84,r_contain_c,gradient descent
+84,r_contain_c,learning
+84,r_contain_c,neural language modeling
+84,r_contain_c,word embedding
+84,r_contain_c,logistic regression
+84,r_contain_c,language modeling
+84,r_contain_c,loss function
+84,r_contain_c,Sampling
+85,r_contain_c,memory networks
+85,r_contain_c,inference
+85,r_contain_c,long short term memory networks
+85,r_contain_c,recurrent neural networks
+85,r_contain_c,backpropagation
+85,r_contain_c,n-gram models
+85,r_contain_c,neural networks
+85,r_contain_c,language modeling
+86,r_contain_c,parts of speech
+86,r_contain_c,others
+86,r_contain_c,perceptron
+86,r_contain_c,classification
+86,r_contain_c,machine translation
+86,r_contain_c,penn treebank
+86,r_contain_c,dynamic programming
+86,r_contain_c,information extraction
+87,r_contain_c,others
+87,r_contain_c,perceptron
+87,r_contain_c,classification
+87,r_contain_c,penn treebank
+87,r_contain_c,dynamic programming
+88,r_contain_c,structured prediction
+88,r_contain_c,language identification
+88,r_contain_c,named entity recognition
+88,r_contain_c,others
+88,r_contain_c,search
+88,r_contain_c,inference
+88,r_contain_c,learning
+88,r_contain_c,perceptron
+88,r_contain_c,optimization
+88,r_contain_c,classification
+88,r_contain_c,linear programming
+88,r_contain_c,penn treebank
+88,r_contain_c,dynamic programming
+88,r_contain_c,named entity recognition
+88,r_contain_c,information extraction
+88,r_contain_c,loss function
+89,r_contain_c,statistical machine translation
+89,r_contain_c,machine translation
+89,r_contain_c,language modeling
+9,r_contain_c,calculus
+9,r_contain_c,entropy
+9,r_contain_c,others
+9,r_contain_c,inference
+9,r_contain_c,learning
+9,r_contain_c,speech recognition
+9,r_contain_c,classification
+9,r_contain_c,latent variable models
+9,r_contain_c,dimensionality reduction
+9,r_contain_c,clustering
+9,r_contain_c,graphical models
+9,r_contain_c,linear regression
+9,r_contain_c,Unsupervised learning
+9,r_contain_c,Mixture Models
+90,r_contain_c,search
+90,r_contain_c,learning
+90,r_contain_c,beam search
+90,r_contain_c,machine translation
+90,r_contain_c,neural machine translation
+90,r_contain_c,Sampling
+90,r_contain_c,Sequence to sequence
+91,r_contain_c,entropy
+91,r_contain_c,search
+91,r_contain_c,learning
+91,r_contain_c,beam search
+91,r_contain_c,backpropagation
+91,r_contain_c,machine translation
+91,r_contain_c,neural machine translation
+91,r_contain_c,language modeling
+91,r_contain_c,loss function
+91,r_contain_c,Sampling
+91,r_contain_c,Sequence to sequence
+92,r_contain_c,search
+92,r_contain_c,reinforcement learning
+92,r_contain_c,learning
+92,r_contain_c,perceptron
+92,r_contain_c,beam search
+92,r_contain_c,attention models
+92,r_contain_c,machine translation
+92,r_contain_c,neural machine translation
+92,r_contain_c,Sampling
+93,r_contain_c,structured prediction
+93,r_contain_c,syntax
+93,r_contain_c,question answering
+93,r_contain_c,dependency parsing
+93,r_contain_c,question answering
+93,r_contain_c,perceptron
+93,r_contain_c,classification
+93,r_contain_c,machine translation
+93,r_contain_c,parsing
+93,r_contain_c,information extraction
+93,r_contain_c,shift-reduce parsing
+94,r_contain_c,dependency parsing
+94,r_contain_c,perceptron
+94,r_contain_c,classification
+94,r_contain_c,recurrent neural networks
+94,r_contain_c,parsing
+94,r_contain_c,neural networks
+94,r_contain_c,shift-reduce parsing
+95,r_contain_c,parts of speech
+95,r_contain_c,dependency parsing
+95,r_contain_c,search
+95,r_contain_c,learning
+95,r_contain_c,perceptron
+95,r_contain_c,parsing
+95,r_contain_c,shift-reduce parsing
+96,r_contain_c,structured prediction
+96,r_contain_c,syntax
+96,r_contain_c,dependency parsing
+96,r_contain_c,search
+96,r_contain_c,learning
+96,r_contain_c,perceptron
+96,r_contain_c,classification
+96,r_contain_c,machine translation
+96,r_contain_c,parsing
+96,r_contain_c,word sense disambiguation

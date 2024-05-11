@@ -1,0 +1,661 @@
+A,B,result,RefD
+Probability density function,Boosting (machine learning),0,-0.048770711
+Statistical classification,F1 score,0,-0.359470461
+Null hypothesis,Statistical hypothesis testing,0,0.555143508
+Poisson regression,Arithmetic mean,1,-0.086563166
+Positive and negative predictive values,Confusion matrix,0,0.162374562
+Data analysis,DBSCAN,0,-0.04587102
+Backpropagation,Ensemble learning,0,0.169164667
+Conditional independence,Naive Bayes classifier,0,-0.06042014
+Mixture model,Mode (statistics),0,0.161448623
+Statistical hypothesis testing,Sample (statistics),1,-0.116808443
+Accuracy and precision,False positives and false negatives,0,-0.133254832
+Joint probability distribution,Boosting (machine learning),0,-0.041158729
+Random forest,Regression analysis,0,0.36213253
+Median,Central tendency,0,-0.186450328
+Backpropagation,Machine learning,1,0.387091722
+Machine learning,Pruning (decision trees),0,-0.371059996
+Probability density function,Posterior probability,0,0.002375891
+Principal component analysis,Data reduction,0,-0.080843159
+Posterior probability,Prior probability,0,0.240544426
+Statistical classification,Multiclass classification,0,-0.69957946
+Gradient descent,Linear regression,0,0.25465972
+Hierarchical clustering,Mixture model,0,0.006413148
+Statistical classification,Precision and recall,0,-0.310469435
+Expert system,Machine learning,0,0.070707288
+Artificial neural network,Support vector machine,0,-0.201441894
+Naive Bayes classifier,Conditional probability distribution,1,0.077762774
+OPTICS algorithm,Single-linkage clustering,0,-0.049609105
+Boosting (machine learning),AdaBoost,0,-0.140478081
+Conditional probability distribution,Poisson regression,0,0.086837057
+Least squares,Arithmetic mean,1,0.353777083
+Maximum likelihood,Likelihood function,1,0.456181303
+Biclustering,Hierarchical clustering,0,0.012494358
+Bayes' theorem,Bayesian network,0,-0.162065384
+Bayesian network,Joint probability distribution,1,0.052766345
+Artificial neural network,Backpropagation,0,-0.362802498
+Apriori algorithm,Association rule learning,1,-0.010137613
+Joint probability distribution,Conditional probability distribution,0,-0.20489453
+Expectation–maximization algorithm,Maximum likelihood,1,0.010317887
+Decision tree learning,Pruning (decision trees),0,-0.258920333
+Random forest,Conditional probability,1,0.03831307
+Hierarchical clustering,Arithmetic mean,1,0.054614942
+Stepwise regression,Statistical model,0,0.345188326
+Multiclass classification,Probability density function,1,0.048524343
+Naive Bayes classifier,Maximum likelihood,1,0.024754641
+Pruning (decision trees),Decision tree,1,0.102244511
+Boosting (machine learning),Bootstrap aggregating,0,-0.073231788
+Poisson regression,Conditional probability distribution,1,-0.086837057
+Cluster analysis,K-medoids,0,-0.351234756
+Backpropagation,Nonlinear system,0,0.009741015
+Bayesian network,Bayes' theorem,1,0.162065384
+Median,Interquartile range,0,-0.257907316
+Naive Bayes classifier,Arithmetic mean,1,0.076410597
+Hill climbing,Gradient descent,0,0.271355171
+Clustering high-dimensional data,Data analysis,1,0.070426145
+False positives and false negatives,Positive and negative predictive values,0,0.085071538
+Precision and recall,Confidence interval,1,0.130782633
+Descriptive statistics,Interquartile range,0,-0.103035494
+Artificial neural network,Posterior probability,0,0.036544963
+F1 score,Information retrieval,1,0.166099883
+Statistical significance,Standard deviation,1,0.508547471
+Gradient descent,Artificial neural network,0,0.254912346
+Naive Bayes classifier,Support vector machine,0,-0.248950075
+Standard deviation,Correlation and dependence,0,-0.511175327
+Cluster analysis,Correlation and dependence,1,-0.542027303
+Linear separability,Machine learning,0,0.320363257
+Statistical classification,Feedforward neural network,0,-0.349379921
+Confidence interval,Bayes' theorem,0,-0.017602877
+Feedforward neural network,Joint probability distribution,1,-0.003390779
+Data matrix (multivariate statistics),Linear regression,0,-0.041002221
+Bayesian network,Standard deviation,0,0.04515488
+Probability density function,Conditional probability distribution,0,-0.197520149
+Correlation and dependence,Single-linkage clustering,0,-0.033189077
+Sensitivity and specificity,Statistical classification,1,0.217497094
+K-means clustering,Data mining,0,-0.009919884
+Confidence interval,Standard deviation,1,0.135489561
+Regression analysis,Outlier,0,-0.17702633
+Mixture model,Bayesian network,0,0.029216755
+Interquartile range,Descriptive statistics,1,0.103035494
+F1 score,Statistical population,1,0.180734058
+Probability density function,Joint probability distribution,0,-0.297058314
+Anomaly detection,Arithmetic mean,1,0.022234994
+Confidence interval,Joint probability distribution,0,-0.054271147
+Joint probability distribution,Decision tree learning,0,-0.023972805
+Precision and recall,Sample (statistics),1,0.115863257
+Random forest,Probability density function,1,0.025395743
+DBSCAN,Outlier,0,-0.007004771
+Arithmetic mean,Data mining,0,-0.001813795
+Standard deviation,Hierarchical clustering,0,-0.064159343
+Artificial neural network,Prior probability,0,0.022776334
+Poisson regression,Likelihood function,1,0.140666326
+Level of measurement,Arithmetic mean,1,0.505520934
+Central tendency,Descriptive statistics,0,0.051647929
+Artificial neural network,Confidence interval,0,-0.001757832
+Data analysis,Anomaly detection,0,-0.003110258
+AdaBoost,Probability density function,1,0.018027049
+Naive Bayes classifier,Information retrieval,0,0.020657729
+Probability density function,Naive Bayes classifier,0,-0.116536568
+Conditional probability,Conditional independence,0,-0.196378945
+Statistical significance,Data analysis,0,0.023300235
+DBSCAN,Minkowski distance,0,0.005096621
+Likelihood function,Bayesian network,0,-0.178928648
+Data mining,Regression analysis,1,0.082012295
+Biclustering,Model selection,0,0.041840705
+Type I and type II errors,Precision and recall,0,-0.085175699
+Statistical population,Precision and recall,0,-0.183990355
+Sensitivity and specificity,False positives and false negatives,1,-0.24242622
+Regression analysis,Least squares,0,-0.423996288
+Conditional probability distribution,Bayes' theorem,0,0.119989785
+Bayesian network,Conditional independence,1,-0.04673885
+Null hypothesis,Precision and recall,0,-0.053497962
+Probability density function,Poisson regression,0,0.040271089
+Regression analysis,Machine learning,0,-0.076014563
+Precision and recall,Accuracy and precision,0,0.149640696
+Decision tree learning,Bayesian network,0,0.310149802
+Principal component analysis,Cluster analysis,0,-0.056167117
+Association rule learning,Conditional probability,1,0.031436461
+AdaBoost,Joint probability distribution,1,0.0
+Conditional probability,Decision tree model,0,-0.037256596
+Confidence interval,Data mining,0,-0.013978667
+Anomaly detection,Support vector machine,0,-0.034054615
+Mixture model,Naive Bayes classifier,0,-0.018217492
+Conditional probability,Linear regression,0,-0.004654801
+Fuzzy clustering,Standard deviation,1,0.092560829
+Statistical classification,Backpropagation,0,-0.316256577
+Interquartile range,Probability density function,0,-0.015904803
+Cluster analysis,Outlier,0,-0.148141967
+Decision tree,Pruning (decision trees),0,-0.102244511
+Interquartile range,Standard deviation,0,0.27181235
+Standard deviation,Single-linkage clustering,0,-0.033786426
+Joint probability distribution,Conditional independence,0,-0.51685291
+Standard deviation,Statistical significance,0,-0.508547471
+DBSCAN,Anomaly detection,0,0.253710008
+Statistical classification,Artificial neural network,0,-0.069691301
+Regression analysis,Statistical significance,0,-0.533298032
+Bayes' theorem,Prior probability,0,-0.06526478
+Statistical hypothesis testing,Statistical significance,0,-0.489961362
+Bayes' theorem,Conditional probability,1,-0.286460534
+Random forest,Machine learning,1,0.370098227
+Positive and negative predictive values,Learning rate,0,0.0
+Standard deviation,Biclustering,0,-0.033306048
+Conditional probability distribution,Posterior probability,0,0.021618517
+Conditional independence,Probability density function,1,0.099223446
+Naive Bayes classifier,Machine learning,1,0.029426864
+Anomaly detection,Association rule learning,0,-0.132344619
+Standard deviation,Cluster analysis,0,0.212536787
+Hierarchical clustering,Correlation and dependence,1,0.017824363
+F1 score,Type I and type II errors,1,0.085381906
+Standard deviation,Spectral clustering,0,-0.034194988
+Confidence interval,Statistical population,1,-0.114877335
+Support vector machine,Hyperplane separation theorem,0,0.017243026
+Artificial neural network,Probability density function,1,0.008834626
+Data mining,Decision tree,0,-0.061853678
+Spectral clustering,Dimensionality reduction,1,0.042994676
+Regression analysis,Standard deviation,0,-0.169246857
+Precision and recall,Null hypothesis,1,0.053497962
+Pruning (decision trees),Backpropagation,0,0.207686433
+Sensitivity and specificity,Accuracy and precision,0,0.08543996
+Naive Bayes classifier,Prior probability,0,0.254743498
+Pruning (decision trees),Statistical classification,1,0.318416954
+Random forest,Decision tree,1,0.047543505
+Confidence interval,Student's t-test,0,0.166204148
+Statistical classification,Data mining,0,-0.126573573
+Sample (statistics),Statistical significance,0,-0.505366714
+Support vector machine,Cross-validation (statistics),0,0.080447049
+Standard deviation,Naive Bayes classifier,0,-0.107393328
+Quartile,Interquartile range,0,0.437210109
+Machine learning,AdaBoost,0,-0.381036621
+Biclustering,Arithmetic mean,1,0.03170394
+Statistical significance,Sample (statistics),1,0.505366714
+Likelihood function,Posterior probability,0,-0.077002696
+Cluster analysis,DBSCAN,0,-0.446483053
+Type I and type II errors,Statistical hypothesis testing,1,0.621057733
+Bayes' theorem,Data mining,0,-0.002323095
+Joint probability distribution,Naive Bayes classifier,0,-0.110129833
+Bayes' theorem,Naive Bayes classifier,0,-0.288133608
+Conditional probability,Association rule learning,0,-0.031436461
+Likelihood function,Standard deviation,0,-0.035306423
+DBSCAN,OPTICS algorithm,0,-0.086415792
+Poisson regression,Gradient descent,0,-0.016956796
+Data mining,Correlation and dependence,1,-0.020777724
+Sample (statistics),Data mining,0,-0.02235686
+Arithmetic mean,Hierarchical clustering,0,-0.054614942
+Principal component analysis,Decision tree learning,0,-0.331708262
+DBSCAN,Data analysis,1,0.04587102
+Statistical classification,Regression analysis,0,0.165569715
+Cluster analysis,Fuzzy clustering,0,-0.484307522
+Sample (statistics),Type I and type II errors,0,-0.606381329
+Probability density function,Bayesian network,0,-0.10155694
+Conditional probability distribution,Conditional probability,1,0.204376983
+Bayes' theorem,Posterior probability,0,-0.320546627
+Cluster analysis,Data analysis,1,-0.09828758
+Spectral clustering,Arithmetic mean,1,0.032592881
+Mixture model,Arithmetic mean,1,0.042904954
+Standard deviation,Mixture model,0,-0.105137246
+Machine learning,Bayesian network,0,0.152753769
+Principal component analysis,Data matrix (multivariate statistics),0,-0.017036973
+Mutation (genetic algorithm),Machine learning,0,0.178577451
+Artificial neural network,Regression analysis,0,0.025973741
+Poisson regression,Regression analysis,1,0.310183993
+Single-linkage clustering,Correlation and dependence,1,0.033189077
+K-means clustering,Fuzzy clustering,0,-0.534158781
+DBSCAN,Data type,0,0.00931987
+Maximum likelihood,Prior probability,0,0.429309419
+Level of measurement,Central tendency,1,0.505362676
+Conditional probability,Expectation–maximization algorithm,0,-0.061738759
+Likelihood function,Poisson regression,0,-0.140666326
+Boosting (machine learning),Probability density function,1,0.048770711
+Ensemble learning,AdaBoost,0,-0.183122904
+Conditional probability distribution,Maximum likelihood,0,-0.007685921
+Query language,Data mining,0,0.040583854
+OPTICS algorithm,Correlation and dependence,1,0.038602981
+Statistical hypothesis testing,Type I and type II errors,0,-0.621057733
+Joint probability distribution,Random forest,0,-0.039525285
+Statistical hypothesis testing,Precision and recall,0,-0.163590889
+Arithmetic mean,K-medoids,0,0.00479981
+Decision tree learning,Data analysis,0,0.040435602
+Correlation and dependence,Arithmetic mean,1,0.479665056
+Likelihood function,Probability density function,1,-0.036869082
+Multiclass classification,Statistical classification,1,0.69957946
+Minimum description length,Prior probability,0,0.607325612
+Naive Bayes classifier,Standard deviation,1,0.107393328
+Principal component analysis,Data mining,0,-0.141169129
+Mixture model,Maximum likelihood,0,0.008076704
+Data analysis,OPTICS algorithm,0,-0.052652215
+Clustering high-dimensional data,Cluster analysis,1,0.323452892
+Correlation and dependence,Data mining,0,0.020777724
+K-means clustering,Standard deviation,1,0.016129905
+Confidence interval,Statistical hypothesis testing,0,0.216815551
+Expectation–maximization algorithm,Probability density function,1,0.106398635
+Statistical significance,Confidence interval,1,0.501423586
+Expectation–maximization algorithm,Conditional probability,1,0.061738759
+Decision tree,AdaBoost,0,-0.046078993
+Expectation–maximization algorithm,K-means clustering,0,-0.05074648
+Anomaly detection,Cluster analysis,1,0.171354379
+Decision tree learning,Joint probability distribution,1,0.023972805
+DBSCAN,Cluster analysis,1,0.446483053
+Probability density function,Feedforward neural network,0,-0.020708013
+Interquartile range,Statistical dispersion,1,0.018926752
+Standard deviation,K-means clustering,0,-0.016129905
+Machine learning,Backpropagation,0,-0.387091722
+Expectation–maximization algorithm,Cluster analysis,0,-0.063783185
+Statistical population,Statistical hypothesis testing,0,0.327763536
+Central tendency,Interquartile range,0,-0.050847162
+OPTICS algorithm,Data mining,0,0.442753463
+Signal-to-noise ratio,Standard deviation,0,0.109355113
+Null hypothesis,Type I and type II errors,0,-0.088358541
+F1 score,Standard deviation,1,0.140448465
+Decision tree learning,Random forest,0,-0.1020251
+Maximum likelihood,Linear regression,0,0.448507547
+Pruning (decision trees),Joint probability distribution,1,0.0
+Anomaly detection,Outlier,1,-0.040849521
+Backpropagation,Feedforward neural network,0,-0.680850562
+Expectation–maximization algorithm,Mixture model,0,0.020956721
+OPTICS algorithm,Arithmetic mean,1,0.068724223
+Conditional independence,Joint probability distribution,0,0.51685291
+Clustering high-dimensional data,Standard deviation,1,0.063501964
+Fitness function,Genetic algorithm,1,-0.076746747
+F1 score,Confidence interval,1,0.1236408
+Backpropagation,Gradient descent,0,0.107507337
+Stepwise regression,Linear regression,0,0.370200483
+Standard deviation,Confidence interval,0,-0.135489561
+Data mining,Association rule learning,1,-0.253707041
+Cluster analysis,Artificial neural network,0,0.032331728
+Anomaly detection,Statistical classification,0,0.235513469
+Naive Bayes classifier,Correlation and dependence,1,0.00689665
+Mixture model,Standard deviation,1,0.105137246
+Probability density function,K-means clustering,0,-0.026240006
+Statistical significance,Null hypothesis,1,0.020837197
+Data mining,Arithmetic mean,1,0.001813795
+Decision tree,Statistical classification,1,0.145640273
+Single-linkage clustering,Standard deviation,1,0.033786426
+Principal component analysis,Regression analysis,0,-0.065621247
+Joint probability distribution,Feedforward neural network,0,0.003390779
+Cluster analysis,Mixture model,0,-0.060181776
+Artificial neural network,Expert system,0,-0.026153025
+Probability density function,Decision tree learning,0,-0.03002544
+Statistical hypothesis testing,F1 score,0,-0.135157215
+Mixture model,Data analysis,1,0.011166568
+OPTICS algorithm,Data analysis,1,0.052652215
+Likelihood function,Conditional probability distribution,1,-0.139578994
+Posterior probability,Statistical classification,0,-0.401319439
+Arithmetic mean,Mixture model,0,-0.042904954
+Random forest,Ensemble learning,1,0.132400409
+Cluster analysis,Clustering high-dimensional data,0,-0.323452892
+Student's t-test,Statistical population,1,-0.284209199
+Standard deviation,OPTICS algorithm,0,-0.078498007
+Association rule learning,Data mining,0,0.253707041
+Statistical hypothesis testing,Student's t-test,0,-0.058258878
+Random forest,Bootstrap aggregating,1,-0.118414554
+Likelihood function,Prior probability,0,0.222508662
+Spectral clustering,Cluster analysis,1,0.127730888
+Arithmetic mean,Cluster analysis,0,0.406582162
+Single-linkage clustering,Data analysis,1,0.034740708
+Pruning (decision trees),Decision tree learning,1,0.258920333
+Mode (statistics),Central tendency,0,0.008963529
+Gradient descent,Nonlinear system,0,-0.009425196
+Boosting (machine learning),Data mining,0,0.289193198
+Probability density function,Maximum likelihood,0,-0.142155377
+Correlation and dependence,Standard deviation,1,0.511175327
+Poisson regression,Maximum likelihood,0,-0.409227161
+Hyperplane,Support vector machine,0,-0.026117359
+Data analysis,K-means clustering,0,-0.005477217
+DBSCAN,Arithmetic mean,1,0.056949718
+Central tendency,Arithmetic mean,1,0.008446716
+Naive Bayes classifier,Histogram,0,0.056747943
+Genetic algorithm,Fitness function,0,0.076746747
+Support vector machine,Hyperplane,1,0.026117359
+Support vector machine,Statistical classification,1,0.324034081
+Cluster analysis,Hierarchical clustering,0,-0.358454643
+Expectation–maximization algorithm,Bayesian network,0,-0.00314346
+Boosting (machine learning),Support vector machine,0,0.147631483
+Principal component analysis,Standard deviation,1,-0.119391092
+Principal component analysis,Outlier,0,-0.13719129
+Correlation and dependence,K-means clustering,0,0.008338343
+Conditional probability,Poisson regression,0,-0.009210575
+Joint probability distribution,Probability density function,1,0.297058314
+Correlation and dependence,Mixture model,0,0.001373366
+Maxima and minima,Gradient descent,0,-0.047233178
+Bayesian network,Likelihood function,1,0.178928648
+Median,Level of measurement,0,-0.521551099
+Apriori algorithm,Conditional probability,1,0.070241049
+Random forest,Bootstrapping (statistics),1,0.120303968
+Feedforward neural network,Linear separability,0,-0.018592307
+Naive Bayes classifier,Conditional probability,1,0.137661138
+Decision tree learning,Bootstrap aggregating,0,-0.231947618
+Mixture model,Histogram,0,0.049113998
+K-medoids,Outlier,0,0.062895311
+Pruning (decision trees),Probability density function,1,0.043631329
+Conditional probability,Data mining,0,-0.002639691
+Data analysis,Clustering high-dimensional data,0,-0.070426145
+Ensemble learning,Boosting (machine learning),0,-0.155815137
+Probability density function,Multiclass classification,0,-0.048524343
+Prior probability,Conditional probability,0,0.060757607
+Mixture model,Cluster analysis,1,0.060181776
+Maximum likelihood,Probability density function,1,0.142155377
+Support vector machine,Probability density function,1,0.03602709
+Stepwise regression,F-test,0,0.26089573
+Hierarchical clustering,Standard deviation,1,0.064159343
+Maximum likelihood,Bayesian network,0,0.000747482
+Null hypothesis,Statistical significance,0,-0.020837197
+Statistical hypothesis testing,Standard deviation,1,-0.094124112
+Anomaly detection,Standard deviation,1,0.040313722
+Statistical classification,Decision tree learning,0,-0.36677575
+OPTICS algorithm,Cluster analysis,1,0.49999131
+K-means clustering,Probability density function,1,0.026240006
+Type I and type II errors,Null hypothesis,1,0.088358541
+Arithmetic mean,Anomaly detection,0,-0.022234994
+Multiclass classification,Joint probability distribution,1,0.059749899
+Stepwise regression,Regression analysis,1,0.427771374
+Arithmetic mean,Central tendency,0,-0.008446716
+Backpropagation,Statistical classification,1,0.316256577
+Decision tree learning,Decision tree model,0,0.006546023
+Artificial neural network,Data processing,0,-0.02076958
+Random forest,Standard deviation,0,0.062810633
+Cluster analysis,Arithmetic mean,1,-0.406582162
+Statistical population,F1 score,0,-0.180734058
+Correlation and dependence,Clustering high-dimensional data,0,-0.069069685
+Stepwise regression,Confidence interval,0,0.292863559
+Machine learning,Boosting (machine learning),0,-0.457700476
+Statistical hypothesis testing,Bayes' theorem,0,-0.101071073
+Conditional probability,Apriori algorithm,0,-0.070241049
+Poisson regression,Linear regression,0,0.143892099
+Machine learning,Random forest,0,-0.370098227
+DBSCAN,Hierarchical clustering,0,0.087015419
+Statistical hypothesis testing,Posterior probability,0,0.194966283
+Conditional probability,Mixture model,0,-0.080375885
+OPTICS algorithm,Outlier,0,0.007273152
+Correlation and dependence,Anomaly detection,0,-0.001574579
+Conditional probability,Conditional probability distribution,0,-0.204376983
+Cluster analysis,Data mining,0,0.011394176
+Machine learning,Artificial neural network,0,0.021783924
+Probability density function,AdaBoost,0,-0.018027049
+Level of measurement,Mode (statistics),1,0.502310587
+Decision tree learning,Discretization,0,-0.000608067
+Statistical population,Data mining,0,0.004932672
+Fuzzy clustering,Correlation and dependence,1,0.040789289
+Fuzzy clustering,Arithmetic mean,1,0.095644093
+Machine learning,Multiclass classification,0,-0.749350106
+Interquartile range,Outlier,0,-0.057161564
+Natural selection,Fitness function,0,-0.07005398
+Statistical population,Confidence interval,0,0.114877335
+Cluster analysis,Precision and recall,0,-0.323994893
+Machine learning,Naive Bayes classifier,0,-0.029426864
+Natural selection,Genetic algorithm,0,-0.026650736
+Expectation–maximization algorithm,Missing data,0,0.089475091
+Bayesian network,Machine learning,1,-0.152753769
+Correlation and dependence,DBSCAN,0,-0.024338327
+K-means clustering,Cluster analysis,1,-0.00853915
+K-means clustering,Machine learning,1,-0.010169644
+Machine learning,Joint probability distribution,1,-0.028988389
+Naive Bayes classifier,Data mining,0,-0.086823888
+Bayesian network,Maximum likelihood,1,-0.000747482
+Clustering high-dimensional data,Arithmetic mean,1,0.04382243
+Confidence interval,Maximum likelihood,0,-0.441477651
+Probability density function,Expectation–maximization algorithm,0,-0.106398635
+Random forest,Decision tree learning,1,0.1020251
+Conditional probability,Posterior probability,0,-0.200022647
+Confidence interval,Median,0,0.123275293
+Data mining,Anomaly detection,1,-0.180214327
+Data analysis,Data mining,0,0.027241108
+Probability density function,Artificial neural network,0,-0.008834626
+Posterior probability,Bayesian network,0,-0.126567383
+Statistical population,Sampling (statistics),0,0.158931385
+Likelihood function,Regression analysis,0,0.119820875
+Type I and type II errors,Statistical population,1,0.602836726
+Precision and recall,Type I and type II errors,1,0.085175699
+Student's t-test,Statistical hypothesis testing,1,0.058258878
+Principal component analysis,Linear regression,0,-0.098129611
+Support vector machine,Decision tree learning,0,-0.002962766
+Mixture model,Statistical population,0,0.056820413
+Arithmetic mean,Regression analysis,0,0.358821631
+Boosting (machine learning),Ensemble learning,1,0.155815137
+Precision and recall,Statistical population,1,0.183990355
+F1 score,Precision and recall,1,0.153221961
+Arithmetic mean,Principal component analysis,0,0.326849018
+Statistical population,Sample (statistics),0,0.158931385
+Data mining,Conditional probability,1,0.002639691
+Arithmetic mean,Level of measurement,0,-0.505520934
+Standard deviation,DBSCAN,0,-0.065856174
+Standard deviation,Data mining,0,-0.034281137
+Backpropagation,Joint probability distribution,1,0.015342167
+K-medoids,Minkowski distance,0,0.029660048
+Least squares,Regression analysis,1,0.423996288
+Machine learning,Feedforward neural network,0,-0.724287151
+Correlation and dependence,Fuzzy clustering,0,-0.040789289
+Correlation and dependence,OPTICS algorithm,0,-0.038602981
+Boosting (machine learning),Cross-validation (statistics),0,0.150377163
+Prior probability,Bayesian network,0,-0.149613307
+OPTICS algorithm,Standard deviation,1,0.078498007
+Random forest,Joint probability distribution,1,0.039525285
+Statistical dispersion,Interquartile range,0,-0.018926752
+Statistical hypothesis testing,Confidence interval,1,-0.216815551
+Minimum description length,Maximum likelihood,0,0.03721409
+Single-linkage clustering,Arithmetic mean,1,0.032184319
+F1 score,Statistical hypothesis testing,1,0.135157215
+Interquartile range,Quartile,1,-0.437210109
+Interquartile range,Median,1,0.257907316
+Bayes' theorem,Conditional probability distribution,1,-0.119989785
+Decision tree model,Decision tree,1,0.020403243
+Interquartile range,Histogram,0,0.077435016
+Machine learning,K-means clustering,0,0.010169644
+Bootstrap aggregating,Random forest,0,0.118414554
+Artificial neural network,Feedforward neural network,0,-0.74722238
+Conditional probability,Bayes' theorem,0,0.286460534
+Boosting (machine learning),Joint probability distribution,1,0.041158729
+Random forest,Boosting (machine learning),0,-0.020824526
+Backpropagation,Linear separability,0,-0.123010625
+Bayesian network,Prior probability,1,0.149613307
+Correlation and dependence,K-medoids,0,0.003795052
+Joint probability distribution,Bayesian network,0,-0.052766345
+Arithmetic mean,Correlation and dependence,0,-0.479665056
+Sample (statistics),Student's t-test,0,0.073036092
+Null hypothesis,Student's t-test,0,0.561306702
+Association rule learning,Data analysis,0,0.009303126
+Conditional probability distribution,Likelihood function,0,0.139578994
+Posterior probability,Conditional probability,1,0.200022647
+Stepwise regression,Data mining,0,0.069143768
+Arithmetic mean,OPTICS algorithm,0,-0.068724223
+Decision tree model,Statistical classification,1,0.012212578
+Precision and recall,Information retrieval,1,0.121930555
+Mixture model,K-means clustering,0,0.036216636
+Precision and recall,Web search engine,0,-0.005652958
+Mode (statistics),Level of measurement,0,-0.502310587
+Decision tree,Association rule learning,0,-0.003902873
+Principal component analysis,Signal-to-noise ratio,0,-0.03731938
+Outlier,Anomaly detection,0,0.040849521
+Statistical significance,Statistical hypothesis testing,1,0.489961362
+Probability density function,Backpropagation,0,-0.022933425
+Likelihood function,Statistical model,0,-0.170253136
+Data analysis,K-medoids,0,-0.023047091
+Hierarchical clustering,Cluster analysis,1,0.358454643
+Joint probability distribution,Artificial neural network,0,-0.009103353
+Bayesian network,Conditional probability distribution,1,0.002870661
+Expectation–maximization algorithm,Fuzzy clustering,0,-0.579541559
+Naive Bayes classifier,Conditional independence,1,0.06042014
+Arithmetic mean,K-means clustering,0,-0.013453173
+Random forest,Expert system,0,-0.015044075
+Confidence interval,Type I and type II errors,0,-0.615041486
+Level of measurement,Standard deviation,1,0.534483232
+Data analysis,Mixture model,0,-0.011166568
+Regression analysis,Stepwise regression,0,-0.427771374
+Data mining,Confidence interval,1,0.013978667
+Sampling (statistics),Statistical population,1,-0.158931385
+Type I and type II errors,Confidence interval,1,0.615041486
+Pruning (decision trees),Artificial neural network,0,0.216782608
+Cluster analysis,Confusion matrix,0,-0.042189493
+Data mining,Hierarchical clustering,0,-0.261295302
+Regression analysis,Statistical dispersion,0,-0.380770238
+Probability density function,Conditional independence,0,-0.099223446
+Statistical classification,Pruning (decision trees),0,-0.318416954
+Genetic algorithm,Natural selection,1,0.026650736
+Biclustering,Correlation and dependence,1,0.045257251
+Random forest,Statistical classification,1,0.434977833
+Mutation (genetic algorithm),Natural selection,1,0.121586943
+Probability density function,Pruning (decision trees),0,-0.043631329
+Standard deviation,Precision and recall,0,-0.137186498
+Machine learning,Decision tree learning,0,-0.254850591
+Correlation and dependence,Biclustering,0,-0.045257251
+Decision tree learning,Decision tree,1,0.054316924
+OPTICS algorithm,Anomaly detection,0,0.313173092
+Expectation–maximization algorithm,Conditional probability distribution,1,0.035702944
+Biclustering,Data mining,0,0.037657089
+AdaBoost,Machine learning,1,0.381036621
+Standard deviation,F1 score,0,-0.140448465
+Maximum likelihood,Naive Bayes classifier,0,-0.024754641
+Confidence interval,F1 score,0,-0.1236408
+Statistical population,Type I and type II errors,0,-0.602836726
+Correlation and dependence,Naive Bayes classifier,0,-0.00689665
+Anomaly detection,Ensemble learning,0,-0.054300938
+Stepwise regression,Model selection,0,0.356414841
+Statistical classification,Sensitivity and specificity,0,-0.217497094
+Statistical population,Statistical significance,0,-0.476371326
+False positives and false negatives,Sensitivity and specificity,0,0.24242622
+Hyperplane separation theorem,Support vector machine,0,-0.017243026
+Anomaly detection,Data analysis,1,0.003110258
+Central tendency,Mode (statistics),1,-0.008963529
+Random forest,Mode (statistics),0,0.062047337
+Sensitivity and specificity,Statistical significance,0,0.031903847
+Precision and recall,Statistical classification,1,0.310469435
+Sample (statistics),Statistical hypothesis testing,0,0.116808443
+Biclustering,Mode (statistics),0,0.031656632
+Cluster analysis,Biclustering,0,-0.081837859
+Joint probability distribution,K-means clustering,0,-0.012502803
+Statistical hypothesis testing,Sensitivity and specificity,0,-0.143004373
+DBSCAN,Standard deviation,1,0.065856174
+Genetic algorithm,Mutation (genetic algorithm),0,-0.245715516
+Boosting (machine learning),Decision tree,0,0.055776293
+Cluster analysis,OPTICS algorithm,0,-0.49999131
+K-means clustering,Joint probability distribution,1,0.012502803
+Machine learning,Probability density function,1,-0.071154145
+Standard deviation,Principal component analysis,0,0.119391092
+Data analysis,Hierarchical clustering,0,-0.069634874
+Probability density function,Mixture model,0,-0.12448896
+Cluster analysis,Standard deviation,1,-0.212536787
+Naive Bayes classifier,Probability density function,1,0.116536568
+Statistical hypothesis testing,Statistical model,0,-0.250044303
+Statistical hypothesis testing,Null hypothesis,1,-0.555143508
+Poisson regression,Probability density function,1,-0.040271089
+Hierarchical clustering,Biclustering,0,-0.012494358
+Genetic algorithm,Cluster analysis,0,0.005837776
+Receiver operating characteristic,Statistical classification,1,0.392606966
+Spectral clustering,Standard deviation,1,0.034194988
+Naive Bayes classifier,Statistical classification,1,0.128835132
+Conditional probability,Pruning (decision trees),0,0.0
+Conditional probability distribution,Bayesian network,0,-0.002870661
+Statistical hypothesis testing,Model selection,0,-0.164146856
+Arithmetic mean,Biclustering,0,-0.03170394
+Mixture model,Posterior probability,0,0.029498783
+Central tendency,Median,1,0.186450328
+Data mining,Cluster analysis,1,-0.011394176
+Hyperplane,Linear separability,0,-0.281016067
+Web search engine,Data mining,0,0.012486144
+Positive and negative predictive values,False positives and false negatives,1,-0.085071538
+Precision and recall,Statistical hypothesis testing,1,0.163590889
+Bayesian network,Conditional probability,1,0.13053827
+Backpropagation,Probability density function,1,0.022933425
+Principal component analysis,Arithmetic mean,1,-0.326849018
+Bootstrapping (statistics),Random forest,0,-0.120303968
+Correlation and dependence,Cluster analysis,0,0.542027303
+DBSCAN,Correlation and dependence,1,0.024338327
+Joint probability distribution,Pruning (decision trees),0,0.0
+Standard deviation,Type I and type II errors,0,-0.613805468
+Conditional independence,Conditional probability,1,0.196378945
+Stepwise regression,Ensemble learning,0,0.056790713
+Likelihood function,Expectation–maximization algorithm,0,-0.077941495
+Type I and type II errors,Sample (statistics),1,0.606381329
+Regression analysis,Data mining,0,-0.082012295
+Support vector machine,Classification rule,0,-0.172406963
+Arithmetic mean,Single-linkage clustering,0,-0.032184319
+K-medoids,Data analysis,1,0.023047091
+Data mining,Sample (statistics),1,0.02235686
+Confidence interval,Statistical significance,0,-0.501423586
+Bayesian network,Probability density function,1,0.10155694
+Decision tree learning,Data mining,0,0.194389788
+Sensitivity and specificity,Precision and recall,0,-0.061014305
+Principal component analysis,Correlation and dependence,1,-0.505582201
+Cluster analysis,Single-linkage clustering,0,-0.323409556
+Support vector machine,Regression analysis,0,0.251152807
+Feedforward neural network,Artificial neural network,1,0.74722238
+Precision and recall,Arithmetic mean,0,0.102583397
+Joint probability distribution,Multiclass classification,0,-0.059749899
+Statistical classification,Receiver operating characteristic,0,-0.392606966
+Gradient descent,Maxima and minima,1,0.047233178
+Probability density function,Support vector machine,0,-0.03602709
+Probability density function,Median,0,0.094162808
+Anomaly detection,Data mining,0,0.180214327
+Data analysis,Cluster analysis,0,0.09828758
+Conditional probability,Likelihood function,0,0.056435406
+Data mining,Null hypothesis,1,-0.039581939
+Data mining,Data analysis,1,-0.027241108
+Single-linkage clustering,Cluster analysis,1,0.323409556
+Correlation and dependence,Spectral clustering,0,-0.023843456
+Decision tree learning,Artificial neural network,0,0.194598793
+Bayesian network,Expectation–maximization algorithm,1,0.00314346
+Naive Bayes classifier,Joint probability distribution,1,0.110129833
+Naive Bayes classifier,Random forest,0,-0.376156754
+Probability density function,Likelihood function,0,0.036869082
+Mixture model,Outlier,0,0.009511364
+Hierarchical clustering,Data analysis,1,0.069634874
+Null hypothesis,Data mining,0,0.039581939
+Posterior probability,Probability density function,1,-0.002375891
+Conditional probability,Random forest,0,-0.03831307
+Decision tree,Genetic algorithm,0,0.004776207
+Joint probability distribution,Machine learning,0,0.028988389
+K-medoids,Standard deviation,1,-0.003197702
+K-means clustering,Principal component analysis,0,0.054460522
+Mixture model,Probability density function,1,0.12448896
+Feedforward neural network,Statistical classification,1,0.349379921
+Single-linkage clustering,Hierarchical clustering,0,0.228867487
+Statistical classification,Naive Bayes classifier,0,-0.128835132
+Mixture model,Bayes' theorem,0,0.089122145
+Data mining,Standard deviation,1,0.034281137
+Cluster analysis,Information retrieval,0,-0.004639376
+Statistical population,Student's t-test,0,0.284209199
+Artificial neural network,Discretization,0,-0.005229531
+Joint probability distribution,Conditional probability,0,-0.349713144
+Artificial neural network,Machine learning,1,-0.021783924
+Standard deviation,Anomaly detection,0,-0.040313722
+Boosting (machine learning),Gradient descent,0,0.01551974
+Sample (statistics),Statistical population,1,-0.158931385
+Data mining,Outlier,1,-0.044026663
+Likelihood function,Maximum likelihood,0,-0.456181303
+Decision tree,Classification rule,0,-0.023397608
+Expectation–maximization algorithm,Likelihood function,1,0.077941495
+Spectral clustering,Correlation and dependence,1,0.023843456
+K-means clustering,Arithmetic mean,1,0.013453173
+Arithmetic mean,DBSCAN,0,-0.056949718
+Support vector machine,Machine learning,1,0.330927394
+Support vector machine,Joint probability distribution,1,0.047325053
+Central tendency,Level of measurement,0,-0.505362676
+Regression analysis,Arithmetic mean,1,-0.358821631
+Principal component analysis,Artificial neural network,0,-0.102206461
+Confidence interval,Precision and recall,0,-0.130782633
+Cluster analysis,Spectral clustering,0,-0.127730888
+Student's t-test,Null hypothesis,1,-0.561306702
+Data analysis,Spectral clustering,0,-0.047305132
+Standard deviation,K-medoids,0,0.003197702
+Precision and recall,Confusion matrix,0,0.233689494
+Decision tree,Random forest,0,-0.047543505
+Data mining,Statistical population,1,-0.004932672
+F1 score,Statistical classification,1,0.359470461
+Hierarchical clustering,DBSCAN,0,-0.087015419
+Regression analysis,Confidence interval,0,-0.272657865
+Ensemble learning,Random forest,0,-0.132400409
+Statistical hypothesis testing,Prior probability,0,0.322647014
+Artificial neural network,Data mining,0,-0.028358258
+Maximum likelihood,Expectation–maximization algorithm,0,-0.010317887
+K-medoids,K-means clustering,0,0.077135482
+Standard deviation,Fuzzy clustering,0,-0.092560829
+Posterior probability,Conditional probability distribution,1,-0.021618517
+Arithmetic mean,Stepwise regression,0,-0.291508586
+Confidence interval,Sensitivity and specificity,0,-0.127077266
+Correlation and dependence,Linear regression,0,0.49961547
+Likelihood function,Confidence interval,0,-0.164977706
+Pruning (decision trees),Cross-validation (statistics),0,0.258920333
+Dimensionality reduction,Principal component analysis,0,0.219728637
+Stepwise regression,Arithmetic mean,1,0.291508586
+Probability density function,Random forest,0,-0.025395743
+Arithmetic mean,Least squares,0,-0.353777083
+Maximum likelihood,Conditional probability distribution,1,0.007685921

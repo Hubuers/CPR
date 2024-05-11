@@ -1,0 +1,382 @@
+planning,depend_on_c,logic and logical agents
+linguistics basics,depend_on_c,text generation
+parsing,depend_on_c,parsing evaluation
+syntax,depend_on_c,penn treebank
+logic and logical agents,depend_on_c,expert systems
+vector semantics,depend_on_c,word embedding
+calculus,depend_on_c,machine learning resources
+machine learning resources,depend_on_c,Meta-Learning
+structured learning,depend_on_c,automated essay scoring
+linguistics basics,depend_on_c,semantic parsing
+dynamic programming,depend_on_c,cky parsing
+machine learning resources,depend_on_c,k means
+part of speech tagging,depend_on_c,statistical part of speech tagging
+semi-supervised learning,depend_on_c,neural networks
+text similarity,depend_on_c,word sense disambiguation
+machine learning resources,depend_on_c,word embedding
+sentence representations,depend_on_c,information extraction
+machine learning resources,depend_on_c,semi-supervised learning
+machine learning resources,depend_on_c,neural networks
+Markov chains,depend_on_c,markov chain monte carlo
+natural language processing intro,depend_on_c,relation extraction
+linguistics basics,depend_on_c,propositional logic
+training neural networks,depend_on_c,stack lstm
+deep learning introduction,depend_on_c,stack lstm
+first order logic,depend_on_c,predicate logic
+natural language processing intro,depend_on_c,probabilistic context free grammars
+random walks and harmonic functions,depend_on_c,semi-supervised learning
+random walks and harmonic functions,depend_on_c,neural networks
+dynamic programming,depend_on_c,course introduction
+linguistics basics,depend_on_c,spelling correction
+long short term memory networks,depend_on_c,neural question answering
+probabilities,depend_on_c,Meta-Learning
+convolutional neural networks,depend_on_c,graph convolutional networks
+probabilities,depend_on_c,word distributions
+word distributions,depend_on_c,language modeling
+summarization evaluation,depend_on_c,scientific article summarization
+natural language processing intro,depend_on_c,text generation
+parsing evaluation,depend_on_c,semantic parsing
+linear algebra,depend_on_c,dimensionality reduction
+linguistics basics,depend_on_c,speech processing
+linguistics basics,depend_on_c,word embedding
+vector semantics,depend_on_c,text mining
+sentence representations,depend_on_c,document representation
+linear algebra,depend_on_c,spectral methods
+loss function,depend_on_c,machine learning resources
+classic parsing methods,depend_on_c,shift-reduce parsing
+calculus,depend_on_c,State Space Models
+vector representations,depend_on_c,bag of words model
+dependency parsing,depend_on_c,transition based dependency parsing
+linguistics basics,depend_on_c,semantic role labeling
+natural language processing intro,depend_on_c,propositional logic
+sentence representations,depend_on_c,text mining
+natural language processing intro,depend_on_c,chomsky hierarchy
+neural networks,depend_on_c,syntaxnet
+linguistics basics,depend_on_c,recommendation system
+optimization,depend_on_c,Lagrange duality
+text similarity,depend_on_c,recommendation system
+machine learning resources,depend_on_c,sequence classification and conditional random fields
+word distributions,depend_on_c,character level language models
+linguistics basics,depend_on_c,speech synthesis
+natural language processing intro,depend_on_c,semantic role labeling
+random walks and harmonic functions,depend_on_c,weakly-supervised learning
+parsing,depend_on_c,event detection
+linguistics basics,depend_on_c,phonetics
+planning,depend_on_c,problem solving and search
+natural language processing intro,depend_on_c,feature selection
+robotics,depend_on_c,robotic locomotion
+Unsupervised learning,depend_on_c,k means
+natural language processing intro,depend_on_c,chinese nlp
+logic and logical agents,depend_on_c,agent-based view of ai
+language modeling,depend_on_c,evaluation of language modeling
+planning,depend_on_c,game playing in ai
+vector semantics,depend_on_c,recommendation system
+neural summarization,depend_on_c,scientific article summarization
+part of speech tagging,depend_on_c,course introduction
+deep learning introduction,depend_on_c,neural machine translation
+sentence representations,depend_on_c,text summarization
+natural language processing intro,depend_on_c,sentence simplification
+nlp for biology,depend_on_c,bio text mining
+question answering,depend_on_c,evaluation of question answering
+calculus,depend_on_c,harmonic functions
+Principal Component Analysis,depend_on_c,matrix factorization
+linguistics basics,depend_on_c,shallow parsing
+linguistics basics,depend_on_c,grammar checker
+parsing,depend_on_c,semantic parsing
+semantic similarity,depend_on_c,thesaurus-based similarity
+search,depend_on_c,game playing in ai
+chomsky hierarchy,depend_on_c,probabilistic grammars
+probabilistic grammars,depend_on_c,probabilistic context free grammars
+information retrieval,depend_on_c,image retrieval
+linguistics basics,depend_on_c,knowledge representation
+graphical models,depend_on_c,Markov Random Fields
+random walks,depend_on_c,harmonic functions
+word embedding,depend_on_c,word embedding variations
+graphical models,depend_on_c,Mean Field Approximation
+linguistics basics,depend_on_c,language modeling
+word embedding,depend_on_c,syntaxnet
+graph-based nlp,depend_on_c,pagerank
+wordnet,depend_on_c,lexical semantics
+backpropagation,depend_on_c,Variations of GANs
+text summarization,depend_on_c,summarization evaluation
+information extraction,depend_on_c,social media analysis
+probabilities,depend_on_c,speech processing
+probabilities,depend_on_c,monte carlo tree search
+natural language processing intro,depend_on_c,edit distance
+natural language processing intro,depend_on_c,Sequence to sequence
+sentence representations,depend_on_c,sentiment analysis
+structured learning,depend_on_c,context free grammars
+linguistics basics,depend_on_c,feature selection
+semantic similarity,depend_on_c,relation extraction
+classification,depend_on_c,sentence boundary recognition
+linguistics basics,depend_on_c,query expansion
+natural language processing intro,depend_on_c,shift-reduce parsing
+logic and reasoning,depend_on_c,predicate logic
+chomsky hierarchy,depend_on_c,context sensitive grammar
+optimization,depend_on_c,machine learning resources
+Sampling,depend_on_c,markov chain monte carlo
+lexical semantics,depend_on_c,event detection
+long short term memory networks,depend_on_c,memory networks
+computer vision,depend_on_c,nlp and vision
+calculus,depend_on_c,mathematical models
+syntax,depend_on_c,syntaxnet
+vector representations,depend_on_c,bio text mining
+n-gram models,depend_on_c,word distributions
+chinese nlp,depend_on_c,grammar checker
+maximum likelihood estimation,depend_on_c,Autoencoders
+natural language processing intro,depend_on_c,dialog systems
+loss function,depend_on_c,Meta-Learning
+linguistics basics,depend_on_c,document representation
+linguistics basics,depend_on_c,dialog systems
+probabilities,depend_on_c,variational bayes models
+probabilities,depend_on_c,bayesian network
+natural language processing intro,depend_on_c,automated essay scoring
+optimization,depend_on_c,KKT conditions
+linguistics basics,depend_on_c,morphology and lexicon
+search,depend_on_c,adversarial search
+machine translation,depend_on_c,noisy channel model
+natural language processing intro,depend_on_c,word embedding
+probabilities,depend_on_c,monte carlo methods
+logic and reasoning,depend_on_c,knowledge representation
+natural language processing intro,depend_on_c,named entity recognition
+probabilities,depend_on_c,mathematical models
+structured learning,depend_on_c,semantic similarity
+structured learning,depend_on_c,tsne
+information retrieval,depend_on_c,toolkits for information retrieval
+vector semantics,depend_on_c,bio text mining
+vector representations,depend_on_c,automated essay scoring
+neural networks,depend_on_c,convolutional neural networks
+shift-reduce parsing,depend_on_c,transition based dependency parsing
+question answering,depend_on_c,neural question answering
+linguistics basics,depend_on_c,prosody
+reinforcement learning,depend_on_c,robotics
+Sampling,depend_on_c,gibbs sampling
+semantic similarity,depend_on_c,sentence simplification
+Markov chains,depend_on_c,latent dirichlet allocation
+monte carlo methods,depend_on_c,latent dirichlet allocation
+linguistics basics,depend_on_c,text to speech generation
+bio text mining,depend_on_c,nlp for biology
+vector semantics,depend_on_c,context free grammars
+syntax,depend_on_c,dependency syntax
+Unsupervised learning,depend_on_c,neural networks
+natural language processing intro,depend_on_c,morphology and lexicon
+uncertainty,depend_on_c,robotics
+classification,depend_on_c,sequence classification and conditional random fields
+optimization,depend_on_c,newton method
+structured learning,depend_on_c,word embedding
+deep learning introduction,depend_on_c,word embedding
+neural networks,depend_on_c,neural parsing
+neural networks,depend_on_c,Autoencoders
+convolutional neural network,depend_on_c,ResNet
+vector representations,depend_on_c,structured learning
+neural networks,depend_on_c,memory networks
+linguistics basics,depend_on_c,course introduction
+neural networks,depend_on_c,neural language modeling
+probabilities,depend_on_c,course introduction
+structured learning,depend_on_c,text mining
+syntax,depend_on_c,shift-reduce parsing
+probabilities,depend_on_c,bayes theorem
+Unsupervised learning,depend_on_c,tsne
+structured learning,depend_on_c,bio text mining
+machine translation,depend_on_c,syntax based machine translation
+linear algebra,depend_on_c,mathematical models
+chomsky hierarchy,depend_on_c,computation theory
+singular value decomposition,depend_on_c,Principal Component Analysis
+linear algebra,depend_on_c,structured learning
+linguistics basics,depend_on_c,sentence simplification
+text similarity,depend_on_c,text mining
+probabilities,depend_on_c,structured sparsity
+probabilities,depend_on_c,structured learning
+natural language processing intro,depend_on_c,word sense disambiguation
+information retrieval,depend_on_c,text mining
+linguistics basics,depend_on_c,language identification
+tree adjoining grammar,depend_on_c,context sensitive grammar
+parsing,depend_on_c,dependency parsing
+evaluation of text classification,depend_on_c,sentiment analysis
+calculus,depend_on_c,spectral methods
+natural language processing intro,depend_on_c,lexicography
+text similarity,depend_on_c,document representation
+machine learning resources,depend_on_c,linear regression
+chinese nlp,depend_on_c,spelling correction
+backpropagation,depend_on_c,Autoencoders
+hidden markov models,depend_on_c,course introduction
+search,depend_on_c,logic and logical agents
+natural language processing intro,depend_on_c,machine translation
+wordnet,depend_on_c,thesaurus-based similarity
+machine learning resources,depend_on_c,spectral clustering
+deep learning introduction,depend_on_c,neural turing machine
+matrix multiplication,depend_on_c,Message Passing
+speech processing,depend_on_c,text to speech generation
+recurrent neural networks,depend_on_c,gated recurrent units
+probabilities,depend_on_c,Manifold Learning
+dimensionality reduction,depend_on_c,Manifold Learning
+python,depend_on_c,preprocessing
+calculus,depend_on_c,Manifold Learning
+natural language processing intro,depend_on_c,context free grammars
+linguistics basics,depend_on_c,entailment
+loss function,depend_on_c,speech processing
+calculus,depend_on_c,Meta-Learning
+natural language processing intro,depend_on_c,nlp and vision
+machine learning resources,depend_on_c,latent dirichlet allocation
+natural language processing intro,depend_on_c,nlp for the humanities
+natural language processing intro,depend_on_c,recommendation system
+machine translation techniques,depend_on_c,neural machine translation
+neural networks,depend_on_c,neural question answering
+optimization,depend_on_c,memory networks
+natural language processing intro,depend_on_c,event detection
+Unsupervised learning,depend_on_c,spectral clustering
+calculus,depend_on_c,structured sparsity
+knowledge representation,depend_on_c,predicate logic
+linguistics basics,depend_on_c,penn treebank
+machine learning resources,depend_on_c,speech synthesis
+programming languages,depend_on_c,tools for dl
+neural networks,depend_on_c,training neural networks
+linear algebra,depend_on_c,Variations of GANs
+recurrent neural networks,depend_on_c,neural turing machine
+linear algebra,depend_on_c,latent variable models
+linguistics basics,depend_on_c,semantic similarity
+monte carlo methods,depend_on_c,particle filter
+machine learning resources,depend_on_c,game playing in ai
+optimization,depend_on_c,Meta-Learning
+Principal Component Analysis,depend_on_c,Manifold Learning
+vector representations,depend_on_c,word sense disambiguation
+clustering,depend_on_c,Mixture Models
+word distributions,depend_on_c,word embedding
+vector semantics,depend_on_c,automated essay scoring
+evaluation of language modeling,depend_on_c,neural language modeling
+parsing,depend_on_c,shallow parsing
+machine translation,depend_on_c,neural machine translation
+question answering,depend_on_c,Visual QA
+machine translation,depend_on_c,machine translation techniques
+machine learning resources,depend_on_c,logistic regression
+linguistics basics,depend_on_c,word sense disambiguation
+morphology and lexicon,depend_on_c,query expansion
+parsing,depend_on_c,semi supervised learning
+evaluation of text classification,depend_on_c,relation extraction
+linear algebra,depend_on_c,State Space Models
+natural language processing intro,depend_on_c,document representation
+structured learning,depend_on_c,word distributions
+bayes theorem,depend_on_c,bayesian network
+classic parsing methods,depend_on_c,semantic parsing
+natural language processing intro,depend_on_c,shallow parsing
+linear algebra,depend_on_c,Principal Component Analysis
+word distributions,depend_on_c,context free grammars
+linguistics basics,depend_on_c,chomsky hierarchy
+vector semantics,depend_on_c,semantic similarity
+natural language processing intro,depend_on_c,noisy channel model
+natural language processing intro,depend_on_c,query expansion
+Gaussian graphical models,depend_on_c,Mixture Models
+recurrent neural networks,depend_on_c,neural question answering
+natural language processing intro,depend_on_c,regular expressions
+problem solving and search,depend_on_c,game playing in ai
+penn treebank,depend_on_c,first-order logic
+machine learning resources,depend_on_c,random walks and harmonic functions
+natural language processing intro,depend_on_c,vector representations
+text similarity,depend_on_c,event detection
+structured learning,depend_on_c,document representation
+vector representations,depend_on_c,context free grammars
+social network extraction,depend_on_c,citation networks
+sentence representations,depend_on_c,neural machine translation
+natural language processing intro,depend_on_c,knowledge representation
+parsing,depend_on_c,statistical parsing
+random walks and harmonic functions,depend_on_c,Unsupervised learning
+evaluation of information retrieval,depend_on_c,query expansion
+word embedding variations,depend_on_c,multilingual word embedding
+linguistics basics,depend_on_c,nlp and vision
+planning,depend_on_c,robotics
+convolutional neural network,depend_on_c,neural question answering
+finite state machines,depend_on_c,finite state transducers
+machine translation,depend_on_c,morphology and semantics in machine translation
+linguistics basics,depend_on_c,lexicography
+graph-based nlp,depend_on_c,citation networks
+structured learning,depend_on_c,recommendation system
+latent variable models,depend_on_c,linear discriminant analysis
+context free grammar,depend_on_c,cky parsing
+probabilities,depend_on_c,social network extraction
+relation extraction,depend_on_c,social media analysis
+natural language processing intro,depend_on_c,semantic similarity
+linguistics basics,depend_on_c,edit distance
+training neural networks,depend_on_c,recursive neural networks
+lexical semantics,depend_on_c,thesaurus-based similarity
+probabilities,depend_on_c,Mixture Models
+information retrieval,depend_on_c,search engines
+sentence representations,depend_on_c,sentence simplification
+text summarization,depend_on_c,neural summarization
+natural language processing intro,depend_on_c,discourse analysis
+word distributions,depend_on_c,topic modeling
+sentence representations,depend_on_c,automated essay scoring
+machine translation,depend_on_c,the ibm models
+dimensionality reduction,depend_on_c,Principal Component Analysis
+parsing,depend_on_c,neural parsing
+search,depend_on_c,uncertainty
+loss function,depend_on_c,Autoencoders
+toolkits for information retrieval,depend_on_c,query expansion
+vector semantics,depend_on_c,document representation
+structured learning,depend_on_c,vector semantics
+probabilities,depend_on_c,question answering
+feature learning,depend_on_c,Manifold Learning
+linguistics basics,depend_on_c,computational phonology
+calculus,depend_on_c,recursive neural network
+linguistics basics,depend_on_c,Sequence to sequence
+classification,depend_on_c,sentiment analysis
+linear algebra,depend_on_c,machine learning resources
+latent variable models,depend_on_c,latent dirichlet allocation
+natural language processing intro,depend_on_c,speech processing
+natural language processing intro,depend_on_c,text to speech generation
+loss function,depend_on_c,Variations of GANs
+machine learning resources,depend_on_c,autonomous cars
+graph theory,depend_on_c,Message Passing
+latent variable models,depend_on_c,topic modeling
+linguistics basics,depend_on_c,probabilistic context free grammars
+Markov chains,depend_on_c,markov decision processes
+linguistics basics,depend_on_c,cky parsing
+natural language processing intro,depend_on_c,language modeling
+machine learning resources,depend_on_c,kernel function
+python,depend_on_c,tools for dl
+monte carlo tree search,depend_on_c,AlphaGo
+probabilities,depend_on_c,problem solving and search
+heuristic search,depend_on_c,a* search
+linguistics basics,depend_on_c,discourse analysis
+natural language processing intro,depend_on_c,kernels
+linguistics basics,depend_on_c,information extraction
+natural language processing intro,depend_on_c,text mining
+linguistics basics,depend_on_c,event detection
+linear algebra,depend_on_c,Manifold Learning
+syntax,depend_on_c,cky parsing
+machine learning resources,depend_on_c,linear discriminant analysis
+optimization,depend_on_c,dual decomposition
+bayes theorem,depend_on_c,question answering
+planning,depend_on_c,adversarial search
+natural language processing intro,depend_on_c,grammar checker
+machine learning resources,depend_on_c,loss function
+machine learning resources,depend_on_c,log-linear models
+programming languages,depend_on_c,preprocessing
+structured learning,depend_on_c,kernels
+vector representations,depend_on_c,text mining
+machine learning resources,depend_on_c,Unsupervised learning
+random walks and harmonic functions,depend_on_c,sentiment analysis
+reinforcement learning,depend_on_c,agent-based view of ai
+context free grammar,depend_on_c,context sensitive grammar
+probabilities,depend_on_c,statistical parsing
+dimensionality reduction,depend_on_c,latent semantic indexing
+Mixture Models,depend_on_c,expectation maximization algorithm
+part of speech tagging,depend_on_c,syntaxnet
+vector semantics,depend_on_c,kernels
+linguistics basics,depend_on_c,relation extraction
+logic and logical agents,depend_on_c,propositional logic
+information retrieval,depend_on_c,document ranking
+natural language processing intro,depend_on_c,course introduction
+vector semantics,depend_on_c,tsne
+structured learning,depend_on_c,sentence representations
+text similarity,depend_on_c,bio text mining
+linguistics basics,depend_on_c,nlp for the humanities
+linguistics basics,depend_on_c,sentence boundary recognition
+linguistics basics,depend_on_c,kernels
+training neural networks,depend_on_c,graph convolutional networks
+probabilities,depend_on_c,hidden markov models
+semi-supervised learning,depend_on_c,graph convolutional networks
+search,depend_on_c,heuristic search
+probabilities,depend_on_c,Naive Bayes
+speech processing,depend_on_c,speech synthesis
+machine translation,depend_on_c,statistical machine translation
+dimensionality reduction,depend_on_c,tsne

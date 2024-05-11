@@ -1,0 +1,4569 @@
+cmu_15-322,depend_on_r,cmu_15-112
+SQL,depend_on_c,Computational science
+Neural network,depend_on_c,Computation
+stanford_CS 367,r_contain_c,Matrix (mathematics)
+caltech_CS/CNS 171,r_contain_c,Graphics
+princeton_COS  597B,r_contain_c,Computer science
+Computer simulation,depend_on_c,Graph theory
+illinois_CS 476,depend_on_r,illinois_CS 373
+stanford_CS 367,r_contain_c,Algorithm
+stanford_CS 231B,depend_on_r,stanford_CS 228
+stanford_CS 348A,r_contain_c,Geometry
+mit_6.336,r_contain_c,Matrix (mathematics)
+illinois_CS 523,r_contain_c,File system
+caltech_CS 124,r_contain_c,Memory management
+stanford_CS 205A,r_contain_c,Calculus
+princeton_COS  513,r_contain_c,Data
+caltech_CS 116,r_contain_c,Semantics
+mit_6.111,depend_on_r,mit_6.002
+mit_6.815,r_contain_c,Data (computing)
+Software engineering,depend_on_c,Abstract data type
+maryland_CMSC 430,r_contain_c,Lexical analysis
+3D computer graphics,depend_on_c,Algorithm
+Database system,depend_on_c,Data (computing)
+psu_CMPSC 465,depend_on_r,psu_CMPSC 360
+String (computer science),depend_on_c,Data (computing)
+illinois_CS 447,depend_on_r,illinois_CS 373
+Relational database,depend_on_c,Data
+illinois_CS 440,r_contain_c,Robotics
+"princeton_COS  375,ELE  375",r_contain_c,Computer
+Database system,depend_on_c,Computer science
+psu_CMPSC 431W,r_contain_c,Data (computing)
+Index (database),depend_on_c,Logic
+psu_CSE 542,r_contain_c,Data
+Computational geometry,depend_on_c,Combinatorics
+Data structure,depend_on_c,Computer
+caltech_CS/CNS 171,r_contain_c,Shading
+iowa_CS:5810,depend_on_r,iowa_CS:2820
+cmu_15-466,r_contain_c,Computer
+Theory of computation,depend_on_c,Foundations of mathematics
+caltech_CS/EE 146,r_contain_c,Internet
+Neural network,depend_on_c,Computational science
+msu_CSE 450,r_contain_c,Parsing
+illinois_CS 565,r_contain_c,Computer
+Shortest path problem,depend_on_c,Algorithm
+psu_CMPSC 430,r_contain_c,Relational database
+mit_6.813,r_contain_c,Computer
+cmu_15-351,r_contain_c,Analysis of algorithms
+Analysis of algorithms,depend_on_c,Number theory
+psu_CSE 532,depend_on_r,psu_CSE 530
+stanford_CS 196,r_contain_c,Computing
+Java (programming language),depend_on_c,Computer
+psu_CMPSC 302,r_contain_c,Recursion (computer science)
+stanford_CS 221,r_contain_c,Mathematics
+stanford_CS 211,r_contain_c,Virtual reality
+Operating system,depend_on_c,Digital electronics
+iowa_CS:3820,depend_on_r,iowa_CS:2820
+maryland_CMSC 424,r_contain_c,Database design
+mit_6.853,r_contain_c,Computer science
+Algorithm,depend_on_c,Computability
+Query optimization,depend_on_c,Programming language
+mit_6.011,r_contain_c,Inference
+psu_CSE 564,r_contain_c,NP (complexity)
+Robotics,depend_on_c,Analysis of algorithms
+mit_6.842,r_contain_c,Fourier analysis
+mit_6.02,depend_on_r,mit_6.01
+illinois_CS 101,r_contain_c,Problem solving
+cmu_15-150,depend_on_r,cmu_15-112
+cmu_15-411,r_contain_c,Memory management
+psu_CMPSC 472,depend_on_r,psu_CMPSC 462
+mit_6.846,r_contain_c,Cache coherence
+Sentiment analysis,depend_on_c,Document classification
+Computational chemistry,depend_on_c,Mathematics
+purdue_CS 58000,r_contain_c,Dynamic programming
+cmu_15-321,r_contain_c,Computer science
+psu_CMPSC 487W,depend_on_r,psu_CMPSC 221
+mit_6.071,r_contain_c,Data (computing)
+cmu_15-463,r_contain_c,Image analysis
+Lisp (programming language),depend_on_c,Graph theory
+illinois_CS 528,r_contain_c,Object (computer science)
+Quantum mechanics,depend_on_c,Continuous function
+iowa_CS:5520,r_contain_c,Rendering (computer graphics)
+Concurrency control,depend_on_c,Data structure
+caltech_SS/CS 241,r_contain_c,Computer science
+purdue_CS 60300,r_contain_c,Database
+Computer network,depend_on_c,Communication
+princeton_COS  513,depend_on_r,princeton_COS  402
+stanford_CS 249A,r_contain_c,Inheritance (object-oriented programming)
+maryland_CMSC 420,r_contain_c,Data (computing)
+Input/output,depend_on_c,Digital electronics
+mit_6.101,depend_on_r,mit_6.002
+iowa_CS:4520,r_contain_c,Graphics
+psu_CSE 597A,r_contain_c,Image analysis
+iowa_CS:3620,r_contain_c,Synchronization
+mit_6.828,r_contain_c,File system
+stanford_CS 124,r_contain_c,Machine translation
+psu_CSE 537,r_contain_c,Routing
+stanford_CS 249A,r_contain_c,Interface (computing)
+msu_CSE 450,depend_on_r,msu_CSE 331
+Scope (computer science),depend_on_c,Logic
+Computer simulation,depend_on_c,Computer science
+psu_CMPSC 436,depend_on_r,psu_CMPSC 312
+msu_CSE 476,depend_on_r,msu_CSE 335
+Software design,depend_on_c,Computability
+cmu_15-295,r_contain_c,Communication
+Turing machine,depend_on_c,Discrete mathematics
+cmu_15-323,depend_on_r,cmu_15-122
+mit_6.820,r_contain_c,Haskell (programming language)
+Finite-state machine,depend_on_c,Discrete mathematics
+Divide and conquer algorithm,depend_on_c,Combinatorics
+stanford_CS 107E,r_contain_c,Data
+illinois_CS 423,r_contain_c,Deadlock
+Computer vision,depend_on_c,Computational science
+Perl,depend_on_c,Compiler
+Recursively enumerable set,depend_on_c,Polynomial
+stanford_CS 231M,r_contain_c,Feature extraction
+stanford_CS 261,r_contain_c,NP (complexity)
+Natural language processing,depend_on_c,Reason
+cmu_15-414,r_contain_c,Floating point
+maryland_CMSC 417,depend_on_r,maryland_CMSC 351
+Computer graphics,depend_on_c,Discrete mathematics
+mit_6.856,r_contain_c,Computation
+psu_CSE 588,depend_on_r,psu_CMPSC 465
+Lexical semantics,depend_on_c,Semantics
+"princeton_ELE  475,COS  475",r_contain_c,Computer
+caltech_CS 24,r_contain_c,Computer architecture
+Debugging,depend_on_c,Computing
+stanford_CS 232,r_contain_c,Image processing
+mit_6.UAT,r_contain_c,Communication
+Formal methods,depend_on_c,Arithmetic
+caltech_CS 122,r_contain_c,Database system
+illinois_CS 419,r_contain_c,Graphics
+Complexity class,depend_on_c,Computational complexity theory
+mit_6.853,r_contain_c,Game theory
+Graphical model,depend_on_c,Computer science
+illinois_CS 563,r_contain_c,Security
+illinois_CS 473,r_contain_c,Recursion
+stanford_CS 229,r_contain_c,Reinforcement learning
+Logic programming,depend_on_c,Graph theory
+stanford_CS 345D,r_contain_c,Query optimization
+Motion planning,depend_on_c,Software engineering
+maryland_CMSC 106,r_contain_c,Structured programming
+illinois_CS 233,r_contain_c,Logic
+PSPACE,depend_on_c,Mathematics
+stanford_CS 243,r_contain_c,Data (computing)
+iowa_CS:3330,r_contain_c,Dynamic programming
+psu_CMPSC 462,depend_on_r,psu_CMPSC 360
+psu_CSE 544,r_contain_c,Operating system
+stanford_CS 245,depend_on_r,stanford_CS 145
+Robot,depend_on_c,Logic
+Hash table,depend_on_c,Data structure
+princeton_COS  226,r_contain_c,Graph (mathematics)
+Economics,depend_on_c,Random variable
+Lisp (programming language),depend_on_c,Generic programming
+mit_6.872,r_contain_c,Bioinformatics
+iowa_CS:4420,r_contain_c,Machine learning
+stanford_CS 245,r_contain_c,Query optimization
+illinois_CS 473,r_contain_c,Recursion (computer science)
+stanford_CS 261,r_contain_c,Scheduling (computing)
+purdue_CS 58000,r_contain_c,NP (complexity)
+caltech_CS 138,r_contain_c,Coding theory
+Robotics,depend_on_c,Reason
+"princeton_COS  432,ELE  432",depend_on_r,princeton_COS  226
+illinois_CS 414,r_contain_c,Interface (computing)
+stanford_CS 476B,depend_on_r,stanford_CS 476A
+maryland_CMSC 330,r_contain_c,Lisp (programming language)
+Estimation theory,depend_on_c,Expected value
+caltech_CS 123,depend_on_r,caltech_CS 122
+mit_6.172,depend_on_r,mit_6.005
+cmu_15-150,r_contain_c,Time complexity
+Computer programming,depend_on_c,Mathematics
+purdue_CS 58000,r_contain_c,Polynomial
+C++,depend_on_c,Computer
+User interface design,depend_on_c,Digital electronics
+maryland_CMSC 420,depend_on_r,maryland_CMSC 330
+caltech_CS 124,r_contain_c,Abstraction (computer science)
+C++,depend_on_c,Data
+stanford_CS 205A,r_contain_c,Linear algebra
+mit_6.701,depend_on_r,mit_6.003
+caltech_CS 151,r_contain_c,Randomness
+Distributed computing,depend_on_c,Polynomial
+iowa_CS:4740,r_contain_c,Visualization (computer graphics)
+Halting problem,depend_on_c,Computation
+Scientific visualization,depend_on_c,Personal computer
+stanford_CS 239,r_contain_c,Reinforcement learning
+mit_6.813,r_contain_c,User interface
+msu_CSE 435,depend_on_r,msu_CSE 335
+mit_6.341,r_contain_c,Prediction
+illinois_CS 546,r_contain_c,Syntax
+psu_CMPSC 460,r_contain_c,Object-oriented programming
+stanford_CS 157,r_contain_c,Logic
+cmu_15-390,depend_on_r,cmu_15-221
+cmu_15-491,r_contain_c,Object (computer science)
+maryland_CMSC 421,depend_on_r,maryland_CMSC 351
+caltech_CS 1,r_contain_c,Computer
+stanford_CS 103A,depend_on_r,stanford_CS 103
+Data mining,depend_on_c,Data
+Calculus,depend_on_c,Foundations of mathematics
+Complexity class,depend_on_c,Discrete mathematics
+Rendering (computer graphics),depend_on_c,Graphics
+mit_6.856,depend_on_r,mit_6.854
+maryland_CMSC 725,r_contain_c,Data
+cmu_15-410,r_contain_c,Security
+Software engineering,depend_on_c,Foundations of mathematics
+princeton_COS  451,r_contain_c,Computational geometry
+mit_6.434,r_contain_c,Statistics
+mit_6.111,r_contain_c,Graphics
+Finite difference,depend_on_c,Partial differential equation
+Mathematics,depend_on_c,Foundations of mathematics
+cmu_15-112,r_contain_c,Python (programming language)
+mit_6.819,r_contain_c,Image
+maryland_CMSC 714,r_contain_c,Data
+illinois_CS 463,r_contain_c,Computer
+Support vector machine,depend_on_c,Mathematics
+Ray tracing (graphics),depend_on_c,Graphics
+psu_CMPSC 463,r_contain_c,Approximation
+illinois_CS 519,r_contain_c,Data
+Time complexity,depend_on_c,Discrete mathematics
+purdue_CS 60300,r_contain_c,Distributed computing
+cmu_15-415,r_contain_c,Database design
+mit_6.268,r_contain_c,Graph (mathematics)
+Software design,depend_on_c,Computer programming
+princeton_COS  340,r_contain_c,Uncertainty
+caltech_CS 122,depend_on_r,caltech_CS 2
+psu_CMPSC 438,r_contain_c,Network security
+purdue_CS 65500,depend_on_r,purdue_CS 55500
+Database,depend_on_c,Logic
+cmu_15-456,r_contain_c,Graph (mathematics)
+iowa_CS:4330,r_contain_c,Computation
+mit_6.0002,r_contain_c,Stochastic
+purdue_CS 53600,r_contain_c,Data
+iowa_CS:2630,r_contain_c,Data (computing)
+Transaction processing,depend_on_c,Operating system
+maryland_CMSC 250H,depend_on_r,maryland_CMSC 131
+cmu_15-211,r_contain_c,Abstraction (computer science)
+cmu_15-251,r_contain_c,Computer science
+msu_CSE 201,depend_on_r,msu_CSE 131
+Computational chemistry,depend_on_c,Data structure
+String searching algorithm,depend_on_c,Graph theory
+mit_6.869,r_contain_c,Rendering (computer graphics)
+MapReduce,depend_on_c,Parallel computing
+Relational database,depend_on_c,Mathematics
+cmu_15-355,r_contain_c,Computation
+mit_6.866,depend_on_r,mit_6.003
+Malware,depend_on_c,Graph (mathematics)
+Computer software,depend_on_c,Input/output
+cmu_15-213,r_contain_c,Computer architecture
+iowa_CS:4640,r_contain_c,Computer security
+psu_CMPSC 465,r_contain_c,Analysis of algorithms
+mit_6.814,depend_on_r,mit_6.006
+illinois_CS 512,r_contain_c,Data (computing)
+cmu_15-414,r_contain_c,Model checking
+illinois_CS 419,r_contain_c,Geometry
+psu_CMPSC 312,depend_on_r,psu_CMPSC 121
+maryland_CMSC 132,r_contain_c,Object (computer science)
+msu_CSE 425,r_contain_c,Computer security
+mit_6.871,depend_on_r,mit_6.005
+cmu_15-492,r_contain_c,Data
+Cloud computing,depend_on_c,Graph (mathematics)
+Probability,depend_on_c,Uncertainty
+mit_6.071,r_contain_c,Data
+stanford_CS 205A,r_contain_c,Mathematics
+msu_CSE 320,r_contain_c,Assembly language
+msu_CSE 231,r_contain_c,Python (programming language)
+mit_6.045,r_contain_c,Cryptography
+stanford_CS 142,r_contain_c,HTML
+purdue_CS 60300,r_contain_c,Data (computing)
+illinois_CS 519,r_contain_c,Tensor
+Index (database),depend_on_c,Algorithm design
+psu_CMPSC 431W,r_contain_c,Database system
+caltech_CMS/CS 139,r_contain_c,Analysis of algorithms
+mit_6.115,depend_on_r,mit_6.004
+stanford_CS 143,r_contain_c,Object (computer science)
+purdue_CS 50300,r_contain_c,Mutual exclusion
+Undecidable problem,depend_on_c,Computing
+stanford_CS 275,depend_on_r,stanford_CS 106A
+mit_6.434,depend_on_r,mit_6.431
+Virtual reality,depend_on_c,Computer graphics
+cmu_15-405,r_contain_c,Operating system
+cmu_15-451,r_contain_c,Algorithm
+Robotics,depend_on_c,Markov chain
+illinois_CS 563,r_contain_c,Computer security
+stanford_CS 154,r_contain_c,Complexity
+psu_CSE 597A,r_contain_c,Discrete mathematics
+psu_CSE 544,r_contain_c,Computer
+illinois_CS 447,r_contain_c,Natural language
+illinois_CS 522,r_contain_c,Denotational semantics
+Analysis of algorithms,depend_on_c,Logic
+Cryptanalysis,depend_on_c,Problem solving
+Operating system,depend_on_c,Algorithm
+cmu_15-319,r_contain_c,MapReduce
+iowa_CS:2820,r_contain_c,Concurrency (computer science)
+mit_6.819,depend_on_r,mit_6.041
+illinois_CS 476,r_contain_c,Data (computing)
+iowa_CS:5810,r_contain_c,Software engineering
+psu_CSE 511,r_contain_c,User interface
+Newton's method,depend_on_c,Numerical analysis
+maryland_CMSC 451,depend_on_r,maryland_CMSC 351
+maryland_CMSC 351,r_contain_c,Combinatorics
+mit_6.047,r_contain_c,Stochastic
+Parsing,depend_on_c,Natural language
+mit_6.141,r_contain_c,Kinematics
+iowa_CS:5350,r_contain_c,Data
+iowa_CS:5810,r_contain_c,Formal methods
+maryland_CMSC 421,r_contain_c,Lisp (programming language)
+iowa_CS:5350,depend_on_r,iowa_CS:4340
+Computational geometry,depend_on_c,Iterative method
+Robotics,depend_on_c,Computer
+psu_CMPSC 430,depend_on_r,psu_CMPSC 462
+cmu_15-104,r_contain_c,Data (computing)
+"princeton_COS  126,EGR  126",r_contain_c,Computation
+cmu_15-462,r_contain_c,Shading
+Cryptography,depend_on_c,Iterative method
+psu_CMPSC 465,r_contain_c,Data (computing)
+Partial differential equation,depend_on_c,Algorithm
+mit_6.440,r_contain_c,Computer science
+caltech_CS/CNS 174,depend_on_r,caltech_CS/CNS 171
+Robotics,depend_on_c,Graph theory
+stanford_CS 476B,r_contain_c,Software design
+Assembly language,depend_on_c,Automata theory
+iowa_CS:2630,r_contain_c,Data
+Transaction processing,depend_on_c,Graph theory
+mit_6.041,r_contain_c,Inference
+mit_6.801,depend_on_r,mit_6.003
+cmu_15-610,r_contain_c,Operating system
+princeton_COS  340,depend_on_r,princeton_COS  226
+cmu_15-312,r_contain_c,Syntax
+cmu_15-465,r_contain_c,Computer science
+caltech_CS 21,r_contain_c,Computer science
+Interpolation,depend_on_c,Matrix (mathematics)
+illinois_CS 225,depend_on_r,illinois_CS 125
+maryland_CMSC 250H,r_contain_c,Logic
+illinois_CS 446,r_contain_c,Computer vision
+C++,depend_on_c,Computational complexity theory
+Hidden line removal,depend_on_c,Computability
+Profiling (computer programming),depend_on_c,Arithmetic
+psu_CMPSC 483W,r_contain_c,Computer software
+Reinforcement learning,depend_on_c,Logic
+caltech_CS 138,r_contain_c,String (computer science)
+Numerical analysis,depend_on_c,Computing
+cmu_15-451,r_contain_c,NP (complexity)
+stanford_CS 193P,r_contain_c,Programming language
+Natural language processing,depend_on_c,Graph (mathematics)
+Computer programming,depend_on_c,Logic
+iowa_CS:1210,r_contain_c,Object (computer science)
+stanford_CS 348B,depend_on_r,stanford_CS 248
+illinois_CS 424,depend_on_r,illinois_CS 241
+caltech_CS 101,depend_on_r,caltech_CS 21
+stanford_CS 448Z,depend_on_r,stanford_CS 248
+purdue_CS 63500,r_contain_c,Computer
+mit_6.047,depend_on_r,mit_6.041
+mit_6.437,r_contain_c,Inference
+caltech_CS 1,r_contain_c,Programming language
+Genetic algorithm,depend_on_c,Iterative method
+msu_CSE 420,r_contain_c,Data (computing)
+caltech_CS 115,r_contain_c,Functional programming
+Artificial intelligence,depend_on_c,Mathematical induction
+mit_6.776,r_contain_c,Communication
+caltech_CS 118,r_contain_c,Logic
+Compiler,depend_on_c,Computational complexity theory
+Software testing,depend_on_c,Algorithm
+msu_CSE 498,depend_on_r,msu_CSE 484
+illinois_CS 519,depend_on_r,illinois_CS 418
+cmu_15-323,r_contain_c,Data
+illinois_CS 548,depend_on_r,illinois_CS 440
+Web search engine,depend_on_c,Iterative method
+cmu_15-415,r_contain_c,Calculus
+maryland_CMSC 330,depend_on_r,maryland_CMSC 250
+mit_6.870,r_contain_c,Computer
+cmu_15-492,r_contain_c,Machine learning
+iowa_CS:3640,depend_on_r,iowa_CS:2630
+Symmetric multiprocessing,depend_on_c,Parallel computing
+HTML,depend_on_c,Arithmetic
+stanford_CS 224U,r_contain_c,Natural language
+psu_CSE 541,r_contain_c,Relational database
+maryland_CMSC 733,r_contain_c,Computer
+Communications protocol,depend_on_c,Algorithm
+msu_CSE 335,r_contain_c,Object-oriented programming
+Public-key cryptography,depend_on_c,Combinatorics
+iowa_CS:1210,r_contain_c,Data (computing)
+Functional programming,depend_on_c,Recursion
+purdue_CS 63800,depend_on_r,purdue_CS 53600
+mit_6.251,r_contain_c,Integer
+cmu_15-150,r_contain_c,Imperative programming
+psu_CMPSC 459,r_contain_c,Data (computing)
+Type system,depend_on_c,Data structure
+psu_CSE 597A,r_contain_c,Algebra
+Computer vision,depend_on_c,Probability
+illinois_CS 538,r_contain_c,Computer
+cmu_15-351,r_contain_c,Integer
+Neural network,depend_on_c,Probability
+mit_6.836,r_contain_c,Scheduling (computing)
+mit_6.857,depend_on_r,mit_6.042
+msu_CSE 480,r_contain_c,Data
+mit_6.045,r_contain_c,Computer
+illinois_CS 476,r_contain_c,Calculus
+Quantum cryptography,depend_on_c,Number theory
+stanford_CS 210B,r_contain_c,Software engineering
+Dynamic programming,depend_on_c,Introduction to Algorithms
+cmu_15-410,r_contain_c,Scope (computer science)
+iowa_CS:1210,r_contain_c,Calculus
+psu_CMPSC 451,r_contain_c,Fast Fourier transform
+psu_CMPSC 471,r_contain_c,Parsing
+Knowledge representation and reasoning,depend_on_c,Computer
+stanford_CS 110,r_contain_c,Server (computing)
+Decision theory,depend_on_c,Polynomial
+mit_6.856,r_contain_c,Data
+Interactivity,depend_on_c,Computer
+mit_6.869,r_contain_c,Interface (computing)
+maryland_CMSC 330,r_contain_c,Inheritance (object-oriented programming)
+cmu_15-417,r_contain_c,ML (programming language)
+Computational complexity theory,depend_on_c,Mathematics
+purdue_CS 60300,r_contain_c,Concurrency (computer science)
+stanford_CS 248,r_contain_c,Computational geometry
+maryland_CMSC 423,depend_on_r,maryland_CMSC 330
+mit_6.830,r_contain_c,Concurrency (computer science)
+Support vector machine,depend_on_c,Logic
+Distributed computing,depend_on_c,Computer science
+stanford_CS 231N,r_contain_c,Neural network
+illinois_CS 524,r_contain_c,Computation
+Mathematical induction,depend_on_c,Mathematical proof
+Imperative programming,depend_on_c,Computer programming
+mit_6.263,r_contain_c,Communication
+Robotics,depend_on_c,Mechanical engineering
+cmu_15-319,r_contain_c,Data
+caltech_CS 150,depend_on_r,caltech_CS 38
+caltech_CS 138,r_contain_c,Complexity
+psu_CMPSC 421,r_contain_c,Communication
+caltech_CS 1,r_contain_c,String (computer science)
+princeton_COS  402,r_contain_c,Problem solving
+illinois_CS 457,r_contain_c,Least squares
+msu_CSE 460,r_contain_c,Formal language
+cmu_15-211,r_contain_c,Java (programming language)
+mit_6.008,r_contain_c,Asymptotic analysis
+Pattern matching,depend_on_c,Variable (computer science)
+mit_6.552,depend_on_r,mit_6.431
+stanford_CS 228,r_contain_c,Speech recognition
+caltech_CS/EE 143,depend_on_r,caltech_CS 38
+Computer graphics,depend_on_c,Abstraction (computer science)
+illinois_CS 357,r_contain_c,Approximation
+psu_CMPSC 122,depend_on_r,psu_CMPSC 121
+illinois_CS 450,r_contain_c,Interpolation
+cmu_15-150,r_contain_c,Computation
+msu_CSE 420,r_contain_c,Memory hierarchy
+Reinforcement learning,depend_on_c,Numerical analysis
+stanford_CS 231B,r_contain_c,Computer vision
+mit_6.832,depend_on_r,mit_6.141
+Parallel computing,depend_on_c,Mathematics
+iowa_CS:5350,r_contain_c,Approximation
+cmu_15-440,depend_on_r,cmu_15-213
+Relational database management system,depend_on_c,Data
+Concurrency (computer science),depend_on_c,Lock (computer science)
+Finite difference,depend_on_c,Eigenvalues and eigenvectors
+illinois_CS 538,r_contain_c,Congestion control
+caltech_CS/SS 152,r_contain_c,Probability
+illinois_CS 573,depend_on_r,illinois_CS 373
+princeton_COS  451,depend_on_r,princeton_COS  226
+"princeton_COS  432,ELE  432",depend_on_r,princeton_COS  217
+Recursion,depend_on_c,Polynomial
+Memory management,depend_on_c,Computer programming
+illinois_CS 412,r_contain_c,Data (computing)
+psu_CSE 545,depend_on_r,psu_CSE 543
+Pattern recognition,depend_on_c,Mathematics
+psu_CMPSC 431W,r_contain_c,Database
+princeton_COS  429,r_contain_c,Data
+Distributed computing,depend_on_c,Arithmetic
+maryland_CMSC 427,r_contain_c,Graphics
+mit_6.865,r_contain_c,Image processing
+stanford_CS 224U,depend_on_r,stanford_CS 224N
+caltech_CS 115,r_contain_c,Monad (functional programming)
+Graph (mathematics),depend_on_c,Mathematics
+cmu_15-437,r_contain_c,Object (computer science)
+Probability,depend_on_c,Mathematics
+caltech_CMS/CS/EE 144,r_contain_c,Graph theory
+iowa_CS:4350,r_contain_c,Computer
+stanford_CS 448J,r_contain_c,Algebra
+msu_CSE 320,depend_on_r,msu_CSE 232
+stanford_CS 194H,r_contain_c,Computing
+maryland_CMSC 131,r_contain_c,Java (programming language)
+Speech recognition,depend_on_c,Computer
+cmu_15-411,depend_on_r,cmu_15-213
+maryland_CMSC 460,r_contain_c,Least squares
+illinois_CS 447,r_contain_c,Machine translation
+mit_6.S04,r_contain_c,Data
+caltech_CS 38,r_contain_c,Introduction to Algorithms
+maryland_CMSC 106,r_contain_c,Computing
+mit_6.867,r_contain_c,Inference
+cmu_15-415,depend_on_r,cmu_15-211
+illinois_CS 447,r_contain_c,Part-of-speech tagging
+Sentiment analysis,depend_on_c,Natural language processing
+stanford_CS 124,r_contain_c,Sequence alignment
+iowa_CS:5350,r_contain_c,Randomization
+msu_CSE 460,r_contain_c,Computation
+cmu_15-150,r_contain_c,Complexity
+stanford_CS 231M,r_contain_c,Graphics
+Kernel (computing),depend_on_c,Computing
+mit_6.456,depend_on_r,mit_6.341
+purdue_CS 58000,r_contain_c,Complexity
+mit_6.945,r_contain_c,Data (computing)
+MapReduce,depend_on_c,Computer science
+psu_CSE 597A,r_contain_c,Analysis of algorithms
+stanford_CS 167,r_contain_c,NP (complexity)
+mit_6.440,r_contain_c,Mathematics
+mit_6.801,r_contain_c,Image
+Profiling (computer programming),depend_on_c,Computation
+Recursion (computer science),depend_on_c,Abstraction (computer science)
+maryland_CMSC 424,r_contain_c,Relational model
+stanford_CS 142,depend_on_r,stanford_CS 107
+illinois_CS 241,r_contain_c,Synchronization
+cmu_15-381,r_contain_c,Probability
+Quantum computer,depend_on_c,Theory of computation
+maryland_CMSC 466,depend_on_r,maryland_CMSC 131
+iowa_CS:3980,depend_on_r,iowa_CS:1210
+stanford_CS 103,r_contain_c,Logic
+iowa_CS:1110,r_contain_c,Computer science
+maryland_CMSC 723,r_contain_c,Part-of-speech tagging
+mit_6.142,r_contain_c,Robotics
+illinois_CS 173,r_contain_c,Recursion
+mit_6.034,r_contain_c,Statistical inference
+msu_CSE 425,r_contain_c,Cryptanalysis
+purdue_CS 50300,r_contain_c,Prediction
+iowa_CS:2110,depend_on_r,iowa_CS:1110
+msu_CSE 425,r_contain_c,Cryptography
+psu_CMPSC 431W,r_contain_c,Internet
+mit_6.438,depend_on_r,mit_6.008
+caltech_CS 122,r_contain_c,Database
+mit_6.02,r_contain_c,Communication
+Machine learning,depend_on_c,Computer science
+purdue_CS 65500,r_contain_c,Algorithm
+stanford_CS 231M,r_contain_c,Computer
+Model checking,depend_on_c,Computer science
+illinois_CS 523,r_contain_c,Computer
+cmu_15-386,r_contain_c,Information theory
+psu_CMPSC 360,r_contain_c,Computer
+Inheritance (object-oriented programming),depend_on_c,Object-oriented programming
+maryland_CMSC 414,r_contain_c,Internet
+mit_6.869,r_contain_c,Machine learning
+caltech_CS 138,depend_on_r,caltech_CS 21
+maryland_CMSC 451,r_contain_c,Algorithm design
+stanford_CS 316,r_contain_c,Graphics
+mit_6.823,r_contain_c,Cache coherence
+stanford_CS 476A,r_contain_c,Computer
+stanford_CS 227B,depend_on_r,stanford_CS 103
+stanford_CS 348A,r_contain_c,Geometric modeling
+Java (programming language),depend_on_c,Data
+princeton_COS  429,r_contain_c,Data (computing)
+mit_6.945,r_contain_c,Algebra
+cmu_15-359,r_contain_c,Artificial intelligence
+Programming paradigm,depend_on_c,Programming language
+stanford_CS 110,r_contain_c,Computer software
+Robotics,depend_on_c,Artificial intelligence
+stanford_CS 143,r_contain_c,Parsing
+Hidden line removal,depend_on_c,Computer science
+stanford_CS 143,r_contain_c,Lexical analysis
+Inheritance (object-oriented programming),depend_on_c,Data structure
+Programming style,depend_on_c,Computational complexity theory
+msu_CSE 476,depend_on_r,msu_CSE 320
+Dynamic programming,depend_on_c,Polynomial
+Automated theorem proving,depend_on_c,Mathematics
+illinois_CS 420,depend_on_r,illinois_CS 225
+msu_CSE 335,r_contain_c,Object (computer science)
+cmu_15-392,r_contain_c,C (programming language)
+Martingale (probability theory),depend_on_c,Mathematics
+maryland_CMSC 714,r_contain_c,Profiling (computer programming)
+illinois_CS 466,depend_on_r,illinois_CS 225
+msu_CSE 484,r_contain_c,Natural language processing
+mit_6.UAR,r_contain_c,Communication
+iowa_CS:1210,r_contain_c,Data
+illinois_CS 418,depend_on_r,illinois_CS 225
+"princeton_ELE  475,COS  475",depend_on_r,"princeton_COS  375,ELE  375"
+mit_6.263,r_contain_c,Internet
+illinois_CS 418,r_contain_c,Graphics
+Communications protocol,depend_on_c,Computation
+psu_CMPSC 487W,depend_on_r,psu_CMPSC 462
+cmu_15-440,r_contain_c,C (programming language)
+Game theory,depend_on_c,Probability theory
+caltech_CS 151,r_contain_c,Complexity
+cmu_15-312,depend_on_r,cmu_15-251
+stanford_CS 144,r_contain_c,Computer
+iowa_CS:5610,r_contain_c,Algorithm
+illinois_CS 544,r_contain_c,Computer
+illinois_CS 173,r_contain_c,Recursion (computer science)
+Stochastic process,depend_on_c,Uncertainty
+Control flow,depend_on_c,Digital electronics
+Computer simulation,depend_on_c,Logic
+cmu_15-451,r_contain_c,Algorithm design
+cmu_15-464,r_contain_c,Computer
+Computer programming,depend_on_c,Discrete mathematics
+Estimation theory,depend_on_c,Mathematics
+mit_6.045,r_contain_c,Complexity
+Symbol table,depend_on_c,Computer programming
+cmu_15-213,r_contain_c,Arithmetic
+Haskell (programming language),depend_on_c,Variable (computer science)
+mit_6.013,r_contain_c,Communication
+psu_CMPSC 438,r_contain_c,Computer
+mit_6.828,r_contain_c,Unix
+cmu_15-104,r_contain_c,Randomness
+Computer security,depend_on_c,Security
+caltech_CS/CNS 174,r_contain_c,Computer
+Least squares,depend_on_c,Approximation
+cmu_15-494,r_contain_c,Robot
+Finite element method,depend_on_c,Matrix (mathematics)
+msu_CSE 420,r_contain_c,Arithmetic logic unit
+stanford_CS 210A,r_contain_c,Software development
+mit_6.440,depend_on_r,mit_6.045
+stanford_CS 144,depend_on_r,stanford_CS 110
+cmu_15-210,depend_on_r,cmu_15-122
+illinois_CS 484,depend_on_r,illinois_CS 241
+msu_CSE 251,depend_on_r,msu_CSE 231
+Atomicity (database systems),depend_on_c,Object (computer science)
+Application programming interface,depend_on_c,Computational complexity theory
+mit_6.556,r_contain_c,Data
+Recursion,depend_on_c,Integer
+Probability theory,depend_on_c,Mathematics
+"princeton_COS  126,EGR  126",r_contain_c,Computer science
+cmu_15-383,r_contain_c,Machine translation
+maryland_CMSC 414,r_contain_c,Security
+psu_CMPSC 472,depend_on_r,psu_CMPSC 312
+Graphical model,depend_on_c,Statistics
+mit_6.440,depend_on_r,mit_6.006
+caltech_CS/SS 152,depend_on_r,caltech_CS 38
+Concurrency control,depend_on_c,Mathematical induction
+Divide and conquer algorithm,depend_on_c,Mathematics
+cmu_15-346,r_contain_c,Computing
+PSPACE,depend_on_c,Integer
+stanford_CS 476A,r_contain_c,Computing
+stanford_CS 142,depend_on_r,stanford_CS 108
+maryland_CMSC 435,r_contain_c,Programmer
+stanford_CS 247,r_contain_c,Computer
+illinois_CS 583,r_contain_c,Approximation algorithm
+MATLAB,depend_on_c,Computer
+3D modeling,depend_on_c,Computation
+Web search engine,depend_on_c,Abstraction (computer science)
+ML (programming language),depend_on_c,Computer science
+Newton's method,depend_on_c,Algorithm
+MATLAB,depend_on_c,Programming language
+psu_CMPSC 122,r_contain_c,Object-oriented programming
+iowa_CS:5610,r_contain_c,Computer
+cmu_15-300,r_contain_c,Computer science
+cmu_15-610,depend_on_r,cmu_15-410
+Document classification,depend_on_c,Statistical inference
+maryland_CMSC 424,r_contain_c,Query optimization
+Debugging,depend_on_c,Logic
+illinois_CS 414,r_contain_c,Scheduling (computing)
+Sentiment analysis,depend_on_c,Natural language
+mit_6.874,depend_on_r,mit_6.041
+mit_6.431,r_contain_c,Probability
+stanford_CS 107E,r_contain_c,C (programming language)
+Question answering,depend_on_c,Computer science
+illinois_CS 428,r_contain_c,Software engineering
+caltech_CS 2,r_contain_c,Dynamic programming
+purdue_CS 54100,r_contain_c,Security
+Compiler,depend_on_c,Finite-state machine
+stanford_CS 9,r_contain_c,Problem solving
+stanford_CS 106A,r_contain_c,Computer
+Martingale (probability theory),depend_on_c,Markov chain
+stanford_CS 279,r_contain_c,Data
+Suffix tree,depend_on_c,Regular expression
+Robotics,depend_on_c,Programming language
+caltech_CMS/CS/EE 144,depend_on_r,caltech_CS 38
+cmu_15-417,depend_on_r,cmu_15-312
+Atomicity (database systems),depend_on_c,Operating system
+cmu_15-412,r_contain_c,Web server
+psu_CMPSC 397A,depend_on_r,psu_CMPSC 360
+caltech_CS 142,r_contain_c,Statistics
+stanford_CS 147,r_contain_c,Computer
+stanford_CS 168,depend_on_r,stanford_CS 107
+Kernel (computing),depend_on_c,Computer
+stanford_CS 221,r_contain_c,Machine learning
+msu_CSE 498,r_contain_c,Communication
+Gradient descent,depend_on_c,Mathematics
+Automated theorem proving,depend_on_c,Mathematical proof
+stanford_CS 246,r_contain_c,Data mining
+maryland_CMSC 435,r_contain_c,Software engineering
+Database system,depend_on_c,Database
+mit_6.042,r_contain_c,Computer
+psu_CMPSC 443,r_contain_c,Computer security
+mit_6.042,r_contain_c,Discrete mathematics
+psu_CMPSC 470,r_contain_c,Compiler
+caltech_SS/CS 149,r_contain_c,Economics
+illinois_CS 125,r_contain_c,Computing
+illinois_CS 428,r_contain_c,Software development
+maryland_CMSC 460,depend_on_r,maryland_CMSC 106
+psu_CMPSC 442,depend_on_r,psu_CMPSC 465
+cmu_15-369,r_contain_c,Computing
+stanford_CS 224U,r_contain_c,Parsing
+psu_CMPSC 456,r_contain_c,Approximation
+stanford_CS 109,depend_on_r,stanford_CS 103
+cmu_15-414,r_contain_c,Logic
+mit_6.006,depend_on_r,mit_6.042
+mit_6.637,r_contain_c,Communication
+Hidden line removal,depend_on_c,Foundations of mathematics
+msu_CSE 480,depend_on_r,msu_CSE 331
+stanford_CS 109,r_contain_c,Probability
+maryland_CMSC 424,depend_on_r,maryland_CMSC 351
+caltech_CS 115,r_contain_c,Object (computer science)
+Congestion control,depend_on_c,Computer network
+mit_6.175,r_contain_c,Microprocessor
+illinois_CS 525,r_contain_c,Distributed computing
+mit_6.262,depend_on_r,mit_6.431
+Web server,depend_on_c,Digital electronics
+msu_CSE 251,r_contain_c,C (programming language)
+mit_6.035,r_contain_c,Compiler
+cmu_15-415,r_contain_c,Transaction processing
+illinois_CS 419,r_contain_c,Computer
+mit_6.033,r_contain_c,Communication
+Undecidable problem,depend_on_c,Complexity
+Computer architecture,depend_on_c,Graph theory
+Sentiment analysis,depend_on_c,Computer
+stanford_CS 247,depend_on_r,stanford_CS 142
+psu_CMPSC 221,r_contain_c,Graphics
+String (computer science),depend_on_c,Data type
+psu_CMPSC 459,r_contain_c,Data
+maryland_CMSC 435,r_contain_c,Structured programming
+stanford_CS 154,r_contain_c,P versus NP problem
+mit_6.828,r_contain_c,Operating system
+stanford_CS 242,r_contain_c,Concurrency (computer science)
+Software engineering,depend_on_c,Digital electronics
+psu_CMPSC 457,r_contain_c,Computer
+mit_6.854,r_contain_c,Approximation
+cmu_15-463,r_contain_c,Graphics
+cmu_15-211,r_contain_c,Data (computing)
+NP-complete,depend_on_c,Combinatorics
+Automatic programming,depend_on_c,Foundations of mathematics
+Superscalar,depend_on_c,Multi-core processor
+Cryptography,depend_on_c,Algebra
+mit_6.824,r_contain_c,Security
+msu_CSE 836,depend_on_r,msu_CSE 331
+Graphics processing unit,depend_on_c,Computer science
+mit_6.011,depend_on_r,mit_6.003
+iowa_CS:4350,r_contain_c,Computer science
+mit_6.440,r_contain_c,Computer
+mit_6.865,r_contain_c,Image
+mit_6.864,r_contain_c,Machine translation
+Concurrency control,depend_on_c,Asymptotic analysis
+mit_6.824,r_contain_c,Computer
+illinois_CS 450,r_contain_c,Numerical analysis
+maryland_CMSC 725,r_contain_c,Image
+stanford_CS 193P,r_contain_c,Database
+princeton_COS  340,r_contain_c,Computation
+stanford_CS 244B,r_contain_c,Object (computer science)
+illinois_CS 433,r_contain_c,Instruction set
+illinois_CS 546,r_contain_c,Machine learning
+caltech_CMS/CS/EE 144,r_contain_c,Probability
+cmu_15-383,r_contain_c,Statistics
+mit_6.828,r_contain_c,Communication
+stanford_CS 294S,r_contain_c,Computer
+Sentiment analysis,depend_on_c,Algorithm
+psu_CMPSC 441,depend_on_r,psu_CMPSC 122
+psu_CMPSC 421,r_contain_c,Internet
+purdue_CS 66100,r_contain_c,Lisp (programming language)
+Markov chain,depend_on_c,Algebra
+Recursion (computer science),depend_on_c,Computational science
+stanford_CS 231A,r_contain_c,Image
+mit_6.172,depend_on_r,mit_6.004
+Recurrence relation,depend_on_c,Combinatorics
+caltech_CS 4,r_contain_c,Programming language
+mit_6.004,r_contain_c,Computation
+Neural network,depend_on_c,Mathematics
+maryland_CMSC 414,r_contain_c,Authentication
+caltech_Ma/CS 6,r_contain_c,Computability
+Software engineering,depend_on_c,Computational science
+Formal language,depend_on_c,Computer programming
+stanford_CS 110,r_contain_c,Atomicity (database systems)
+Approximation algorithm,depend_on_c,Discrete mathematics
+iowa_CS:4740,r_contain_c,Data
+Parallel algorithm,depend_on_c,Computation
+Concurrency control,depend_on_c,Algorithm design
+stanford_CS 240H,r_contain_c,Concurrency (computer science)
+caltech_CS 115,depend_on_r,caltech_CS 4
+stanford_CS 108,r_contain_c,Software design
+msu_CSE 201,r_contain_c,Internet
+Computer animation,depend_on_c,Geometry
+msu_CSE 914,r_contain_c,Software development
+cmu_15-355,r_contain_c,Polynomial
+psu_CMPSC 455,r_contain_c,Numerical analysis
+illinois_CS 241,r_contain_c,Communication
+Lexical analysis,depend_on_c,Data structure
+psu_CMPSC 470,r_contain_c,Parsing
+stanford_CS 103A,r_contain_c,Discrete mathematics
+caltech_CS 4,r_contain_c,Computation
+Data warehouse,depend_on_c,Data
+psu_CMPSC 302,depend_on_r,psu_CMPSC 102
+Rendering (computer graphics),depend_on_c,Computer programming
+maryland_CMSC 666,depend_on_r,maryland_CMSC 466
+msu_CSE 420,depend_on_r,msu_CSE 320
+psu_CMPSC 443,r_contain_c,Operating system
+Algorithm,depend_on_c,Mathematical proof
+Game theory,depend_on_c,Algorithm
+msu_CSE 320,depend_on_r,msu_CSE 260
+caltech_CS 21,r_contain_c,NP (complexity)
+stanford_CS 294S,depend_on_r,stanford_CS 103
+maryland_CMSC 250,r_contain_c,Computer science
+Polymorphism (computer science),depend_on_c,Computer programming
+Internet Protocol Suite,depend_on_c,Arithmetic
+iowa_CS:4740,r_contain_c,Big data
+purdue_CS 62600,r_contain_c,Computer
+psu_CMPSC 436,r_contain_c,Data
+mit_6.858,r_contain_c,Computer
+maryland_CMSC 422,r_contain_c,Data (computing)
+iowa_CS:4740,r_contain_c,Matrix (mathematics)
+Geometric modeling,depend_on_c,Computer graphics
+maryland_CMSC 216,r_contain_c,Data (computing)
+caltech_CS 115,r_contain_c,Data (computing)
+cmu_15-321,depend_on_r,cmu_15-213
+cmu_15-453,r_contain_c,Computing
+iowa_CS:2820,r_contain_c,Data
+mit_6.836,depend_on_r,mit_6.006
+iowa_CS:1110,r_contain_c,Python (programming language)
+illinois_CS 414,r_contain_c,Synchronization
+psu_CMPSC 470,depend_on_r,psu_CMPSC 462
+Speech recognition,depend_on_c,Discrete mathematics
+msu_CSE 420,r_contain_c,Logic
+Cryptographic hash function,depend_on_c,Mathematical proof
+mit_6.033,r_contain_c,Security
+psu_CMPSC 360,r_contain_c,Mathematics
+psu_CSE 541,r_contain_c,Concurrency control
+mit_6.005,r_contain_c,Concurrency (computer science)
+cmu_15-437,r_contain_c,Computer
+Natural language processing,depend_on_c,Data structure
+Regular language,depend_on_c,Logic
+cmu_15-359,r_contain_c,Computer simulation
+cmu_15-251,r_contain_c,Probability
+cmu_15-359,r_contain_c,Uncertainty
+illinois_CS 225,r_contain_c,Analysis of algorithms
+mit_6.829,r_contain_c,Routing
+illinois_CS 446,depend_on_r,illinois_CS 373
+psu_CSE 511,r_contain_c,Kernel (computing)
+stanford_CS 240,r_contain_c,Virtual memory
+Program optimization,depend_on_c,Theoretical computer science
+Distributed computing,depend_on_c,Complexity
+Pipeline (computing),depend_on_c,Central processing unit
+illinois_CS 463,r_contain_c,Security
+iowa_CS:4500,r_contain_c,Computer
+purdue_CS 61400,r_contain_c,Finite difference
+mit_6.838,depend_on_r,mit_6.837
+caltech_SS/CS 149,depend_on_r,caltech_CS 38
+mit_6.141,r_contain_c,Computation
+cmu_15-211,r_contain_c,Computer
+mit_6.035,depend_on_r,mit_6.004
+maryland_CMSC 330,r_contain_c,Object (computer science)
+caltech_CS 2,r_contain_c,Computer science
+illinois_CS 528,depend_on_r,illinois_CS 427
+psu_CMPSC 430,r_contain_c,Database design
+caltech_CS 176,depend_on_r,caltech_CS/CNS 171
+cmu_15-359,depend_on_r,cmu_15-251
+Dynamic memory allocation,depend_on_c,Operating system
+illinois_CS 440,r_contain_c,Machine learning
+mit_6.435,r_contain_c,Prediction
+stanford_CS 243,depend_on_r,stanford_CS 103
+purdue_CS 53500,r_contain_c,Geometry
+psu_CMPSC 474,depend_on_r,psu_CMPSC 122
+Imperative programming,depend_on_c,Computer science
+psu_CMPSC 456,r_contain_c,Numerical analysis
+iowa_CS:4740,r_contain_c,Data analysis
+psu_CMPSC 311,r_contain_c,Unix
+Computer network,depend_on_c,Number theory
+stanford_CS 231M,r_contain_c,Software development
+maryland_CMSC 424,depend_on_r,maryland_CMSC 330
+mit_6.870,depend_on_r,mit_6.801
+Ray tracing (graphics),depend_on_c,Mathematics
+illinois_CS 511,r_contain_c,Data (computing)
+stanford_CS 476B,r_contain_c,Computing
+Algorithm,depend_on_c,Abstraction (computer science)
+illinois_CS 419,r_contain_c,Data (computing)
+stanford_CS 154,r_contain_c,PSPACE
+stanford_CS 348B,r_contain_c,Volume rendering
+Statistical inference,depend_on_c,Data
+cmu_15-214,r_contain_c,Data
+stanford_CS 106B,r_contain_c,Object (computer science)
+Statistical inference,depend_on_c,Mathematics
+mit_6.262,r_contain_c,Communication
+msu_CSE 471,r_contain_c,Computing
+stanford_CS 166,r_contain_c,Data
+cmu_15-492,r_contain_c,Speech recognition
+Time complexity,depend_on_c,Logic
+Virtual memory,depend_on_c,Memory hierarchy
+maryland_CMSC 216,r_contain_c,Computer
+maryland_CMSC 733,depend_on_r,maryland_CMSC 420
+mit_6.341,r_contain_c,Computation
+illinois_CS 431,r_contain_c,Signal processing
+Debugging,depend_on_c,Control flow
+Undecidable problem,depend_on_c,Mathematical proof
+iowa_CS:4340,r_contain_c,NP (complexity)
+maryland_CMSC 426,r_contain_c,Data (computing)
+psu_CMPSC 450,depend_on_r,psu_CMPSC 201
+mit_6.262,r_contain_c,Probability
+illinois_CS 563,r_contain_c,Computer
+psu_CSE 564,r_contain_c,Scheduling (computing)
+caltech_CS 142,depend_on_r,caltech_CS 38
+psu_CMPSC 470,r_contain_c,Garbage collection (computer science)
+ML (programming language),depend_on_c,Recursion (computer science)
+Control flow,depend_on_c,Computer science
+caltech_CS 142,r_contain_c,Computing
+Automatic programming,depend_on_c,Data structure
+mit_6.437,r_contain_c,Large deviations theory
+maryland_CMSC 423,depend_on_r,maryland_CMSC 351
+msu_CSE 260,r_contain_c,Computer science
+illinois_CS 563,depend_on_r,illinois_CS 461
+psu_CMPSC 483W,r_contain_c,Computer
+caltech_CS/CNS 171,r_contain_c,Scientific visualization
+illinois_CS 373,r_contain_c,Computation
+Recurrence relation,depend_on_c,Iterative method
+B-tree,depend_on_c,Graph theory
+mit_6.870,r_contain_c,Computer vision
+psu_CMPSC 467,r_contain_c,Cryptography
+cmu_15-213,r_contain_c,Computer
+caltech_Ma/CS 6,r_contain_c,Syntax
+cmu_15-414,r_contain_c,Computer science
+Logic programming,depend_on_c,Discrete mathematics
+mit_6.875,r_contain_c,Encryption
+String searching algorithm,depend_on_c,Computer science
+maryland_CMSC 412,depend_on_r,maryland_CMSC 330
+maryland_CMSC 421,r_contain_c,Robotics
+iowa_CS:2230,r_contain_c,Computer science
+Relational model,depend_on_c,Foundations of mathematics
+mit_6.854,depend_on_r,mit_6.046
+psu_CMPSC 312,r_contain_c,Data (computing)
+maryland_CMSC 132,r_contain_c,Object-oriented programming
+"princeton_COS  375,ELE  375",depend_on_r,princeton_COS  217
+Algorithm design,depend_on_c,Mathematical induction
+Regular language,depend_on_c,Computability
+stanford_CS 124,r_contain_c,PageRank
+psu_CMPSC 458,r_contain_c,Computer
+mit_6.UR,r_contain_c,Computer science
+Transaction processing,depend_on_c,Database
+Feature extraction,depend_on_c,Integer
+Digital signature,depend_on_c,Foundations of mathematics
+stanford_CS 229,r_contain_c,Dynamic programming
+mit_6.440,r_contain_c,Coding theory
+mit_6.856,r_contain_c,Linear programming
+mit_6.268,depend_on_r,mit_6.041
+princeton_COS  402,r_contain_c,Inference
+psu_CMPSC 312,r_contain_c,Instruction set
+stanford_CS 231B,depend_on_r,stanford_CS 221
+maryland_CMSC 434,r_contain_c,Java (programming language)
+iowa_CS:5350,r_contain_c,Graph (mathematics)
+msu_CSE 422,r_contain_c,Data
+illinois_CS 583,r_contain_c,Approximation
+mit_6.853,depend_on_r,mit_6.046
+caltech_CS/EE 143,r_contain_c,Communication
+psu_CMPSC 487W,r_contain_c,Software engineering
+mit_6.006,r_contain_c,Data
+stanford_CS 348A,depend_on_r,stanford_CS 248
+stanford_CS 166,r_contain_c,Randomization
+Algorithm design,depend_on_c,Problem solving
+princeton_COS  326,r_contain_c,Modular programming
+psu_CMPSC 451,r_contain_c,Interpolation
+mit_6.456,r_contain_c,Algorithm
+stanford_CS 476A,r_contain_c,Software design
+mit_6.336,r_contain_c,Integral
+Lexical analysis,depend_on_c,Discrete mathematics
+Pattern matching,depend_on_c,Functional programming
+cmu_15-121,r_contain_c,Data
+iowa_CS:4980,r_contain_c,Computer
+"princeton_COS  126,EGR  126",r_contain_c,Data analysis
+purdue_CS 63500,r_contain_c,Computer vision
+msu_CSE 472,r_contain_c,Graphics
+psu_CMPSC 441,r_contain_c,Artificial intelligence
+mit_6.581,depend_on_r,mit_6.336
+Calculus,depend_on_c,Arithmetic
+Lisp (programming language),depend_on_c,Number theory
+Software engineering,depend_on_c,Data type
+mit_6.720,r_contain_c,MATLAB
+illinois_CS 473,r_contain_c,Dynamic programming
+mit_6.161,depend_on_r,mit_6.003
+mit_6.S04,depend_on_r,mit_6.0001
+msu_CSE 843,r_contain_c,Communication
+stanford_CS 231A,r_contain_c,Image processing
+caltech_CS 1,r_contain_c,Debugging
+B-tree,depend_on_c,Foundations of mathematics
+Variable (computer science),depend_on_c,Logic
+mit_6.006,depend_on_r,mit_6.01
+caltech_CS 4,r_contain_c,Computer
+maryland_CMSC 330,r_contain_c,Scope (computer science)
+Formal methods,depend_on_c,Computer
+mit_6.041,r_contain_c,Statistical inference
+mit_6.0001,r_contain_c,Data (computing)
+cmu_15-351,depend_on_r,cmu_15-122
+msu_CSE 843,r_contain_c,Speech recognition
+Congestion control,depend_on_c,Data (computing)
+stanford_CS 196,r_contain_c,Security
+mit_6.034,depend_on_r,mit_6.01
+stanford_CS 154,depend_on_r,stanford_CS 103
+Software development,depend_on_c,Object-oriented programming
+stanford_CS 221,depend_on_r,stanford_CS 107
+cmu_15-251,r_contain_c,Graph (mathematics)
+mit_6.003,r_contain_c,Image processing
+stanford_CS 193P,r_contain_c,Interface (computing)
+iowa_CS:5800,r_contain_c,Communication
+maryland_CMSC 330,r_contain_c,C (programming language)
+Integral,depend_on_c,Mathematics
+stanford_CS 103,depend_on_r,stanford_CS 106A
+Object-oriented programming,depend_on_c,Arithmetic
+Human-computer interaction,depend_on_c,Interface (computing)
+stanford_CS 143,r_contain_c,Program analysis
+Parsing,depend_on_c,Data
+mit_6.828,r_contain_c,C (programming language)
+purdue_CS 60300,r_contain_c,Concurrency control
+cmu_15-321,r_contain_c,Data
+Communications protocol,depend_on_c,Logic
+msu_CSE 480,r_contain_c,Object (computer science)
+purdue_CS 62600,depend_on_r,purdue_CS 55500
+Pattern recognition,depend_on_c,Number theory
+cmu_15-317,r_contain_c,Computer
+psu_CMPSC 475,depend_on_r,psu_CMPSC 462
+mit_6.814,r_contain_c,Database
+purdue_CS 62600,r_contain_c,Formal verification
+Monte Carlo method,depend_on_c,Statistical inference
+Numerical analysis,depend_on_c,Floating point
+psu_CMPSC 221,r_contain_c,Object (computer science)
+Distributed algorithms,depend_on_c,Foundations of mathematics
+caltech_CS 119,depend_on_r,caltech_CS 118
+cmu_15-381,depend_on_r,cmu_15-211
+princeton_COS  318,r_contain_c,Operating system
+mit_6.111,r_contain_c,Synchronization
+Logic programming,depend_on_c,Computational science
+CPU cache,depend_on_c,Central processing unit
+Lisp (programming language),depend_on_c,Computer programming
+Hidden line removal,depend_on_c,Computation
+caltech_CMS/CS/CNS/EE 155,r_contain_c,Data mining
+caltech_CS 142,r_contain_c,Cloud computing
+cmu_15-210,r_contain_c,Computer
+Automated planning and scheduling,depend_on_c,Computer science
+illinois_CS 418,r_contain_c,Computer graphics
+mit_6.175,r_contain_c,Computer
+illinois_CS 460,r_contain_c,Malware
+psu_CMPSC 473,depend_on_r,psu_CMPSC 311
+illinois_CS 512,r_contain_c,Security
+iowa_CS:2210,r_contain_c,Computer
+iowa_CS:5350,r_contain_c,Computational geometry
+msu_CSE 498,depend_on_r,msu_CSE 471
+Haskell (programming language),depend_on_c,Logic
+stanford_CS 231N,depend_on_r,stanford_CS 131
+mit_6.846,depend_on_r,mit_6.004
+mit_6.830,depend_on_r,mit_6.006
+illinois_CS 461,r_contain_c,Computer
+User interface,depend_on_c,Logic
+stanford_CS 196,r_contain_c,Computer
+mit_6.815,r_contain_c,Rendering (computer graphics)
+Recursion,depend_on_c,Abstraction (computer science)
+iowa_CS:5620,r_contain_c,Data
+cmu_15-294,depend_on_r,cmu_15-104
+maryland_CMSC 216,r_contain_c,Data
+purdue_CS 50300,r_contain_c,Virtual memory
+stanford_CS 231M,depend_on_r,stanford_CS 232
+Programming style,depend_on_c,Data structure
+illinois_CS 431,r_contain_c,Data (computing)
+cmu_15-405,r_contain_c,Integral
+illinois_CS 526,depend_on_r,illinois_CS 426
+Question answering,depend_on_c,Computer programming
+cmu_15-494,depend_on_r,cmu_15-213
+mit_6.042,r_contain_c,Mathematics
+Algorithm design,depend_on_c,Integer
+stanford_CS 142,r_contain_c,Object (computer science)
+purdue_CS 55500,r_contain_c,Security
+illinois_CS 467,r_contain_c,Data
+Relational database,depend_on_c,Computing
+stanford_CS 239,r_contain_c,Robotics
+Distributed computing,depend_on_c,Theoretical computer science
+Graph (mathematics),depend_on_c,Mathematical proof
+Document classification,depend_on_c,Discrete mathematics
+mit_6.838,r_contain_c,Graphics
+Database management system,depend_on_c,Operating system
+caltech_CS/SS 152,r_contain_c,Computation
+stanford_CS 193P,r_contain_c,Memory management
+cmu_15-122,r_contain_c,Data (computing)
+cmu_15-437,depend_on_r,cmu_15-214
+Hidden Markov model,depend_on_c,Statistical inference
+illinois_CS 573,r_contain_c,Linear programming
+cmu_15-210,r_contain_c,Graphics
+stanford_CS 194H,r_contain_c,User interface design
+mit_6.846,r_contain_c,Computing
+Compiler,depend_on_c,Natural language
+purdue_CS 51400,r_contain_c,Polynomial
+caltech_CS 176,r_contain_c,Image
+stanford_CS 108,r_contain_c,Object (computer science)
+illinois_CS 574,r_contain_c,Complexity
+cmu_15-415,r_contain_c,Query optimization
+Computational learning theory,depend_on_c,Uncertainty
+caltech_Ma/CS 6,r_contain_c,NP (complexity)
+illinois_CS 554,r_contain_c,Linear algebra
+stanford_CS 244B,r_contain_c,Scheduling (computing)
+cmu_15-359,r_contain_c,Computer science
+C (programming language),depend_on_c,Automata theory
+stanford_CS 248,r_contain_c,Motion capture
+maryland_CMSC 733,r_contain_c,Data (computing)
+cmu_15-414,r_contain_c,Automated theorem proving
+Parallel algorithm,depend_on_c,Computer
+Poisson distribution,depend_on_c,Mathematics
+mit_6.832,r_contain_c,Robotics
+psu_CSE 588,r_contain_c,Polynomial
+mit_6.175,r_contain_c,Computer architecture
+illinois_CS 465,r_contain_c,User interface
+caltech_CS 121,r_contain_c,Query language
+Scope (computer science),depend_on_c,Programming language
+caltech_CS 124,r_contain_c,C (programming language)
+stanford_CS 244,r_contain_c,Network security
+stanford_CS 367,r_contain_c,Graph (mathematics)
+Coding theory,depend_on_c,Computer science
+caltech_CS 115,r_contain_c,Recursion (computer science)
+maryland_CMSC 434,depend_on_r,maryland_CMSC 351
+Programming language,depend_on_c,Computing
+cmu_15-251,r_contain_c,C (programming language)
+purdue_CS 65500,r_contain_c,Cryptography
+illinois_CS 554,depend_on_r,illinois_CS 555
+msu_CSE 232,r_contain_c,Abstraction (computer science)
+mit_6.434,r_contain_c,Estimation theory
+mit_6.441,depend_on_r,mit_6.041
+Lisp (programming language),depend_on_c,Logic programming
+mit_6.816,depend_on_r,mit_6.006
+psu_CMPSC 311,depend_on_r,psu_CMPSC 221
+maryland_CMSC 421,depend_on_r,maryland_CMSC 330
+cmu_15-351,r_contain_c,Computer
+iowa_CS:3620,depend_on_r,iowa_CS:2630
+Cryptanalysis,depend_on_c,Computation
+cmu_15-346,r_contain_c,Computer
+mit_6.437,r_contain_c,Approximation
+mit_6.008,r_contain_c,Prediction
+Computer vision,depend_on_c,Image processing
+illinois_CS 522,r_contain_c,Programming language
+cmu_15-410,depend_on_r,cmu_15-213
+Inheritance (object-oriented programming),depend_on_c,Design pattern (computer science)
+illinois_CS 420,r_contain_c,Debugging
+stanford_CS 221,depend_on_r,stanford_CS 109
+iowa_CS:2230,r_contain_c,Data (computing)
+psu_CMPSC 122,r_contain_c,Recursion
+stanford_CS 145,r_contain_c,Relational algebra
+maryland_CMSC 460,depend_on_r,maryland_CMSC 131
+maryland_CMSC 411,r_contain_c,Communication
+illinois_CS 554,depend_on_r,illinois_CS 457
+cmu_15-440,r_contain_c,Debugging
+mit_6.846,r_contain_c,Synchronization
+Parsing,depend_on_c,Discrete mathematics
+iowa_CS:2111,depend_on_r,iowa_CS:2110
+Newton's method,depend_on_c,Floating point
+Analysis of algorithms,depend_on_c,Computation
+stanford_CS 267,r_contain_c,Graph coloring
+stanford_CS 231M,depend_on_r,stanford_CS 231A
+iowa_CS:3330,r_contain_c,Algorithm
+msu_CSE 480,r_contain_c,Query optimization
+stanford_CS 240,depend_on_r,stanford_CS 140
+Transaction processing,depend_on_c,Computational science
+cmu_15-463,r_contain_c,Computer vision
+psu_CMPSC 465,r_contain_c,Recursion (computer science)
+stanford_CS 245,r_contain_c,Concurrency (computer science)
+stanford_CS 223A,r_contain_c,Geometry
+Graphical model,depend_on_c,Machine learning
+maryland_CMSC 430,depend_on_r,maryland_CMSC 351
+msu_CSE 231,r_contain_c,Mathematics
+cmu_15-381,r_contain_c,Artificial intelligence
+psu_CSE 522,depend_on_r,psu_CMPSC 461
+List of undecidable problems,depend_on_c,Computer science
+caltech_CMS/CS 139,depend_on_r,caltech_CS 38
+NP-complete,depend_on_c,Algorithm design
+stanford_CS 316,depend_on_r,stanford_CS 149
+cmu_15-492,r_contain_c,Data (computing)
+mit_6.374,r_contain_c,Logic
+cmu_15-319,r_contain_c,Object (computer science)
+illinois_CS 101,r_contain_c,Data
+Software development,depend_on_c,Logic
+iowa_CS:3980,r_contain_c,Computer
+cmu_15-386,r_contain_c,MATLAB
+msu_CSE 201,r_contain_c,Computer
+caltech_CS 2,r_contain_c,Recursion (computer science)
+stanford_CS 367,depend_on_r,stanford_CS 161
+stanford_CS 205A,r_contain_c,Algebra
+iowa_CS:4740,r_contain_c,Data (computing)
+Parallel computing,depend_on_c,Computing
+stanford_CS 228,r_contain_c,Data (computing)
+caltech_CS 124,r_contain_c,Kernel (computing)
+cmu_15-122,r_contain_c,Computer
+"princeton_ELE  475,COS  475",r_contain_c,Data (computing)
+cmu_15-213,depend_on_r,cmu_15-122
+mit_6.839,r_contain_c,Statistics
+illinois_CS 563,depend_on_r,illinois_CS 463
+Program optimization,depend_on_c,Mathematical induction
+cmu_15-410,r_contain_c,Virtual memory
+psu_CSE 541,r_contain_c,Concurrency (computer science)
+mit_6.842,r_contain_c,Randomness
+mit_6.438,depend_on_r,mit_6.041
+Motion planning,depend_on_c,Computer science
+stanford_CS 205A,r_contain_c,Tensor
+mit_6.857,r_contain_c,Cryptography
+Computer programming,depend_on_c,Foundations of mathematics
+cmu_15-323,r_contain_c,Signal processing
+cmu_15-455,r_contain_c,NP (complexity)
+stanford_CS 107E,r_contain_c,Software development
+illinois_CS 428,depend_on_r,illinois_CS 427
+mit_6.849,r_contain_c,Polynomial
+Question answering,depend_on_c,Computational complexity theory
+Instruction set,depend_on_c,Computer
+Abstraction (computer science),depend_on_c,Arithmetic
+psu_CMPSC 311,r_contain_c,Program analysis
+Atomicity (database systems),depend_on_c,Data structure
+Distributed algorithms,depend_on_c,Discrete mathematics
+cmu_15-464,r_contain_c,Computer animation
+illinois_CS 440,r_contain_c,Natural language
+stanford_CS 161,r_contain_c,String (computer science)
+stanford_CS 348A,r_contain_c,Data
+stanford_CS 161,depend_on_r,stanford_CS 103
+caltech_CS/CNS/EE 156,r_contain_c,Approximation
+caltech_CS 176,r_contain_c,Rendering (computer graphics)
+purdue_CS 62600,r_contain_c,Database
+mit_6.S04,r_contain_c,Python (programming language)
+Concurrency control,depend_on_c,Mathematics
+caltech_CS 1,r_contain_c,Recursion
+cmu_15-437,r_contain_c,HTML
+Analysis of algorithms,depend_on_c,Asymptotic analysis
+maryland_CMSC 723,r_contain_c,Syntax
+stanford_CS 131,r_contain_c,Computer vision
+mit_6.436,r_contain_c,Probability theory
+Programming paradigm,depend_on_c,Automata theory
+cmu_15-387,r_contain_c,Reason
+Garbage collection (computer science),depend_on_c,Graph theory
+psu_CSE 550,r_contain_c,Eigenvalues and eigenvectors
+Neural network,depend_on_c,Pattern recognition
+Computer network,depend_on_c,Computer science
+maryland_CMSC 725,r_contain_c,Data (computing)
+Artificial intelligence,depend_on_c,Computation
+Scalability,depend_on_c,Java (programming language)
+cmu_15-346,depend_on_r,cmu_15-213
+caltech_CS/SS 152,r_contain_c,Game theory
+maryland_CMSC 427,r_contain_c,Shading
+Robotics,depend_on_c,Debugging
+purdue_CS 60300,r_contain_c,Data
+illinois_CS 446,r_contain_c,Data mining
+cmu_15-440,r_contain_c,Concurrency (computer science)
+msu_CSE 429,depend_on_r,msu_CSE 101
+maryland_CMSC 330,depend_on_r,maryland_CMSC 216
+illinois_CS 101,r_contain_c,Computing
+mit_6.341,r_contain_c,Signal processing
+illinois_CS 421,r_contain_c,Parsing
+mit_6.815,depend_on_r,mit_6.005
+stanford_CS 275,r_contain_c,Data (computing)
+stanford_CS 242,depend_on_r,stanford_CS 107
+msu_CSE 422,r_contain_c,Data (computing)
+Support vector machine,depend_on_c,Polynomial
+illinois_CS 467,r_contain_c,Data (computing)
+msu_CSE 425,r_contain_c,Computer
+Machine translation,depend_on_c,Foundations of mathematics
+Computational geometry,depend_on_c,Computing
+stanford_CS 231N,r_contain_c,Computer
+Machine learning,depend_on_c,Linear algebra
+msu_CSE 472,depend_on_r,msu_CSE 331
+Computational geometry,depend_on_c,Graphics
+illinois_CS 233,depend_on_r,illinois_CS 225
+psu_CSE 550,depend_on_r,psu_CMPSC 456
+mit_6.815,r_contain_c,Data
+illinois_CS 538,r_contain_c,Network security
+stanford_CS 167,r_contain_c,Data
+mit_6.021,r_contain_c,Communication
+Robotics,depend_on_c,Turing machine
+caltech_CS 1,r_contain_c,Graphics
+psu_CMPSC 311,r_contain_c,C (programming language)
+mit_6.806,r_contain_c,Machine translation
+Quantum computer,depend_on_c,Algorithm design
+Object (computer science),depend_on_c,Computer science
+msu_CSE 498,depend_on_r,msu_CSE 473
+maryland_CMSC 412,depend_on_r,maryland_CMSC 351
+msu_CSE 422,r_contain_c,Routing
+caltech_CS 150,r_contain_c,Probability
+Operating system,depend_on_c,Computer science
+psu_CMPSC 444,r_contain_c,Programming language
+cmu_15-104,r_contain_c,Concurrency (computer science)
+Abstract data type,depend_on_c,Number theory
+stanford_CS 255,r_contain_c,Encryption
+purdue_CS 53500,r_contain_c,Computer
+psu_CMPSC 463,r_contain_c,Analysis of algorithms
+mit_6.852,r_contain_c,Communication
+cmu_15-451,depend_on_r,cmu_15-210
+cmu_15-351,r_contain_c,Computer science
+Index (database),depend_on_c,Computer
+psu_CMPSC 461,r_contain_c,Programming language
+mit_6.828,depend_on_r,mit_6.005
+illinois_CS 555,depend_on_r,illinois_CS 457
+stanford_CS 248,r_contain_c,Server (computing)
+cmu_15-390,r_contain_c,Computer
+Application software,depend_on_c,Digital electronics
+cmu_15-418,r_contain_c,Data
+mit_6.837,depend_on_r,mit_6.005
+illinois_CS 538,depend_on_r,illinois_CS 438
+mit_6.835,depend_on_r,mit_6.034
+psu_CMPSC 460,depend_on_r,psu_CMPSC 462
+msu_CSE 472,r_contain_c,Computer
+Large deviations theory,depend_on_c,Random variable
+cmu_15-381,r_contain_c,Data (computing)
+Halting problem,depend_on_c,Automata theory
+Object-oriented programming,depend_on_c,Foundations of mathematics
+Routing,depend_on_c,Data
+cmu_15-349,r_contain_c,Network security
+mit_6.819,r_contain_c,Computer vision
+illinois_CS 476,r_contain_c,Formal methods
+maryland_CMSC 723,r_contain_c,Semantics
+iowa_CS:4520,depend_on_r,iowa_CS:3330
+mit_6.775,r_contain_c,Signal processing
+illinois_CS 411,r_contain_c,Data
+maryland_CMSC 435,depend_on_r,maryland_CMSC 433
+cmu_15-354,r_contain_c,Logic
+mit_6.839,r_contain_c,Mathematics
+caltech_CS 24,r_contain_c,Communication
+caltech_CS 1,r_contain_c,Data
+Spanning tree,depend_on_c,Foundations of mathematics
+stanford_CS 161,r_contain_c,Spanning tree
+cmu_15-322,r_contain_c,Computer
+stanford_CS 240H,r_contain_c,Security
+maryland_CMSC 414,r_contain_c,Network security
+purdue_CS 61400,depend_on_r,purdue_CS 51400
+stanford_CS 279,r_contain_c,Data (computing)
+Graph theory,depend_on_c,Computational science
+illinois_CS 414,depend_on_r,illinois_CS 241
+cmu_15-351,depend_on_r,cmu_15-121
+mit_6.852,r_contain_c,Distributed algorithms
+Question answering,depend_on_c,Graph theory
+iowa_CS:4640,depend_on_r,iowa_CS:2630
+mit_6.438,r_contain_c,Data
+Natural language processing,depend_on_c,Computer programming
+maryland_CMSC 417,depend_on_r,maryland_CMSC 330
+illinois_CS 579,r_contain_c,Complexity
+purdue_CS 54100,r_contain_c,Query optimization
+Inheritance (object-oriented programming),depend_on_c,Data
+caltech_CS 11,depend_on_r,caltech_CS 1
+Quantum computer,depend_on_c,Integer
+Routing,depend_on_c,OSI model
+Linear algebra,depend_on_c,Integer
+stanford_CS 261,depend_on_r,stanford_CS 161
+caltech_CMS/CS 139,depend_on_r,caltech_CS 138
+psu_CMPSC 464,r_contain_c,Theory of computation
+"princeton_COS  375,ELE  375",r_contain_c,Virtual memory
+msu_CSE 472,depend_on_r,msu_CSE 335
+stanford_CS 1C,r_contain_c,Computing
+Time complexity,depend_on_c,Computer science
+mit_6.245,depend_on_r,mit_6.241
+cmu_15-121,depend_on_r,cmu_15-112
+cmu_15-462,r_contain_c,Computer graphics
+msu_CSE 450,r_contain_c,Programming language
+mit_6.871,depend_on_r,mit_6.004
+First-order logic,depend_on_c,Algorithm
+stanford_CS 181,r_contain_c,Computer
+princeton_COS  402,r_contain_c,Artificial intelligence
+Parallel algorithm,depend_on_c,Computer science
+stanford_CS 267,r_contain_c,Approximation
+Vector processor,depend_on_c,Time complexity
+cmu_15-415,r_contain_c,SQL
+mit_6.437,depend_on_r,mit_6.436
+mit_6.115,r_contain_c,Robot
+iowa_CS:4420,depend_on_r,iowa_CS:3330
+Computer graphics,depend_on_c,Computer programming
+"princeton_COS  432,ELE  432",r_contain_c,Operating system
+princeton_COS  217,r_contain_c,Programming style
+purdue_CS 62600,r_contain_c,Malware
+stanford_CS 248,r_contain_c,Geometry
+cmu_15-383,r_contain_c,Part-of-speech tagging
+purdue_CS 60300,depend_on_r,purdue_CS 50300
+stanford_CS 229,r_contain_c,Machine learning
+stanford_CS 168,r_contain_c,Gradient descent
+Lisp (programming language),depend_on_c,Variable (computer science)
+stanford_CS 106A,r_contain_c,Abstraction (computer science)
+mit_6.046,depend_on_r,mit_6.006
+cmu_15-415,r_contain_c,Concurrency (computer science)
+Java (programming language),depend_on_c,Variable (computer science)
+cmu_15-251,r_contain_c,Complexity
+iowa_CS:4520,r_contain_c,Computer graphics
+maryland_CMSC 411,r_contain_c,Input/output
+Concurrency control,depend_on_c,Foundations of mathematics
+caltech_CS 124,r_contain_c,Operating system
+cmu_15-456,depend_on_r,cmu_15-451
+caltech_CS 38,depend_on_r,caltech_Ma/CS 6
+illinois_CS 523,r_contain_c,Data
+psu_CSE 557,r_contain_c,Matrix (mathematics)
+maryland_CMSC 433,r_contain_c,Object-oriented programming
+stanford_CS 106B,r_contain_c,Software engineering
+mit_6.115,r_contain_c,Signal processing
+princeton_COS  513,r_contain_c,Data analysis
+caltech_SS/CS 241,r_contain_c,Prediction
+iowa_CS:3110,r_contain_c,Python (programming language)
+psu_CSE 550,r_contain_c,Sparse matrix
+cmu_15-211,r_contain_c,Data
+mit_6.101,r_contain_c,Communication
+mit_6.005,depend_on_r,mit_6.042
+mit_6.256,r_contain_c,Complexity
+illinois_CS 438,r_contain_c,Data (computing)
+Computer security,depend_on_c,Number theory
+Graphical model,depend_on_c,Random variable
+cmu_15-221,r_contain_c,Computer
+Python (programming language),depend_on_c,Algorithm
+stanford_CS 103,r_contain_c,Computer
+mit_6.033,r_contain_c,Computer software
+Lexical analysis,depend_on_c,Automata theory
+cmu_15-210,r_contain_c,Data analysis
+maryland_CMSC 631,r_contain_c,ML (programming language)
+Randomized algorithm,depend_on_c,Abstraction (computer science)
+cmu_15-381,r_contain_c,Uncertainty
+msu_CSE 472,r_contain_c,Geometry
+caltech_CS 116,r_contain_c,First-order logic
+illinois_CS 573,r_contain_c,Approximation
+cmu_15-121,r_contain_c,Java (programming language)
+mit_6.932,r_contain_c,Data (computing)
+Distributed algorithms,depend_on_c,Polynomial
+mit_6.823,r_contain_c,Computer architecture
+msu_CSE 847,r_contain_c,Machine learning
+Formal methods,depend_on_c,Turing machine
+Gradient descent,depend_on_c,Polynomial
+cmu_15-365,depend_on_r,cmu_15-213
+maryland_CMSC 351,depend_on_r,maryland_CMSC 216
+mit_6.345,depend_on_r,mit_6.041
+illinois_CS 583,r_contain_c,Scheduling (computing)
+psu_CMPSC 311,r_contain_c,System programming
+iowa_CS:4980,depend_on_r,iowa_CS:3110
+Formal grammar,depend_on_c,Computer programming
+Compiler,depend_on_c,Automata theory
+iowa_CS:3820,r_contain_c,Syntax
+caltech_CS/CNS/EE 156,depend_on_r,caltech_CS 2
+Lisp (programming language),depend_on_c,Mathematics
+Recommender system,depend_on_c,Computer
+psu_CMPSC 464,r_contain_c,Complexity
+illinois_CS 523,r_contain_c,Security
+stanford_CS 240H,r_contain_c,Performance tuning
+cmu_15-354,r_contain_c,Algebra
+mit_6.630,depend_on_r,mit_6.003
+Array data structure,depend_on_c,Data type
+caltech_CMS/CS/EE 144,r_contain_c,Graph (mathematics)
+psu_CMPSC 472,r_contain_c,Operating system
+stanford_CS 367,depend_on_r,stanford_CS 154
+mit_6.866,r_contain_c,Image
+stanford_CS 261,r_contain_c,Linear programming
+Neural network,depend_on_c,Statistical inference
+stanford_CS 223A,r_contain_c,Robotics
+purdue_CS 65500,r_contain_c,Quantum cryptography
+Data mining,depend_on_c,Polynomial
+mit_6.175,depend_on_r,mit_6.004
+princeton_COS  340,r_contain_c,Probability
+stanford_CS 225A,r_contain_c,Kinematics
+Program optimization,depend_on_c,Combinatorics
+Probability theory,depend_on_c,Foundations of mathematics
+mit_6.437,depend_on_r,mit_6.008
+illinois_CS 424,r_contain_c,Robot
+cmu_15-462,r_contain_c,Image processing
+cmu_15-451,r_contain_c,Analysis of algorithms
+mit_6.438,r_contain_c,Inference
+JavaScript,depend_on_c,Computing
+stanford_CS 240,r_contain_c,Synchronization
+mit_6.581,depend_on_r,mit_6.034
+illinois_CS 461,r_contain_c,Information assurance
+cmu_15-415,r_contain_c,Concurrency control
+Natural language processing,depend_on_c,Programming language
+illinois_CS 431,r_contain_c,Interface (computing)
+Document classification,depend_on_c,Logic
+Monte Carlo method,depend_on_c,Abstraction (computer science)
+stanford_CS 107,r_contain_c,Microprocessor
+illinois_CS 524,depend_on_r,illinois_CS 422
+Graph theory,depend_on_c,Discrete mathematics
+stanford_CS 1C,r_contain_c,Security
+Analysis of algorithms,depend_on_c,Computational problem
+stanford_CS 154,r_contain_c,NP (complexity)
+maryland_CMSC 351,depend_on_r,maryland_CMSC 250
+Correlation and dependence,depend_on_c,Data
+iowa_CS:5520,r_contain_c,Volume rendering
+princeton_COS  597B,r_contain_c,Computer
+Geometric modeling,depend_on_c,Mathematics
+Scripting language,depend_on_c,Arithmetic
+Linear programming,depend_on_c,Discrete mathematics
+psu_CMPSC 312,r_contain_c,Data
+Decision theory,depend_on_c,Data
+mit_6.852,r_contain_c,Graph (mathematics)
+illinois_CS 419,r_contain_c,Visualization (computer graphics)
+cmu_15-383,r_contain_c,Probability
+stanford_CS 92SI,r_contain_c,Programming language
+stanford_CS 225A,depend_on_r,stanford_CS 223A
+cmu_15-441,r_contain_c,Internet
+mit_6.256,r_contain_c,Polynomial
+JavaScript,depend_on_c,Algorithm
+illinois_CS 419,r_contain_c,Computer graphics
+illinois_CS 426,r_contain_c,Syntax
+cmu_15-351,r_contain_c,Run time (program lifecycle phase)
+mit_6.874,r_contain_c,Data (computing)
+msu_CSE 331,r_contain_c,Graph (mathematics)
+stanford_CS 221,r_contain_c,Artificial intelligence
+mit_6.872,r_contain_c,Data
+iowa_CS:4640,r_contain_c,Security
+illinois_CS 447,r_contain_c,Semantics
+mit_6.042,r_contain_c,Integer
+mit_6.872,depend_on_r,mit_6.034
+mit_6.442,r_contain_c,Integral
+mit_6.263,r_contain_c,Data
+mit_6.865,r_contain_c,Rendering (computer graphics)
+Speech recognition,depend_on_c,Probability theory
+stanford_CS 279,depend_on_r,stanford_CS 106A
+Machine translation,depend_on_c,Combinatorics
+cmu_15-317,r_contain_c,Functional programming
+stanford_CS 221,depend_on_r,stanford_CS 103
+princeton_COS  597B,r_contain_c,Syntax
+iowa_CS:4740,r_contain_c,Cluster analysis
+Programming language,depend_on_c,Data structure
+stanford_CS 109,r_contain_c,Machine learning
+cmu_15-441,r_contain_c,Routing
+stanford_CS 348A,r_contain_c,Computer graphics
+illinois_CS 583,r_contain_c,Algorithm
+stanford_CS 448J,r_contain_c,Computing
+cmu_15-451,r_contain_c,Data (computing)
+msu_CSE 420,r_contain_c,Data
+cmu_15-453,r_contain_c,Complexity
+mit_6.046,r_contain_c,Computing
+caltech_CS 38,r_contain_c,Dynamic programming
+purdue_CS 63500,r_contain_c,Computer graphics
+System programming,depend_on_c,Algorithm
+Fast Fourier transform,depend_on_c,Discrete mathematics
+iowa_CS:4520,r_contain_c,Ray tracing (graphics)
+stanford_CS 145,depend_on_r,stanford_CS 103
+mit_6.836,r_contain_c,Data (computing)
+cmu_15-424,r_contain_c,Programmer
+princeton_COS  597B,depend_on_r,princeton_COS  226
+psu_CSE 550,r_contain_c,Computation
+Expert system,depend_on_c,Computer science
+stanford_CS 155,r_contain_c,Security
+psu_CMPSC 444,depend_on_r,psu_CMPSC 430
+"princeton_COS  109,EGR  109",r_contain_c,Computing
+Partial differential equation,depend_on_c,Matrix (mathematics)
+Haskell (programming language),depend_on_c,Data structure
+iowa_CS:5350,depend_on_r,iowa_CS:3330
+mit_6.036,r_contain_c,Machine learning
+"Best, worst and average case",depend_on_c,Graph theory
+maryland_CMSC 216,r_contain_c,Floating point
+stanford_CS 345D,r_contain_c,Concurrency control
+stanford_CS 224U,r_contain_c,Sentiment analysis
+Automated theorem proving,depend_on_c,Foundations of mathematics
+psu_CMPSC 312,r_contain_c,Logic
+mit_6.437,depend_on_r,mit_6.041
+iowa_CS:4350,r_contain_c,Computation
+Social network,depend_on_c,Computational science
+caltech_CS/EE/Ma 129,r_contain_c,Complexity
+mit_6.853,r_contain_c,Complexity
+purdue_CS 63500,r_contain_c,Image
+caltech_BE/CS 196,r_contain_c,Logic
+Visualization (computer graphics),depend_on_c,Algorithm
+Tensor,depend_on_c,Mathematics
+stanford_CS 244,depend_on_r,stanford_CS 144
+mit_6.932,depend_on_r,mit_6.005
+Turing machine,depend_on_c,Foundations of mathematics
+Software engineering,depend_on_c,Computational problem
+Random graph,depend_on_c,Mathematics
+stanford_CS 154,r_contain_c,Computer
+mit_6.869,r_contain_c,Object (computer science)
+stanford_CS 106A,r_contain_c,Programming style
+Type system,depend_on_c,Computer science
+cmu_15-392,r_contain_c,Input/output
+mit_6.021,depend_on_r,mit_6.003
+Symmetric multiprocessing,depend_on_c,Operating system
+PSPACE,depend_on_c,Computation
+msu_CSE 335,r_contain_c,Software design
+cmu_15-150,r_contain_c,Computer
+stanford_CS 106B,r_contain_c,Data (computing)
+Database,depend_on_c,Discrete mathematics
+psu_CSE 552,depend_on_r,psu_CMPSC 456
+psu_CMPSC 436,r_contain_c,Security
+stanford_CS 246,depend_on_r,stanford_CS 107
+Message passing,depend_on_c,Number theory
+illinois_CS 476,depend_on_r,illinois_CS 225
+mit_6.854,depend_on_r,mit_6.041
+ML (programming language),depend_on_c,Computer programming
+stanford_CS 240,r_contain_c,Operating system
+mit_6.673,r_contain_c,Finite difference
+stanford_CS 249A,r_contain_c,Object (computer science)
+caltech_CS/CNS 174,r_contain_c,Rendering (computer graphics)
+iowa_CS:1210,r_contain_c,Python (programming language)
+Computer vision,depend_on_c,Linear algebra
+stanford_CS 294S,r_contain_c,Security
+stanford_CS 107,r_contain_c,Programming language
+SQL,depend_on_c,Programming language
+mit_6.442,depend_on_r,mit_6.042
+stanford_CS 124,r_contain_c,Sentiment analysis
+caltech_CS/EE/Ma 129,r_contain_c,Pattern recognition
+cmu_15-359,r_contain_c,Probability
+iowa_CS:2820,r_contain_c,Software development
+Neural network,depend_on_c,Expected value
+stanford_CS 246,r_contain_c,Machine learning
+mit_6.033,r_contain_c,Server (computing)
+stanford_CS 103A,r_contain_c,Computer science
+mit_6.820,r_contain_c,Model checking
+caltech_CS 4,r_contain_c,Functional programming
+stanford_CS 124,r_contain_c,Question answering
+illinois_CS 525,depend_on_r,illinois_CS 423
+illinois_CS 475,depend_on_r,illinois_CS 373
+psu_CSE 597A,r_contain_c,Graph theory
+illinois_CS 173,r_contain_c,Computer science
+mit_6.341,depend_on_r,mit_6.011
+illinois_CS 519,r_contain_c,Computational science
+stanford_CS 374,depend_on_r,stanford_CS 161
+cmu_15-410,r_contain_c,Assembly language
+NP-complete,depend_on_c,Polynomial
+Perl,depend_on_c,Regular expression
+stanford_CS 348A,r_contain_c,Data (computing)
+msu_CSE 260,r_contain_c,Logic
+maryland_CMSC 132,r_contain_c,Software engineering
+msu_CSE 440,depend_on_r,msu_CSE 331
+cmu_15-437,r_contain_c,Java (programming language)
+psu_CMPSC 472,r_contain_c,Scheduling (computing)
+msu_CSE 914,r_contain_c,Formal methods
+cmu_15-121,r_contain_c,Analysis of algorithms
+mit_6.813,r_contain_c,Interface (computing)
+psu_CMPSC 458,r_contain_c,Computer graphics
+stanford_CS 161,r_contain_c,Analysis of algorithms
+Artificial intelligence,depend_on_c,Digital electronics
+mit_6.556,r_contain_c,Image
+Visualization (computer graphics),depend_on_c,Geometry
+cmu_15-321,r_contain_c,Perl
+mit_6.857,r_contain_c,Authentication
+msu_CSE 484,r_contain_c,Question answering
+Formal language,depend_on_c,Data structure
+mit_6.041,r_contain_c,Conditional probability
+cmu_15-414,depend_on_r,cmu_15-211
+caltech_CS 1,r_contain_c,Object-oriented programming
+"princeton_COS  126,EGR  126",r_contain_c,Data
+Partial differential equation,depend_on_c,Differential equation
+stanford_CS 110,r_contain_c,Complexity
+psu_CSE 565,r_contain_c,Algorithm design
+psu_CMPSC 456,r_contain_c,Polynomial
+cmu_15-300,depend_on_r,cmu_15-210
+maryland_CMSC 414,r_contain_c,Computer
+iowa_CS:5620,r_contain_c,Mutual exclusion
+caltech_CS 119,depend_on_r,caltech_CS 1
+iowa_CS:4980,depend_on_r,iowa_CS:2820
+mit_6.673,depend_on_r,mit_6.013
+Linear programming,depend_on_c,Mathematics
+cmu_15-440,r_contain_c,Communication
+illinois_CS 579,depend_on_r,illinois_CS 475
+Computer graphics,depend_on_c,Image
+psu_CSE 550,r_contain_c,Algebra
+Array data structure,depend_on_c,Data structure
+mit_6.141,r_contain_c,Mechanical engineering
+illinois_CS 446,depend_on_r,illinois_CS 440
+Autonomous robot,depend_on_c,Kinematics
+maryland_CMSC 435,depend_on_r,maryland_CMSC 430
+princeton_COS  451,r_contain_c,Computer
+mit_6.256,r_contain_c,Semidefinite programming
+cmu_15-412,r_contain_c,Operating system
+Formal methods,depend_on_c,Analysis of algorithms
+illinois_CS 533,r_contain_c,Pipeline (computing)
+mit_6.856,r_contain_c,Graph (mathematics)
+iowa_CS:2420,r_contain_c,Database normalization
+Database,depend_on_c,Data
+cmu_15-317,r_contain_c,Logic
+Data warehouse,depend_on_c,Data (computing)
+Software development,depend_on_c,High-level programming language
+Application programming interface,depend_on_c,Computer science
+maryland_CMSC 725,depend_on_r,maryland_CMSC 420
+illinois_CS 544,r_contain_c,Parsing
+mit_6.002,r_contain_c,Abstraction (computer science)
+illinois_CS 419,r_contain_c,Rendering (computer graphics)
+mit_6.344,depend_on_r,mit_6.003
+cmu_15-415,r_contain_c,Data
+mit_6.875,r_contain_c,Cryptanalysis
+illinois_CS 524,r_contain_c,Semantics
+Compiler,depend_on_c,Regular language
+Scope (computer science),depend_on_c,Algorithm
+purdue_CS 66100,r_contain_c,Parsing
+mit_6.820,r_contain_c,Program analysis
+psu_CMPSC 474,r_contain_c,Computing
+Volume rendering,depend_on_c,Computer
+iowa_CS:5850,depend_on_r,iowa_CS:3330
+mit_6.814,depend_on_r,mit_6.046
+stanford_CS 448Z,r_contain_c,Computer
+Graph coloring,depend_on_c,Graph theory
+User interface,depend_on_c,Computational science
+psu_CMPSC 483W,depend_on_r,psu_CMPSC 465
+Database design,depend_on_c,Operating system
+maryland_CMSC 456,depend_on_r,maryland_CMSC 330
+Natural language processing,depend_on_c,Foundations of mathematics
+Modular programming,depend_on_c,Programming language
+cmu_15-383,r_contain_c,Python (programming language)
+Graphical model,depend_on_c,Markov chain
+illinois_CS 555,r_contain_c,Finite difference
+illinois_CS 574,depend_on_r,illinois_CS 473
+stanford_CS 448J,r_contain_c,Image analysis
+Amortized analysis,depend_on_c,"Best, worst and average case"
+stanford_CS 161,r_contain_c,Algorithm design
+Pushdown automaton,depend_on_c,Computer
+NP-complete,depend_on_c,Theoretical computer science
+stanford_CS 243,r_contain_c,Security
+caltech_CS 176,r_contain_c,Graphics
+mit_6.846,r_contain_c,Message passing
+illinois_CS 473,depend_on_r,illinois_CS 373
+"princeton_COS  126,EGR  126",r_contain_c,Java (programming language)
+stanford_CS 142,r_contain_c,JavaScript
+Programming style,depend_on_c,Computer programming
+msu_CSE 420,depend_on_r,msu_CSE 260
+Programmer,depend_on_c,Computability
+maryland_CMSC 714,r_contain_c,Debugging
+caltech_EE/CS 53,r_contain_c,Microprocessor
+psu_CMPSC 464,r_contain_c,Computability
+msu_CSE 201,r_contain_c,Computer security
+Software development,depend_on_c,Graph theory
+caltech_CS 38,depend_on_r,caltech_CS 21
+caltech_Ma/CS 6,r_contain_c,Logic
+psu_CMPSC 484,r_contain_c,Computer science
+caltech_CS 121,depend_on_r,caltech_CS 1
+illinois_CS 519,r_contain_c,Scientific visualization
+Machine learning,depend_on_c,Data
+String searching algorithm,depend_on_c,Algorithm
+cmu_15-383,depend_on_r,cmu_15-122
+psu_CMPSC 459,r_contain_c,Scientific visualization
+illinois_CS 533,r_contain_c,Computer architecture
+stanford_CS 227B,r_contain_c,Artificial intelligence
+cmu_15-465,r_contain_c,Computer
+caltech_CS/CNS 171,r_contain_c,Computer graphics
+msu_CSE 498,depend_on_r,msu_CSE 335
+psu_CSE 522,r_contain_c,Semantics of programming languages
+C++,depend_on_c,Arithmetic
+mit_6.0001,r_contain_c,Data
+stanford_CS 476B,r_contain_c,Interaction design
+Calculus of variations,depend_on_c,Continuous function
+Speech recognition,depend_on_c,Mathematics
+mit_6.839,r_contain_c,Computing
+Speech recognition,depend_on_c,Random variable
+caltech_CS/CNS/EE 156,r_contain_c,Pattern recognition
+caltech_CS 176,r_contain_c,Motion capture
+caltech_Ma/CS 6,r_contain_c,Graph (mathematics)
+illinois_CS 440,r_contain_c,Computer
+PSPACE,depend_on_c,Polynomial
+mit_6.819,r_contain_c,Graphics
+mit_6.047,r_contain_c,Database
+psu_CMPSC 443,r_contain_c,Security
+purdue_CS 53600,r_contain_c,Computation
+Numerical analysis,depend_on_c,Discrete mathematics
+iowa_CS:2230,r_contain_c,Complexity
+cmu_15-359,r_contain_c,Calculus
+Sentiment analysis,depend_on_c,Computational complexity theory
+princeton_COS  326,r_contain_c,Data
+Virtual reality,depend_on_c,Interactivity
+maryland_CMSC 631,r_contain_c,Data
+msu_CSE 460,r_contain_c,Computability
+maryland_CMSC 250H,r_contain_c,Computer science
+stanford_CS 140,r_contain_c,Synchronization
+purdue_CS 66100,depend_on_r,purdue_CS 50200
+cmu_15-385,r_contain_c,Computer
+Graphical user interface,depend_on_c,Arithmetic
+NP-complete,depend_on_c,Number theory
+Cryptography,depend_on_c,Combinatorics
+mit_6.006,r_contain_c,Introduction to Algorithms
+maryland_CMSC 421,r_contain_c,Data (computing)
+Robotics,depend_on_c,Kinematics
+cmu_15-455,r_contain_c,PSPACE
+Imperative programming,depend_on_c,Computability
+mit_6.175,r_contain_c,Virtual memory
+psu_CSE 564,r_contain_c,Approximation
+psu_CSE 597A,r_contain_c,Mathematics
+stanford_CS 223A,r_contain_c,Motion planning
+Randomized algorithm,depend_on_c,Computer science
+psu_CSE 550,r_contain_c,Linear algebra
+Multi-core processor,depend_on_c,Computer
+cmu_15-251,r_contain_c,Automata theory
+Statistics,depend_on_c,Mathematics
+mit_6.456,r_contain_c,Data
+cmu_15-321,r_contain_c,Python (programming language)
+stanford_CS 124,depend_on_r,stanford_CS 109
+iowa_CS:4340,r_contain_c,Computation
+cmu_15-150,r_contain_c,C (programming language)
+illinois_CS 546,r_contain_c,Natural language processing
+caltech_CS 142,r_contain_c,Distributed computing
+mit_6.115,r_contain_c,Communication
+Computational chemistry,depend_on_c,Computability
+stanford_CS 107,r_contain_c,Data (computing)
+Complexity class,depend_on_c,Algorithm
+cmu_15-415,r_contain_c,Database
+iowa_CS:4700,depend_on_r,iowa_CS:2630
+iowa_CS:3330,r_contain_c,NP (complexity)
+illinois_CS 461,depend_on_r,illinois_CS 241
+Cryptography,depend_on_c,Logic
+stanford_CS 327A,depend_on_r,stanford_CS 223A
+purdue_CS 55500,r_contain_c,Number theory
+illinois_CS 440,r_contain_c,Prolog
+mit_6.131,depend_on_r,mit_6.003
+Time complexity,depend_on_c,Computability
+maryland_CMSC 411,r_contain_c,Computer
+Round-off error,depend_on_c,Eigenvalues and eigenvectors
+Compiler,depend_on_c,Regular expression
+illinois_CS 419,depend_on_r,illinois_CS 418
+P versus NP problem,depend_on_c,Computer
+mit_6.033,r_contain_c,Complexity
+illinois_CS 440,r_contain_c,Inference
+psu_CSE 588,r_contain_c,Multiplication
+stanford_CS 193P,r_contain_c,User interface
+mit_6.115,depend_on_r,mit_6.002
+3D computer graphics,depend_on_c,Iterative method
+illinois_CS 511,depend_on_r,illinois_CS 411
+illinois_CS 373,r_contain_c,Theory of computation
+mit_6.830,r_contain_c,Concurrency control
+Virtual memory,depend_on_c,Operating system
+illinois_CS 473,r_contain_c,Algorithm
+iowa_CS:2110,r_contain_c,Perl
+stanford_CS 155,r_contain_c,Network security
+cmu_15-319,r_contain_c,Stack (data structure)
+psu_CMPSC 438,r_contain_c,Computer network
+mit_6.851,r_contain_c,Data (computing)
+msu_CSE 914,r_contain_c,Interface (computing)
+msu_CSE 914,r_contain_c,Object (computer science)
+msu_CSE 472,r_contain_c,Shading
+caltech_CS/EE 143,r_contain_c,Routing
+stanford_CS 1C,r_contain_c,Internet
+msu_CSE 101,r_contain_c,Computing
+Bioinformatics,depend_on_c,Mathematical induction
+illinois_CS 421,r_contain_c,Data
+Traffic analysis,depend_on_c,Mathematics
+msu_CSE 260,r_contain_c,Computer
+mit_6.450,r_contain_c,Entropy
+cmu_15-415,r_contain_c,Algebra
+msu_CSE 473,r_contain_c,Shading
+stanford_CS 244,r_contain_c,Internet
+illinois_CS 519,r_contain_c,Data (computing)
+Finite difference,depend_on_c,Integer
+stanford_CS 106A,r_contain_c,Programming language
+iowa_CS:2110,r_contain_c,Introduction to Algorithms
+illinois_CS 579,r_contain_c,Polynomial
+caltech_CS 101,depend_on_r,caltech_CS 38
+Atomicity (database systems),depend_on_c,Database
+illinois_CS 418,r_contain_c,Computer
+Image processing,depend_on_c,Computer
+maryland_CMSC 723,r_contain_c,Natural language
+psu_CMPSC 471,depend_on_r,psu_CMPSC 461
+Database normalization,depend_on_c,Data (computing)
+mit_6.111,r_contain_c,Communication
+psu_CSE 541,r_contain_c,Database design
+stanford_CS 241,r_contain_c,Computing
+String (computer science),depend_on_c,Computing
+msu_CSE 460,depend_on_r,msu_CSE 331
+iowa_CS:5850,depend_on_r,iowa_CS:3820
+mit_6.556,r_contain_c,Data (computing)
+princeton_COS  402,depend_on_r,princeton_COS  226
+stanford_CS 248,r_contain_c,Personal computer
+psu_CMPSC 312,r_contain_c,Computer
+psu_CSE 588,r_contain_c,Algebra
+mit_6.856,r_contain_c,Randomization
+Analysis of algorithms,depend_on_c,Introduction to Algorithms
+illinois_CS 450,depend_on_r,illinois_CS 357
+mit_6.839,r_contain_c,Rendering (computer graphics)
+Fourier analysis,depend_on_c,Mathematics
+cmu_15-455,r_contain_c,Randomness
+cmu_15-424,r_contain_c,Communication
+illinois_CS 412,depend_on_r,illinois_CS 225
+caltech_CS/EE/Ma 129,r_contain_c,Information theory
+mit_6.047,depend_on_r,mit_6.006
+psu_CSE 542,depend_on_r,psu_CSE 541
+Parsing,depend_on_c,Foundations of mathematics
+mit_6.344,r_contain_c,Image processing
+P versus NP problem,depend_on_c,Iterative method
+maryland_CMSC 250H,r_contain_c,Computer
+iowa_CS:2630,depend_on_r,iowa_CS:2230
+illinois_CS 427,depend_on_r,illinois_CS 373
+cmu_15-387,depend_on_r,cmu_15-112
+caltech_CS 153,depend_on_r,caltech_CS 21
+Computational chemistry,depend_on_c,Computer
+3D computer graphics,depend_on_c,Discrete mathematics
+psu_CMPSC 436,r_contain_c,Communication
+psu_CMPSC 443,r_contain_c,Internet
+Natural language processing,depend_on_c,Computer science
+msu_CSE 335,r_contain_c,Polymorphism (computer science)
+caltech_Ma/CS 6,r_contain_c,Discrete mathematics
+maryland_CMSC 434,r_contain_c,Computer
+Support vector machine,depend_on_c,Iterative method
+Recursion,depend_on_c,Computer
+illinois_CS 433,r_contain_c,Pipeline (computing)
+psu_CMPSC 485W,depend_on_r,psu_CMPSC 484
+Prolog,depend_on_c,Computer programming
+purdue_CS 52600,r_contain_c,Authentication
+Sentiment analysis,depend_on_c,Statistics
+cmu_15-251,r_contain_c,Cryptography
+psu_CMPSC 402,r_contain_c,File system
+psu_CSE 550,r_contain_c,Least squares
+psu_CSE 597A,depend_on_r,psu_CMPSC 465
+msu_CSE 498,depend_on_r,msu_CSE 425
+stanford_CS 161,r_contain_c,Data (computing)
+msu_CSE 847,r_contain_c,Data (computing)
+mit_6.854,r_contain_c,Data (computing)
+cmu_15-211,r_contain_c,Computer science
+mit_6.857,r_contain_c,Security
+stanford_CS 232,r_contain_c,MATLAB
+mit_6.263,depend_on_r,mit_6.041
+Communications protocol,depend_on_c,Theoretical computer science
+mit_6.830,depend_on_r,mit_6.033
+psu_CMPSC 450,r_contain_c,Synchronization
+Computational complexity theory,depend_on_c,Mathematical induction
+Message passing,depend_on_c,Graph theory
+stanford_CS 255,r_contain_c,Data
+stanford_CS 348B,r_contain_c,Graphics
+Computational geometry,depend_on_c,Computation
+Scripting language,depend_on_c,Digital electronics
+psu_CMPSC 102,r_contain_c,Debugging
+cmu_15-418,r_contain_c,Computer
+mit_6.142,r_contain_c,Mechanical engineering
+cmu_15-424,r_contain_c,Reason
+illinois_CS 527,r_contain_c,Software engineering
+cmu_15-441,r_contain_c,Network security
+Pattern matching,depend_on_c,String (computer science)
+iowa_CS:2230,r_contain_c,Recursion (computer science)
+Software development,depend_on_c,Object (computer science)
+iowa_CS:5800,r_contain_c,Software engineering
+maryland_CMSC 426,r_contain_c,Computer
+caltech_CS/EE 143,r_contain_c,Congestion control
+Mathematical optimization,depend_on_c,Algorithm
+mit_6.872,r_contain_c,Computing
+String searching algorithm,depend_on_c,Logic
+mit_6.552,r_contain_c,Signal processing
+Garbage collection (computer science),depend_on_c,Discrete mathematics
+mit_6.0001,r_contain_c,Complexity
+caltech_CS 124,r_contain_c,Scheduling (computing)
+cmu_15-211,depend_on_r,cmu_15-121
+stanford_CS 107,r_contain_c,Computer
+illinois_CS 411,r_contain_c,Database
+caltech_CS 119,r_contain_c,Debugging
+maryland_CMSC 422,depend_on_r,maryland_CMSC 351
+mit_6.842,r_contain_c,Computation
+maryland_CMSC 433,depend_on_r,maryland_CMSC 330
+mit_6.830,r_contain_c,Data
+cmu_15-410,r_contain_c,Synchronization
+stanford_CS 106A,r_contain_c,Software engineering
+mit_6.453,r_contain_c,Cryptography
+maryland_CMSC 733,r_contain_c,Image
+illinois_CS 460,r_contain_c,Security
+cmu_15-417,r_contain_c,Inference
+Variable (computer science),depend_on_c,Computing
+psu_CSE 557,r_contain_c,Computation
+mit_6.453,r_contain_c,Uncertainty
+maryland_CMSC 412,r_contain_c,Synchronization
+psu_CSE 560,depend_on_r,psu_CSE 565
+illinois_CS 522,r_contain_c,Semantics
+msu_CSE 331,r_contain_c,String (computer science)
+mit_6.0001,r_contain_c,Computation
+mit_6.035,depend_on_r,mit_6.005
+iowa_CS:3820,r_contain_c,Data
+stanford_CS 348A,r_contain_c,Graphics
+Scientific visualization,depend_on_c,Computer science
+illinois_CS 527,depend_on_r,illinois_CS 428
+cmu_15-410,r_contain_c,Kernel (computing)
+iowa_CS:4400,depend_on_r,iowa_CS:3330
+mit_6.842,r_contain_c,Complexity
+illinois_CS 446,r_contain_c,Unsupervised learning
+stanford_CS 103,r_contain_c,NP (complexity)
+cmu_15-415,r_contain_c,Data (computing)
+mit_6.850,r_contain_c,Motion planning
+msu_CSE 320,r_contain_c,Computer
+stanford_CS 140,r_contain_c,Virtual memory
+purdue_CS 63600,r_contain_c,OSI model
+iowa_CS:4980,depend_on_r,iowa_CS:2110
+msu_CSE 814,r_contain_c,Software development
+psu_CMPSC 455,r_contain_c,Interpolation
+caltech_CS 138,r_contain_c,Cryptography
+stanford_CS 316,r_contain_c,Cache coherence
+mit_6.005,depend_on_r,mit_6.01
+stanford_CS 243,r_contain_c,Data
+maryland_CMSC 631,r_contain_c,Abstraction (computer science)
+iowa_CS:2820,r_contain_c,Object (computer science)
+purdue_CS 54100,r_contain_c,Semantics
+psu_CMPSC 484,r_contain_c,Computer
+iowa_CS:5610,r_contain_c,Pipeline (computing)
+maryland_CMSC 426,depend_on_r,maryland_CMSC 420
+stanford_CS 131,r_contain_c,Index (database)
+stanford_CS 265,r_contain_c,Data analysis
+caltech_CS/SS 152,r_contain_c,Data
+caltech_CS 115,r_contain_c,Pattern matching
+maryland_CMSC 250,depend_on_r,maryland_CMSC 131
+Natural language processing,depend_on_c,Computer
+Complexity class,depend_on_c,Integer
+illinois_CS 445,r_contain_c,Computer vision
+Theory of computation,depend_on_c,Computer
+cmu_15-251,depend_on_r,cmu_15-112
+msu_CSE 320,r_contain_c,Data
+Concurrency (computer science),depend_on_c,Computer programming
+Amortized analysis,depend_on_c,Mathematics
+mit_6.857,r_contain_c,Cryptanalysis
+psu_CMPSC 438,r_contain_c,Computing
+Computational geometry,depend_on_c,Problem solving
+mit_6.005,r_contain_c,Data
+mit_6.832,r_contain_c,Reinforcement learning
+mit_6.829,depend_on_r,mit_6.033
+stanford_CS 107E,r_contain_c,Arithmetic
+Operating system,depend_on_c,Computer
+stanford_CS 109,depend_on_r,stanford_CS 106B
+caltech_SS/CS 241,r_contain_c,Economics
+illinois_CS 523,depend_on_r,illinois_CS 433
+illinois_CS 484,r_contain_c,Shared memory
+stanford_CS 193P,r_contain_c,Object (computer science)
+mit_6.141,r_contain_c,Communication
+cmu_15-359,r_contain_c,Algebra
+Visualization (computer graphics),depend_on_c,Computer
+cmu_15-437,r_contain_c,JavaScript
+cmu_15-456,r_contain_c,Linear programming
+psu_CMPSC 397A,r_contain_c,Software engineering
+Exponential family,depend_on_c,Algebra
+cmu_15-359,r_contain_c,Computing
+msu_CSE 232,r_contain_c,C (programming language)
+cmu_15-462,r_contain_c,Rendering (computer graphics)
+mit_6.869,depend_on_r,mit_6.041
+stanford_CS 224U,depend_on_r,stanford_CS 124
+mit_6.846,r_contain_c,Graph (mathematics)
+psu_CSE 565,depend_on_r,psu_CMPSC 465
+msu_CSE 847,r_contain_c,Data mining
+Numerical analysis,depend_on_c,Algorithm
+mit_6.828,r_contain_c,Virtual memory
+Game theory,depend_on_c,Arithmetic
+mit_6.819,r_contain_c,Machine learning
+Peer-to-peer,depend_on_c,Computer
+Concurrency control,depend_on_c,Computer
+Computer security,depend_on_c,Logic
+caltech_CS 1,r_contain_c,Computer programming
+Index (database),depend_on_c,Data (computing)
+mit_6.815,r_contain_c,Image
+msu_CSE 477,r_contain_c,Server (computing)
+iowa_CS:2630,r_contain_c,Logic
+psu_CMPSC 121,r_contain_c,Problem solving
+maryland_CMSC 714,r_contain_c,Computing
+maryland_CMSC 451,r_contain_c,Complexity
+psu_CMPSC 457,depend_on_r,psu_CMPSC 122
+mit_6.858,r_contain_c,Operating system
+mit_6.437,r_contain_c,Asymptotic analysis
+Lexical analysis,depend_on_c,String (computer science)
+psu_CMPSC 473,r_contain_c,Computer
+Machine learning,depend_on_c,Artificial intelligence
+mit_6.556,depend_on_r,mit_6.011
+caltech_BE/CS 196,r_contain_c,Computer science
+stanford_CS 244B,r_contain_c,Shared memory
+cmu_15-237,depend_on_r,cmu_15-112
+mit_6.141,r_contain_c,Motion planning
+mit_6.0001,r_contain_c,Computer science
+Combinatorics,depend_on_c,Foundations of mathematics
+Expert system,depend_on_c,Artificial intelligence
+cmu_15-237,r_contain_c,Server (computing)
+mit_6.344,r_contain_c,Signal processing
+iowa_CS:2420,r_contain_c,Relational database
+stanford_CS 348B,r_contain_c,Rendering (computer graphics)
+mit_6.905,depend_on_r,mit_6.034
+stanford_CS 345D,depend_on_r,stanford_CS 145
+purdue_CS 66100,r_contain_c,Compiler
+String (computer science),depend_on_c,Algorithm
+stanford_CS 106B,r_contain_c,Data
+maryland_CMSC 422,depend_on_r,maryland_CMSC 330
+stanford_CS 161,r_contain_c,Algorithm
+mit_6.045,r_contain_c,Randomness
+mit_6.450,r_contain_c,Data
+Imperative programming,depend_on_c,Foundations of mathematics
+stanford_CS 231M,r_contain_c,Image
+Divide and conquer algorithm,depend_on_c,Algorithm
+mit_6.438,r_contain_c,Statistical inference
+Parsing,depend_on_c,Polynomial
+Symbol table,depend_on_c,Computer science
+Decision theory,depend_on_c,Discrete mathematics
+Recursion,depend_on_c,Discrete mathematics
+stanford_CS 224U,r_contain_c,Semantics
+Newton's method,depend_on_c,Eigenvalues and eigenvectors
+mit_6.837,r_contain_c,Ray tracing (graphics)
+maryland_CMSC 435,depend_on_r,maryland_CMSC 412
+C++,depend_on_c,Logic
+mit_6.850,r_contain_c,Computing
+mit_6.820,depend_on_r,mit_6.035
+illinois_CS 533,r_contain_c,Computation
+psu_CSE 530,r_contain_c,Computer architecture
+mit_6.819,r_contain_c,Computer
+illinois_CS 210,r_contain_c,Computing
+psu_CSE 543,depend_on_r,psu_CMPSC 461
+cmu_15-421,depend_on_r,cmu_15-112
+mit_6.047,r_contain_c,C (programming language)
+msu_CSE 847,r_contain_c,Data
+cmu_15-237,r_contain_c,JavaScript
+cmu_15-417,r_contain_c,Garbage collection (computer science)
+Formal methods,depend_on_c,Combinatorics
+Graphical user interface,depend_on_c,Number theory
+stanford_CS 154,r_contain_c,Computing
+mit_6.842,depend_on_r,mit_6.046
+Virtual memory,depend_on_c,Input/output
+NP (complexity),depend_on_c,Computation
+illinois_CS 411,r_contain_c,Concurrency control
+maryland_CMSC 216,depend_on_r,maryland_CMSC 132
+msu_CSE 420,r_contain_c,Arithmetic
+stanford_CS 232,r_contain_c,Image
+princeton_COS  451,r_contain_c,Computer graphics
+stanford_CS 155,r_contain_c,Malware
+Concurrency (computer science),depend_on_c,Computer science
+Support vector machine,depend_on_c,Algorithm
+Hash table,depend_on_c,Computer science
+stanford_CS 92SI,r_contain_c,Object (computer science)
+caltech_CS 1,r_contain_c,Recursion (computer science)
+Computational geometry,depend_on_c,Discrete mathematics
+Reinforcement learning,depend_on_c,Computer programming
+Mobile device,depend_on_c,Computer
+caltech_CS 150,r_contain_c,Communication
+caltech_CS 38,depend_on_r,caltech_CS/EE/Ma 129
+Calculus of variations,depend_on_c,Mathematics
+stanford_CS 448J,r_contain_c,Wavelet
+Fixed point (mathematics),depend_on_c,Mathematics
+illinois_CS 473,r_contain_c,Computer
+mit_6.634,r_contain_c,Matrix (mathematics)
+Profiling (computer programming),depend_on_c,Computational complexity theory
+illinois_CS 563,r_contain_c,Network security
+iowa_CS:4420,r_contain_c,Artificial intelligence
+mit_6.172,r_contain_c,Memory hierarchy
+mit_6.456,r_contain_c,Data (computing)
+Approximation algorithm,depend_on_c,Linear algebra
+iowa_CS:4740,r_contain_c,PageRank
+cmu_15-351,r_contain_c,Data
+maryland_CMSC 430,r_contain_c,Program analysis
+Automated planning and scheduling,depend_on_c,Numerical analysis
+caltech_CS/SS 152,r_contain_c,Approximation
+cmu_15-451,r_contain_c,Graph (mathematics)
+psu_CMPSC 312,r_contain_c,Memory hierarchy
+mit_6.864,depend_on_r,mit_6.046
+mit_6.047,r_contain_c,Algorithm design
+illinois_CS 544,depend_on_r,illinois_CS 450
+stanford_CS 110,r_contain_c,Security
+Fixed point (mathematics),depend_on_c,Foundations of mathematics
+Support vector machine,depend_on_c,Computability
+Context-free grammar,depend_on_c,String (computer science)
+mit_6.045,r_contain_c,Computability
+msu_CSE 425,r_contain_c,Security
+psu_CMPSC 457,r_contain_c,3D modeling
+caltech_CS 4,r_contain_c,Data
+maryland_CMSC 423,r_contain_c,Data (computing)
+illinois_CS 445,depend_on_r,illinois_CS 225
+psu_CMPSC 475,depend_on_r,psu_CMPSC 465
+Software engineering,depend_on_c,Theoretical computer science
+iowa_CS:5610,r_contain_c,Computer architecture
+Digital signature,depend_on_c,Computer science
+caltech_CS 1,r_contain_c,Python (programming language)
+Scheduling (computing),depend_on_c,Computation
+mit_6.131,r_contain_c,Communication
+maryland_CMSC 426,r_contain_c,Input/output
+iowa_CS:5520,r_contain_c,Computer
+mit_6.262,depend_on_r,mit_6.041
+stanford_CS 221,r_contain_c,Robotics
+String searching algorithm,depend_on_c,Foundations of mathematics
+illinois_CS 548,r_contain_c,Prediction
+stanford_CS 316,r_contain_c,Superscalar
+caltech_CS 118,r_contain_c,Model checking
+purdue_CS 60300,r_contain_c,Security
+maryland_CMSC 725,r_contain_c,Computer
+illinois_CS 548,r_contain_c,Complexity
+stanford_CS 148,r_contain_c,Graphics
+Motion capture,depend_on_c,Computer science
+stanford_CS 210A,depend_on_r,stanford_CS 109
+cmu_15-210,r_contain_c,Data (computing)
+msu_CSE 498,depend_on_r,msu_CSE 435
+cmu_15-414,depend_on_r,cmu_15-251
+mit_6.01,r_contain_c,Computer
+Machine translation,depend_on_c,Problem solving
+maryland_CMSC 714,depend_on_r,maryland_CMSC 412
+Multiplication,depend_on_c,Foundations of mathematics
+mit_6.869,r_contain_c,Image
+Java (programming language),depend_on_c,Computing
+stanford_CS 194H,r_contain_c,Interface (computing)
+mit_6.839,r_contain_c,Geometry
+Volume rendering,depend_on_c,Shading
+stanford_CS 103A,r_contain_c,Mathematics
+Index (database),depend_on_c,Relational model
+Abstraction (computer science),depend_on_c,Number theory
+mit_6.262,r_contain_c,Stochastic
+cmu_15-354,r_contain_c,Computability
+purdue_CS 63600,r_contain_c,Communication
+psu_CSE 511,r_contain_c,Memory management
+Packet switching,depend_on_c,Data (computing)
+Superscalar,depend_on_c,Computer science
+stanford_CS 245,r_contain_c,Database system
+stanford_CS 149,r_contain_c,Data (computing)
+mit_6.S04,r_contain_c,Recursion
+stanford_CS 221,r_contain_c,Speech recognition
+"princeton_COS  109,EGR  109",r_contain_c,Security
+mit_6.850,r_contain_c,Data (computing)
+stanford_CS 249A,r_contain_c,Object-oriented programming
+msu_CSE 201,r_contain_c,Security
+Expert system,depend_on_c,Computer
+Analysis of algorithms,depend_on_c,Computer
+stanford_CS 348A,r_contain_c,Tensor
+Dynamic programming,depend_on_c,Computation
+mit_6.846,r_contain_c,Computer architecture
+purdue_CS 64100,depend_on_r,purdue_CS 54100
+stanford_CS 241,depend_on_r,stanford_CS 107
+stanford_CS 142,r_contain_c,Scalability
+mit_6.581,r_contain_c,Algorithm
+psu_CSE 564,r_contain_c,Complexity
+mit_6.503,r_contain_c,Feature extraction
+illinois_CS 546,depend_on_r,illinois_CS 473
+stanford_CS 149,r_contain_c,Atomicity (database systems)
+psu_CSE 511,depend_on_r,psu_CMPSC 473
+cmu_15-440,r_contain_c,Scheduling (computing)
+cmu_15-466,r_contain_c,Scheduling (computing)
+stanford_CS 240H,depend_on_r,stanford_CS 106B
+msu_CSE 498,depend_on_r,msu_CSE 422
+Approximation algorithm,depend_on_c,Introduction to Algorithms
+purdue_CS 53600,r_contain_c,Routing
+Superscalar,depend_on_c,Parallel computing
+Inheritance (object-oriented programming),depend_on_c,Computability
+stanford_CS 229T,r_contain_c,Kernel (computing)
+mit_6.876,r_contain_c,Cryptography
+Dynamic programming,depend_on_c,Computer
+princeton_COS  518,r_contain_c,Computer
+cmu_15-417,r_contain_c,Assembly language
+mit_6.776,r_contain_c,Data (computing)
+iowa_CS:5350,r_contain_c,Analysis of algorithms
+Software testing,depend_on_c,Object-oriented programming
+psu_CSE 552,depend_on_r,psu_CMPSC 451
+maryland_CMSC 426,r_contain_c,Data
+Computer vision,depend_on_c,Geometry
+psu_CSE 563,r_contain_c,Distributed algorithms
+maryland_CMSC 430,r_contain_c,Parsing
+caltech_CS 151,depend_on_r,caltech_CS 38
+Object-oriented programming,depend_on_c,Computing
+mit_6.905,r_contain_c,Artificial intelligence
+princeton_COS  451,r_contain_c,Robotics
+caltech_CS 121,r_contain_c,Algebra
+stanford_CS 231A,r_contain_c,Object (computer science)
+mit_6.905,r_contain_c,Data (computing)
+iowa_CS:2110,r_contain_c,Data
+First-order logic,depend_on_c,Recursion
+cmu_15-456,r_contain_c,Computational geometry
+illinois_CS 526,r_contain_c,Compiler
+Theoretical computer science,depend_on_c,Computation
+Polymorphism (computer science),depend_on_c,Computer science
+mit_6.932,r_contain_c,Data
+cmu_15-354,r_contain_c,Complexity
+Iterative method,depend_on_c,Polynomial
+iowa_CS:4340,depend_on_r,iowa_CS:3330
+mit_6.131,depend_on_r,mit_6.002
+illinois_CS 461,r_contain_c,Computing
+iowa_CS:3820,depend_on_r,iowa_CS:2230
+msu_CSE 843,depend_on_r,msu_CSE 440
+psu_CMPSC 461,depend_on_r,psu_CMPSC 221
+maryland_CMSC 427,r_contain_c,Computer
+Markov chain,depend_on_c,Conditional probability
+msu_CSE 232,r_contain_c,Data (computing)
+stanford_CS 240,r_contain_c,Security
+illinois_CS 525,r_contain_c,Peer-to-peer
+mit_6.637,depend_on_r,mit_6.003
+mit_6.115,r_contain_c,Interface (computing)
+mit_6.046,r_contain_c,Matrix (mathematics)
+mit_6.852,r_contain_c,Computation
+Dynamic memory allocation,depend_on_c,Input/output
+Relational database management system,depend_on_c,Analysis of algorithms
+stanford_CS 167,r_contain_c,Data (computing)
+mit_6.845,r_contain_c,Computational complexity theory
+cmu_15-221,r_contain_c,Communication
+stanford_CS 248,r_contain_c,Rendering (computer graphics)
+cmu_15-421,r_contain_c,Information security
+Discrete mathematics,depend_on_c,Mathematics
+msu_CSE 440,r_contain_c,Artificial intelligence
+cmu_15-415,r_contain_c,Database system
+iowa_CS:3820,r_contain_c,Abstraction (computer science)
+mit_6.842,r_contain_c,Combinatorics
+mit_6.111,r_contain_c,Logic
+psu_CMPSC 488,depend_on_r,psu_CMPSC 487W
+caltech_CS/CNS 171,r_contain_c,Pipeline (computing)
+purdue_CS 53600,r_contain_c,Computer
+illinois_CS 447,r_contain_c,Parsing
+Relational database,depend_on_c,Predicate logic
+Software testing,depend_on_c,Software design
+Volume rendering,depend_on_c,Graphics
+illinois_CS 225,r_contain_c,Programming language
+princeton_COS  217,r_contain_c,Performance tuning
+princeton_COS  226,r_contain_c,String (computer science)
+stanford_CS 92SI,r_contain_c,Data (computing)
+psu_CSE 541,r_contain_c,Data
+caltech_CS 115,depend_on_r,caltech_CS 1
+Graph theory,depend_on_c,Mathematics
+psu_CMPSC 311,r_contain_c,Data (computing)
+Computational chemistry,depend_on_c,Computational complexity theory
+mit_6.161,r_contain_c,Communication
+Compiler,depend_on_c,Assembly language
+cmu_15-383,depend_on_r,cmu_15-121
+illinois_CS 373,r_contain_c,Halting problem
+Programming style,depend_on_c,Computer science
+psu_CMPSC 497B,r_contain_c,Security
+cmu_15-251,r_contain_c,Graph theory
+mit_6.0002,r_contain_c,Data (computing)
+purdue_CS 63800,r_contain_c,Computer
+msu_CSE 471,r_contain_c,Data
+msu_CSE 251,r_contain_c,Data (computing)
+princeton_COS  318,depend_on_r,princeton_COS  226
+caltech_CS 121,r_contain_c,Transaction processing
+psu_CMPSC 462,r_contain_c,Data
+iowa_CS:4340,r_contain_c,Approximation
+psu_CMPSC 460,r_contain_c,Object (computer science)
+caltech_CS 138,r_contain_c,Linear programming
+stanford_CS 246,r_contain_c,Data
+purdue_CS 60300,r_contain_c,Computing
+msu_CSE 435,r_contain_c,Software engineering
+mit_6.839,depend_on_r,mit_6.005
+Recommender system,depend_on_c,Algorithm design
+Undecidable problem,depend_on_c,Polynomial
+Computational complexity theory,depend_on_c,Computational problem
+mit_6.437,r_contain_c,Statistics
+cmu_15-214,r_contain_c,Object (computer science)
+Assembly language,depend_on_c,Programming language
+stanford_CS 244B,depend_on_r,stanford_CS 249A
+caltech_CS 24,r_contain_c,Computer
+msu_CSE 480,r_contain_c,Transaction processing
+mit_6.835,r_contain_c,Interface (computing)
+maryland_CMSC 434,depend_on_r,maryland_CMSC 330
+Knowledge representation and reasoning,depend_on_c,Mathematics
+cmu_15-319,r_contain_c,Data (computing)
+msu_CSE 473,depend_on_r,msu_CSE 331
+mit_6.231,depend_on_r,mit_6.041
+mit_6.857,r_contain_c,Computer
+NP-complete,depend_on_c,Algorithm
+iowa_CS:3910,depend_on_r,iowa_CS:2620
+mit_6.814,r_contain_c,Concurrency (computer science)
+Haskell (programming language),depend_on_c,Computer programming
+illinois_CS 423,depend_on_r,illinois_CS 241
+psu_CSE 588,r_contain_c,Fast Fourier transform
+illinois_CS 424,r_contain_c,Scheduling (computing)
+Mathematical optimization,depend_on_c,Integer
+illinois_CS 573,r_contain_c,NP (complexity)
+cmu_15-112,r_contain_c,Computer
+cmu_15-386,r_contain_c,Inference
+mit_6.005,r_contain_c,Object (computer science)
+stanford_CS 211,depend_on_r,stanford_CS 107
+illinois_CS 412,r_contain_c,Data mining
+psu_CSE 542,r_contain_c,Database
+cmu_15-349,r_contain_c,Computer security
+iowa_CS:1110,r_contain_c,Computer
+stanford_CS 327A,r_contain_c,Robot
+illinois_CS 524,depend_on_r,illinois_CS 475
+iowa_CS:2620,r_contain_c,Security
+mit_6.436,r_contain_c,Probability
+psu_CSE 597A,r_contain_c,Graph (mathematics)
+Unsupervised learning,depend_on_c,Probability
+psu_CMPSC 465,r_contain_c,Computer science
+caltech_CS 124,r_contain_c,Assembly language
+illinois_CS 538,r_contain_c,Internet
+mit_6.823,depend_on_r,mit_6.004
+Model of computation,depend_on_c,Computational complexity theory
+msu_CSE 843,r_contain_c,Natural language
+Memory hierarchy,depend_on_c,Computer
+mit_6.254,r_contain_c,Game theory
+mit_6.850,r_contain_c,Linear programming
+mit_6.006,r_contain_c,Data (computing)
+mit_6.872,r_contain_c,Data (computing)
+illinois_CS 524,depend_on_r,illinois_CS 476
+mit_6.630,r_contain_c,Computer
+Concurrency (computer science),depend_on_c,Computing
+mit_6.435,depend_on_r,mit_6.241
+maryland_CMSC 414,depend_on_r,maryland_CMSC 351
+stanford_CS 448Z,depend_on_r,stanford_CS 148
+stanford_CS 265,r_contain_c,Machine learning
+Boundary value problem,depend_on_c,Differential equation
+cmu_15-410,r_contain_c,Arithmetic
+Public-key cryptography,depend_on_c,Algorithm
+maryland_CMSC 631,r_contain_c,Denotational semantics
+mit_6.242,r_contain_c,Uncertainty
+stanford_CS 210B,depend_on_r,stanford_CS 210A
+stanford_CS 147,r_contain_c,Interaction design
+caltech_CS 4,r_contain_c,Recursion
+iowa_CS:4520,r_contain_c,Shading
+stanford_CS 149,r_contain_c,Shared memory
+Volume rendering,depend_on_c,Data
+Linked list,depend_on_c,Foundations of mathematics
+stanford_CS 110,r_contain_c,Virtual memory
+princeton_COS  326,depend_on_r,princeton_COS  226
+Transaction processing,depend_on_c,Object (computer science)
+mit_6.854,depend_on_r,mit_6.042
+stanford_CS 239,r_contain_c,Dynamic programming
+iowa_CS:4500,depend_on_r,iowa_CS:2520
+Graphical user interface,depend_on_c,Discrete mathematics
+mit_6.003,r_contain_c,Image
+Functional programming,depend_on_c,Generic programming
+illinois_CS 429,depend_on_r,illinois_CS 427
+cmu_15-150,r_contain_c,Data
+Semidefinite programming,depend_on_c,Linear programming
+princeton_COS  518,depend_on_r,princeton_COS  318
+psu_CSE 543,r_contain_c,Computer
+caltech_CS 123,r_contain_c,Database
+mit_6.441,r_contain_c,Variable (computer science)
+SQL,depend_on_c,Computing
+illinois_CS 555,depend_on_r,illinois_CS 450
+maryland_CMSC 421,r_contain_c,Pattern matching
+psu_CMPSC 484,depend_on_r,psu_CMPSC 221
+illinois_CS 225,r_contain_c,Object-oriented programming
+psu_CSE 543,r_contain_c,Security
+illinois_CS 475,r_contain_c,Halting problem
+Inter-process communication,depend_on_c,Computing
+Ray tracing (graphics),depend_on_c,Computational science
+stanford_CS 106B,r_contain_c,Object-oriented programming
+Context-free grammar,depend_on_c,Logic
+illinois_CS 438,depend_on_r,illinois_CS 241
+mit_6.046,r_contain_c,Dynamic programming
+mit_6.142,r_contain_c,Embedded system
+Graph coloring,depend_on_c,Algorithm
+Decision theory,depend_on_c,Random variable
+stanford_CS 205A,depend_on_r,stanford_CS 106B
+Geometric modeling,depend_on_c,Computation
+illinois_CS 427,depend_on_r,illinois_CS 225
+maryland_CMSC 723,r_contain_c,Question answering
+mit_6.728,r_contain_c,Quantum mechanics
+psu_CMPSC 497B,depend_on_r,psu_CMPSC 122
+stanford_CS 205A,r_contain_c,Robotics
+caltech_CMS/CS/CNS/EE 155,r_contain_c,Data
+JavaScript,depend_on_c,Computer
+maryland_CMSC 631,r_contain_c,Object (computer science)
+stanford_CS 106B,r_contain_c,Recursion
+Recommender system,depend_on_c,Algorithm
+Poisson distribution,depend_on_c,Probability theory
+Lisp (programming language),depend_on_c,Recursion (computer science)
+iowa_CS:4520,r_contain_c,Rendering (computer graphics)
+psu_CMPSC 444,depend_on_r,psu_CMPSC 221
+psu_CSE 520,depend_on_r,psu_CMPSC 461
+maryland_CMSC 131,r_contain_c,Object (computer science)
+cmu_15-421,r_contain_c,Authentication
+stanford_CS 224N,r_contain_c,Natural language processing
+stanford_CS 255,r_contain_c,Data (computing)
+stanford_CS 247,r_contain_c,Interaction design
+stanford_CS 103,r_contain_c,Predicate logic
+mit_6.231,r_contain_c,Scheduling (computing)
+stanford_CS 244B,depend_on_r,stanford_CS 144
+purdue_CS 55500,r_contain_c,Data (computing)
+illinois_CS 533,depend_on_r,illinois_CS 433
+purdue_CS 62600,depend_on_r,purdue_CS 52600
+iowa_CS:3330,depend_on_r,iowa_CS:2230
+cmu_15-381,r_contain_c,Problem solving
+illinois_CS 450,depend_on_r,illinois_CS 125
+psu_CMPSC 313,depend_on_r,psu_CMPSC 312
+illinois_CS 473,r_contain_c,Data (computing)
+Scientific visualization,depend_on_c,Algorithm design
+purdue_CS 55500,r_contain_c,Complexity
+cmu_15-437,r_contain_c,Python (programming language)
+iowa_CS:4330,r_contain_c,Theory of computation
+iowa_CS:2420,r_contain_c,Database design
+mit_6.905,r_contain_c,Computer
+psu_CMPSC 122,r_contain_c,Data
+princeton_COS  318,depend_on_r,princeton_COS  217
+Web search engine,depend_on_c,Logic
+cmu_15-313,r_contain_c,Software engineering
+mit_6.0001,r_contain_c,Debugging
+msu_CSE 232,depend_on_r,msu_CSE 231
+psu_CMPSC 475,depend_on_r,psu_CMPSC 312
+stanford_CS 244B,r_contain_c,Security
+stanford_CS 107E,depend_on_r,stanford_CS 106B
+cmu_15-411,r_contain_c,Lexical analysis
+Scalability,depend_on_c,Software design
+mit_6.864,r_contain_c,Natural language processing
+mit_6.262,r_contain_c,Decision theory
+iowa_CS:4340,r_contain_c,Complexity
+mit_6.857,depend_on_r,mit_6.033
+illinois_CS 225,depend_on_r,illinois_CS 173
+cmu_15-418,depend_on_r,cmu_15-213
+Ray tracing (graphics),depend_on_c,Algorithm design
+Haskell (programming language),depend_on_c,Computability
+Support vector machine,depend_on_c,Problem solving
+Concurrency (computer science),depend_on_c,Parallel computing
+Bioinformatics,depend_on_c,Computer science
+stanford_CS 161,r_contain_c,Dynamic programming
+Motion capture,depend_on_c,Graphics
+stanford_CS 109,r_contain_c,Computer
+maryland_CMSC 427,r_contain_c,Computer graphics
+stanford_CS 244,r_contain_c,Congestion control
+illinois_CS 418,r_contain_c,Rendering (computer graphics)
+psu_CMPSC 456,r_contain_c,Matrix (mathematics)
+Functional programming,depend_on_c,Variable (computer science)
+stanford_CS 231B,r_contain_c,Scope (computer science)
+Scalability,depend_on_c,Computer programming
+Complexity,depend_on_c,Computation
+stanford_CS 265,r_contain_c,Randomness
+msu_CSE 422,r_contain_c,Computer network
+stanford_CS 107E,r_contain_c,Debugging
+msu_CSE 251,r_contain_c,Data
+mit_6.041,r_contain_c,Probability
+psu_CMPSC 102,r_contain_c,Recursion (computer science)
+System call,depend_on_c,Central processing unit
+stanford_CS 262,r_contain_c,Dynamic programming
+cmu_15-414,r_contain_c,Program analysis
+OSI model,depend_on_c,Graph (mathematics)
+Operating system,depend_on_c,Computer programming
+stanford_CS 221,depend_on_r,stanford_CS 106B
+purdue_CS 64100,r_contain_c,Reason
+maryland_CMSC 131,r_contain_c,Computer
+maryland_CMSC 422,r_contain_c,Data mining
+stanford_CS 374,r_contain_c,Computing
+Message passing,depend_on_c,Mathematics
+mit_6.814,r_contain_c,Data
+illinois_CS 461,r_contain_c,Security
+caltech_BE/CS/CNS/Bi 191,r_contain_c,Computation
+caltech_CS 24,r_contain_c,Interface (computing)
+stanford_CS 190,r_contain_c,Software design
+Digital signature,depend_on_c,Combinatorics
+mit_6.456,depend_on_r,mit_6.011
+psu_CMPSC 438,depend_on_r,psu_CMPSC 221
+Computational learning theory,depend_on_c,Mathematics
+stanford_CS 231M,r_contain_c,Image processing
+stanford_CS 144,r_contain_c,Packet switching
+mit_6.345,depend_on_r,mit_6.003
+purdue_CS 55500,r_contain_c,Traffic analysis
+Data mining,depend_on_c,Computational science
+iowa_CS:2230,r_contain_c,Data
+mit_6.021,depend_on_r,mit_6.071
+maryland_CMSC 433,r_contain_c,Programming language
+Arithmetic logic unit,depend_on_c,Combinational logic
+Program optimization,depend_on_c,Computer science
+iowa_CS:4740,r_contain_c,Computer
+Logic programming,depend_on_c,Computing
+stanford_CS 181,depend_on_r,stanford_CS 106B
+mit_6.142,depend_on_r,mit_6.141
+Formal methods,depend_on_c,Computing
+caltech_BE/CS 196,r_contain_c,Data
+stanford_CS 144,r_contain_c,Security
+Recursion (computer science),depend_on_c,Algorithm
+purdue_CS 61500,r_contain_c,Finite difference
+mit_6.858,depend_on_r,mit_6.033
+mit_6.842,r_contain_c,Computational learning theory
+caltech_CS 138,r_contain_c,Linear algebra
+Database,depend_on_c,Data structure
+stanford_CS 265,r_contain_c,Data (computing)
+Speech recognition,depend_on_c,Computer science
+msu_CSE 498,depend_on_r,msu_CSE 480
+illinois_CS 522,depend_on_r,illinois_CS 422
+psu_CSE 522,r_contain_c,Denotational semantics
+mit_6.856,depend_on_r,mit_6.042
+illinois_CS 241,r_contain_c,Debugging
+iowa_CS:2210,r_contain_c,Combinatorics
+P versus NP problem,depend_on_c,Graph theory
+mit_6.101,r_contain_c,Debugging
+Computer architecture,depend_on_c,Number theory
+mit_6.829,r_contain_c,Security
+purdue_CS 54100,r_contain_c,Relational model
+mit_6.046,r_contain_c,Computational geometry
+stanford_CS 140,r_contain_c,Scheduling (computing)
+caltech_CMS/CS 139,r_contain_c,Approximation
+Model of computation,depend_on_c,Integer
+princeton_COS  451,r_contain_c,Pattern recognition
+stanford_CS 262,depend_on_r,stanford_CS 161
+Interactivity,depend_on_c,Computer science
+stanford_CS 448J,depend_on_r,stanford_CS 103
+illinois_CS 440,r_contain_c,Problem solving
+cmu_15-381,depend_on_r,cmu_15-122
+iowa_CS:5610,r_contain_c,Algorithm design
+Reinforcement learning,depend_on_c,Machine learning
+Speech recognition,depend_on_c,Foundations of mathematics
+cmu_15-492,depend_on_r,cmu_15-122
+maryland_CMSC 423,r_contain_c,Data
+mit_6.846,r_contain_c,Shared memory
+Parallel algorithm,depend_on_c,Lock (computer science)
+cmu_15-317,r_contain_c,Computer science
+mit_6.101,depend_on_r,mit_6.071
+Complexity class,depend_on_c,Mathematics
+mit_6.008,depend_on_r,mit_6.01
+"princeton_COS  432,ELE  432",r_contain_c,Network security
+mit_6.241,r_contain_c,Least squares
+psu_CMPSC 438,depend_on_r,psu_CMPSC 312
+iowa_CS:4400,r_contain_c,SQL
+msu_CSE 260,r_contain_c,Probability
+psu_CSE 597A,r_contain_c,Image
+mit_6.845,depend_on_r,mit_6.045
+Analysis of algorithms,depend_on_c,Computational science
+stanford_CS 225A,r_contain_c,Robot
+illinois_CS 473,r_contain_c,Graph (mathematics)
+msu_CSE 201,depend_on_r,msu_CSE 101
+psu_CMPSC 438,r_contain_c,Server (computing)
+Graphical model,depend_on_c,Computer
+Python (programming language),depend_on_c,Computer programming
+stanford_CS 107,r_contain_c,Data
+stanford_CS 167,depend_on_r,stanford_CS 161
+Volume rendering,depend_on_c,Computer graphics
+mit_6.857,r_contain_c,Web browser
+iowa_CS:3620,r_contain_c,Scheduling (computing)
+maryland_CMSC 414,r_contain_c,Encryption
+stanford_CS 108,r_contain_c,Java (programming language)
+PSPACE,depend_on_c,Discrete mathematics
+princeton_COS  402,r_contain_c,Machine learning
+Polymorphism (computer science),depend_on_c,Abstract data type
+stanford_CS 110,r_contain_c,Computer
+iowa_CS:4980,depend_on_r,iowa_CS:2230
+iowa_CS:2620,r_contain_c,Network security
+Design of experiments,depend_on_c,Data
+mit_6.846,r_contain_c,Data (computing)
+illinois_CS 466,r_contain_c,Dynamic programming
+msu_CSE 847,r_contain_c,Unsupervised learning
+maryland_CMSC 131,r_contain_c,Computer science
+Gradient descent,depend_on_c,Discrete mathematics
+caltech_CS 142,r_contain_c,Machine learning
+purdue_CS 65500,depend_on_r,purdue_CS 52600
+mit_6.851,depend_on_r,mit_6.046
+maryland_CMSC 451,r_contain_c,Algorithm
+msu_CSE 429,depend_on_r,msu_CSE 131
+psu_CMPSC 459,depend_on_r,psu_CMPSC 122
+caltech_EE/CS 53,depend_on_r,caltech_EE/CS 52
+princeton_COS  451,r_contain_c,Graphics
+purdue_CS 62600,r_contain_c,Authentication
+cmu_15-359,r_contain_c,Probability theory
+iowa_CS:3110,r_contain_c,Complexity
+stanford_CS 224N,depend_on_r,stanford_CS 221
+psu_CSE 522,r_contain_c,Computation
+Data warehouse,depend_on_c,Computer science
+msu_CSE 477,r_contain_c,World Wide Web
+"princeton_COS  375,ELE  375",r_contain_c,Complexity
+msu_CSE 476,depend_on_r,msu_CSE 331
+psu_CSE 511,r_contain_c,Interface (computing)
+psu_CMPSC 444,r_contain_c,Cryptography
+psu_CMPSC 443,r_contain_c,Computer
+Microcode,depend_on_c,Assembly language
+mit_6.033,depend_on_r,mit_6.02
+iowa_CS:4330,depend_on_r,iowa_CS:3330
+cmu_15-323,r_contain_c,Computer
+Hidden Markov model,depend_on_c,Computational science
+Database,depend_on_c,Mathematics
+cmu_15-319,r_contain_c,Big data
+Logic programming,depend_on_c,Arithmetic
+Bayesian network,depend_on_c,Random variable
+illinois_CS 546,depend_on_r,illinois_CS 446
+stanford_CS 231N,depend_on_r,stanford_CS 229
+iowa_CS:2110,r_contain_c,Computing
+cmu_15-421,r_contain_c,Cryptography
+mit_6.251,r_contain_c,NP (complexity)
+iowa_CS:5350,r_contain_c,NP (complexity)
+stanford_CS 248,r_contain_c,Computer graphics
+purdue_CS 55500,r_contain_c,Data
+Programming paradigm,depend_on_c,Data structure
+cmu_15-381,r_contain_c,Data
+mit_6.814,r_contain_c,Concurrency control
+illinois_CS 524,r_contain_c,Complexity
+Relational database,depend_on_c,Algorithm design
+purdue_CS 63600,r_contain_c,Routing
+maryland_CMSC 435,r_contain_c,Software design
+Data warehouse,depend_on_c,Data structure
+purdue_CS 54200,r_contain_c,Database
+msu_CSE 498,depend_on_r,msu_CSE 440
+purdue_CS 65500,r_contain_c,Cryptanalysis
+cmu_15-610,r_contain_c,Computer
+caltech_CS 24,r_contain_c,Computing
+Discrete mathematics,depend_on_c,Mathematical proof
+maryland_CMSC 456,r_contain_c,Probability
+purdue_CS 53500,r_contain_c,Computer graphics
+msu_CSE 232,r_contain_c,Dynamic memory allocation
+Web search engine,depend_on_c,Combinatorics
+mit_6.829,r_contain_c,Internet
+mit_6.864,r_contain_c,Natural language
+illinois_CS 461,r_contain_c,Authentication
+cmu_15-349,r_contain_c,Computer
+illinois_CS 411,r_contain_c,Concurrency (computer science)
+Java (programming language),depend_on_c,Logic
+mit_6.824,r_contain_c,Peer-to-peer
+Monte Carlo method,depend_on_c,Data
+msu_CSE 335,depend_on_r,msu_CSE 232
+Autonomous robot,depend_on_c,Computation
+cmu_15-349,r_contain_c,Security
+iowa_CS:3620,r_contain_c,Communication
+mit_6.0002,r_contain_c,Statistics
+mit_6.581,depend_on_r,mit_6.046
+mit_6.241,depend_on_r,mit_6.003
+stanford_CS 103,r_contain_c,Computing
+iowa_CS:4640,r_contain_c,Computer
+illinois_CS 463,depend_on_r,illinois_CS 461
+illinois_CS 554,depend_on_r,illinois_CS 450
+caltech_CS 153,r_contain_c,Computer
+Algorithm,depend_on_c,Mathematical induction
+iowa_CS:2111,depend_on_r,iowa_CS:1210
+caltech_CS 101,r_contain_c,Computer
+Numerical analysis,depend_on_c,Mathematical induction
+msu_CSE 331,r_contain_c,Data (computing)
+illinois_CS 573,r_contain_c,Computer science
+stanford_CS 242,r_contain_c,Object (computer science)
+Relational database,depend_on_c,Object (computer science)
+illinois_CS 125,r_contain_c,Computer science
+illinois_CS 522,r_contain_c,Functional programming
+princeton_COS  217,r_contain_c,System call
+Model of computation,depend_on_c,Polynomial
+illinois_CS 421,depend_on_r,illinois_CS 373
+stanford_CS 167,r_contain_c,Analysis of algorithms
+Discrete mathematics,depend_on_c,Arithmetic
+Garbage collection (computer science),depend_on_c,Computer
+cmu_15-466,depend_on_r,cmu_15-462
+stanford_CS 225A,r_contain_c,Autonomous robot
+illinois_CS 461,r_contain_c,Data (computing)
+Pattern recognition,depend_on_c,Computer
+mit_6.823,r_contain_c,Computer
+Machine learning,depend_on_c,Data structure
+mit_6.856,depend_on_r,mit_6.041
+iowa_CS:2620,r_contain_c,Encryption
+Kernel (computing),depend_on_c,Central processing unit
+Computer vision,depend_on_c,Probability theory
+illinois_CS 475,r_contain_c,Computability
+stanford_CS 161,r_contain_c,Data
+Parsing,depend_on_c,Formal grammar
+cmu_15-319,r_contain_c,Security
+Reinforcement learning,depend_on_c,Mathematical optimization
+princeton_COS  451,r_contain_c,Computing
+maryland_CMSC 435,depend_on_r,maryland_CMSC 417
+stanford_CS 228,r_contain_c,Robot
+Neural network,depend_on_c,Discrete mathematics
+mit_6.673,r_contain_c,Newton's method
+caltech_CMS/CS/CNS/EE 155,depend_on_r,caltech_CS/CNS/EE 156
+stanford_CS 166,r_contain_c,Amortized analysis
+stanford_CS 242,r_contain_c,Program analysis
+mit_6.005,r_contain_c,Software development
+PSPACE,depend_on_c,Computational complexity theory
+Cloud computing,depend_on_c,Computer
+Fast Fourier transform,depend_on_c,Signal processing
+Machine translation,depend_on_c,Computer science
+Poisson distribution,depend_on_c,Algebra
+maryland_CMSC 412,r_contain_c,Scheduling (computing)
+Estimation theory,depend_on_c,Probability
+psu_CMPSC 201,r_contain_c,C (programming language)
+maryland_CMSC 466,r_contain_c,Interpolation
+Hidden line removal,depend_on_c,Discrete mathematics
+mit_6.004,r_contain_c,Instruction set
+Cryptanalysis,depend_on_c,Computability
+psu_CMPSC 444,r_contain_c,Software design
+"princeton_COS  432,ELE  432",r_contain_c,Communication
+stanford_CS 149,r_contain_c,Parallel computing
+maryland_CMSC 631,r_contain_c,Data (computing)
+illinois_CS 446,r_contain_c,Natural language
+mit_6.034,r_contain_c,Inheritance (object-oriented programming)
+msu_CSE 331,depend_on_r,msu_CSE 260
+psu_CMPSC 426,depend_on_r,psu_CMPSC 462
+mit_6.011,r_contain_c,Stochastic
+stanford_CS 348B,r_contain_c,Image
+Geometric modeling,depend_on_c,Computational geometry
+illinois_CS 460,depend_on_r,illinois_CS 461
+cmu_15-412,r_contain_c,Server (computing)
+maryland_CMSC 412,r_contain_c,Kernel (computing)
+caltech_CMS/CS 139,depend_on_r,caltech_CS 21
+Hidden Markov model,depend_on_c,Mathematics
+cmu_15-410,r_contain_c,Debugging
+Hidden Markov model,depend_on_c,Probability theory
+stanford_CS 242,r_contain_c,Software development
+mit_6.453,r_contain_c,Quantum cryptography
+purdue_CS 63500,depend_on_r,purdue_CS 53500
+Abstraction (computer science),depend_on_c,Computer science
+mit_6.0001,r_contain_c,Computer
+Computational complexity theory,depend_on_c,Iterative method
+Graph coloring,depend_on_c,Algorithm design
+msu_CSE 429,r_contain_c,Communication
+mit_6.175,r_contain_c,Prediction
+mit_6.831,r_contain_c,Interface (computing)
+caltech_CS 119,r_contain_c,Software testing
+psu_CMPSC 448,r_contain_c,Artificial intelligence
+princeton_COS  402,r_contain_c,Uncertainty
+mit_6.045,r_contain_c,Theoretical computer science
+stanford_CS 448J,depend_on_r,stanford_CS 205A
+cmu_15-453,depend_on_r,cmu_15-251
+mit_6.01,r_contain_c,Inference
+Memory management,depend_on_c,Computing
+maryland_CMSC 351,r_contain_c,Complexity
+mit_6.008,r_contain_c,Data
+cmu_15-221,r_contain_c,Computer science
+msu_CSE 101,r_contain_c,Communication
+stanford_CS 241,r_contain_c,Synchronization
+mit_6.673,r_contain_c,Matrix (mathematics)
+mit_6.033,r_contain_c,Computer
+C++,depend_on_c,Computing
+psu_CMPSC 426,r_contain_c,Object (computer science)
+Computer network,depend_on_c,Digital electronics
+stanford_CS 196,depend_on_r,stanford_CS 1C
+"princeton_COS  375,ELE  375",r_contain_c,Instruction set
+psu_CMPSC 448,r_contain_c,Machine learning
+illinois_CS 450,depend_on_r,illinois_CS 101
+mit_6.824,r_contain_c,File system
+Transaction processing,depend_on_c,Foundations of mathematics
+Assembly language,depend_on_c,Computer science
+mit_6.839,r_contain_c,Computer
+maryland_CMSC 723,r_contain_c,Machine translation
+iowa_CS:2110,r_contain_c,Data (computing)
+cmu_15-424,r_contain_c,Programming language
+mit_6.830,r_contain_c,Query optimization
+stanford_CS 196,r_contain_c,Operating system
+mit_6.011,depend_on_r,mit_6.008
+maryland_CMSC 666,r_contain_c,Numerical analysis
+mit_6.801,r_contain_c,Image processing
+caltech_CS 116,r_contain_c,Logic
+mit_6.849,r_contain_c,Geometry
+stanford_CS 549,depend_on_r,stanford_CS 147
+cmu_15-359,r_contain_c,Data (computing)
+Finite element method,depend_on_c,Integer
+Functional programming,depend_on_c,Computational complexity theory
+Document classification,depend_on_c,Artificial intelligence
+Randomized algorithm,depend_on_c,Theoretical computer science
+Computer graphics,depend_on_c,Geometry
+cmu_15-295,depend_on_r,cmu_15-122
+psu_CSE 543,r_contain_c,Database
+cmu_15-351,r_contain_c,NP (complexity)
+cmu_15-214,r_contain_c,Concurrency (computer science)
+princeton_COS  326,r_contain_c,Functional programming
+mit_6.851,r_contain_c,Integer
+maryland_CMSC 421,r_contain_c,Inference
+stanford_CS 243,r_contain_c,Scheduling (computing)
+purdue_CS 54100,r_contain_c,Database
+stanford_CS 246,depend_on_r,stanford_CS 145
+caltech_CS/SS 152,r_contain_c,Economics
+cmu_15-417,depend_on_r,cmu_15-317
+psu_CMPSC 360,r_contain_c,Discrete mathematics
+cmu_15-464,r_contain_c,Motion capture
+stanford_CS 255,r_contain_c,Computer
+Parsing,depend_on_c,Computational science
+NP-complete,depend_on_c,Iterative method
+stanford_CS 108,depend_on_r,stanford_CS 107
+cmu_15-381,r_contain_c,Natural language
+psu_CMPSC 311,r_contain_c,Data
+illinois_CS 423,r_contain_c,Security
+Volume rendering,depend_on_c,Computer science
+stanford_CS 223A,r_contain_c,Algebra
+illinois_CS 467,r_contain_c,Social network
+mit_6.864,r_contain_c,Machine learning
+caltech_CS 116,depend_on_r,caltech_CS 1
+Randomized algorithm,depend_on_c,Mathematical induction
+Linear programming,depend_on_c,Problem solving
+Model checking,depend_on_c,Polynomial
+mit_6.837,r_contain_c,Computer
+stanford_CS 142,r_contain_c,Security
+msu_CSE 480,r_contain_c,Database design
+Python (programming language),depend_on_c,High-level programming language
+illinois_CS 533,r_contain_c,Data
+stanford_CS 244,r_contain_c,Security
+psu_CSE 588,r_contain_c,Integer
+illinois_CS 467,depend_on_r,illinois_CS 225
+caltech_CS/SS 152,depend_on_r,caltech_CS 24
+Relational database management system,depend_on_c,Relational model
+Neural network,depend_on_c,Data structure
+illinois_CS 475,r_contain_c,Complexity
+princeton_COS  217,r_contain_c,Debugging
+maryland_CMSC 733,r_contain_c,Approximation
+maryland_CMSC 424,r_contain_c,Concurrency control
+psu_CMPSC 461,depend_on_r,psu_CMPSC 360
+mit_6.871,depend_on_r,mit_6.006
+caltech_Ma/CS 6,r_contain_c,First-order logic
+stanford_CS 371,r_contain_c,Data (computing)
+Web search engine,depend_on_c,Mathematical induction
+cmu_15-462,r_contain_c,Computer
+princeton_COS  451,r_contain_c,Geometry
+Monte Carlo method,depend_on_c,Algorithm
+purdue_CS 55500,r_contain_c,Encryption
+illinois_CS 431,r_contain_c,Embedded system
+mit_6.442,depend_on_r,mit_6.041
+Monte Carlo method,depend_on_c,Discrete mathematics
+mit_6.503,depend_on_r,mit_6.336
+psu_CMPSC 472,r_contain_c,Security
+Machine learning,depend_on_c,Programming language
+stanford_CS 345D,r_contain_c,Concurrency (computer science)
+Cluster analysis,depend_on_c,Computer science
+iowa_CS:2630,r_contain_c,Arithmetic
+psu_CSE 541,r_contain_c,Data (computing)
+psu_CMPSC 455,r_contain_c,Floating point
+Functional programming,depend_on_c,Number theory
+Computer programming,depend_on_c,Polynomial
+iowa_CS:2820,depend_on_r,iowa_CS:2230
+caltech_CS/CNS 171,r_contain_c,Computer
+purdue_CS 50200,r_contain_c,Compiler
+cmu_15-441,r_contain_c,Security
+mit_6.852,r_contain_c,Concurrency control
+Pushdown automaton,depend_on_c,String (computer science)
+illinois_CS 421,r_contain_c,Data (computing)
+msu_CSE 232,r_contain_c,Data structure
+mit_6.875,r_contain_c,Complexity
+illinois_CS 447,r_contain_c,Syntax
+Java (programming language),depend_on_c,Computational complexity theory
+mit_6.854,r_contain_c,Linear programming
+illinois_CS 433,r_contain_c,Memory hierarchy
+Query optimization,depend_on_c,Database
+psu_CSE 560,r_contain_c,Computer
+Computational geometry,depend_on_c,Arithmetic
+Geometric modeling,depend_on_c,Computability
+princeton_COS  451,r_contain_c,Database
+maryland_CMSC 714,r_contain_c,Data (computing)
+msu_CSE 476,r_contain_c,Software development
+Cache coherence,depend_on_c,Computing
+stanford_CS 166,r_contain_c,Data (computing)
+Profiling (computer programming),depend_on_c,Iterative method
+mit_6.503,r_contain_c,Algorithm
+Sentiment analysis,depend_on_c,Computational science
+stanford_CS 145,r_contain_c,Relational model
+illinois_CS 446,r_contain_c,Machine learning
+iowa_CS:3330,r_contain_c,Algorithm design
+cmu_15-383,r_contain_c,Probability theory
+illinois_CS 523,depend_on_r,illinois_CS 425
+Finite-state machine,depend_on_c,Logic
+psu_CMPSC 464,r_contain_c,NP (complexity)
+iowa_CS:3820,depend_on_r,iowa_CS:2630
+Program optimization,depend_on_c,Foundations of mathematics
+Recommender system,depend_on_c,Artificial intelligence
+stanford_CS 224U,r_contain_c,Natural language processing
+mit_6.824,depend_on_r,mit_6.033
+purdue_CS 53500,r_contain_c,Problem solving
+Parallel algorithm,depend_on_c,Logic
+maryland_CMSC 725,depend_on_r,maryland_CMSC 424
+Software engineering,depend_on_c,Iterative method
+maryland_CMSC 725,r_contain_c,Computer graphics
+princeton_COS  226,r_contain_c,Data
+Parsing,depend_on_c,Data type
+stanford_CS 149,r_contain_c,Data
+psu_CMPSC 221,r_contain_c,Java (programming language)
+maryland_CMSC 435,depend_on_r,maryland_CMSC 420
+Software framework,depend_on_c,Data structure
+Semidefinite programming,depend_on_c,Algorithm
+psu_CSE 542,r_contain_c,Data (computing)
+Sentiment analysis,depend_on_c,Graph theory
+cmu_15-410,r_contain_c,Deadlock
+maryland_CMSC 466,r_contain_c,Floating point
+cmu_15-387,r_contain_c,Object (computer science)
+caltech_CS 121,r_contain_c,Data
+mit_6.854,r_contain_c,Computational geometry
+psu_CMPSC 458,depend_on_r,psu_CMPSC 311
+caltech_CMS/CS/EE 144,depend_on_r,caltech_Ma/CS 6
+msu_CSE 471,depend_on_r,msu_CSE 331
+illinois_CS 241,r_contain_c,Memory management
+Randomized algorithm,depend_on_c,Discrete mathematics
+caltech_CS 153,depend_on_r,caltech_CS 38
+cmu_15-359,r_contain_c,Randomization
+Cache coherence,depend_on_c,Parallel computing
+mit_6.556,r_contain_c,MATLAB
+mit_6.852,r_contain_c,Synchronization
+mit_6.341,r_contain_c,Interpolation
+maryland_CMSC 216,r_contain_c,Thread (computer science)
+mit_6.945,r_contain_c,Artificial intelligence
+Microcode,depend_on_c,Computer science
+msu_CSE 331,r_contain_c,Analysis of algorithms
+Geometric modeling,depend_on_c,Theoretical computer science
+mit_6.S04,r_contain_c,Data (computing)
+iowa_CS:1210,r_contain_c,Computer science
+Software development,depend_on_c,Structured programming
+stanford_CS 231N,r_contain_c,Index (database)
+illinois_CS 429,r_contain_c,Software engineering
+mit_6.801,r_contain_c,Image analysis
+illinois_CS 524,r_contain_c,Concurrency (computer science)
+cmu_15-121,r_contain_c,Object (computer science)
+mit_6.141,r_contain_c,Robotics
+cmu_15-463,depend_on_r,cmu_15-213
+psu_CMPSC 465,depend_on_r,psu_CMPSC 122
+stanford_CS 193P,r_contain_c,User interface design
+caltech_CS 121,r_contain_c,Database
+iowa_CS:4740,r_contain_c,Computer science
+cmu_15-462,depend_on_r,cmu_15-213
+caltech_CS 2,r_contain_c,Data (computing)
+purdue_CS 53600,r_contain_c,Internet
+msu_CSE 484,r_contain_c,Natural language
+cmu_15-237,r_contain_c,Java (programming language)
+purdue_CS 53500,r_contain_c,Graphics
+psu_CSE 511,r_contain_c,Security
+maryland_CMSC 132,depend_on_r,maryland_CMSC 131
+mit_6.867,r_contain_c,Machine learning
+illinois_CS 427,r_contain_c,Software development
+stanford_CS 223A,r_contain_c,Matrix (mathematics)
+stanford_CS 103A,r_contain_c,Problem solving
+psu_CMPSC 221,depend_on_r,psu_CMPSC 122
+psu_CMPSC 448,depend_on_r,psu_CMPSC 122
+msu_CSE 847,depend_on_r,msu_CSE 841
+mit_6.831,r_contain_c,User interface design
+mit_6.685,r_contain_c,Tensor
+mit_6.450,r_contain_c,Communication
+mit_6.806,r_contain_c,Natural language
+cmu_15-412,r_contain_c,Kernel (computing)
+mit_6.837,r_contain_c,Graphics
+Parsing,depend_on_c,Computer programming
+illinois_CS 225,r_contain_c,Object (computer science)
+Autonomous robot,depend_on_c,Motion planning
+Recurrence relation,depend_on_c,Integer
+mit_6.453,depend_on_r,mit_6.011
+Parallel computing,depend_on_c,Discrete mathematics
+Logic programming,depend_on_c,Mathematics
+Recursively enumerable set,depend_on_c,Computing
+cmu_15-491,r_contain_c,Communication
+mit_6.581,depend_on_r,mit_6.021
+caltech_CS 21,depend_on_r,caltech_CS 2
+mit_6.865,r_contain_c,Data (computing)
+Java (programming language),depend_on_c,Data type
+String searching algorithm,depend_on_c,Integer
+Perl,depend_on_c,Computer science
+illinois_CS 433,r_contain_c,Computer
+stanford_CS 193P,depend_on_r,stanford_CS 107
+illinois_CS 583,depend_on_r,illinois_CS 573
+Compiler,depend_on_c,Computer
+iowa_CS:5610,depend_on_r,iowa_CS:3620
+stanford_CS 154,r_contain_c,NP-complete
+Computer programming,depend_on_c,Arithmetic
+iowa_CS:2620,depend_on_r,iowa_CS:2110
+cmu_15-150,r_contain_c,Algebra
+princeton_COS  429,r_contain_c,Object (computer science)
+stanford_CS 103,r_contain_c,Computer science
+princeton_COS  340,r_contain_c,Combinatorics
+purdue_CS 63800,r_contain_c,Operating system
+purdue_CS 66100,r_contain_c,Automata theory
+psu_CMPSC 443,depend_on_r,psu_CMPSC 473
+psu_CSE 564,depend_on_r,psu_CSE 565
+purdue_CS 60300,depend_on_r,purdue_CS 54200
+illinois_CS 523,depend_on_r,illinois_CS 423
+Computer network,depend_on_c,Graph (mathematics)
+stanford_CS 242,r_contain_c,Security
+purdue_CS 50300,r_contain_c,Synchronization
+Data mining,depend_on_c,Theoretical computer science
+Computational geometry,depend_on_c,Algorithm
+Programming paradigm,depend_on_c,Number theory
+Distributed computing,depend_on_c,Discrete mathematics
+stanford_CS 240H,r_contain_c,Debugging
+iowa_CS:5350,r_contain_c,Data (computing)
+Quantum mechanics,depend_on_c,Probability
+maryland_CMSC 456,r_contain_c,Number theory
+mit_6.437,r_contain_c,Statistical inference
+caltech_CS 124,r_contain_c,Virtual memory
+maryland_CMSC 466,depend_on_r,maryland_CMSC 106
+mit_6.839,depend_on_r,mit_6.837
+psu_CMPSC 484,depend_on_r,psu_CMPSC 465
+Profiling (computer programming),depend_on_c,Theoretical computer science
+illinois_CS 425,depend_on_r,illinois_CS 241
+maryland_CMSC 456,r_contain_c,Mathematics
+cmu_15-440,r_contain_c,Problem solving
+Database normalization,depend_on_c,Object (computer science)
+msu_CSE 425,depend_on_r,msu_CSE 422
+caltech_CS 151,depend_on_r,caltech_CS 21
+cmu_15-421,r_contain_c,Security
+cmu_15-386,r_contain_c,Signal processing
+cmu_15-251,r_contain_c,Algebra
+stanford_CS 210B,r_contain_c,Software development
+msu_CSE 841,r_contain_c,Computer vision
+Algebra,depend_on_c,Foundations of mathematics
+psu_CMPSC 488,r_contain_c,Computer science
+illinois_CS 525,depend_on_r,illinois_CS 425
+Distributed algorithms,depend_on_c,Iterative method
+mit_6.842,r_contain_c,Cryptography
+mit_6.870,depend_on_r,mit_6.869
+cmu_15-424,depend_on_r,cmu_15-122
+Imperative programming,depend_on_c,Discrete mathematics
+purdue_CS 53600,r_contain_c,Packet switching
+mit_6.01,r_contain_c,Computer science
+stanford_CS 247,depend_on_r,stanford_CS 147
+Least squares,depend_on_c,Numerical analysis
+iowa_CS:3640,r_contain_c,Communication
+psu_CMPSC 470,depend_on_r,psu_CMPSC 312
+illinois_CS 527,depend_on_r,illinois_CS 429
+Cryptanalysis,depend_on_c,Probability theory
+illinois_CS 450,r_contain_c,Approximation
+iowa_CS:4640,r_contain_c,Authentication
+iowa_CS:5350,r_contain_c,String (computer science)
+msu_CSE 320,r_contain_c,Data (computing)
+mit_6.008,r_contain_c,Inference
+caltech_CS 1,r_contain_c,Object (computer science)
+Symbol table,depend_on_c,Discrete mathematics
+stanford_CS 109,r_contain_c,Conditional probability
+Computer architecture,depend_on_c,Mathematics
+mit_6.045,r_contain_c,P versus NP problem
+mit_6.042,r_contain_c,Graph (mathematics)
+illinois_CS 544,r_contain_c,Machine learning
+Message Passing Interface,depend_on_c,Data
+Programmer,depend_on_c,Arithmetic
+Assembly language,depend_on_c,Computing
+mit_6.856,r_contain_c,Analysis of algorithms
+Finite element method,depend_on_c,Numerical analysis
+stanford_CS 244B,r_contain_c,Synchronization
+caltech_CS 38,r_contain_c,Graph (mathematics)
+mit_6.701,r_contain_c,Computation
+Assembly language,depend_on_c,Computational science
+mit_6.863,r_contain_c,Computer
+mit_6.846,r_contain_c,Parallel computing
+psu_CMPSC 459,r_contain_c,Visualization (computer graphics)
+Undecidable problem,depend_on_c,Combinatorics
+maryland_CMSC 426,r_contain_c,Fourier analysis
+caltech_CS 4,r_contain_c,Computer programming
+Dynamic programming,depend_on_c,Iterative method
+illinois_CS 447,r_contain_c,Lexical semantics
+iowa_CS:1210,r_contain_c,Computer
+illinois_CS 173,depend_on_r,illinois_CS 125
+Algorithm design,depend_on_c,Number theory
+Routing,depend_on_c,Computer science
+Public-key cryptography,depend_on_c,Iterative method
+NP-complete,depend_on_c,Foundations of mathematics
+C++,depend_on_c,Computer programming
+Speech recognition,depend_on_c,Number theory
+caltech_CS 38,r_contain_c,Linear programming
+Reinforcement learning,depend_on_c,Graph theory
+cmu_15-349,r_contain_c,Computer science
+Transaction processing,depend_on_c,Database transaction
+illinois_CS 433,depend_on_r,illinois_CS 233
+cmu_15-300,r_contain_c,Computer
+stanford_CS 157,depend_on_r,stanford_CS 103
+mit_6.256,depend_on_r,mit_6.251
+cmu_15-351,r_contain_c,Data (computing)
+Lisp (programming language),depend_on_c,Discrete mathematics
+mit_6.437,r_contain_c,Geometry
+Linked list,depend_on_c,Mathematics
+Software development,depend_on_c,Abstract data type
+Artificial intelligence,depend_on_c,Problem solving
+mit_6.830,r_contain_c,Data (computing)
+Object (computer science),depend_on_c,Number theory
+msu_CSE 251,depend_on_r,msu_CSE 131
+illinois_CS 473,r_contain_c,Algorithm design
+Communications protocol,depend_on_c,Computing
+princeton_COS  513,r_contain_c,Statistics
+Lazy evaluation,depend_on_c,Computer science
+maryland_CMSC 417,r_contain_c,OSI model
+mit_6.838,r_contain_c,Computer
+cmu_15-390,r_contain_c,Computer science
+Database management system,depend_on_c,Data (computing)
+Big data,depend_on_c,Mathematics
+caltech_CS 153,r_contain_c,Theoretical computer science
+Decision theory,depend_on_c,Computer science
+caltech_CMS/CS/CNS/EE 155,r_contain_c,Machine learning
+caltech_CS 4,r_contain_c,Object (computer science)
+purdue_CS 64100,depend_on_r,purdue_CS 54200
+caltech_CS 138,r_contain_c,Computer
+iowa_CS:3820,r_contain_c,Data (computing)
+Divide and conquer algorithm,depend_on_c,Computability
+iowa_CS:3330,r_contain_c,Randomization
+iowa_CS:3620,r_contain_c,Memory management
+mit_6.839,r_contain_c,Graphics
+B-tree,depend_on_c,Computer
+caltech_Ma/CS 6,r_contain_c,Complexity
+Computer programming,depend_on_c,Computing
+msu_CSE 335,depend_on_r,msu_CSE 260
+Vector processor,depend_on_c,Central processing unit
+princeton_COS  429,r_contain_c,Computer
+Public-key cryptography,depend_on_c,Discrete mathematics
+illinois_CS 574,r_contain_c,Entropy
+mit_6.839,r_contain_c,Computer graphics
+mit_6.045,r_contain_c,Computing
+iowa_CS:1110,r_contain_c,Security
+Document classification,depend_on_c,Probability
+Traffic analysis,depend_on_c,Mathematical proof
+stanford_CS 239,depend_on_r,stanford_CS 221
+stanford_CS 103,r_contain_c,Formal language
+caltech_CS/CNS 171,r_contain_c,Image
+OSI model,depend_on_c,Computer network
+String searching algorithm,depend_on_c,Number theory
+Computer graphics,depend_on_c,Digital electronics
+Relational database,depend_on_c,Computer science
+mit_6.341,r_contain_c,Fourier analysis
+cmu_15-294,r_contain_c,Computer
+stanford_CS 229T,depend_on_r,stanford_CS 229
+Turing machine,depend_on_c,Mathematics
+Parallel computing,depend_on_c,Computer architecture
+Symmetric multiprocessing,depend_on_c,Concurrency (computer science)
+mit_6.005,r_contain_c,Object-oriented programming
+Lexical analysis,depend_on_c,Theory of computation
+psu_CSE 557,depend_on_r,psu_CMPSC 451
+caltech_CS/EE 143,r_contain_c,Internet
+iowa_CS:3980,r_contain_c,Computer science
+Relational database,depend_on_c,Arithmetic
+psu_CMPSC 221,r_contain_c,Object-oriented programming
+psu_CMPSC 402,depend_on_r,psu_CMPSC 121
+mit_6.857,r_contain_c,Computer security
+mit_6.858,r_contain_c,Security
+stanford_CS 157,r_contain_c,Predicate logic
+mit_6.858,depend_on_r,mit_6.005
+princeton_COS  429,depend_on_r,princeton_COS  226
+mit_6.815,r_contain_c,Image processing
+iowa_CS:4400,depend_on_r,iowa_CS:2230
+SQL,depend_on_c,Computer science
+Lexical analysis,depend_on_c,Regular expression
+caltech_BE/CS 196,depend_on_r,caltech_BE/CS/CNS/Bi 191
+Volume rendering,depend_on_c,Algorithm design
+cmu_15-300,depend_on_r,cmu_15-251
+stanford_CS 262,r_contain_c,Computer science
+maryland_CMSC 132,r_contain_c,Java (programming language)
+illinois_CS 511,r_contain_c,Transaction processing
+caltech_CS 2,r_contain_c,Algorithm
+mit_6.036,r_contain_c,Prediction
+illinois_CS 431,r_contain_c,Microprocessor
+psu_CSE 557,r_contain_c,Concurrency (computer science)
+illinois_CS 173,r_contain_c,Computer
+psu_CMPSC 457,r_contain_c,Computer graphics
+Linear programming,depend_on_c,Iterative method
+mit_6.839,r_contain_c,Geometric modeling
+Gradient descent,depend_on_c,Integer
+Computer programming,depend_on_c,Number theory
+mit_6.838,r_contain_c,Computer graphics
+purdue_CS 58000,r_contain_c,Algorithm
+caltech_Ma/CS 6,r_contain_c,Linear programming
+mit_6.857,r_contain_c,Public-key cryptography
+caltech_CS 122,r_contain_c,Concurrency control
+maryland_CMSC 631,r_contain_c,Object-oriented programming
+psu_CSE 530,r_contain_c,Computer
+psu_CSE 562,r_contain_c,Complexity
+psu_CSE 520,r_contain_c,Computer programming
+cmu_15-112,r_contain_c,Debugging
+Time complexity,depend_on_c,Computer
+stanford_CS 348B,r_contain_c,Ray tracing (graphics)
+maryland_CMSC 330,r_contain_c,Prolog
+psu_CMPSC 458,r_contain_c,Graphics
+psu_CMPSC 421,depend_on_r,psu_CMPSC 221
+Software design,depend_on_c,Computing
+psu_CMPSC 431W,r_contain_c,Data
+Parallel computing,depend_on_c,Foundations of mathematics
+maryland_CMSC 725,r_contain_c,Geometry
+msu_CSE 232,r_contain_c,Generic programming
+mit_6.231,r_contain_c,Stochastic
+cmu_15-455,depend_on_r,cmu_15-251
+C (programming language),depend_on_c,Computation
+psu_CSE 557,depend_on_r,psu_CMPSC 455
+mit_6.864,r_contain_c,Parsing
+caltech_CS 121,r_contain_c,Data (computing)
+Parallel algorithm,depend_on_c,Computer programming
+Artificial intelligence,depend_on_c,Logic
+caltech_CS/CNS 174,r_contain_c,Computer graphics
+iowa_CS:3620,r_contain_c,Security
+mit_6.005,r_contain_c,Deadlock
+Monte Carlo method,depend_on_c,Iterative method
+stanford_CS 106B,depend_on_r,stanford_CS 106A
+mit_6.867,r_contain_c,Statistical inference
+mit_6.175,r_contain_c,Logic
+caltech_CS 3,r_contain_c,Software engineering
+Model of computation,depend_on_c,Computer
+princeton_COS  340,r_contain_c,Cryptography
+stanford_CS 107,r_contain_c,C (programming language)
+cmu_15-104,r_contain_c,Recursion
+maryland_CMSC 466,r_contain_c,Numerical analysis
+Theoretical computer science,depend_on_c,Computer
+Instruction set,depend_on_c,Arithmetic
+psu_CMPSC 465,r_contain_c,Recursion
+princeton_COS  340,r_contain_c,Computer
+Analysis of algorithms,depend_on_c,Integer
+caltech_CS 2,r_contain_c,Data
+mit_6.945,depend_on_r,mit_6.034
+caltech_SS/CS 149,depend_on_r,caltech_CS 24
+illinois_CS 423,r_contain_c,Scheduling (computing)
+illinois_CS 373,r_contain_c,Computability
+msu_CSE 331,depend_on_r,msu_CSE 232
+iowa_CS:4700,r_contain_c,Computing
+Programming language,depend_on_c,Computability
+maryland_CMSC 417,r_contain_c,Communication
+iowa_CS:5520,r_contain_c,Graphics
+stanford_CS 143,depend_on_r,stanford_CS 103
+maryland_CMSC 131,r_contain_c,Object-oriented programming
+Shortest path problem,depend_on_c,Discrete mathematics
+caltech_CS 2,r_contain_c,Algorithm design
+stanford_CS 148,r_contain_c,Interpolation
+mit_6.0001,r_contain_c,Python (programming language)
+cmu_15-451,r_contain_c,Cryptography
+Hidden Markov model,depend_on_c,Logic
+Index (database),depend_on_c,Data
+Internet Protocol Suite,depend_on_c,Communications protocol
+"princeton_COS  126,EGR  126",r_contain_c,Data (computing)
+stanford_CS 267,r_contain_c,Data (computing)
+stanford_CS 194H,r_contain_c,User interface
+cmu_15-312,depend_on_r,cmu_15-210
+C (programming language),depend_on_c,Data structure
+illinois_CS 512,depend_on_r,illinois_CS 412
+cmu_15-355,r_contain_c,Computer
+mit_6.869,depend_on_r,mit_6.042
+stanford_CS 229,r_contain_c,Pattern recognition
+mit_6.831,r_contain_c,User interface
+caltech_CS 4,r_contain_c,Object-oriented programming
+cmu_15-462,r_contain_c,Graphics
+illinois_CS 431,depend_on_r,illinois_CS 241
+stanford_CS 103A,r_contain_c,Computer
+illinois_CS 484,r_contain_c,Synchronization
+mit_6.829,r_contain_c,Computer
+psu_CMPSC 462,r_contain_c,Data (computing)
+"princeton_COS  126,EGR  126",r_contain_c,Computer
+maryland_CMSC 733,r_contain_c,Pattern recognition
+caltech_SS/CS 241,r_contain_c,Computer
+caltech_CS 142,r_contain_c,Data
+stanford_CS 267,r_contain_c,Data
+Virtual memory,depend_on_c,Computation
+maryland_CMSC 451,r_contain_c,Graph (mathematics)
+mit_6.863,r_contain_c,Natural language processing
+caltech_CS 118,r_contain_c,Formal verification
+cmu_15-449,depend_on_r,cmu_15-410
+msu_CSE 429,depend_on_r,msu_CSE 231
+cmu_15-369,depend_on_r,cmu_15-122
+Computability,depend_on_c,Logic
+illinois_CS 438,r_contain_c,Communication
+Virtual memory,depend_on_c,Central processing unit
+mit_6.344,r_contain_c,Image
+mit_6.854,r_contain_c,Data
+princeton_COS  513,r_contain_c,Data (computing)
+Concurrency control,depend_on_c,Computer science
+psu_CSE 560,r_contain_c,Graph (mathematics)
+iowa_CS:5350,r_contain_c,Geometry
+cmu_15-322,r_contain_c,Programming language
+iowa_CS:5620,r_contain_c,Graph (mathematics)
+maryland_CMSC 330,r_contain_c,Semantics
+Divide and conquer algorithm,depend_on_c,Integer
+stanford_CS 124,depend_on_r,stanford_CS 103
+illinois_CS 544,depend_on_r,illinois_CS 473
+mit_6.453,r_contain_c,Quantum mechanics
+stanford_CS 241,r_contain_c,Communication
+psu_CMPSC 443,r_contain_c,Network security
+stanford_CS 110,r_contain_c,Encryption
+illinois_CS 473,r_contain_c,NP (complexity)
+SQL,depend_on_c,Data structure
+iowa_CS:2230,r_contain_c,Recursion
+iowa_CS:3910,depend_on_r,iowa_CS:2520
+illinois_CS 445,r_contain_c,Computer
+stanford_CS 124,r_contain_c,String (computer science)
+mit_6.152,r_contain_c,Communication
+caltech_CS 121,r_contain_c,Relational database
+stanford_CS 225A,r_contain_c,Robotics
+cmu_15-414,r_contain_c,Computer
+caltech_EE/CS 52,r_contain_c,Microprocessor
+Formal language,depend_on_c,String (computer science)
+illinois_CS 525,r_contain_c,Computing
+stanford_CS 149,r_contain_c,Message passing
+Automatic programming,depend_on_c,Computational science
+mit_6.172,depend_on_r,mit_6.006
+cmu_15-424,r_contain_c,Abstraction (computer science)
+cmu_15-312,r_contain_c,Computation
+maryland_CMSC 723,r_contain_c,Natural language processing
+Haskell (programming language),depend_on_c,Functional programming
+PSPACE,depend_on_c,Computational problem
+maryland_CMSC 420,r_contain_c,Data
+iowa_CS:5800,depend_on_r,iowa_CS:2820
+psu_CMPSC 402,r_contain_c,Unix
+Quantum computer,depend_on_c,Foundations of mathematics
+cmu_15-410,r_contain_c,Operating system
+stanford_CS 275,r_contain_c,Bioinformatics
+caltech_CS 101,r_contain_c,Computer science
+Procedural programming,depend_on_c,Computer
+Statistical hypothesis testing,depend_on_c,Uncertainty
+cmu_15-104,r_contain_c,Abstraction (computer science)
+psu_CSE 522,r_contain_c,Semantics
+Unsupervised learning,depend_on_c,Statistical inference
+Computer graphics,depend_on_c,Graphics
+purdue_CS 60300,r_contain_c,Synchronization
+Time complexity,depend_on_c,Algorithm
+cmu_15-411,r_contain_c,Compiler
+Computational chemistry,depend_on_c,Foundations of mathematics
+Virtual reality,depend_on_c,Data
+iowa_CS:4740,depend_on_r,iowa_CS:1210
+Monte Carlo method,depend_on_c,Random variable
+psu_CMPSC 302,r_contain_c,Inheritance (object-oriented programming)
+stanford_CS 92SI,r_contain_c,Data
+stanford_CS 244,r_contain_c,Routing
+cmu_15-313,depend_on_r,cmu_15-214
+stanford_CS 275,r_contain_c,Data
+Database design,depend_on_c,Relational algebra
+psu_CMPSC 402,r_contain_c,C (programming language)
+stanford_CS 245,depend_on_r,stanford_CS 161
+maryland_CMSC 666,r_contain_c,Interpolation
+iowa_CS:4700,r_contain_c,Parallel computing
+mit_6.836,r_contain_c,Data
+illinois_CS 579,r_contain_c,PSPACE
+psu_CSE 532,r_contain_c,Scheduling (computing)
+mit_6.046,r_contain_c,Amortized analysis
+illinois_CS 450,r_contain_c,Linear system
+Computer programming,depend_on_c,Graph theory
+maryland_CMSC 411,depend_on_r,maryland_CMSC 330
+illinois_CS 233,r_contain_c,Computer architecture
+mit_6.814,r_contain_c,Query optimization
+mit_6.814,r_contain_c,Data (computing)
+caltech_CS 124,depend_on_r,caltech_CS 24
+illinois_CS 357,r_contain_c,Computation
+Large deviations theory,depend_on_c,Probability theory
+Monte Carlo method,depend_on_c,Expected value
+maryland_CMSC 426,r_contain_c,Image processing
+stanford_CS 224U,depend_on_r,stanford_CS 221
+cmu_15-494,r_contain_c,Robotics
+mit_6.005,r_contain_c,Message passing
+maryland_CMSC 422,r_contain_c,Data
+purdue_CS 62600,r_contain_c,Information assurance
+stanford_CS 228,r_contain_c,Data
+caltech_CS 4,depend_on_r,caltech_CS 1
+Undecidable problem,depend_on_c,Computer science
+Geometry,depend_on_c,Mathematics
+Concurrency control,depend_on_c,Computation
+caltech_CS 4,r_contain_c,Complexity
+mit_6.005,r_contain_c,Functional programming
+stanford_CS 107,depend_on_r,stanford_CS 106B
+purdue_CS 60300,r_contain_c,Atomicity (database systems)
+mit_6.438,r_contain_c,Algorithm
+illinois_CS 373,depend_on_r,illinois_CS 173
+mit_6.241,r_contain_c,Matrix (mathematics)
+cmu_15-122,r_contain_c,Computation
+Hidden line removal,depend_on_c,Combinatorics
+Lisp (programming language),depend_on_c,Programming language
+iowa_CS:5850,r_contain_c,Programming language
+mit_6.839,r_contain_c,Computational geometry
+iowa_CS:2210,r_contain_c,Algorithm
+stanford_CS 154,r_contain_c,Mathematics
+illinois_CS 525,depend_on_r,illinois_CS 438
+mit_6.045,r_contain_c,Computer science
+Robotics,depend_on_c,Object-oriented programming
+mit_6.035,r_contain_c,Computer
+mit_6.869,r_contain_c,Computer vision
+mit_6.829,r_contain_c,Congestion control
+Amortized analysis,depend_on_c,Computer science
+mit_6.141,r_contain_c,Embedded system
+Firewall (computing),depend_on_c,Data
+cmu_15-319,r_contain_c,Computing
+cmu_15-405,r_contain_c,Computer
+mit_6.452,r_contain_c,Communication
+Question answering,depend_on_c,Programming language
+Debugging,depend_on_c,Programming language
+mit_6.819,r_contain_c,Interface (computing)
+stanford_CS 229T,r_contain_c,Algorithm
+Parallel algorithm,depend_on_c,Computing
+purdue_CS 55500,r_contain_c,Information theory
+caltech_CS 3,depend_on_r,caltech_CS 2
+stanford_CS 92SI,r_contain_c,Scripting language
+JavaScript,depend_on_c,Arithmetic
+stanford_CS 193P,r_contain_c,Mobile device
+illinois_CS 421,depend_on_r,illinois_CS 233
+msu_CSE 498,depend_on_r,msu_CSE 472
+Boundary value problem,depend_on_c,Partial differential equation
+illinois_CS 412,r_contain_c,Data warehouse
+Finite difference,depend_on_c,Numerical analysis
+B-tree,depend_on_c,Mathematics
+mit_6.374,r_contain_c,Arithmetic
+Programming paradigm,depend_on_c,Mathematics
+Natural language processing,depend_on_c,Machine learning
+Malware,depend_on_c,Computer network
+illinois_CS 423,r_contain_c,Virtual memory
+cmu_15-415,depend_on_r,cmu_15-210
+mit_6.905,r_contain_c,Algebra
+cmu_15-424,r_contain_c,Semantics
+Question answering,depend_on_c,Algorithm
+Partial differential equation,depend_on_c,Numerical analysis
+cmu_15-392,r_contain_c,Security
+User interface design,depend_on_c,Computer
+illinois_CS 421,r_contain_c,Object (computer science)
+cmu_15-121,r_contain_c,Data (computing)
+psu_CMPSC 470,depend_on_r,psu_CMPSC 221
+mit_6.042,r_contain_c,Graph theory
+purdue_CS 61500,depend_on_r,purdue_CS 51400
+cmu_15-323,r_contain_c,Data (computing)
+Divide and conquer algorithm,depend_on_c,Recursion
+mit_6.042,r_contain_c,Logic
+cmu_15-210,r_contain_c,Algorithm
+mit_6.836,r_contain_c,Scalability
+stanford_CS 140,r_contain_c,Communication
+SQL,depend_on_c,Object (computer science)
+cmu_15-210,r_contain_c,C (programming language)
+Profiling (computer programming),depend_on_c,Abstraction (computer science)
+purdue_CS 63600,r_contain_c,Internet
+cmu_15-449,r_contain_c,Computer
+stanford_CS 245,r_contain_c,Concurrency control
+iowa_CS:2620,r_contain_c,Computer
+mit_6.231,r_contain_c,Dynamic programming
+C (programming language),depend_on_c,Computational complexity theory
+cmu_15-150,r_contain_c,Model of computation
+stanford_CS 245,r_contain_c,Database
+purdue_CS 66100,r_contain_c,Prolog
+psu_CMPSC 438,r_contain_c,Security
+illinois_CS 554,r_contain_c,Algebra
+Finite-state machine,depend_on_c,Automata theory
+purdue_CS 60300,r_contain_c,Deadlock
+iowa_CS:2420,r_contain_c,Relational model
+Big data,depend_on_c,Logic
+purdue_CS 55500,r_contain_c,Cryptography
+mit_6.503,depend_on_r,mit_6.046
+mit_6.872,r_contain_c,Security
+cmu_15-610,r_contain_c,Integral
+msu_CSE 450,depend_on_r,msu_CSE 320
+Database,depend_on_c,Operating system
+illinois_CS 574,r_contain_c,Inequality (mathematics)
+Inheritance (object-oriented programming),depend_on_c,Object (computer science)
+caltech_CS 123,depend_on_r,caltech_CS 121
+stanford_CS 223A,r_contain_c,Robot
+caltech_CS 2,r_contain_c,Computer
+maryland_CMSC 417,r_contain_c,Computer
+cmu_15-405,depend_on_r,cmu_15-410
+mit_6.437,r_contain_c,Prediction
+cmu_15-122,depend_on_r,cmu_15-112
+cmu_15-491,r_contain_c,Robot
+mit_6.832,r_contain_c,Motion planning
+cmu_15-312,r_contain_c,Semantics
+msu_CSE 498,depend_on_r,msu_CSE 420
+mit_6.828,depend_on_r,mit_6.033
+iowa_CS:4740,r_contain_c,Parallel computing
+stanford_CS 448J,r_contain_c,Linear algebra
+stanford_CS 448J,r_contain_c,Fourier analysis
+msu_CSE 473,r_contain_c,Computer
+stanford_CS 228,r_contain_c,Motion planning
+Program analysis,depend_on_c,Graph theory
+stanford_CS 140,depend_on_r,stanford_CS 110
+princeton_COS  326,r_contain_c,Data (computing)
+cmu_15-213,r_contain_c,Programmer
+mit_6.806,r_contain_c,Natural language processing
+msu_CSE 320,r_contain_c,Algebra
+Debugging,depend_on_c,Computer programming
+stanford_CS 348B,r_contain_c,Computer
+caltech_CS 176,r_contain_c,Geometric modeling
+cmu_15-381,r_contain_c,Natural language processing
+psu_CMPSC 441,depend_on_r,psu_CMPSC 360
+mit_6.806,r_contain_c,Parsing
+Compiler optimization,depend_on_c,Computer programming
+caltech_CS 115,r_contain_c,Abstraction (computer science)
+maryland_CMSC 456,r_contain_c,Complexity
+Fast Fourier transform,depend_on_c,Foundations of mathematics
+mit_6.033,depend_on_r,mit_6.004
+princeton_COS  429,r_contain_c,Computer vision
+Algorithm design,depend_on_c,Mathematics
+illinois_CS 466,r_contain_c,Bioinformatics
+cmu_15-417,r_contain_c,Haskell (programming language)
+msu_CSE 420,r_contain_c,Computer architecture
+iowa_CS:2230,r_contain_c,Object (computer science)
+stanford_CS 221,r_contain_c,Logic
+Superscalar,depend_on_c,Thread (computer science)
+cmu_15-437,r_contain_c,Security
+Application programming interface,depend_on_c,Computer programming
+caltech_CS 122,r_contain_c,Transaction processing
+iowa_CS:2230,r_contain_c,Software design
+Amortized analysis,depend_on_c,Data structure
+iowa_CS:2111,r_contain_c,Python (programming language)
+mit_6.850,r_contain_c,Data
+maryland_CMSC 421,r_contain_c,Prolog
+stanford_CS 161,r_contain_c,Amortized analysis
+mit_6.S04,r_contain_c,Software engineering
+Parsing,depend_on_c,Automata theory
+illinois_CS 412,r_contain_c,Data
+maryland_CMSC 106,r_contain_c,C (programming language)
+psu_CMPSC 488,r_contain_c,Computer
+mit_6.875,depend_on_r,mit_6.046
+Cryptography,depend_on_c,Algorithm design
+stanford_CS 448J,r_contain_c,Image
+mit_6.823,r_contain_c,Virtual memory
+cmu_15-251,r_contain_c,Problem solving
+psu_CMPSC 442,r_contain_c,Artificial intelligence
+Machine translation,depend_on_c,Computer programming
+illinois_CS 440,r_contain_c,Artificial intelligence
+Prolog,depend_on_c,Data structure
+psu_CMPSC 485W,r_contain_c,Computer science
+illinois_CS 548,r_contain_c,Machine learning
+caltech_CS 21,r_contain_c,Computation
+stanford_CS 240H,r_contain_c,Programming language
+mit_6.005,r_contain_c,Data (computing)
+iowa_CS:5620,r_contain_c,Data (computing)
+illinois_CS 473,r_contain_c,Computer science
+illinois_CS 544,r_contain_c,Computer vision
+stanford_CS 229T,r_contain_c,Data
+princeton_COS  340,depend_on_r,"princeton_COS  126,EGR  126"
+maryland_CMSC 631,r_contain_c,Program analysis
+mit_6.945,r_contain_c,Data
+iowa_CS:5620,r_contain_c,Distributed algorithms
+psu_CMPSC 302,depend_on_r,psu_CMPSC 121
+caltech_Ma/CS 6,r_contain_c,Semantics
+illinois_CS 523,r_contain_c,Operating system
+illinois_CS 422,r_contain_c,Functional programming
+illinois_CS 210,depend_on_r,illinois_CS 225
+princeton_COS  226,depend_on_r,"princeton_COS  126,EGR  126"
+Computer animation,depend_on_c,Rendering (computer graphics)
+mit_6.831,depend_on_r,mit_6.005
+iowa_CS:4520,r_contain_c,Computer
+illinois_CS 467,r_contain_c,Visualization (computer graphics)
+mit_6.867,depend_on_r,mit_6.041
+mit_6.871,r_contain_c,Memory hierarchy
+P versus NP problem,depend_on_c,Logic
+princeton_COS  318,r_contain_c,Virtual memory
+illinois_CS 583,r_contain_c,Algorithm design
+stanford_CS 149,r_contain_c,Computing
+Robot,depend_on_c,Artificial intelligence
+caltech_CS 121,r_contain_c,Relational algebra
+psu_CMPSC 436,r_contain_c,Routing
+mit_6.905,r_contain_c,Data
+High-level programming language,depend_on_c,Discrete mathematics
+Neural network,depend_on_c,Machine learning
+stanford_CS 108,r_contain_c,Software engineering
+Turing machine,depend_on_c,Automata theory
+caltech_CS 38,r_contain_c,NP (complexity)
+stanford_CS 161,r_contain_c,Graph (mathematics)
+mit_6.115,depend_on_r,mit_6.003
+iowa_CS:4400,r_contain_c,Database
+mit_6.042,r_contain_c,Probability
+psu_CSE 539,depend_on_r,psu_CSE 530
+illinois_CS 438,r_contain_c,Data
+illinois_CS 548,depend_on_r,illinois_CS 446
+illinois_CS 476,r_contain_c,Data
+mit_6.846,r_contain_c,Computer
+psu_CSE 565,depend_on_r,psu_CMPSC 464
+stanford_CS 9,r_contain_c,Communication
+psu_CMPSC 421,r_contain_c,Computing
+cmu_15-455,r_contain_c,Complexity
+caltech_CS 11,r_contain_c,Computer
+Computer animation,depend_on_c,Image
+maryland_CMSC 460,r_contain_c,Interpolation
+psu_CMPSC 121,r_contain_c,Recursion
+mit_6.806,r_contain_c,Machine learning
+illinois_CS 465,depend_on_r,illinois_CS 225
+stanford_CS 108,r_contain_c,Graphical user interface
+caltech_CS/CNS 174,r_contain_c,Algorithm
+Recurrence relation,depend_on_c,Mathematical induction
+"princeton_COS  109,EGR  109",r_contain_c,Internet
+caltech_CS 115,r_contain_c,Lazy evaluation
+Undecidable problem,depend_on_c,Foundations of mathematics
+psu_CMPSC 456,depend_on_r,psu_CMPSC 455
+mit_6.437,r_contain_c,Entropy
+caltech_CS 138,r_contain_c,Algebra
+Abstract data type,depend_on_c,Discrete mathematics
+psu_CMPSC 463,depend_on_r,psu_CMPSC 462
+stanford_CS 248,depend_on_r,stanford_CS 148
+cmu_15-437,r_contain_c,Scalability
+stanford_CS 221,r_contain_c,Computation
+cmu_15-237,r_contain_c,Mobile device
+Analysis of algorithms,depend_on_c,Graph (mathematics)
+cmu_15-317,depend_on_r,cmu_15-150
+princeton_COS  226,r_contain_c,Data (computing)
+Document classification,depend_on_c,Probability theory
+mit_6.438,r_contain_c,Data (computing)
+mit_6.245,r_contain_c,Computer
+Central processing unit,depend_on_c,Computer science
+princeton_COS  326,r_contain_c,Abstraction (computer science)
+mit_6.0002,r_contain_c,Computation
+cmu_15-104,r_contain_c,Complexity
+psu_CMPSC 487W,r_contain_c,Software development
+Recursion,depend_on_c,Programming language
+stanford_CS 246,depend_on_r,stanford_CS 109
+illinois_CS 473,r_contain_c,Data
+stanford_CS 168,depend_on_r,stanford_CS 161
+cmu_15-451,r_contain_c,Data
+cmu_15-453,r_contain_c,Computability
+Scope (computer science),depend_on_c,Computer
+cmu_15-414,depend_on_r,cmu_15-122
+illinois_CS 426,depend_on_r,illinois_CS 421
+psu_CSE 545,r_contain_c,Network security
+stanford_CS 231A,r_contain_c,Computer vision
+stanford_CS 224U,depend_on_r,stanford_CS 157
+stanford_CS 106B,r_contain_c,Abstraction (computer science)
+mit_6.851,r_contain_c,Data
+mit_6.045,r_contain_c,Computational learning theory
+cmu_15-351,r_contain_c,Dynamic programming
+mit_6.850,r_contain_c,Pattern matching
+Time complexity,depend_on_c,Polynomial
+cmu_15-214,depend_on_r,cmu_15-122
+String searching algorithm,depend_on_c,Iterative method
+mit_6.816,r_contain_c,Scheduling (computing)
+psu_CMPSC 459,r_contain_c,Data analysis
+caltech_CS/CNS/EE 156,r_contain_c,Statistics
+illinois_CS 233,depend_on_r,illinois_CS 125
+Knowledge representation and reasoning,depend_on_c,Graph theory
+psu_CMPSC 465,r_contain_c,Computer
+mit_6.856,r_contain_c,Data (computing)
+mit_6.036,depend_on_r,mit_6.01
+msu_CSE 131,r_contain_c,Problem solving
+purdue_CS 66100,r_contain_c,Formal language
+mit_6.008,r_contain_c,Machine learning
+caltech_CS/SS 152,r_contain_c,Information theory
+mit_6.865,r_contain_c,Data
+purdue_CS 58000,r_contain_c,Pattern matching
+princeton_COS  429,depend_on_r,princeton_COS  217
+Index (database),depend_on_c,Database
+msu_CSE 471,depend_on_r,msu_CSE 335
+psu_CSE 588,r_contain_c,Complexity
+cmu_15-104,r_contain_c,Computing
+mit_6.830,r_contain_c,Database
+cmu_15-354,r_contain_c,Mathematics
+cmu_15-349,depend_on_r,cmu_15-122
+stanford_CS 267,depend_on_r,stanford_CS 161
+Linear programming,depend_on_c,Computer science
+stanford_CS 448Z,r_contain_c,Computer animation
+stanford_CS 148,r_contain_c,Ray tracing (graphics)
+Database design,depend_on_c,Object (computer science)
+Haskell (programming language),depend_on_c,Computer
+psu_CMPSC 451,r_contain_c,Approximation
+purdue_CS 50300,r_contain_c,Stack (data structure)
+psu_CMPSC 485W,r_contain_c,Computer
+maryland_CMSC 427,r_contain_c,Mathematics
+Coding theory,depend_on_c,Theoretical computer science
+psu_CMPSC 431W,depend_on_r,psu_CMPSC 221
+stanford_CS 147,depend_on_r,stanford_CS 106B
+illinois_CS 411,depend_on_r,illinois_CS 225
+Transaction processing,depend_on_c,Relational algebra
+Analysis of algorithms,depend_on_c,Algebra
+cmu_15-237,r_contain_c,C (programming language)
+iowa_CS:2520,r_contain_c,Interface (computing)
+Routing,depend_on_c,Digital electronics
+msu_CSE 420,r_contain_c,Computer
+Theoretical computer science,depend_on_c,Graph theory
+Internet,depend_on_c,Routing
+Message Passing Interface,depend_on_c,Synchronization
+Functional programming,depend_on_c,Algorithm
+stanford_CS 109,r_contain_c,Computer science
+msu_CSE 422,r_contain_c,Computer
+Compiler,depend_on_c,Computer architecture
+stanford_CS 231B,depend_on_r,stanford_CS 229
+illinois_CS 548,r_contain_c,Artificial intelligence
+iowa_CS:2520,r_contain_c,User interface
+stanford_CS 448J,r_contain_c,Interpolation
+mit_6.945,r_contain_c,Computer
+princeton_COS  451,depend_on_r,princeton_COS  340
+psu_CMPSC 471,r_contain_c,Compiler
+mit_6.045,depend_on_r,mit_6.042
+maryland_CMSC 330,r_contain_c,Semantics of programming languages
+Mathematical optimization,depend_on_c,Mathematical model
+Context-free grammar,depend_on_c,Number theory
+mit_6.503,depend_on_r,mit_6.034
+mit_6.846,r_contain_c,Communication
+Concurrency control,depend_on_c,Discrete mathematics
+cmu_15-359,r_contain_c,Computer
+stanford_CS 549,r_contain_c,Computer
+cmu_15-464,depend_on_r,cmu_15-462
+stanford_CS 261,r_contain_c,Analysis of algorithms
+Bioinformatics,depend_on_c,Asymptotic analysis
+Big data,depend_on_c,Computer science
+illinois_CS 422,depend_on_r,illinois_CS 421
+Computational complexity theory,depend_on_c,Complexity
+Machine learning,depend_on_c,Computer
+iowa_CS:5520,depend_on_r,iowa_CS:4520
+Memory management,depend_on_c,Computer
+maryland_CMSC 451,r_contain_c,Computer
+Cryptographic hash function,depend_on_c,Probability theory
+caltech_SS/CS 241,depend_on_r,caltech_SS/CS 149
+Abstract data type,depend_on_c,Computer
+psu_CMPSC 436,r_contain_c,Data (computing)
+Parametric polymorphism,depend_on_c,Data type
+Geometric modeling,depend_on_c,Foundations of mathematics
+iowa_CS:5610,r_contain_c,Parallel algorithm
+Unix,depend_on_c,Arithmetic
+cmu_15-418,r_contain_c,Communication
+msu_CSE 320,r_contain_c,Logic
+ML (programming language),depend_on_c,Functional programming
+psu_CMPSC 455,r_contain_c,Computation
+maryland_CMSC 430,depend_on_r,maryland_CMSC 330
+mit_6.845,r_contain_c,Communication
+illinois_CS 440,r_contain_c,Computer vision
+stanford_CS 316,r_contain_c,Security
+iowa_CS:3910,r_contain_c,Database system
+stanford_CS 106B,r_contain_c,C (programming language)
+cmu_15-465,r_contain_c,Motion capture
+psu_CSE 562,depend_on_r,psu_CSE 565
+caltech_CS 38,depend_on_r,caltech_CS 2
+psu_CMPSC 102,r_contain_c,Recursion
+illinois_CS 465,r_contain_c,User interface design
+purdue_CS 51400,r_contain_c,Numerical analysis
+illinois_CS 583,r_contain_c,NP (complexity)
+mit_6.876,depend_on_r,mit_6.875
+psu_CMPSC 474,r_contain_c,Synchronization
+illinois_CS 241,r_contain_c,Security
+mit_6.011,r_contain_c,Signal processing
+iowa_CS:2420,r_contain_c,SQL
+mit_6.853,r_contain_c,Interface (computing)
+caltech_CS 122,r_contain_c,Software engineering
+caltech_CS 122,depend_on_r,caltech_CS 121
+maryland_CMSC 451,r_contain_c,Dynamic programming
+mit_6.344,depend_on_r,mit_6.041
+cmu_15-321,r_contain_c,Data (computing)
+stanford_CS 224N,depend_on_r,stanford_CS 124
+caltech_CS 115,r_contain_c,Data
+mit_6.776,r_contain_c,Data
+cmu_15-421,r_contain_c,Integral
+mit_6.045,r_contain_c,NP (complexity)
+mit_6.175,r_contain_c,Cache coherence
+mit_6.046,r_contain_c,Geometry
+Database design,depend_on_c,Data type
+mit_6.047,r_contain_c,Dynamic programming
+mit_6.728,depend_on_r,mit_6.003
+Computational complexity theory,depend_on_c,Integer
+psu_CMPSC 483W,r_contain_c,Software design
+mit_6.816,r_contain_c,Data (computing)
+Symbol table,depend_on_c,Graph theory
+purdue_CS 64100,r_contain_c,Database
+Java (programming language),depend_on_c,Parsing
+Sentiment analysis,depend_on_c,Computer programming
+mit_6.046,r_contain_c,Analysis of algorithms
+maryland_CMSC 414,depend_on_r,maryland_CMSC 330
+illinois_CS 125,r_contain_c,Computer
+mit_6.637,r_contain_c,Signal processing
+"princeton_COS  375,ELE  375",r_contain_c,Computer architecture
+illinois_CS 463,r_contain_c,Cryptography
+Algorithm design,depend_on_c,Iterative method
+cmu_15-312,r_contain_c,Logic
+Data type,depend_on_c,Automata theory
+mit_6.836,r_contain_c,Synchronization
+maryland_CMSC 422,r_contain_c,Machine learning
+cmu_15-294,depend_on_r,cmu_15-112
+maryland_CMSC 723,depend_on_r,maryland_CMSC 421
+mit_6.853,r_contain_c,Computer
+illinois_CS 546,r_contain_c,Speech recognition
+stanford_CS 345D,r_contain_c,Database
+stanford_CS 267,r_contain_c,Graph (mathematics)
+Assembly language,depend_on_c,Instruction set
+psu_CSE 555,depend_on_r,psu_CMPSC 456
+caltech_CS 142,depend_on_r,caltech_CS 24
+stanford_CS 229,r_contain_c,Exponential family
+caltech_CS/SS 152,r_contain_c,Data (computing)
+mit_6.046,r_contain_c,Graph (mathematics)
+cmu_15-150,r_contain_c,Data (computing)
+psu_CMPSC 360,r_contain_c,Logic
+stanford_CS 243,r_contain_c,Garbage collection (computer science)
+stanford_CS 240,r_contain_c,Memory management
+illinois_CS 457,depend_on_r,illinois_CS 357
+stanford_CS 265,r_contain_c,Data
+cmu_15-251,r_contain_c,Game theory
+Combinatorics,depend_on_c,Algebra
+mit_6.852,depend_on_r,mit_6.046
+Functional programming,depend_on_c,Computability
+Modular arithmetic,depend_on_c,Algebra
+Unsupervised learning,depend_on_c,Algorithm
+illinois_CS 579,depend_on_r,illinois_CS 473
+cmu_15-385,r_contain_c,Computer vision
+stanford_CS 248,r_contain_c,Geometric modeling
+caltech_CS/CNS 174,r_contain_c,Graphics
+C++,depend_on_c,Object-oriented programming
+iowa_CS:3820,r_contain_c,Recursion (computer science)
+stanford_CS 205A,r_contain_c,Graphics
+mit_6.852,r_contain_c,Deadlock
+Database management system,depend_on_c,Relational algebra
+Java (programming language),depend_on_c,Programming language
+Fast Fourier transform,depend_on_c,Algorithm
+Database normalization,depend_on_c,Data
+NP (complexity),depend_on_c,Integer
+Hidden line removal,depend_on_c,Abstraction (computer science)
+Programming style,depend_on_c,Computing
+psu_CSE 544,r_contain_c,Security
+caltech_CS 115,r_contain_c,Haskell (programming language)
+psu_CMPSC 474,depend_on_r,psu_CMPSC 312
+stanford_CS 166,depend_on_r,stanford_CS 161
+Gradient descent,depend_on_c,Computation
+cmu_15-104,r_contain_c,Data
+caltech_CS 119,depend_on_r,caltech_CS 116
+caltech_CS 138,r_contain_c,Analysis of algorithms
+Java (programming language),depend_on_c,Data structure
+Automated planning and scheduling,depend_on_c,Computer programming
+illinois_CS 523,r_contain_c,Communication
+Randomness,depend_on_c,Mathematics
+mit_6.456,r_contain_c,Statistics
+Semidefinite programming,depend_on_c,Introduction to Algorithms
+mit_6.450,r_contain_c,Data (computing)
+Formal language,depend_on_c,Computer science
+psu_CMPSC 438,r_contain_c,Communication
+stanford_CS 229T,r_contain_c,Data (computing)
+Web search engine,depend_on_c,Discrete mathematics
+caltech_CS 121,r_contain_c,SQL
+caltech_CMS/CS/EE 144,r_contain_c,Internet
+caltech_CS 138,r_contain_c,Geometry
+stanford_CS 145,r_contain_c,Algebra
+caltech_CS 2,depend_on_r,caltech_CS 1
+cmu_15-210,depend_on_r,cmu_15-150
+Computer graphics,depend_on_c,Computer
+psu_CMPSC 421,r_contain_c,JavaScript
+caltech_CS 115,r_contain_c,Recursion
+stanford_CS 144,r_contain_c,Congestion control
+cmu_15-449,r_contain_c,Operating system
+Java (programming language),depend_on_c,Arithmetic
+maryland_CMSC 250,r_contain_c,Computer
+psu_CSE 539,r_contain_c,Computer
+iowa_CS:2630,r_contain_c,Assembly language
+stanford_CS 316,r_contain_c,Complexity
+stanford_CS 155,depend_on_r,stanford_CS 110
+msu_CSE 331,r_contain_c,Data
+Poisson distribution,depend_on_c,Expected value
+Concurrency control,depend_on_c,Digital electronics
+mit_6.552,depend_on_r,mit_6.041
+mit_6.011,r_contain_c,Communication
+stanford_CS 294S,r_contain_c,Internet
+purdue_CS 61500,r_contain_c,Finite element method
+stanford_CS 168,r_contain_c,Linear programming
+Sentiment analysis,depend_on_c,Machine learning
+psu_CMPSC 421,r_contain_c,Server (computing)
+Linear programming,depend_on_c,Linear algebra
+Database management system,depend_on_c,Data
+Programming language,depend_on_c,Computational science
+psu_CMPSC 464,r_contain_c,Computation
+cmu_15-451,depend_on_r,cmu_15-251
+maryland_CMSC 733,r_contain_c,Data
+Logic programming,depend_on_c,Foundations of mathematics
+msu_CSE 435,depend_on_r,msu_CSE 331
+stanford_CS 231N,r_contain_c,Computer vision
+Question answering,depend_on_c,Computational science
+Computer animation,depend_on_c,Data
+illinois_CS 475,r_contain_c,Computation
+psu_CMPSC 475,depend_on_r,psu_CMPSC 221
+stanford_CS 241,r_contain_c,Security
+cmu_15-323,r_contain_c,Scheduling (computing)
+mit_6.047,r_contain_c,Algorithm
+mit_6.0002,r_contain_c,Probability
+illinois_CS 225,r_contain_c,Data (computing)
+stanford_CS 108,r_contain_c,User interface
+Graphical model,depend_on_c,Expected value
+cmu_15-122,r_contain_c,Data
+mit_6.UAR,depend_on_r,mit_6.UR
+mit_6.876,r_contain_c,Game theory
+Parallel algorithm,depend_on_c,Combinatorics
+cmu_15-213,r_contain_c,Computation
+stanford_CS 476B,r_contain_c,Virtual reality
+Computer security,depend_on_c,Computer
+mit_6.021,depend_on_r,mit_6.002
+cmu_15-211,r_contain_c,C (programming language)
+mit_6.816,r_contain_c,Data
+caltech_SS/CS 149,r_contain_c,Computation
+Numerical analysis,depend_on_c,Foundations of mathematics
+maryland_CMSC 666,r_contain_c,Approximation
+msu_CSE 420,depend_on_r,msu_CSE 232
+"princeton_ELE  475,COS  475",r_contain_c,Computer architecture
+iowa_CS:4740,r_contain_c,Mathematics
+stanford_CS 107,r_contain_c,Arithmetic
+msu_CSE 841,r_contain_c,Computer
+caltech_CS 1,r_contain_c,Input/output
+Linear programming,depend_on_c,Mathematical optimization
+cmu_15-418,r_contain_c,Data (computing)
+Ray tracing (graphics),depend_on_c,Shading
+msu_CSE 914,r_contain_c,Software engineering
+mit_6.852,r_contain_c,Concurrency (computer science)
+maryland_CMSC 725,r_contain_c,Graphics
+caltech_CS 142,r_contain_c,Data (computing)
+Autonomous robot,depend_on_c,Mechanical engineering
+Unsupervised learning,depend_on_c,Mathematical optimization
+SQL,depend_on_c,Computability
+mit_6.819,r_contain_c,Object (computer science)
+caltech_CMS/CS/CNS/EE 155,r_contain_c,Data (computing)
+stanford_CS 231M,r_contain_c,Computer vision
+Machine translation,depend_on_c,Computation
+Hash table,depend_on_c,Data (computing)
+caltech_CS 138,depend_on_r,caltech_CS 38
+cmu_15-359,r_contain_c,Data
+Complexity,depend_on_c,Iterative method
+msu_CSE 480,r_contain_c,Database
+psu_CMPSC 463,r_contain_c,NP (complexity)
+purdue_CS 63600,depend_on_r,purdue_CS 50300
+caltech_CS 138,r_contain_c,Data (computing)
+illinois_CS 461,r_contain_c,Data
+psu_CMPSC 450,depend_on_r,psu_CMPSC 121
+caltech_CS 138,r_contain_c,Number theory
+mit_6.131,r_contain_c,Computer
+Assembly language,depend_on_c,Computer programming
+cmu_15-462,r_contain_c,Image
+mit_6.02,r_contain_c,Abstraction (computer science)
+caltech_CS 11,r_contain_c,Programming language
+Natural language processing,depend_on_c,Computational science
+psu_CMPSC 458,r_contain_c,Input/output
+Scientific visualization,depend_on_c,Computer
+cmu_15-295,r_contain_c,Problem solving
+mit_6.874,r_contain_c,Data
+cmu_15-369,r_contain_c,Speech recognition
+psu_CSE 545,r_contain_c,Security
+illinois_CS 427,r_contain_c,Software engineering
+purdue_CS 63500,r_contain_c,Graphics
+maryland_CMSC 421,r_contain_c,Data
+stanford_CS 221,r_contain_c,Scheduling (computing)
+mit_6.819,depend_on_r,mit_6.042
+Computer vision,depend_on_c,Introduction to Algorithms
+cmu_15-415,r_contain_c,Abstraction (computer science)
+maryland_CMSC 423,r_contain_c,Bioinformatics
+Neural network,depend_on_c,Computer
+Type system,depend_on_c,Computability
+Object-oriented programming,depend_on_c,Computability
+illinois_CS 241,r_contain_c,Inter-process communication
+Suffix tree,depend_on_c,Algorithm
+stanford_CS 155,r_contain_c,Computer
+Coding theory,depend_on_c,Graph theory
+princeton_COS  402,r_contain_c,Speech recognition
+Poisson distribution,depend_on_c,Random variable
+Analysis of algorithms,depend_on_c,Abstraction (computer science)
+P versus NP problem,depend_on_c,Computability
+illinois_CS 492,r_contain_c,Computer
+mit_6.452,depend_on_r,mit_6.450
+stanford_CS 145,r_contain_c,Database design
+illinois_CS 461,r_contain_c,Cryptography
+cmu_15-491,r_contain_c,Computation
+stanford_CS 224U,r_contain_c,Lexical semantics
+purdue_CS 63800,depend_on_r,purdue_CS 50300
+Turing machine,depend_on_c,Computation
+Computer vision,depend_on_c,Asymptotic analysis
+Monad (functional programming),depend_on_c,Variable (computer science)
+mit_6.503,depend_on_r,mit_6.021
+mit_6.141,r_contain_c,Robot
+Cryptanalysis,depend_on_c,Abstraction (computer science)
+maryland_CMSC 723,r_contain_c,Parsing
+Congestion control,depend_on_c,Graph (mathematics)
+mit_6.863,r_contain_c,Question answering
+psu_CMPSC 442,depend_on_r,psu_CMPSC 122
+mit_6.046,r_contain_c,Parallel computing
+mit_6.251,r_contain_c,Linear programming
+psu_CMPSC 122,r_contain_c,Recursion (computer science)
+C++,depend_on_c,High-level programming language
+Time complexity,depend_on_c,Foundations of mathematics
+mit_6.850,r_contain_c,Analysis of algorithms
+stanford_CS 109,r_contain_c,Combinatorics
+stanford_CS 143,r_contain_c,Compiler
+illinois_CS 546,r_contain_c,Semantics
+cmu_15-355,r_contain_c,Algebra
+mit_6.869,r_contain_c,Computer
+cmu_15-386,depend_on_r,cmu_15-112
+stanford_CS 231B,r_contain_c,Computer
+mit_6.254,depend_on_r,mit_6.041
+mit_6.438,depend_on_r,mit_6.436
+stanford_CS 228,r_contain_c,Inference
+maryland_CMSC 330,r_contain_c,ML (programming language)
+psu_CSE 522,r_contain_c,Theory of computation
+Formal verification,depend_on_c,Discrete mathematics
+NP-complete,depend_on_c,Computation
+caltech_CS 2,r_contain_c,Debugging
+Autonomous robot,depend_on_c,Speech recognition
+Modular programming,depend_on_c,Computer programming
+mit_6.837,r_contain_c,Pipeline (computing)
+mit_6.801,r_contain_c,Robotics
+iowa_CS:4350,r_contain_c,Logic
+stanford_CS 110,depend_on_r,stanford_CS 107
+psu_CSE 541,r_contain_c,Database
+OSI model,depend_on_c,Data
+caltech_CS 138,r_contain_c,Randomization
+caltech_CS 2,r_contain_c,Computation
+mit_6.047,r_contain_c,Machine learning
+mit_6.932,depend_on_r,mit_6.033
+Context-free grammar,depend_on_c,Graph theory
+princeton_COS  340,r_contain_c,Data
+Application programming interface,depend_on_c,Computational science
+maryland_CMSC 421,r_contain_c,Artificial intelligence
+caltech_CS 1,r_contain_c,Data (computing)
+psu_CSE 544,depend_on_r,psu_CSE 543
+Divide and conquer algorithm,depend_on_c,Computation
+illinois_CS 463,r_contain_c,Computer security
+illinois_CS 446,r_contain_c,Data (computing)
+Artificial intelligence,depend_on_c,Computational problem
+caltech_CMS/CS 139,depend_on_r,caltech_Ma/CS 6
+cmu_15-300,r_contain_c,Communication
+cmu_15-349,r_contain_c,Cryptography
+psu_CMPSC 121,r_contain_c,Structured programming
+psu_CMPSC 313,r_contain_c,Assembly language
+mit_6.S04,r_contain_c,Software design
+mit_6.824,r_contain_c,C (programming language)
+Kernel (computing),depend_on_c,Operating system
+caltech_CS 2,r_contain_c,Recursion
+Python (programming language),depend_on_c,Data
+illinois_CS 419,r_contain_c,Data
+maryland_CMSC 631,depend_on_r,maryland_CMSC 330
+mit_6.634,depend_on_r,mit_6.013
+Complexity class,depend_on_c,Computer science
+Game theory,depend_on_c,Linear algebra
+stanford_CS 261,r_contain_c,Approximation
+mit_6.011,depend_on_r,mit_6.041
+OSI model,depend_on_c,Computer science
+psu_CSE 588,r_contain_c,Computer
+psu_CSE 550,r_contain_c,Matrix (mathematics)
+caltech_CS/EE 143,depend_on_r,caltech_CS 24
+psu_CSE 565,r_contain_c,Algorithm
+Processor register,depend_on_c,Array data structure
+cmu_15-251,r_contain_c,Combinatorics
+cmu_15-462,r_contain_c,Ray tracing (graphics)
+mit_6.875,r_contain_c,Cryptography
+caltech_CS 21,r_contain_c,Computer
+stanford_CS 148,r_contain_c,Computer graphics
+psu_CSE 555,r_contain_c,Algorithm
+mit_6.267,depend_on_r,mit_6.042
+mit_6.829,r_contain_c,Network security
+illinois_CS 533,r_contain_c,Data (computing)
+cmu_15-214,r_contain_c,Computer
+cmu_15-412,depend_on_r,cmu_15-410
+stanford_CS 248,r_contain_c,Graphics
+Concurrency (computer science),depend_on_c,Operating system
+Design of experiments,depend_on_c,Statistical inference
+Public-key cryptography,depend_on_c,Logic
+stanford_CS 255,r_contain_c,Computer security
+Symbol table,depend_on_c,Assembly language
+stanford_CS 154,r_contain_c,Computation
+mit_6.034,r_contain_c,Artificial intelligence
+cmu_15-385,r_contain_c,Image
+mit_6.041,r_contain_c,Probability theory
+Relational database management system,depend_on_c,Relational algebra
+mit_6.345,r_contain_c,Speech recognition
+illinois_CS 373,depend_on_r,illinois_CS 225
+SQL,depend_on_c,Arithmetic
+Quantum cryptography,depend_on_c,Computational complexity theory
+Type system,depend_on_c,Automata theory
+Cache coherence,depend_on_c,Time complexity
+cmu_15-346,r_contain_c,Computer architecture
+illinois_CS 512,r_contain_c,Data
+Distributed computing,depend_on_c,Central processing unit
+Formal language,depend_on_c,Foundations of mathematics
+iowa_CS:4740,r_contain_c,Computing
+stanford_CS 255,r_contain_c,Security
+mit_6.865,depend_on_r,mit_6.005
+Algorithm design,depend_on_c,Introduction to Algorithms
+illinois_CS 512,r_contain_c,Data mining
+mit_6.831,r_contain_c,Computer
+Bioinformatics,depend_on_c,Algorithm
+mit_6.004,r_contain_c,Concurrency (computer science)
+msu_CSE 472,r_contain_c,Rendering (computer graphics)
+illinois_CS 101,r_contain_c,Data (computing)
+maryland_CMSC 725,r_contain_c,Image processing
+illinois_CS 241,depend_on_r,illinois_CS 225
+purdue_CS 54200,r_contain_c,Computer
+stanford_CS 109,r_contain_c,Analysis of algorithms
+cmu_15-365,r_contain_c,Data
+cmu_15-465,depend_on_r,cmu_15-462
+stanford_CS 155,r_contain_c,Operating system
+msu_CSE 477,depend_on_r,msu_CSE 331
+mit_6.021,r_contain_c,Computer
+msu_CSE 841,r_contain_c,Robotics
+caltech_CS 122,r_contain_c,Relational database
+mit_6.450,depend_on_r,mit_6.011
+purdue_CS 60300,r_contain_c,Computer
+caltech_CS/EE 146,depend_on_r,caltech_CS/EE 143
+stanford_CS 148,depend_on_r,stanford_CS 107
+psu_CSE 557,depend_on_r,psu_CMPSC 450
+cmu_15-410,r_contain_c,Unix
+mit_6.042,r_contain_c,Computer science
+psu_CMPSC 475,r_contain_c,Computing
+caltech_CS 176,r_contain_c,Computer graphics
+NP (complexity),depend_on_c,Computer
+Network security,depend_on_c,Data (computing)
+Relational database,depend_on_c,Computer
+stanford_CS 374,depend_on_r,stanford_CS 262
+cmu_15-354,r_contain_c,Discrete mathematics
+mit_6.673,r_contain_c,Sparse matrix
+Computational geometry,depend_on_c,Foundations of mathematics
+cmu_15-456,r_contain_c,Geometry
+msu_CSE 843,r_contain_c,Robot
+Algorithm,depend_on_c,Logic
+Scientific visualization,depend_on_c,Algorithm
+Profiling (computer programming),depend_on_c,Computer
+Computer programming,depend_on_c,Computation
+Monad (functional programming),depend_on_c,Computer programming
+mit_6.245,r_contain_c,MATLAB
+cmu_15-424,r_contain_c,Computation
+iowa_CS:3910,depend_on_r,iowa_CS:2420
+mit_6.374,depend_on_r,mit_6.004
+Visualization (computer graphics),depend_on_c,Computer graphics
+stanford_CS 224N,r_contain_c,Natural language
+cmu_15-449,r_contain_c,Integral
+maryland_CMSC 460,r_contain_c,Approximation
+"princeton_COS  432,ELE  432",r_contain_c,Information security
+mit_6.552,r_contain_c,Stochastic
+iowa_CS:3110,r_contain_c,Computer science
+iowa_CS:3980,depend_on_r,iowa_CS:3110
+PSPACE,depend_on_c,Turing machine
+Traffic analysis,depend_on_c,Information security
+Embedded system,depend_on_c,Microprocessor
+mit_6.828,r_contain_c,Personal computer
+cmu_15-385,depend_on_r,cmu_15-122
+cmu_15-112,r_contain_c,Computer science
+stanford_CS 231A,r_contain_c,Computer
+caltech_CS 124,r_contain_c,Concurrency (computer science)
+illinois_CS 440,r_contain_c,Lisp (programming language)
+illinois_CS 519,r_contain_c,Visualization (computer graphics)
+Computer simulation,depend_on_c,Computer
+purdue_CS 62600,r_contain_c,Security
+mit_6.033,r_contain_c,Atomicity (database systems)
+iowa_CS:2230,depend_on_r,iowa_CS:1210
+psu_CMPSC 465,r_contain_c,Data
+illinois_CS 446,r_contain_c,Computer
+mit_6.552,depend_on_r,mit_6.003
+High-level programming language,depend_on_c,Computer
+stanford_CS 371,depend_on_r,stanford_CS 106A
+Arithmetic logic unit,depend_on_c,Digital electronics
+stanford_CS 247,depend_on_r,stanford_CS 106B
+Graphical model,depend_on_c,Artificial intelligence
+psu_CMPSC 467,r_contain_c,Computer
+mit_6.806,depend_on_r,mit_6.046
+iowa_CS:2420,depend_on_r,iowa_CS:2110
+illinois_CS 431,r_contain_c,Data
+stanford_CS 107E,r_contain_c,Data (computing)
+stanford_CS 249A,r_contain_c,Software development
+psu_CMPSC 426,depend_on_r,psu_CMPSC 221
+cmu_15-441,depend_on_r,cmu_15-213
+purdue_CS 63800,r_contain_c,Computer science
+iowa_CS:4980,r_contain_c,Computer science
+caltech_CS 24,depend_on_r,caltech_CS 11
+mit_6.0002,depend_on_r,mit_6.0001
+illinois_CS 579,r_contain_c,Randomness
+mit_6.S04,r_contain_c,Recursion (computer science)
+psu_CMPSC 302,r_contain_c,Recursion
+ML (programming language),depend_on_c,Computer
+Compiler,depend_on_c,Algorithm
+Interaction design,depend_on_c,Computer programming
+psu_CSE 552,r_contain_c,Finite difference
+caltech_CS 4,r_contain_c,Recursion (computer science)
+cmu_15-122,r_contain_c,Imperative programming
+Computational chemistry,depend_on_c,Computational science
+purdue_CS 53600,r_contain_c,Server (computing)
+Compiler optimization,depend_on_c,Programming language
+msu_CSE 471,r_contain_c,Data (computing)
+maryland_CMSC 725,r_contain_c,Computational geometry
+caltech_CS 176,r_contain_c,Computer
+illinois_CS 446,r_contain_c,Data
+Concurrent computing,depend_on_c,Arithmetic
+"princeton_ELE  475,COS  475",r_contain_c,Data
+stanford_CS 255,r_contain_c,Authentication
+Robotics,depend_on_c,Introduction to Algorithms
+mit_6.111,depend_on_r,mit_6.071
+cmu_15-441,r_contain_c,Computer
+Functional programming,depend_on_c,Foundations of mathematics
+iowa_CS:3820,r_contain_c,Programming language
+maryland_CMSC 714,depend_on_r,maryland_CMSC 411
+mit_6.046,r_contain_c,Polynomial
+Undecidable problem,depend_on_c,Computational complexity theory
+iowa_CS:2520,r_contain_c,Computer
+psu_CMPSC 457,r_contain_c,Graphics
+illinois_CS 465,r_contain_c,Interface (computing)
+msu_CSE 232,r_contain_c,Data
+stanford_CS 92SI,r_contain_c,Python (programming language)
+caltech_CS/SS 152,r_contain_c,Geometry
+illinois_CS 546,r_contain_c,Natural language
+illinois_CS 538,r_contain_c,Security
+illinois_CS 461,r_contain_c,Computer security
+psu_CMPSC 483W,depend_on_r,psu_CMPSC 221
+stanford_CS 240,r_contain_c,Communication
+Run time (program lifecycle phase),depend_on_c,Mathematics
+caltech_BE/CS/CNS/Bi 191,r_contain_c,Complexity
+iowa_CS:5520,r_contain_c,Computer graphics
+cmu_15-441,r_contain_c,Peer-to-peer
+stanford_CS 142,r_contain_c,Server (computing)
+SQL,depend_on_c,Operating system
+cmu_15-251,r_contain_c,Computer
+princeton_COS  340,r_contain_c,Data (computing)
+Data mining,depend_on_c,Computation
+Fast Fourier transform,depend_on_c,Mathematical induction
+stanford_CS 145,r_contain_c,SQL
+mit_6.835,depend_on_r,mit_6.005
+Data mining,depend_on_c,Algorithm
+maryland_CMSC 733,r_contain_c,Graphics
+illinois_CS 421,r_contain_c,Syntax
+NP (complexity),depend_on_c,Computability
+Recursively enumerable set,depend_on_c,Finite set
+Data mining,depend_on_c,Operating system
+stanford_CS 149,r_contain_c,Synchronization
+msu_CSE 484,depend_on_r,msu_CSE 331
+mit_6.823,r_contain_c,Synchronization
+mit_6.0002,r_contain_c,Data
+cmu_15-365,r_contain_c,Data (computing)
+stanford_CS 224U,r_contain_c,Machine learning
+Distributed algorithms,depend_on_c,Computation
+cmu_15-214,r_contain_c,Data (computing)
+psu_CSE 520,r_contain_c,Computer
+illinois_CS 427,r_contain_c,Object (computer science)
+mit_6.837,r_contain_c,Computer graphics
+stanford_CS 221,r_contain_c,Probability
+Question answering,depend_on_c,Numerical analysis
+stanford_CS 1C,r_contain_c,Computer
+psu_CMPSC 472,r_contain_c,Memory management
+cmu_15-321,r_contain_c,MATLAB
+mit_6.813,r_contain_c,User interface design
+"princeton_COS  109,EGR  109",depend_on_r,"princeton_COS  126,EGR  126"
+illinois_CS 447,r_contain_c,Natural language processing
+caltech_Ma/CS 6,r_contain_c,Graph theory
+cmu_15-112,r_contain_c,C (programming language)
+cmu_15-355,depend_on_r,cmu_15-251
+Cluster analysis,depend_on_c,Computer
+princeton_COS  597B,r_contain_c,Model checking
+Lazy evaluation,depend_on_c,Data structure
+Query language,depend_on_c,Computability
+maryland_CMSC 424,r_contain_c,Database
+stanford_CS 229,r_contain_c,Kernel (computing)
+illinois_CS 565,depend_on_r,illinois_CS 465
+Mathematical model,depend_on_c,Foundations of mathematics
+purdue_CS 63500,r_contain_c,Rendering (computer graphics)
+psu_CSE 541,depend_on_r,psu_CMPSC 431W
+illinois_CS 233,r_contain_c,Computer
+maryland_CMSC 631,r_contain_c,Semantics
+stanford_CS 190,r_contain_c,Complexity
+cmu_15-112,r_contain_c,Programming language
+illinois_CS 411,r_contain_c,Security
+psu_CSE 541,r_contain_c,Query optimization
+psu_CSE 537,depend_on_r,psu_CSE 530
+msu_CSE 480,r_contain_c,Data (computing)
+illinois_CS 460,r_contain_c,Network security
+msu_CSE 131,r_contain_c,Computing
+iowa_CS:2210,r_contain_c,Logic
+illinois_CS 461,r_contain_c,Network security
+stanford_CS 144,r_contain_c,Network security
+stanford_CS 348A,r_contain_c,Computer
+iowa_CS:2630,r_contain_c,Computer
+princeton_COS  340,r_contain_c,NP (complexity)
+cmu_15-321,r_contain_c,Computer
+stanford_CS 240H,r_contain_c,Haskell (programming language)
+mit_6.267,depend_on_r,mit_6.041
+stanford_CS 145,r_contain_c,Database
+caltech_CMS/CS/EE 144,r_contain_c,Economics
+Cryptography,depend_on_c,Security
+psu_CSE 563,depend_on_r,psu_CSE 565
+stanford_CS 246,r_contain_c,Data (computing)
+stanford_CS 243,r_contain_c,Software development
+"princeton_COS  126,EGR  126",r_contain_c,Computing
+Object-oriented programming,depend_on_c,Algorithm
+caltech_CS 138,r_contain_c,Data
+Debugging,depend_on_c,Algorithm
+JavaScript,depend_on_c,World Wide Web
+mit_6.850,depend_on_r,mit_6.046
+Compiler,depend_on_c,Parsing
+cmu_15-415,depend_on_r,cmu_15-213
+Ordinary differential equation,depend_on_c,Eigenvalues and eigenvectors
+maryland_CMSC 424,r_contain_c,Concurrency (computer science)
+Variable (computer science),depend_on_c,Arithmetic
+Reinforcement learning,depend_on_c,Statistical inference
+cmu_15-410,r_contain_c,C (programming language)
+psu_CSE 597A,r_contain_c,Geometry
+Scheduling (computing),depend_on_c,Computing
+Analysis of algorithms,depend_on_c,Arithmetic
+maryland_CMSC 412,r_contain_c,Communication
+cmu_15-210,r_contain_c,Data
+Divide and conquer algorithm,depend_on_c,Control flow
+psu_CMPSC 360,r_contain_c,Computer science
+Query language,depend_on_c,Data structure
+Concurrency (computer science),depend_on_c,Computation
+Finite-state machine,depend_on_c,Foundations of mathematics
+mit_6.820,r_contain_c,Semantics
+illinois_CS 450,r_contain_c,Least squares
+msu_CSE 335,r_contain_c,Inheritance (object-oriented programming)
+illinois_CS 233,r_contain_c,Security
+caltech_CS/SS 152,r_contain_c,Statistics
+msu_CSE 498,depend_on_r,msu_CSE 450
+Communications protocol,depend_on_c,Combinatorics
+illinois_CS 573,r_contain_c,Computer
+Run time (program lifecycle phase),depend_on_c,Discrete mathematics
+msu_CSE 232,r_contain_c,Object (computer science)
+stanford_CS 108,r_contain_c,Interface (computing)
+msu_CSE 836,r_contain_c,Bioinformatics
+Parsing,depend_on_c,Problem solving
+princeton_COS  217,r_contain_c,Assembly language
+illinois_CS 426,r_contain_c,Compiler
+3D computer graphics,depend_on_c,Problem solving
+Computer science,depend_on_c,Arithmetic
+stanford_CS 367,r_contain_c,Multiplication
+mit_6.816,r_contain_c,Synchronization
+caltech_CS/CNS/EE 156,r_contain_c,Computation
+maryland_CMSC 433,r_contain_c,Software design
+stanford_CS 262,r_contain_c,Computer
+cmu_15-418,r_contain_c,Computer architecture
+Randomized algorithm,depend_on_c,Algorithm
+stanford_CS 106A,r_contain_c,Object (computer science)
+msu_CSE 473,depend_on_r,msu_CSE 335
+String (computer science),depend_on_c,Data structure
+cmu_15-251,r_contain_c,Probability theory
+cmu_15-463,r_contain_c,Computer
+Scripting language,depend_on_c,Computing
+stanford_CS 371,r_contain_c,Data
+cmu_15-319,depend_on_r,cmu_15-213
+maryland_CMSC 414,r_contain_c,Number theory
+Computer graphics,depend_on_c,Computing
+illinois_CS 533,r_contain_c,Computer
+iowa_CS:5620,depend_on_r,iowa_CS:3620
+cmu_15-295,r_contain_c,Debugging
+mit_6.823,r_contain_c,Very long instruction word
+stanford_CS 231N,r_contain_c,Image
+maryland_CMSC 456,r_contain_c,Data
+psu_CMPSC 460,depend_on_r,psu_CMPSC 312
+Program analysis,depend_on_c,Foundations of mathematics
+stanford_CS 124,depend_on_r,stanford_CS 107
+illinois_CS 411,r_contain_c,Data (computing)
+Software design,depend_on_c,Algorithm
+maryland_CMSC 451,r_contain_c,NP (complexity)
+msu_CSE 472,r_contain_c,Computer graphics
+psu_CSE 543,r_contain_c,Computer security
+caltech_CS 4,r_contain_c,Data (computing)
+Software design,depend_on_c,Logic
+iowa_CS:2820,r_contain_c,Data (computing)
+Expert system,depend_on_c,Algorithm
+Firewall (computing),depend_on_c,Computer
+Database design,depend_on_c,Database
+maryland_CMSC 412,r_contain_c,Memory management
+Random walk,depend_on_c,Computational science
+illinois_CS 425,r_contain_c,Security
+Computer graphics,depend_on_c,Computational complexity theory
+iowa_CS:3910,r_contain_c,Database
+stanford_CS 9,r_contain_c,Software engineering
+Application programming interface,depend_on_c,Computer
+stanford_CS 106B,r_contain_c,Recursion (computer science)
+purdue_CS 58000,r_contain_c,Algorithm design
+Relational database,depend_on_c,Graph theory
+mit_6.828,r_contain_c,Computer
+mit_6.905,r_contain_c,Pattern matching
+caltech_CS 122,depend_on_r,caltech_CS 38
+Java (programming language),depend_on_c,Object-oriented programming
+stanford_CS 144,r_contain_c,Routing
+Inference,depend_on_c,Uncertainty
+stanford_CS 149,r_contain_c,Computer
+Concurrent computing,depend_on_c,Computer
+Economics,depend_on_c,Linear algebra
+princeton_COS  340,r_contain_c,Computer science
+mit_6.161,r_contain_c,Signal processing
+Packet switching,depend_on_c,Graph (mathematics)
+caltech_CS 153,r_contain_c,Computer science
+cmu_15-214,depend_on_r,cmu_15-121
+User interface,depend_on_c,Algorithm
+psu_CMPSC 474,r_contain_c,Server (computing)
+Complexity class,depend_on_c,Computing
+maryland_CMSC 456,r_contain_c,Computer
+stanford_CS 124,r_contain_c,Social network
+stanford_CS 190,depend_on_r,stanford_CS 140
+msu_CSE 914,depend_on_r,msu_CSE 814
+stanford_CS 210A,r_contain_c,Software engineering
+stanford_CS 265,depend_on_r,stanford_CS 161
+Monte Carlo method,depend_on_c,Logic
+mit_6.945,r_contain_c,Pattern matching
+Formal language,depend_on_c,Computer
+mit_6.845,r_contain_c,Complexity
+mit_6.441,r_contain_c,Information theory
+caltech_CS 2,r_contain_c,Concurrency (computer science)
+stanford_CS 248,r_contain_c,Computer
+stanford_CS 167,r_contain_c,Graph (mathematics)
+illinois_CS 492,r_contain_c,Computer science
+JavaScript,depend_on_c,Computational science
+stanford_CS 106B,r_contain_c,Complexity
+mit_6.854,r_contain_c,Geometry
+B-tree,depend_on_c,Data type
+mit_6.047,r_contain_c,Graph (mathematics)
+illinois_CS 538,r_contain_c,Routing
+cmu_15-392,depend_on_r,cmu_15-213
+maryland_CMSC 456,depend_on_r,maryland_CMSC 351
+msu_CSE 814,r_contain_c,Formal methods
+purdue_CS 63500,depend_on_r,purdue_CS 58000
+cmu_15-349,r_contain_c,Vulnerability (computing)
+Computer animation,depend_on_c,Computer graphics
+maryland_CMSC 714,r_contain_c,Shared memory
+stanford_CS 92SI,depend_on_r,stanford_CS 106A
+cmu_15-463,r_contain_c,Computer graphics
+cmu_15-104,r_contain_c,Software design
+stanford_CS 223A,r_contain_c,Kinematics
+cmu_15-440,r_contain_c,Java (programming language)
+maryland_CMSC 631,r_contain_c,Inheritance (object-oriented programming)
+mit_6.863,r_contain_c,Parsing
+illinois_CS 523,r_contain_c,Virtual memory
+mit_6.849,r_contain_c,Robotics
+Computer programming,depend_on_c,Complexity
+Cryptography,depend_on_c,Mathematics
+stanford_CS 448J,r_contain_c,Calculus
+mit_6.263,r_contain_c,Data (computing)
+princeton_COS  217,depend_on_r,"princeton_COS  126,EGR  126"
+purdue_CS 58000,r_contain_c,Graph (mathematics)
+stanford_CS 107E,r_contain_c,Programming language
+iowa_CS:3110,r_contain_c,Computer
+caltech_CS 4,r_contain_c,Abstraction (computer science)
+Python (programming language),depend_on_c,Data structure
+stanford_CS 194H,depend_on_r,stanford_CS 147
+mit_6.S04,depend_on_r,mit_6.01
+illinois_CS 422,r_contain_c,Programming language
+mit_6.829,r_contain_c,Peer-to-peer
+Modular arithmetic,depend_on_c,Mathematical proof
+illinois_CS 241,r_contain_c,System programming
+mit_6.849,depend_on_r,mit_6.046
+purdue_CS 63500,r_contain_c,Visualization (computer graphics)
+Robot,depend_on_c,Reason
+mit_6.853,depend_on_r,mit_6.006
+psu_CMPSC 221,r_contain_c,Programming language
+mit_6.857,r_contain_c,Encryption
+psu_CMPSC 441,r_contain_c,Problem solving
+Graphical user interface,depend_on_c,Logic
+psu_CMPSC 430,r_contain_c,Database
+Recurrence relation,depend_on_c,Computation
+purdue_CS 52600,r_contain_c,Security
+cmu_15-300,depend_on_r,cmu_15-213
+Parallel algorithm,depend_on_c,Theoretical computer science
+stanford_CS 261,r_contain_c,NP-complete
+cmu_15-319,r_contain_c,Cloud computing
+cmu_15-410,r_contain_c,Communication
+Scope (computer science),depend_on_c,Computer science
+iowa_CS:2230,r_contain_c,Computer
+illinois_CS 225,r_contain_c,Data
+Pattern recognition,depend_on_c,Computer science
+caltech_CS 122,r_contain_c,Concurrency (computer science)
+illinois_CS 440,depend_on_r,illinois_CS 225
+stanford_CS 255,r_contain_c,Cryptography
+psu_CMPSC 464,depend_on_r,psu_CMPSC 465
+msu_CSE 841,r_contain_c,Artificial intelligence
+Complexity class,depend_on_c,Mathematical induction
+purdue_CS 65500,r_contain_c,Traffic analysis
+cmu_15-122,r_contain_c,C (programming language)
+Prolog,depend_on_c,Computability
+mit_6.823,r_contain_c,Superscalar
+illinois_CS 544,r_contain_c,Newton's method
+stanford_CS 161,r_contain_c,Randomization
+mit_6.242,depend_on_r,mit_6.241
+caltech_BE/CS 196,r_contain_c,Data (computing)
+purdue_CS 52600,r_contain_c,Information security
+msu_CSE 498,depend_on_r,msu_CSE 460
+illinois_CS 241,depend_on_r,illinois_CS 233
+msu_CSE 232,r_contain_c,Algorithm
+msu_CSE 425,r_contain_c,Network security
+illinois_CS 473,r_contain_c,Randomization
+caltech_Ma/CS 6,r_contain_c,Cryptography
+psu_CMPSC 474,r_contain_c,Operating system
+maryland_CMSC 460,r_contain_c,Polynomial
+World Wide Web,depend_on_c,Arithmetic
+caltech_Ma/CS 6,r_contain_c,Mathematics
+psu_CMPSC 102,r_contain_c,Problem solving
+Compiler,depend_on_c,Data structure
+cmu_15-491,depend_on_r,cmu_15-122
+mit_6.581,r_contain_c,Feature extraction
+cmu_15-294,r_contain_c,Computer science
+illinois_CS 233,depend_on_r,illinois_CS 173
+iowa_CS:3330,r_contain_c,Graph (mathematics)
+illinois_CS 579,r_contain_c,NP (complexity)
+stanford_CS 148,r_contain_c,Computer
+maryland_CMSC 420,depend_on_r,maryland_CMSC 351
+illinois_CS 522,depend_on_r,illinois_CS 426
+stanford_CS 131,r_contain_c,Computer
+mit_6.008,r_contain_c,Data (computing)
+cmu_15-421,r_contain_c,Internet
+psu_CSE 539,r_contain_c,Computer architecture
+iowa_CS:2210,r_contain_c,Computer science
+cmu_15-424,depend_on_r,cmu_15-251
+stanford_CS 143,r_contain_c,Scope (computer science)
+mit_6.846,r_contain_c,Data
+psu_CMPSC 122,r_contain_c,Object (computer science)
+mit_6.824,r_contain_c,Server (computing)
+msu_CSE 471,depend_on_r,msu_CSE 320
+Personal computer,depend_on_c,Arithmetic
+stanford_CS 154,r_contain_c,Computer science
+mit_6.863,depend_on_r,mit_6.034
+psu_CMPSC 475,depend_on_r,psu_CMPSC 311
+stanford_CS 244B,r_contain_c,Communication
+Recursion,depend_on_c,Computability
+mit_6.175,r_contain_c,Arithmetic
+Distributed computing,depend_on_c,Computer
+stanford_CS 166,depend_on_r,stanford_CS 107
+Interpolation,depend_on_c,Algorithm
+Genetic algorithm,depend_on_c,Combinatorics
+Newton's method,depend_on_c,Arithmetic
+Queue (data structure),depend_on_c,Array data structure
+purdue_CS 66100,r_contain_c,Garbage collection (computer science)
+stanford_CS 232,r_contain_c,Feature extraction
+iowa_CS:4350,depend_on_r,iowa_CS:2210
+psu_CMPSC 473,r_contain_c,Input/output
+maryland_CMSC 456,r_contain_c,Data (computing)
+Approximation algorithm,depend_on_c,Mathematical optimization
+illinois_CS 523,r_contain_c,Data (computing)
+stanford_CS 106A,r_contain_c,Java (programming language)
+cmu_15-440,r_contain_c,Abstraction (computer science)
+Knowledge representation and reasoning,depend_on_c,Mathematical induction
+psu_CMPSC 471,r_contain_c,Lexical analysis
+maryland_CMSC 250,r_contain_c,Logic
+stanford_CS 348B,r_contain_c,Computer graphics
+psu_CMPSC 121,r_contain_c,Recursion (computer science)
+Cryptanalysis,depend_on_c,Modular arithmetic
+caltech_BE/CS/CNS/Bi 191,depend_on_r,caltech_CS 21
+mit_6.254,r_contain_c,Communication
+purdue_CS 50300,r_contain_c,Operating system
+illinois_CS 173,r_contain_c,Algebra
+Computational chemistry,depend_on_c,Number theory
+mit_6.819,r_contain_c,Rendering (computer graphics)
+cmu_15-387,r_contain_c,Inference
+Hidden Markov model,depend_on_c,Mathematical optimization
+Query language,depend_on_c,Computer programming
+caltech_CS/CNS 171,r_contain_c,Visualization (computer graphics)
+Computer graphics,depend_on_c,Iterative method
+Data mining,depend_on_c,Automata theory
+Microcode,depend_on_c,Digital electronics
+Random walk,depend_on_c,Graph (mathematics)
+maryland_CMSC 427,depend_on_r,maryland_CMSC 420
+mit_6.267,r_contain_c,Scalability
+stanford_CS 243,r_contain_c,Program analysis
+String searching algorithm,depend_on_c,Mathematics
+princeton_COS  217,r_contain_c,Modular programming
+mit_6.453,r_contain_c,Communication
+Database management system,depend_on_c,Graph theory
+mit_6.814,depend_on_r,mit_6.033
+mit_6.816,r_contain_c,Scalability
+purdue_CS 53600,r_contain_c,Data (computing)
+caltech_BE/CS 196,r_contain_c,Computer
+Parametric polymorphism,depend_on_c,Automata theory
+maryland_CMSC 426,r_contain_c,Image
+stanford_CS 345D,r_contain_c,MapReduce
+illinois_CS 463,depend_on_r,illinois_CS 475
+mit_6.UR,r_contain_c,Computer
+psu_CMPSC 122,r_contain_c,Data (computing)
+Virtual memory,depend_on_c,Computer programming
+cmu_15-462,r_contain_c,Geometric modeling
+Computer architecture,depend_on_c,Computer science
+cmu_15-386,r_contain_c,Computation
+iowa_CS:5620,depend_on_r,iowa_CS:3330
+psu_CMPSC 467,depend_on_r,psu_CMPSC 360
+purdue_CS 53600,r_contain_c,Communication
+iowa_CS:4740,r_contain_c,Statistics
+stanford_CS 148,r_contain_c,Shading
+SQL,depend_on_c,Number theory
+cmu_15-104,r_contain_c,Recursion (computer science)
+iowa_CS:2420,r_contain_c,Database
+Query language,depend_on_c,Computational complexity theory
+"princeton_COS  432,ELE  432",r_contain_c,Security
+stanford_CS 316,r_contain_c,Server (computing)
+Software development,depend_on_c,Theory of computation
+cmu_15-150,r_contain_c,Functional programming
+stanford_CS 231M,r_contain_c,Object (computer science)
+cmu_15-381,r_contain_c,Robotics
+iowa_CS:3980,depend_on_r,iowa_CS:2110
+cmu_15-354,depend_on_r,cmu_15-251
+mit_6.813,depend_on_r,mit_6.005
+illinois_CS 511,r_contain_c,Data
+maryland_CMSC 456,r_contain_c,Computer science
+Robotics,depend_on_c,Logic
+stanford_CS 9,depend_on_r,stanford_CS 106B
+Computer vision,depend_on_c,Numerical analysis
+cmu_15-385,r_contain_c,Inference
+mit_6.863,r_contain_c,Natural language
+stanford_CS 106B,r_contain_c,Programming language
+Operating system,depend_on_c,Arithmetic
+Lisp (programming language),depend_on_c,Scope (computer science)
+psu_CMPSC 463,r_contain_c,Graph (mathematics)
+maryland_CMSC 433,r_contain_c,Object (computer science)
+mit_6.034,r_contain_c,Inference
+Embedded system,depend_on_c,Input/output
+"princeton_COS  432,ELE  432",r_contain_c,Computing
+stanford_CS 107E,r_contain_c,Computer
+Relational database management system,depend_on_c,Predicate logic
+mit_6.830,depend_on_r,mit_6.046
+Web browser,depend_on_c,Computer
+caltech_CS 150,r_contain_c,Computation
+cmu_15-463,r_contain_c,Image
+psu_CMPSC 474,r_contain_c,Concurrency (computer science)
+iowa_CS:3820,r_contain_c,Recursion
+File system,depend_on_c,Central processing unit
+mit_6.869,r_contain_c,Graphics
+stanford_CS 248,r_contain_c,Image
+Machine learning,depend_on_c,Integer

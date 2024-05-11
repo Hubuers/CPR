@@ -1,0 +1,406 @@
+0,Random graph
+1,Knowledge representation and reasoning
+2,Natural language processing
+3,Algorithm
+4,System programming
+5,Mathematical induction
+6,Computer vision
+7,Randomness
+8,Computer science
+9,Database
+10,Machine learning
+11,Type system
+12,Variable (computer science)
+13,Computer programming
+14,Distributed computing
+15,Monte Carlo method
+16,First-order logic
+17,Lexical analysis
+18,Shortest path problem
+19,Probability theory
+20,Graphical user interface
+21,Profiling (computer programming)
+22,Complexity class
+23,Computer graphics
+24,Relational database
+25,Software development
+26,Geometric modeling
+27,Computational complexity theory
+28,Statistical inference
+29,Martingale (probability theory)
+30,Arithmetic logic unit
+31,Data mining
+32,Divide and conquer algorithm
+33,Unix
+34,Robotics
+35,Computer security
+36,Cache coherence
+37,Parsing
+38,Malware
+39,Firewall (computing)
+40,Relational model
+41,Compiler
+42,Atomicity (database systems)
+43,Bioinformatics
+44,Algebra
+45,B-tree
+46,PageRank
+47,Computer network
+48,Concurrency (computer science)
+49,Multi-core processor
+50,Software engineering
+51,Large deviations theory
+52,Control flow
+53,Human-computer interaction
+54,Programming paradigm
+55,Computational geometry
+56,Geometry
+57,Visualization (computer graphics)
+58,Graphical model
+59,String (computer science)
+60,Query language
+61,Matrix (mathematics)
+62,Theory of computation
+63,Object-oriented programming
+64,Index (database)
+65,Computational chemistry
+66,Suffix tree
+67,3D modeling
+68,Analysis of algorithms
+69,Programming language
+70,Combinatorics
+71,Fourier analysis
+72,Vector processor
+73,Mobile device
+74,Newton's method
+75,Symbol table
+76,Formal language
+77,Document classification
+78,Cryptography
+79,Reinforcement learning
+80,Logic
+81,Partial differential equation
+82,Dynamic programming
+83,Stochastic process
+84,Haskell (programming language)
+85,Abstraction (computer science)
+86,Rendering (computer graphics)
+87,Inequality (mathematics)
+88,Central processing unit
+89,Image analysis
+90,Data type
+91,Complexity
+92,P versus NP problem
+93,Scripting language
+94,Algorithm design
+95,Scope (computer science)
+96,Modular programming
+97,Parallel computing
+98,List of undecidable problems
+99,Ray tracing (graphics)
+100,Social network
+101,hypothesis testing
+102,Artificial intelligence
+103,Communications protocol
+104,Question answering
+105,Information theory
+106,Recursively enumerable set
+107,Machine translation
+108,Propositional calculus
+109,C++
+110,Inter-process communication
+111,Hidden Markov model
+112,Sentiment analysis
+113,Quantum computer
+114,Mathematical optimization
+115,Theoretical computer science
+116,Concurrency control
+117,Java (programming language)
+118,Operating system
+119,Boundary value problem
+120,Probability
+121,Recurrence relation
+122,Markov chain
+123,Undecidable problem
+124,Poisson distribution
+125,Automated theorem proving
+126,Computer animation
+127,Random walk
+128,Compiler optimization
+129,Embedded system
+130,Concurrent computing
+131,Signal processing
+132,Pattern matching
+133,Estimation theory
+134,Ordinary differential equation
+135,Recursion (computer science)
+136,Game theory
+137,Network security
+138,Time complexity
+139,Turing machine
+140,Kalman filter
+141,Coding theory
+142,Autonomous robot
+143,NP (complexity)
+144,Genetic algorithm
+145,Speech recognition
+146,Internet
+147,SQL
+148,Python (programming language)
+149,Calculus
+150,Correlation and dependence
+151,Finite set
+152,Monad (functional programming)
+153,Pipeline (computing)
+154,Data warehouse
+155,Programmer
+156,Interpolation
+157,Finite-state machine
+158,Cluster analysis
+159,Finite difference
+160,GPU
+161,Transaction processing
+162,Wireless sensor network
+163,Information assurance
+164,Web browser
+165,Mathematical proof
+166,CPU cache
+167,Randomized algorithm
+168,Polynomial
+169,String searching algorithm
+170,Application software
+171,Neural network
+172,Parametric polymorphism
+173,"Best, worst and average case"
+174,Model checking
+175,Discrete mathematics
+176,PSPACE
+177,Graph theory
+178,Semantics of programming languages
+179,Hash table
+180,Object (computer science)
+181,Data structure
+182,Recursion
+183,Authentication
+184,Deadlock
+185,Functional programming
+186,System call
+187,Lisp (programming language)
+188,Computational problem
+189,Gradient descent
+190,Perl
+191,Pattern recognition
+192,Volume rendering
+193,Parallel algorithm
+194,Interaction design
+195,Web search engine
+196,Computer software
+197,Packet switching
+198,Routing
+199,Lazy evaluation
+200,Numerical analysis
+201,Program analysis
+202,Sparse matrix
+203,Image processing
+204,Big data
+205,Database management system
+206,Graph coloring
+207,User interface design
+208,Cryptanalysis
+209,Internet Protocol Suite
+210,MATLAB
+211,Pushdown automata
+212,Database design
+213,ML (programming language)
+214,Polymorphism (computer science)
+215,Scheduling (computing)
+216,Least squares
+217,Exponential family
+218,Automatic programming
+219,Linear programming
+220,Software design
+221,Imperative programming
+222,Kernel (computing)
+223,Computer
+224,Sufficient statistic
+225,Unsupervised learning
+226,Distributed algorithms
+227,Semidefinite programming
+228,High-level programming language
+229,Superscalar
+230,Model of computation
+231,Peer-to-peer
+232,C (programming language)
+233,Traffic analysis
+234,Automated planning and scheduling
+235,Linear algebra
+236,Computing
+237,Quantum mechanics
+238,Computational learning theory
+239,Calculus of variations
+240,Regular language
+241,Cloud computing
+242,Spanning tree
+243,Robot
+244,JavaScript
+245,Approximation algorithm
+246,Decision theory
+247,Memory management
+248,Halting problem
+249,Linear system
+250,Assembly language
+251,NP-complete
+252,Round-off error
+253,Structured programming
+254,Hidden line removal
+255,Queue (data structure)
+256,Database system
+257,Application programming interface
+258,Formal grammar
+259,Processor register
+260,Scientific visualization
+261,Garbage collection (computer science)
+262,Prolog
+263,Dynamic memory allocation
+264,Software testing
+265,Stochastic
+266,Predicate logic
+267,3D computer graphics
+268,OSI model
+269,Bayesian network
+270,Iterative method
+271,File system
+272,Graph (mathematics)
+273,Economics
+274,Query optimization
+275,Multiplication
+276,Message Passing Interface
+277,HTML
+278,Personal computer
+279,Computer architecture
+280,Server (computing)
+281,MapReduce
+282,Finite element method
+283,Virtual memory
+284,Scalability
+285,Digital signature
+286,Amortized analysis
+287,Microcode
+288,Computability
+289,Formal verification
+290,Inheritance (object-oriented programming)
+291,Public-key cryptography
+292,Instruction set
+293,Design of experiments
+294,Web server
+295,Congestion control
+296,Statistics
+297,Syntax
+298,Semantics
+299,Denotational semantics
+300,Bayesian
+301,Formal methods
+302,User interface
+303,Symmetric multiprocessing
+304,Modular arithmetic
+305,Procedural programming
+306,Quantum cryptography
+307,World Wide Web
+308,Linked list
+309,Support vector machine
+310,Tensor
+311,Interactivity
+312,Cryptographic hash function
+313,Entropy
+314,Very long instruction word
+315,Software framework
+316,Sequence alignment
+317,Logic programming
+318,Flow network
+319,Abstract data type
+320,Array data structure
+321,Motion capture
+322,Feature extraction
+323,Markov process
+324,Computer simulation
+325,Input/output
+326,Fast Fourier transform
+327,Mathematics
+328,Mathematical model
+329,Part-of-speech tagging
+330,Fixed point (mathematics)
+331,Virtual reality
+332,Message passing
+333,Web service
+334,Prediction
+335,Context-free grammar
+336,Programming style
+337,Program optimization
+338,Data analysis
+339,Integral
+340,Wavelet
+341,Inference
+342,Debugging
+343,Recommender system
+344,Run time (program lifecycle phase)
+345,Expert system
+346,Motion planning
+347,Database normalization
+348,Stack (data structure)
+349,Memory hierarchy
+350,Lexical semantics
+351,Eigenvalues and eigenvectors
+352,Natural language
+353,Number theory
+354,Data (computing)
+355,Computation
+356,Data
+357,Digital electronics
+358,Shared memory
+359,Expected value
+360,Thread (computer science)
+361,Random variable
+362,Approximation
+363,Foundations of mathematics
+364,Continuous function
+365,Computational science
+366,Graphics
+367,Integer
+368,Regular expression
+369,Security
+370,Communication
+371,Synchronization
+372,Relational algebra
+373,Conditional probability
+374,Reason
+375,Image
+376,Uncertainty
+377,Information security
+378,Design pattern (computer science)
+379,Context-free language
+380,Problem solving
+381,Randomization
+382,Shading
+383,Arithmetic
+384,Introduction to Algorithms
+385,Microprocessor
+386,Automata theory
+387,Asymptotic analysis
+388,Combinational logic
+389,Nonlinear system
+390,Telecommunications network
+391,Vulnerability (computing)
+392,Lock (computer science)
+393,Interface (computing)
+394,Differential equation
+395,Higher-order function
+396,Kinematics
+397,Mutual exclusion
+398,Generic programming
+399,Database transaction
+400,Mechanical engineering
+401,Floating point
+402,Computer multitasking
+403,Performance tuning
+404,Encryption
+405,Scientific modelling

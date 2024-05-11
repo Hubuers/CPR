@@ -1,0 +1,95 @@
+A,B,result
+structured learning,linear discriminant analysis,1
+calculus,Mixture Models,1
+computation theory,particle filter,0
+nlp for the humanities,Meta-Learning,0
+discourse analysis,statistical machine translation,0
+multi-agent systems,finite state transducers,0
+ensemble learning,social media analysis,0
+caption generation,others,0
+natural language processing intro,semantic parsing,1
+structured learning,vector representations,1
+seq2seq,Belief Propagation,0
+KKT conditions,natural language processing intro,0
+statistical part of speech tagging,course introduction,1
+tools for dl,Naive Bayes,0
+linguistics basics,context free grammars,1
+Naive Bayes,radial basis function network,0
+toolkits for information retrieval,information extraction,1
+Kernel Graphical Models,Variable Elimination,0
+natural language processing intro,parsing,1
+natural language processing intro,spelling correction,1
+natural language processing intro,sentence boundary recognition,1
+sentence representations,syntaxnet,0
+memory networks,pointer networks,0
+bayesian network,hidden markov models,1
+parsing,syntaxnet,1
+semi-supervised learning,attention models,0
+semantic similarity,text mining,1
+dimensionality reduction,multilingual word embedding,0
+syntax,syntax based machine translation,1
+character level language models,Variable Elimination,0
+latent variable models,expectation maximization algorithm,1
+social network extraction,statistical part of speech tagging,0
+penn treebank,syntaxnet,1
+natural language processing intro,graph-based nlp,1
+classic parsing methods,Message Passing,0
+q learning,lexical semantics,0
+caption generation,Hilbert Space,0
+vector representations,lexicography,0
+word embedding variations,Variable Elimination,0
+heuristic search,multi-modal learning,0
+text generation,computational phonology,0
+planning,lexicography,0
+vector representations,kernels,1
+linear algebra,structured sparsity,1
+linguistics basics,named entity recognition,1
+natural language processing intro,entailment,1
+evaluation of language modeling,text generation,1
+linguistics basics,automated essay scoring,1
+machine learning resources,matrix factorization,1
+linguistics basics,bio text mining,1
+regularization,logic and reasoning,0
+nlp for databases,feature learning,0
+structured learning,log-linear models,0
+seq2seq,tools for dl,0
+edit distance,discourse parsing,0
+speech signal analysis,speech processing,1
+linear algebra,Mixture Models,1
+natural language processing intro,word segmentation,1
+word distributions,clustering,0
+evaluation of language modeling,character level language models,1
+evaluation of information retrieval,graphical models,0
+probabilities,classification,1
+regular expressions,random walks and harmonic functions,0
+natural language processing intro,bio text mining,1
+machine translation techniques,deep learning tools,0
+morphology and semantics in machine translation,regular expressions,0
+heuristic search,data structures and algorithms,0
+vector representations,recommendation system,1
+natural language processing intro,tokenization,1
+k-nn,informed search,0
+random walks and harmonic functions,scientific article summarization,1
+machine translation techniques,statistical machine translation,1
+training neural networks,pointer networks,1
+semi supervised learning,first-order logic,1
+Principal Component Analysis,latent semantic indexing,1
+expectation maximization algorithm,Markov Random Fields,0
+semi supervised learning,discourse parsing,0
+generative and discriminative models,Variations of GANs,1
+computational phonology,caption generation,0
+State Space Models,bootstrapping,0
+word distributions,vector representations,1
+semantic similarity,word sense disambiguation,1
+classic parsing methods,Mixture Models,0
+probabilistic grammars,a* search,0
+regularization,structured learning,0
+k means,monte carlo methods,0
+thesaurus-based similarity,Autoencoders,0
+semantic similarity,automated essay scoring,1
+search,problem solving and search,1
+linguistics basics,word segmentation,1
+natural language processing intro,information extraction,1
+q learning,structured sparsity,0
+parts of speech,penn treebank,1
+kullback leibler divergence,Meta-Learning,0

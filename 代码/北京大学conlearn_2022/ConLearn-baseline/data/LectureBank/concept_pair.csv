@@ -1,0 +1,943 @@
+A,B,result
+linguistics basics,speech synthesis,1
+heuristic search,a* search,1
+syntax,penn treebank,1
+vector representations,automated essay scoring,1
+sentence representations,sentence simplification,1
+calculus,machine learning resources,1
+calculus,harmonic functions,1
+linear algebra,spectral methods,1
+vector semantics,automated essay scoring,1
+Markov chains,latent dirichlet allocation,1
+sentence representations,information extraction,1
+linguistics basics,dialog systems,1
+semantic similarity,relation extraction,1
+planning,adversarial search,1
+linguistics basics,Sequence to sequence,1
+vector semantics,bio text mining,1
+natural language processing intro,nlp for the humanities,1
+recurrent neural networks,gated recurrent units,1
+backpropagation,Variations of GANs,1
+search,logic and logical agents,1
+semi-supervised learning,graph convolutional networks,1
+reinforcement learning,agent-based view of ai,1
+linguistics basics,text to speech generation,1
+machine learning resources,matrix factorization,1
+graphical models,Mean Field Approximation,1
+text similarity,word sense disambiguation,1
+optimization,memory networks,1
+parsing,neural parsing,1
+part of speech tagging,course introduction,1
+deep learning introduction,stack lstm,1
+search,informed search,1
+parts of speech,penn treebank,1
+sentence representations,automated essay scoring,1
+Principal Component Analysis,latent semantic indexing,1
+linguistics basics,information extraction,1
+context free grammar,cky parsing,1
+evaluation of language modeling,neural language modeling,1
+knowledge representation,predicate logic,1
+wordnet,thesaurus-based similarity,1
+language modeling,neural language modeling,1
+linear algebra,machine learning resources,1
+linguistics basics,knowledge representation,1
+natural language processing intro,automated essay scoring,1
+probabilities,bayesian network,1
+loss function,classification,1
+calculus,Meta-Learning,1
+probabilities,structured sparsity,1
+word distributions,topic modeling,1
+natural language processing intro,recommendation system,1
+natural language processing intro,word segmentation,1
+natural language processing intro,lexicography,1
+graph-based nlp,pagerank,1
+loss function,Variations of GANs,1
+Principal Component Analysis,Manifold Learning,1
+machine learning resources,Meta-Learning,1
+first order logic,predicate logic,1
+random walks,harmonic functions,1
+linear algebra,structured learning,1
+machine learning resources,Unsupervised learning,1
+linguistics basics,word embedding,1
+natural language processing intro,graph-based nlp,1
+probabilities,monte carlo tree search,1
+feature learning,Manifold Learning,1
+linguistics basics,bio text mining,1
+calculus,recursive neural network,1
+semi supervised learning,first-order logic,1
+logic and reasoning,propositional logic,1
+multi-agent systems,game playing in ai,1
+linguistics basics,course introduction,1
+Unsupervised learning,k means,1
+evaluation of language modeling,character level language models,1
+search,heuristic search,1
+linguistics basics,named entity recognition,1
+Principal Component Analysis,matrix factorization,1
+computer vision,nlp and vision,1
+convolutional neural network,ResNet,1
+dependency parsing,evaluation of dependency parsing,1
+latent variable models,expectation maximization algorithm,1
+generative and discriminative models,Variations of GANs,1
+natural language processing intro,chomsky hierarchy,1
+linguistics basics,discourse analysis,1
+random walks and harmonic functions,neural networks,1
+planning,logic and logical agents,1
+probabilities,speech processing,1
+machine learning resources,word embedding,1
+graph-based nlp,citation networks,1
+probabilities,cky parsing,1
+text similarity,bio text mining,1
+probabilities,bayes theorem,1
+natural language processing intro,dialog systems,1
+planning,problem solving and search,1
+syntax,cky parsing,1
+maximum likelihood estimation,Autoencoders,1
+optimization,newton method,1
+linguistics basics,document representation,1
+relation extraction,social media analysis,1
+calculus,latent variable models,1
+machine learning resources,k means,1
+text summarization,neural summarization,1
+vector semantics,tsne,1
+machine translation,noisy channel model,1
+logic and logical agents,expert systems,1
+dimensionality reduction,tsne,1
+linguistics basics,semantic similarity,1
+vector representations,bio text mining,1
+monte carlo tree search,AlphaGo,1
+probabilities,Naive Bayes,1
+sentiment analysis,social media analysis,1
+graphical models,Markov Random Fields,1
+natural language processing intro,bio text mining,1
+vector semantics,word sense disambiguation,1
+recurrent neural networks,neural turing machine,1
+social network extraction,citation networks,1
+calculus,mathematical models,1
+n-gram models,word distributions,1
+natural language processing intro,context free grammars,1
+singular value decomposition,Principal Component Analysis,1
+Unsupervised learning,tsne,1
+linguistics basics,propositional logic,1
+optimization,Meta-Learning,1
+information extraction,social network extraction,1
+probabilities,hidden markov models,1
+natural language processing intro,noisy channel model,1
+classic parsing methods,semantic parsing,1
+calculus,spectral methods,1
+structured learning,bio text mining,1
+chomsky hierarchy,computation theory,1
+probabilities,Manifold Learning,1
+linguistics basics,computational phonology,1
+penn treebank,first-order logic,1
+natural language processing intro,course introduction,1
+logic and logical agents,agent-based view of ai,1
+chomsky hierarchy,probabilistic grammars,1
+machine learning resources,sequence classification and conditional random fields,1
+dimensionality reduction,Principal Component Analysis,1
+vector semantics,recommendation system,1
+semantic similarity,text mining,1
+linear algebra,Message Passing,1
+probabilities,question answering,1
+search,a* search,1
+nlp for biology,bio text mining,1
+natural language processing intro,parsing,1
+machine learning resources,linear regression,1
+natural language processing intro,shallow parsing,1
+planning,game playing in ai,1
+linguistics basics,grammar checker,1
+evaluation of text classification,relation extraction,1
+parsing,semi supervised learning,1
+neural networks,syntaxnet,1
+evaluation of text classification,sentiment analysis,1
+morphology and lexicon,query expansion,1
+vector representations,word sense disambiguation,1
+linear algebra,Variations of GANs,1
+neural networks,Autoencoders,1
+matrix multiplication,Message Passing,1
+loss function,machine learning resources,1
+classification,sentiment analysis,1
+natural language processing intro,nlp and vision,1
+natural language processing intro,information extraction,1
+latent variable models,linear discriminant analysis,1
+dimensionality reduction,latent semantic indexing,1
+machine learning resources,kernel function,1
+neural networks,training neural networks,1
+Sampling,markov chain monte carlo,1
+neural summarization,scientific article summarization,1
+structured learning,vector representations,1
+programming languages,preprocessing,1
+linguistics basics,morphology and lexicon,1
+word distributions,document representation,1
+sentence representations,text summarization,1
+probabilities,social network extraction,1
+machine learning resources,latent dirichlet allocation,1
+random walks and harmonic functions,weakly-supervised learning,1
+question answering,evaluation of question answering,1
+calculus,Mixture Models,1
+machine learning resources,spectral clustering,1
+chomsky hierarchy,context sensitive grammar,1
+natural language processing intro,named entity recognition,1
+probabilities,monte carlo methods,1
+reinforcement learning,robotics,1
+linguistics basics,entailment,1
+natural language processing intro,feature selection,1
+classification,sentence boundary recognition,1
+natural language processing intro,query expansion,1
+deep learning introduction,word embedding,1
+information retrieval,image retrieval,1
+bayes theorem,bayesian network,1
+natural language processing intro,speech processing,1
+probabilities,course introduction,1
+vector representations,text mining,1
+calculus,Manifold Learning,1
+part of speech tagging,syntaxnet,1
+Unsupervised learning,reinforcement learning,1
+deep learning introduction,neural machine translation,1
+programming languages,tools for dl,1
+natural language processing intro,word sense disambiguation,1
+natural language processing intro,probabilistic context free grammars,1
+linear algebra,Principal Component Analysis,1
+speech signal analysis,speech processing,1
+word embedding variations,word sense disambiguation,1
+machine translation,the ibm models,1
+natural language processing intro,language modeling,1
+Gaussian graphical models,Mixture Models,1
+natural language processing intro,morphology and lexicon,1
+convolutional neural networks,graph convolutional networks,1
+natural language processing intro,kernels,1
+training neural networks,recursive neural networks,1
+word distributions,word embedding,1
+probabilities,Dirichlet Processes,1
+linguistics basics,shift-reduce parsing,1
+structured learning,linear discriminant analysis,1
+probabilities,word distributions,1
+sentence representations,text mining,1
+shallow parsing,cky parsing,1
+linguistics basics,kernels,1
+chinese nlp,automated essay scoring,1
+natural language processing intro,text to speech generation,1
+information retrieval,search engines,1
+vector representations,recommendation system,1
+natural language processing intro,vector representations,1
+semantic similarity,thesaurus-based similarity,1
+vector semantics,context free grammars,1
+linguistics basics,prosody,1
+logic and reasoning,predicate logic,1
+machine translation,morphology and semantics in machine translation,1
+neural networks,neural question answering,1
+linear algebra,latent variable models,1
+natural language processing intro,text generation,1
+linguistics basics,semantic role labeling,1
+calculus,structured sparsity,1
+search,uncertainty,1
+vector representations,word embedding,1
+sentence representations,neural machine translation,1
+parsing,statistical parsing,1
+parsing,semantic parsing,1
+linguistics basics,automated essay scoring,1
+syntax,shift-reduce parsing,1
+classification,sequence classification and conditional random fields,1
+linear algebra,mathematical models,1
+part of speech tagging,statistical part of speech tagging,1
+natural language processing intro,semantic similarity,1
+bayes theorem,question answering,1
+structured learning,recommendation system,1
+structured learning,kernels,1
+semantic similarity,automated essay scoring,1
+deep learning introduction,neural turing machine,1
+natural language processing intro,regular expressions,1
+vector representations,kernels,1
+lexical semantics,event detection,1
+monte carlo methods,latent dirichlet allocation,1
+probabilities,Meta-Learning,1
+latent variable models,topic modeling,1
+random walks and harmonic functions,sentiment analysis,1
+machine translation,neural machine translation,1
+statistical part of speech tagging,course introduction,1
+python,preprocessing,1
+neural networks,convolutional neural networks,1
+structured learning,tsne,1
+linguistics basics,nlp and vision,1
+linguistics basics,context free grammars,1
+vector representations,tsne,1
+probabilities,recursive neural network,1
+machine translation,machine translation techniques,1
+information retrieval,text mining,1
+wordnet,lexical semantics,1
+natural language processing intro,entailment,1
+linguistics basics,noisy channel model,1
+structured learning,document representation,1
+text similarity,text mining,1
+linguistics basics,cky parsing,1
+speech processing,speech synthesis,1
+structured learning,text mining,1
+natural language processing intro,edit distance,1
+machine learning resources,log-linear models,1
+robotics,robotic locomotion,1
+toolkits for information retrieval,information extraction,1
+Mixture Models,expectation maximization algorithm,1
+neural networks,memory networks,1
+linguistics basics,feature selection,1
+word distributions,context free grammars,1
+structured learning,automated essay scoring,1
+random walks and harmonic functions,scientific article summarization,1
+planning,robotics,1
+machine translation techniques,neural machine translation,1
+structured learning,word embedding,1
+natural language processing intro,Sequence to sequence,1
+dynamic programming,course introduction,1
+speech processing,text to speech generation,1
+toolkits for information retrieval,query expansion,1
+machine translation,syntax based machine translation,1
+vector representations,bag of words model,1
+natural language processing intro,chinese nlp,1
+text similarity,recommendation system,1
+linguistics basics,chomsky hierarchy,1
+linear algebra,dimensionality reduction,1
+graph theory,Message Passing,1
+long short term memory networks,neural question answering,1
+machine learning resources,logistic regression,1
+natural language processing intro,semantic role labeling,1
+text similarity,information extraction,1
+language modeling,evaluation of language modeling,1
+loss function,speech processing,1
+syntax,syntax based machine translation,1
+question answering,Visual QA,1
+tree adjoining grammar,context sensitive grammar,1
+vector semantics,text mining,1
+natural language processing intro,propositional logic,1
+natural language processing intro,sentence boundary recognition,1
+information retrieval,document ranking,1
+seq2seq,neural summarization,1
+word distributions,vector representations,1
+semi-supervised learning,neural networks,1
+word distributions,language modeling,1
+context free grammar,context sensitive grammar,1
+linguistics basics,text generation,1
+natural language processing intro,grammar checker,1
+training neural networks,stack lstm,1
+random walks and harmonic functions,Unsupervised learning,1
+sentence representations,document representation,1
+natural language processing intro,semantic parsing,1
+hidden markov models,course introduction,1
+linear algebra,structured sparsity,1
+dimensionality reduction,Manifold Learning,1
+linguistics basics,word segmentation,1
+semantic similarity,sentence simplification,1
+structured learning,word distributions,1
+semantic similarity,word sense disambiguation,1
+natural language processing intro,penn treebank,1
+generative adversarial networks,Variations of GANs,1
+optimization,KKT conditions,1
+linguistics basics,sentence boundary recognition,1
+machine learning resources,neural networks,1
+evaluation of language modeling,text generation,1
+toolkits for information retrieval,text mining,1
+natural language processing intro,cky parsing,1
+information retrieval,toolkits for information retrieval,1
+loss function,Meta-Learning,1
+machine learning resources,autonomous cars,1
+word embedding,syntaxnet,1
+machine learning resources,linear discriminant analysis,1
+syntax,dependency syntax,1
+parsing,dependency parsing,1
+parsing,parsing evaluation,1
+logic and logical agents,propositional logic,1
+parsing,event detection,1
+optimization,dual decomposition,1
+calculus,State Space Models,1
+linguistics basics,lexicography,1
+linear algebra,State Space Models,1
+probabilities,structured learning,1
+linguistics basics,semantic parsing,1
+linear algebra,Mixture Models,1
+word embedding,word embedding variations,1
+text similarity,document representation,1
+structured learning,context free grammars,1
+probabilistic grammars,probabilistic context free grammars,1
+bio text mining,nlp for biology,1
+linguistics basics,recommendation system,1
+word embedding variations,multilingual word embedding,1
+linguistics basics,shallow parsing,1
+sentence representations,sentiment analysis,1
+vector representations,evaluation of text classification,1
+machine learning resources,semi-supervised learning,1
+linguistics basics,phonetics,1
+Unsupervised learning,spectral clustering,1
+calculus,newton method,1
+linear algebra,Manifold Learning,1
+information extraction,social media analysis,1
+linguistics basics,query expansion,1
+linguistics basics,sentence simplification,1
+random walks and harmonic functions,relation extraction,1
+penn treebank,syntaxnet,1
+structured learning,sentence representations,1
+natural language processing intro,knowledge representation,1
+linguistics basics,penn treebank,1
+long short term memory networks,memory networks,1
+convolutional neural network,neural question answering,1
+training neural networks,pointer networks,1
+loss function,Autoencoders,1
+latent variable models,latent dirichlet allocation,1
+beam search,neural summarization,1
+natural language processing intro,spelling correction,1
+classic parsing methods,shift-reduce parsing,1
+structured learning,semantic similarity,1
+finite state machines,finite state transducers,1
+vector semantics,kernels,1
+text similarity,event detection,1
+machine learning resources,loss function,1
+linguistics basics,language modeling,1
+probabilities,problem solving and search,1
+syntax,syntaxnet,1
+structured learning,vector semantics,1
+lexical semantics,thesaurus-based similarity,1
+question answering,neural question answering,1
+dependency parsing,transition based dependency parsing,1
+probabilities,mathematical models,1
+probabilities,variational bayes models,1
+probabilities,Mixture Models,1
+text summarization,summarization evaluation,1
+backpropagation,Autoencoders,1
+vector semantics,semantic similarity,1
+python,tools for dl,1
+machine learning resources,random walks and harmonic functions,1
+clustering,Mixture Models,1
+dynamic programming,cky parsing,1
+random walks and harmonic functions,semi-supervised learning,1
+natural language processing intro,discourse analysis,1
+natural language processing intro,machine translation,1
+loss function,latent variable models,1
+chinese nlp,grammar checker,1
+evaluation of information retrieval,query expansion,1
+search,game playing in ai,1
+linguistics basics,spelling correction,1
+linguistics basics,relation extraction,1
+linguistics basics,word sense disambiguation,1
+problem solving and search,game playing in ai,1
+logic and reasoning,knowledge representation,1
+vector semantics,word embedding,1
+vector semantics,document representation,1
+machine learning resources,game playing in ai,1
+machine learning resources,tsne,1
+monte carlo methods,particle filter,1
+machine translation techniques,statistical machine translation,1
+dimensionality reduction,singular value decomposition,1
+natural language processing intro,sentence simplification,1
+natural language processing intro,tokenization,1
+natural language processing intro,word embedding,1
+natural language processing intro,text mining,1
+natural language processing intro,shift-reduce parsing,1
+parsing evaluation,semantic parsing,1
+Markov chains,markov chain monte carlo,1
+Unsupervised learning,neural networks,1
+search,adversarial search,1
+natural language processing intro,relation extraction,1
+neural networks,neural parsing,1
+machine translation,statistical machine translation,1
+linguistics basics,speech processing,1
+natural language processing intro,event detection,1
+recurrent neural networks,neural question answering,1
+natural language processing intro,language identification,1
+optimization,Lagrange duality,1
+vector representations,context free grammars,1
+evaluation of text classification,language identification,1
+linguistics basics,language identification,1
+probabilities,latent variable models,1
+uncertainty,robotics,1
+neural networks,neural language modeling,1
+kernel function,Mixture Models,1
+bayesian network,hidden markov models,1
+discourse analysis,discourse parsing,1
+vector representations,structured learning,1
+word distributions,character level language models,1
+parsing,shallow parsing,1
+search,problem solving and search,1
+linguistics basics,event detection,1
+Markov chains,markov decision processes,1
+probabilities,classification,1
+parsing,lexicalized parsing,1
+linguistics basics,nlp for the humanities,1
+probabilities,statistical parsing,1
+linguistics basics,edit distance,1
+linguistics basics,probabilistic context free grammars,1
+shift-reduce parsing,transition based dependency parsing,1
+natural language processing intro,document representation,1
+optimization,machine learning resources,1
+parsing,syntaxnet,1
+training neural networks,graph convolutional networks,1
+summarization evaluation,scientific article summarization,1
+Sampling,gibbs sampling,1
+machine learning resources,speech synthesis,1
+chinese nlp,spelling correction,1
+facial recognition systems,lexical semantics,0
+matrix factorization,predicate logic,0
+context free grammars,neural parsing,0
+planning,neural language modeling,0
+structured learning,language identification,0
+vector semantics,transliteration,0
+k means,monte carlo methods,0
+regularization,structured learning,0
+beam search,Mixture Models,0
+vector representations,generative adversarial networks,0
+Markov chains,Variations of GANs,0
+query expansion,course introduction,0
+capsule networks,KKT conditions,0
+gradient descent,neural summarization,0
+agent-based view of ai,markov decision processes,0
+latent variable models,spelling correction,0
+context free grammar,Canonical Correlation Analysis,0
+preprocessing,unlexicalized parsing,0
+text generation,Mean Field Approximation,0
+Hilbert Space,support vector machines,0
+summarization evaluation,generative adversarial networks,0
+vector semantics,unlexicalized parsing,0
+multi-modal learning,evaluation of text classification,0
+heuristic search,multi-modal learning,0
+Belief Propagation,reading comprehension,0
+latent semantic indexing,Naive Bayes,0
+text similarity,data structures and algorithms,0
+evaluation of dependency parsing,genetic algorithms,0
+parsing,gated recurrent units,0
+variational bayes models,cky parsing,0
+graph convolutional networks,handwriting recognition,0
+structured sparsity,linear programming,0
+reading comprehension,Lagrange duality,0
+machine learning resources,finite state machines,0
+computational phonology,transliteration,0
+Mean Field Approximation,decision trees,0
+random forest,learning,0
+convolutional neural network,text similarity,0
+greedy algorithms,robotics,0
+multi-agent systems,conditional probability,0
+ResNet,computational phonology,0
+scientific article summarization,neural question answering,0
+agent-based view of ai,wordnet,0
+latent variable models,convolutional neural networks,0
+problem solving and search,language identification,0
+speech signal analysis,chomsky hierarchy,0
+markov decision processes,Naive Bayes,0
+neural language modeling,inference,0
+one-shot learning,structured sparsity,0
+vector representations,word embedding variations,0
+sentence representations,syntaxnet,0
+latent variable models,speech signal analysis,0
+KKT conditions,phonetics,0
+stack lstm,parsing,0
+computation theory,particle filter,0
+KKT conditions,graphical models,0
+perceptron,speech signal analysis,0
+uncertainty,calculus,0
+transliteration,evaluation of dependency parsing,0
+recursive neural networks,context sensitive grammar,0
+structured learning,log-linear models,0
+seq2seq,evaluation of question answering,0
+graph theory,context sensitive grammar,0
+calculus,document ranking,0
+multi-agent systems,uncertainty,0
+ensemble learning,social media analysis,0
+nlp and vision,phrase based machine translation,0
+semantic similarity,language identification,0
+Kernel Graphical Models,Variable Elimination,0
+memory networks,k-nn,0
+crawling the web,planning,0
+tokenization,computation theory,0
+discourse parsing,vector representations,0
+statistical parsing,Belief Propagation,0
+a* search,Visual QA,0
+evaluation of language modeling,computational phonology,0
+game playing in ai,neural parsing,0
+generative and discriminative models,multi-modal learning,0
+seq2seq,tools for dl,0
+planning,linear algebra,0
+monte carlo methods,tsne,0
+Mixture Models,Variations of GANs,0
+lexicography,text to speech generation,0
+structured learning,hidden markov models,0
+shallow parsing,Autoencoders,0
+semi supervised learning,recursive neural networks,0
+discourse analysis,collaborative filtering,0
+classic parsing methods,Mixture Models,0
+object detection,text to speech generation,0
+spectral clustering,class logistics,0
+text similarity,scientific article summarization,0
+latent variable models,spectral methods,0
+loss function,Canonical Correlation Analysis,0
+spectral clustering,semi-supervised learning,0
+Belief Propagation,toolkits for information retrieval,0
+preprocessing,predicate logic,0
+Variable Elimination,morphology and lexicon,0
+bayesian network,neural parsing,0
+latent semantic indexing,Variable Elimination,0
+nlp for the humanities,structured sparsity,0
+sequence classification and conditional random fields,deep learning tools,0
+latent semantic indexing,Sampling,0
+classic parsing methods,thesaurus-based similarity,0
+speech synthesis,handwriting recognition,0
+transition based dependency parsing,training neural networks,0
+Kernel Graphical Models,Canonical Correlation Analysis,0
+evaluation of question answering,text to speech generation,0
+entropy,nlp for the humanities,0
+normalization,morphology and semantics in machine translation,0
+nlp for databases,bidirectional recurrent neural networks,0
+transliteration,recurrent neural networks,0
+learning,perceptron,0
+singular value decomposition,monte carlo methods,0
+expectation maximization algorithm,Markov Random Fields,0
+social network extraction,scientific article summarization,0
+data structures and algorithms,syntax,0
+dual problems,deep learning tools,0
+nlp for databases,machine translation techniques,0
+probabilistic grammars,a* search,0
+document representation,Hilbert Space,0
+State Space Models,Message Passing,0
+finite state machines,uncertainty,0
+syntax,Hilbert Space,0
+normalization,monte carlo methods,0
+deep learning introduction,markov chain monte carlo,0
+gibbs sampling,natural language processing intro,0
+sentence representations,seq2seq,0
+generative adversarial networks,speech signal analysis,0
+syntaxnet,Kernel Graphical Models,0
+bootstrapping,summarization evaluation,0
+shallow parsing,agent-based view of ai,0
+Naive Bayes,radial basis function network,0
+text to speech generation,seq2seq,0
+Belief Propagation,python,0
+informed search,neural networks,0
+caption generation,Hilbert Space,0
+agent-based view of ai,propositional logic,0
+document ranking,clustering,0
+structured learning,feature selection,0
+knowledge graph,recurrent neural networks,0
+q learning,lexical semantics,0
+text similarity,finite state machines,0
+graph-based nlp,tsne,0
+machine translation,logic and reasoning,0
+sentence representations,search engines,0
+kernel function,evaluation of text classification,0
+nlp for biology,neural turing machine,0
+weakly-supervised learning,machine translation techniques,0
+State Space Models,perceptron,0
+shift-reduce parsing,Belief Propagation,0
+nn sequence parsing,evaluation of information retrieval,0
+natural language processing intro,first order logic,0
+neural machine translation,Visual QA,0
+deep learning tools,Belief Propagation,0
+discourse parsing,maximum likelihood estimation,0
+object detection,neural summarization,0
+matrix factorization,evaluation of text classification,0
+kernel function,Visual QA,0
+parts of speech,programming languages,0
+one-shot learning,others,0
+speech processing,random walks and harmonic functions,0
+sentence boundary recognition,Markov Random Fields,0
+convolutional neural networks,semantic role labeling,0
+heuristic search,evaluation of dependency parsing,0
+Markov chains,probabilistic context free grammars,0
+lexical semantics,normalization,0
+predicate logic,word segmentation,0
+machine translation techniques,deep learning tools,0
+deep learning tools,handwriting recognition,0
+backpropagation,cky parsing,0
+edit distance,Markov Random Fields,0
+optimization,word distributions,0
+image retrieval,Mixture Models,0
+summarization evaluation,citation networks,0
+deep learning introduction,speech signal analysis,0
+document representation,agent-based view of ai,0
+Unsupervised learning,logistic regression,0
+Mean Field Approximation,edit distance,0
+text generation,computational phonology,0
+uncertainty,training neural networks,0
+kernels,Markov Random Fields,0
+nn sequence parsing,clustering,0
+graphical models,others,0
+bootstrapping,machine translation techniques,0
+summarization evaluation,search engines,0
+discourse parsing,predicate logic,0
+structured sparsity,sequence classification and conditional random fields,0
+training neural networks,phonetics,0
+lexical semantics,word segmentation,0
+cky parsing,matrix multiplication,0
+context sensitive grammar,Message Passing,0
+character level language models,Variable Elimination,0
+syntax based machine translation,caption generation,0
+q learning,State Space Models,0
+text similarity,particle filter,0
+evaluation of text classification,autonomous cars,0
+tokenization,syntax,0
+q learning,structured sparsity,0
+chinese nlp,course introduction,0
+thesaurus-based similarity,structured learning,0
+structured learning,speech recognition,0
+nlp for databases,feature learning,0
+Lagrange duality,linear programming,0
+recurrent neural networks,lexicalized parsing,0
+sequence classification and conditional random fields,transition based dependency parsing,0
+class logistics,Variable Elimination,0
+word embedding variations,machine learning resources,0
+word distributions,course introduction,0
+memory networks,pointer networks,0
+learning,sequence classification and conditional random fields,0
+bidirectional recurrent neural networks,ResNet,0
+computational phonology,caption generation,0
+nlp for databases,logic and logical agents,0
+bagging,discourse analysis,0
+deep Q-network,computational phonology,0
+feature selection,Hilbert Space,0
+Meta-Learning,machine translation,0
+highway networks,speech processing,0
+others,activation functions,0
+syntax,named entity recognition,0
+neural parsing,automated essay scoring,0
+latent variable models,entropy,0
+latent variable models,language identification,0
+nlp for the humanities,State Space Models,0
+recurrent neural networks,problem solving and search,0
+finite state transducers,adversarial search,0
+semi supervised learning,latent dirichlet allocation,0
+thesaurus-based similarity,classic parsing methods,0
+neural summarization,singular value decomposition,0
+structured sparsity,one-shot learning,0
+discourse model,dependency syntax,0
+expectation maximization algorithm,transition based dependency parsing,0
+discourse analysis,statistical machine translation,0
+dimensionality reduction,multilingual word embedding,0
+social media analysis,word embedding variations,0
+text to speech generation,wordnet,0
+grammar checker,nn sequence parsing,0
+predicate logic,speech synthesis,0
+discourse analysis,evaluation of language modeling,0
+feature learning,lexical semantics,0
+natural language processing intro,hidden markov models,0
+summarization evaluation,question answering,0
+planning,neural networks,0
+policy gradient methods,evaluation of text classification,0
+tools for dl,shift-reduce parsing,0
+probabilistic grammars,logic and reasoning,0
+data structures and algorithms,crawling the web,0
+speech processing,probabilistic grammars,0
+entailment,toolkits for information retrieval,0
+Variations of GANs,information extraction,0
+genetic algorithms,class logistics,0
+search engines,others,0
+optimization,generative and discriminative models,0
+nlp for databases,machine learning resources,0
+document ranking,information extraction,0
+mathematical models,morphology and lexicon,0
+linear algebra,semantic similarity,0
+machine translation techniques,penn treebank,0
+random walks and harmonic functions,Dirichlet Processes,0
+structured sparsity,predicate logic,0
+State Space Models,penn treebank,0
+Canonical Correlation Analysis,recurrent neural networks,0
+Manifold Learning,tools for dl,0
+transition based dependency parsing,neural networks,0
+phonetics,mathematical models,0
+kernel function,social media analysis,0
+KKT conditions,natural language processing intro,0
+tools for dl,document representation,0
+vector representations,linear regression,0
+Lagrange duality,reading comprehension,0
+evaluation of dependency parsing,language modeling,0
+morphology and semantics in machine translation,recursive neural network,0
+k-nn,informed search,0
+machine translation techniques,first order logic,0
+sentence representations,log-linear models,0
+gibbs sampling,newton method,0
+dimensionality reduction,deep learning tools,0
+q learning,others,0
+computer vision,information retrieval,0
+recursive neural network,Kernel Graphical Models,0
+Gaussian graphical models,statistical parsing,0
+text summarization,training neural networks,0
+context sensitive grammar,problem solving and search,0
+lexicalized parsing,recurrent neural networks,0
+Principal Component Analysis,particle filter,0
+text generation,generative and discriminative models,0
+logic and logical agents,text summarization,0
+structured learning,classification,0
+computational phonology,reading comprehension,0
+evaluation of dependency parsing,machine translation techniques,0
+machine translation techniques,named entity recognition,0
+social network extraction,bagging,0
+Autoencoders,nlp for databases,0
+morphology and semantics in machine translation,regular expressions,0
+regularization,logic and reasoning,0
+adversarial search,reinforcement learning,0
+predicate logic,classification,0
+tree adjoining grammar,Autoencoders,0
+discourse parsing,capsule networks,0
+gradient descent,programming languages,0
+AlphaGo,finite state transducers,0
+latent variable models,word sense disambiguation,0
+heuristic search,speech recognition,0
+support vector machines,Meta-Learning,0
+natural language processing intro,adversarial search,0
+logic and reasoning,context free grammar,0
+recurrent neural networks,parsing evaluation,0
+word embedding variations,Variable Elimination,0
+latent variable models,recurrent neural networks,0
+parts of speech,discourse model,0
+attention models,statistical parsing,0
+learning,neural question answering,0
+semi-supervised learning,attention models,0
+vector semantics,combinatory categorial grammar,0
+regular expressions,statistical part of speech tagging,0
+knowledge representation,graph-based nlp,0
+structured learning,logic and reasoning,0
+theory of computation,Meta-Learning,0
+sentence representations,Manifold Learning,0
+vector representations,lexical semantics,0
+predicate logic,probabilities,0
+topic modeling,statistical part of speech tagging,0
+computational phonology,gradient descent,0
+loss function,social network extraction,0
+deep learning tools,context free grammar,0
+earley parsing,others,0
+vector representations,vector semantics,0
+Canonical Correlation Analysis,question answering,0
+context free grammars,neural language modeling,0
+summarization evaluation,knowledge graph,0
+multi-agent systems,finite state transducers,0
+recommendation system,deep learning introduction,0
+information retrieval,Lagrange duality,0
+semi supervised learning,parts of speech,0
+latent variable models,lexicography,0
+automated essay scoring,planning,0
+Mixture Models,finite state transducers,0
+evaluation of information retrieval,graphical models,0
+seq2seq,Belief Propagation,0
+statistical parsing,a* search,0
+data structures,recursive neural network,0
+kernel function,Gaussian graphical models,0
+recursive neural networks,agent-based view of ai,0
+character level language models,problem solving and search,0
+noisy channel model,semi supervised learning,0
+Canonical Correlation Analysis,discourse parsing,0
+regularization,neural parsing,0
+Message Passing,data structures,0
+planning,Gaussian graphical models,0
+radial basis function network,Markov chains,0
+Markov chains,bio text mining,0
+planning,lexicography,0
+finite state transducers,multi-modal learning,0
+regular expressions,random walks and harmonic functions,0
+AlphaGo,text generation,0
+Belief Propagation,statistical parsing,0
+gibbs sampling,Visual QA,0
+maximum likelihood estimation,deep learning introduction,0
+speech signal analysis,gated recurrent units,0
+statistical part of speech tagging,multi-task learning,0
+statistical machine translation,social network extraction,0
+syntax based machine translation,activation functions,0
+evaluation of question answering,logic and reasoning,0
+spelling correction,Autoencoders,0
+search engines,statistical parsing,0
+q learning,Meta-Learning,0
+question answering,nlp for databases,0
+heuristic search,data structures and algorithms,0
+thesaurus-based similarity,propositional logic,0
+Naive Bayes,word sense disambiguation,0
+Manifold Learning,search engine indexing,0
+class logistics,wordnet,0
+statistical part of speech tagging,earley parsing,0
+spectral clustering,morphology and lexicon,0
+semi-supervised learning,Gaussian graphical models,0
+Manifold Learning,activation functions,0
+State Space Models,bootstrapping,0
+word embedding variations,ResNet,0
+facial recognition systems,random walks and harmonic functions,0
+document ranking,beam search,0
+nlp for databases,stack lstm,0
+python,entropy,0
+nlp and vision,others,0
+tools for dl,multi-agent systems,0
+graph convolutional networks,probabilistic grammars,0
+nlp for the humanities,speech recognition,0
+document ranking,latent semantic indexing,0
+nlp for the humanities,singular value decomposition,0
+spectral methods,natural language processing intro,0
+convolutional neural networks,variational autoencoders,0
+data structures and algorithms,ResNet,0
+spectral methods,Autoencoders,0
+programming languages,imagenet,0
+summarization evaluation,Markov chains,0
+speech signal analysis,constraint satisfaction,0
+backpropagation,information retrieval,0
+context free grammars,social network extraction,0
+nlp for biology,highway networks,0
+activation functions,ResNet,0
+Sampling,Unsupervised learning,0
+word embedding,heuristic search,0
+Hilbert Space,unlexicalized parsing,0
+classic parsing methods,Message Passing,0
+multi-task learning,dimensionality reduction,0
+crawling the web,neural parsing,0
+convolutional neural network,mathematical models,0
+particle filter,Principal Component Analysis,0
+social network extraction,statistical part of speech tagging,0
+conditional probability,lexicalized parsing,0
+question answering,n-gram models,0
+linear regression,neural language modeling,0
+nlp for biology,dependency parsing,0
+cky parsing,deep Q-network,0
+kullback leibler divergence,Meta-Learning,0
+normalization,parsing evaluation,0
+probabilities,chinese nlp,0
+speech signal analysis,parsing evaluation,0
+Dirichlet Processes,document ranking,0
+neural question answering,Hilbert Space,0
+sentence representations,transfer learning,0
+thesaurus-based similarity,Autoencoders,0
+logic and logical agents,word embedding variations,0
+semi supervised learning,discourse parsing,0
+multi-agent systems,greedy algorithms,0
+toolkits for information retrieval,Naive Bayes,0
+lexical semantics,probabilistic grammars,0
+text similarity,tsne,0
+ResNet,predicate logic,0
+document ranking,feature selection,0
+speech processing,matrix multiplication,0
+information retrieval,State Space Models,0
+monte carlo tree search,random walks,0
+caption generation,others,0
+word distributions,clustering,0
+toolkits for information retrieval,structured prediction,0
+syntax based machine translation,kullback leibler divergence,0
+parts of speech,context-sensitive grammars,0
+planning,radial basis function network,0
+logic and reasoning,Sampling,0
+Dirichlet Processes,Canonical Correlation Analysis,0
+penn treebank,logic and logical agents,0
+computation theory,question answering,0
+phrase based machine translation,part of speech tagging,0
+policy gradient methods,planning,0
+syntaxnet,class logistics,0
+newton method,search engines,0
+dimensionality reduction,transfer learning,0
+probabilistic grammars,cross entropy,0
+first-order logic,discourse model,0
+edit distance,discourse parsing,0
+structured learning,data structures,0
+nlp and vision,document representation,0
+others,long short term memory networks,0
+discourse analysis,nn sequence parsing,0
+named entity recognition,expert systems,0
+stemming,statistical part of speech tagging,0
+tools for dl,Naive Bayes,0
+genetic algorithms,neural parsing,0
+generative and discriminative models,course introduction,0
+Manifold Learning,loss function,0
+first-order logic,recurrent neural networks,0
+calculus,Message Passing,0
+classification,log-linear models,0
+summarization evaluation,Lagrange duality,0
+variational bayes models,information retrieval,0
+vector representations,lexicography,0
+nlp for the humanities,Meta-Learning,0
+generative adversarial networks,syntaxnet,0
+learning,stack lstm,0
+Belief Propagation,multi-task learning,0
+bootstrapping,deep learning tools,0

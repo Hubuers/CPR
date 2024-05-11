@@ -1,0 +1,1000 @@
+0,Compiler
+1,Floating point
+2,Quantum mechanics
+3,Suffix tree
+4,Boundary value problem
+5,Least squares
+6,Recommender system
+7,Packet switching
+8,Random variable
+9,Expert system
+10,Machine translation
+11,Digital signature
+12,Graphics processing unit
+13,P versus NP problem
+14,Round-off error
+15,Finite element method
+16,Complexity
+17,Sparse matrix
+18,Database design
+19,Continuous function
+20,Neural network
+21,First-order logic
+22,Genetic algorithm
+23,Geometry
+24,Randomization
+25,Matrix (mathematics)
+26,Mathematical induction
+27,Polymorphism (computer science)
+28,System call
+29,Introduction to Algorithms
+30,Virtual memory
+31,B-tree
+32,Graphical user interface
+33,Natural language
+34,Shared memory
+35,Computer programming
+36,MATLAB
+37,Game theory
+38,Automated theorem proving
+39,HTML
+40,Programming style
+41,Data structure
+42,Computer graphics
+43,Visualization (computer graphics)
+44,Fixed point (mathematics)
+45,Profiling (computer programming)
+46,Communications protocol
+47,Image
+48,Pushdown automaton
+49,Congestion control
+50,String (computer science)
+51,Wavelet
+52,Computer network
+53,Inequality (mathematics)
+54,Scalability
+55,Volume rendering
+56,Linear programming
+57,Telecommunications network
+58,Formal verification
+59,Programming language
+60,Poisson distribution
+61,Nonlinear system
+62,Feature extraction
+63,Kalman filter
+64,Communication
+65,Query optimization
+66,Imperative programming
+67,Cloud computing
+68,C++
+69,Data analysis
+70,Queue (data structure)
+71,Data (computing)
+72,User interface design
+73,Query language
+74,Network security
+75,Algorithm
+76,Shortest path problem
+77,Cryptography
+78,Data mining
+79,Program analysis
+80,Question answering
+81,Arithmetic logic unit
+82,Inheritance (object-oriented programming)
+83,Combinatorics
+84,Statistics
+85,Inter-process communication
+86,Lexical semantics
+87,Firewall (computing)
+88,Uncertainty
+89,Embedded system
+90,Traffic analysis
+91,Vulnerability (computing)
+92,Hash table
+93,Knowledge representation and reasoning
+94,Algebra
+95,Recursively enumerable set
+96,Semidefinite programming
+97,Bayesian network
+98,Software testing
+99,Graph (mathematics)
+100,Microprocessor
+101,Computer animation
+102,Problem solving
+103,Dynamic programming
+104,Computer vision
+105,List of undecidable problems
+106,Cluster analysis
+107,Finite-state machine
+108,Parallel computing
+109,Signal processing
+110,Deadlock
+111,Symmetric multiprocessing
+112,Halting problem
+113,Speech recognition
+114,Support vector machine
+115,Web browser
+116,Model checking
+117,Computational complexity theory
+118,Automata theory
+119,Symbol table
+120,JavaScript
+121,Geometric modeling
+122,Software development
+123,Stack (data structure)
+124,Robot
+125,Arithmetic
+126,User interface
+127,Superscalar
+128,Document classification
+129,Motion planning
+130,Formal language
+131,Control flow
+132,Finite difference
+133,Large deviations theory
+134,Vector processor
+135,Transaction processing
+136,Instruction set
+137,Encryption
+138,Propositional calculus
+139,Formal methods
+140,Quantum cryptography
+141,Part-of-speech tagging
+142,Concurrency control
+143,Time complexity
+144,Expected value
+145,Computational learning theory
+146,Performance tuning
+147,Asymptotic analysis
+148,Machine learning
+149,Iterative method
+150,Reinforcement learning
+151,Coding theory
+152,Computer security
+153,Inference
+154,Logic
+155,File system
+156,Abstraction (computer science)
+157,Procedural programming
+158,Memory management
+159,Information assurance
+160,Multi-core processor
+161,Randomized algorithm
+162,Application programming interface
+163,Dynamic memory allocation
+164,Hidden Markov model
+165,Sufficient statistic
+166,Motion capture
+167,Automated planning and scheduling
+168,Python (programming language)
+169,CPU cache
+170,System programming
+171,String searching algorithm
+172,Theoretical computer science
+173,Design pattern (computer science)
+174,Image analysis
+175,Probability
+176,Correlation and dependence
+177,Compiler optimization
+178,Foundations of mathematics
+179,Central processing unit
+180,Distributed algorithms
+181,Fourier analysis
+182,Statistical inference
+183,Reason
+184,Functional programming
+185,Data warehouse
+186,Memory hierarchy
+187,Finite set
+188,Relational database management system
+189,Eigenvalues and eigenvectors
+190,Data
+191,ML (programming language)
+192,Flow network
+193,Computer science
+194,Relational model
+195,Algorithm design
+196,Software design
+197,Linear algebra
+198,Concurrency (computer science)
+199,Perl
+200,Operating system
+201,Analysis of algorithms
+202,Computer software
+203,Divide and conquer algorithm
+204,Context-free grammar
+205,Spanning tree
+206,Random graph
+207,Type system
+208,PSPACE
+209,Lock (computer science)
+210,Gradient descent
+211,3D computer graphics
+212,Database normalization
+213,Graphics
+214,Atomicity (database systems)
+215,Quantum computer
+216,Approximation algorithm
+217,Debugging
+218,Calculus
+219,SQL
+220,Ordinary differential equation
+221,Higher-order function
+222,Probability theory
+223,Database
+224,Estimation theory
+225,Personal computer
+226,Markov chain
+227,Human-computer interaction
+228,Parsing
+229,Fast Fourier transform
+230,Linear system
+231,Design of experiments
+232,Pipeline (computing)
+233,Economics
+234,Mobile device
+235,Graph theory
+236,Cryptographic hash function
+237,Pattern matching
+238,Recursion
+239,World Wide Web
+240,Interface (computing)
+241,Web server
+242,Interaction design
+243,Web service
+244,Conditional probability
+245,Generic programming
+246,Mutual exclusion
+247,Denotational semantics
+248,Calculus of variations
+249,MapReduce
+250,Logic programming
+251,OSI model
+252,Web search engine
+253,PageRank
+254,Hidden line removal
+255,Thread (computer science)
+256,Scripting language
+257,Computer multitasking
+258,Mathematical model
+259,Mathematical proof
+260,Interactivity
+261,Computer
+262,Stochastic process
+263,Robotics
+264,Martingale (probability theory)
+265,Newton's method
+266,Ray tracing (graphics)
+267,Bayesian probability
+268,Statistical hypothesis testing
+269,Bioinformatics
+270,C (programming language)
+271,Randomness
+272,Theory of computation
+273,Automatic programming
+274,3D modeling
+275,Prediction
+276,Regular language
+277,Input/output
+278,Tensor
+279,Complexity class
+280,Mathematical optimization
+281,Garbage collection (computer science)
+282,Linked list
+283,Computational chemistry
+284,Lisp (programming language)
+285,Authentication
+286,Object-oriented programming
+287,Server (computing)
+288,Microcode
+289,Program optimization
+290,Computability
+291,Integral
+292,Modular programming
+293,Parametric polymorphism
+294,Computational science
+295,Computing
+296,Recurrence relation
+297,Lexical analysis
+298,Routing
+299,Unix
+300,Programming paradigm
+301,Relational algebra
+302,Social network
+303,Abstract data type
+304,Mechanical engineering
+305,Public-key cryptography
+306,Variable (computer science)
+307,Information security
+308,Java (programming language)
+309,Integer
+310,Relational database
+311,Software framework
+312,Kinematics
+313,Mathematics
+314,Amortized analysis
+315,Very long instruction word
+316,Graph coloring
+317,Scientific visualization
+318,Malware
+319,Predicate logic
+320,Structured programming
+321,NP (complexity)
+322,Haskell (programming language)
+323,Peer-to-peer
+324,Artificial intelligence
+325,Stochastic
+326,Natural language processing
+327,Database management system
+328,Approximation
+329,Recursion (computer science)
+330,Object (computer science)
+331,Graphical model
+332,NP-complete
+333,Entropy
+334,Interpolation
+335,Processor register
+336,Application software
+337,Concurrent computing
+338,Autonomous robot
+339,Database system
+340,Exponential family
+341,Combinational logic
+342,Index (database)
+343,Syntax
+344,Computational geometry
+345,Formal grammar
+346,Lazy evaluation
+347,Monte Carlo method
+348,Partial differential equation
+349,Model of computation
+350,Data type
+351,Parallel algorithm
+352,Internet Protocol Suite
+353,Decision theory
+354,Internet
+355,Undecidable problem
+356,Sentiment analysis
+357,Unsupervised learning
+358,Monad (functional programming)
+359,Prolog
+360,Scientific modelling
+361,Kernel (computing)
+362,Turing machine
+363,Scheduling (computing)
+364,Distributed computing
+365,Wireless sensor network
+366,Programmer
+367,Semantics
+368,Modular arithmetic
+369,Virtual reality
+370,"Best, worst and average case"
+371,Cryptanalysis
+372,Synchronization
+373,Context-free language
+374,Numerical analysis
+375,Run time (program lifecycle phase)
+376,Computer architecture
+377,Computational problem
+378,Big data
+379,Software engineering
+380,Information theory
+381,Multiplication
+382,Discrete mathematics
+383,Sequence alignment
+384,Regular expression
+385,Semantics of programming languages
+386,Message Passing Interface
+387,Markov process
+388,Scope (computer science)
+389,Differential equation
+390,Polynomial
+391,Image processing
+392,Pattern recognition
+393,Random walk
+394,Cache coherence
+395,Computation
+396,Message passing
+397,High-level programming language
+398,Computer simulation
+399,Security
+400,Assembly language
+401,Rendering (computer graphics)
+402,Digital electronics
+403,Array data structure
+404,Number theory
+405,Shading
+406,Database transaction
+407,caltech_BE/CS 196
+408,caltech_BE/CS/CNS/Bi 191
+409,caltech_CMS/CS 139
+410,caltech_CMS/CS/CNS/EE 155
+411,caltech_CMS/CS/EE 144
+412,caltech_CS 1
+413,caltech_CS 101
+414,caltech_CS 11
+415,caltech_CS 115
+416,caltech_CS 116
+417,caltech_CS 118
+418,caltech_CS 119
+419,caltech_CS 121
+420,caltech_CS 122
+421,caltech_CS 123
+422,caltech_CS 124
+423,caltech_CS 138
+424,caltech_CS 142
+425,caltech_CS 150
+426,caltech_CS 151
+427,caltech_CS 153
+428,caltech_CS 176
+429,caltech_CS 2
+430,caltech_CS 21
+431,caltech_CS 24
+432,caltech_CS 3
+433,caltech_CS 38
+434,caltech_CS 4
+435,caltech_CS/CNS 171
+436,caltech_CS/CNS 174
+437,caltech_CS/CNS/EE 156
+438,caltech_CS/EE 143
+439,caltech_CS/EE 146
+440,caltech_CS/EE/Ma 129
+441,caltech_CS/SS 152
+442,caltech_EE/CS 52
+443,caltech_EE/CS 53
+444,caltech_Ma/CS 6
+445,caltech_SS/CS 149
+446,caltech_SS/CS 241
+447,cmu_15-104
+448,cmu_15-112
+449,cmu_15-121
+450,cmu_15-122
+451,cmu_15-150
+452,cmu_15-210
+453,cmu_15-211
+454,cmu_15-213
+455,cmu_15-214
+456,cmu_15-221
+457,cmu_15-237
+458,cmu_15-251
+459,cmu_15-294
+460,cmu_15-295
+461,cmu_15-300
+462,cmu_15-312
+463,cmu_15-313
+464,cmu_15-317
+465,cmu_15-319
+466,cmu_15-321
+467,cmu_15-322
+468,cmu_15-323
+469,cmu_15-346
+470,cmu_15-349
+471,cmu_15-351
+472,cmu_15-354
+473,cmu_15-355
+474,cmu_15-359
+475,cmu_15-365
+476,cmu_15-369
+477,cmu_15-381
+478,cmu_15-383
+479,cmu_15-385
+480,cmu_15-386
+481,cmu_15-387
+482,cmu_15-390
+483,cmu_15-392
+484,cmu_15-405
+485,cmu_15-410
+486,cmu_15-411
+487,cmu_15-412
+488,cmu_15-414
+489,cmu_15-415
+490,cmu_15-417
+491,cmu_15-418
+492,cmu_15-421
+493,cmu_15-424
+494,cmu_15-437
+495,cmu_15-440
+496,cmu_15-441
+497,cmu_15-449
+498,cmu_15-451
+499,cmu_15-453
+500,cmu_15-455
+501,cmu_15-456
+502,cmu_15-462
+503,cmu_15-463
+504,cmu_15-464
+505,cmu_15-465
+506,cmu_15-466
+507,cmu_15-491
+508,cmu_15-492
+509,cmu_15-494
+510,cmu_15-610
+511,illinois_CS 101
+512,illinois_CS 125
+513,illinois_CS 173
+514,illinois_CS 210
+515,illinois_CS 225
+516,illinois_CS 233
+517,illinois_CS 241
+518,illinois_CS 357
+519,illinois_CS 373
+520,illinois_CS 411
+521,illinois_CS 412
+522,illinois_CS 414
+523,illinois_CS 418
+524,illinois_CS 419
+525,illinois_CS 420
+526,illinois_CS 421
+527,illinois_CS 422
+528,illinois_CS 423
+529,illinois_CS 424
+530,illinois_CS 425
+531,illinois_CS 426
+532,illinois_CS 427
+533,illinois_CS 428
+534,illinois_CS 429
+535,illinois_CS 431
+536,illinois_CS 433
+537,illinois_CS 438
+538,illinois_CS 440
+539,illinois_CS 445
+540,illinois_CS 446
+541,illinois_CS 447
+542,illinois_CS 450
+543,illinois_CS 457
+544,illinois_CS 460
+545,illinois_CS 461
+546,illinois_CS 463
+547,illinois_CS 465
+548,illinois_CS 466
+549,illinois_CS 467
+550,illinois_CS 473
+551,illinois_CS 475
+552,illinois_CS 476
+553,illinois_CS 484
+554,illinois_CS 492
+555,illinois_CS 511
+556,illinois_CS 512
+557,illinois_CS 519
+558,illinois_CS 522
+559,illinois_CS 523
+560,illinois_CS 524
+561,illinois_CS 525
+562,illinois_CS 526
+563,illinois_CS 527
+564,illinois_CS 528
+565,illinois_CS 533
+566,illinois_CS 538
+567,illinois_CS 544
+568,illinois_CS 546
+569,illinois_CS 548
+570,illinois_CS 554
+571,illinois_CS 555
+572,illinois_CS 563
+573,illinois_CS 565
+574,illinois_CS 573
+575,illinois_CS 574
+576,illinois_CS 579
+577,illinois_CS 583
+578,iowa_CS:1110
+579,iowa_CS:1210
+580,iowa_CS:2110
+581,iowa_CS:2111
+582,iowa_CS:2210
+583,iowa_CS:2230
+584,iowa_CS:2420
+585,iowa_CS:2520
+586,iowa_CS:2620
+587,iowa_CS:2630
+588,iowa_CS:2820
+589,iowa_CS:3110
+590,iowa_CS:3330
+591,iowa_CS:3620
+592,iowa_CS:3640
+593,iowa_CS:3820
+594,iowa_CS:3910
+595,iowa_CS:3980
+596,iowa_CS:4330
+597,iowa_CS:4340
+598,iowa_CS:4350
+599,iowa_CS:4400
+600,iowa_CS:4420
+601,iowa_CS:4500
+602,iowa_CS:4520
+603,iowa_CS:4640
+604,iowa_CS:4700
+605,iowa_CS:4740
+606,iowa_CS:4980
+607,iowa_CS:5350
+608,iowa_CS:5520
+609,iowa_CS:5610
+610,iowa_CS:5620
+611,iowa_CS:5800
+612,iowa_CS:5810
+613,iowa_CS:5850
+614,maryland_CMSC 106
+615,maryland_CMSC 131
+616,maryland_CMSC 132
+617,maryland_CMSC 216
+618,maryland_CMSC 250
+619,maryland_CMSC 250H
+620,maryland_CMSC 330
+621,maryland_CMSC 351
+622,maryland_CMSC 411
+623,maryland_CMSC 412
+624,maryland_CMSC 414
+625,maryland_CMSC 417
+626,maryland_CMSC 420
+627,maryland_CMSC 421
+628,maryland_CMSC 422
+629,maryland_CMSC 423
+630,maryland_CMSC 424
+631,maryland_CMSC 426
+632,maryland_CMSC 427
+633,maryland_CMSC 430
+634,maryland_CMSC 433
+635,maryland_CMSC 434
+636,maryland_CMSC 435
+637,maryland_CMSC 451
+638,maryland_CMSC 456
+639,maryland_CMSC 460
+640,maryland_CMSC 466
+641,maryland_CMSC 631
+642,maryland_CMSC 666
+643,maryland_CMSC 714
+644,maryland_CMSC 723
+645,maryland_CMSC 725
+646,maryland_CMSC 733
+647,mit_6.0001
+648,mit_6.0002
+649,mit_6.002
+650,mit_6.003
+651,mit_6.004
+652,mit_6.005
+653,mit_6.006
+654,mit_6.008
+655,mit_6.01
+656,mit_6.011
+657,mit_6.013
+658,mit_6.02
+659,mit_6.021
+660,mit_6.033
+661,mit_6.034
+662,mit_6.035
+663,mit_6.036
+664,mit_6.041
+665,mit_6.042
+666,mit_6.045
+667,mit_6.046
+668,mit_6.047
+669,mit_6.071
+670,mit_6.101
+671,mit_6.111
+672,mit_6.115
+673,mit_6.131
+674,mit_6.141
+675,mit_6.142
+676,mit_6.152
+677,mit_6.161
+678,mit_6.172
+679,mit_6.175
+680,mit_6.231
+681,mit_6.241
+682,mit_6.242
+683,mit_6.245
+684,mit_6.251
+685,mit_6.254
+686,mit_6.256
+687,mit_6.262
+688,mit_6.263
+689,mit_6.267
+690,mit_6.268
+691,mit_6.336
+692,mit_6.341
+693,mit_6.344
+694,mit_6.345
+695,mit_6.374
+696,mit_6.431
+697,mit_6.434
+698,mit_6.435
+699,mit_6.436
+700,mit_6.437
+701,mit_6.438
+702,mit_6.440
+703,mit_6.441
+704,mit_6.442
+705,mit_6.450
+706,mit_6.452
+707,mit_6.453
+708,mit_6.456
+709,mit_6.503
+710,mit_6.552
+711,mit_6.556
+712,mit_6.581
+713,mit_6.630
+714,mit_6.634
+715,mit_6.637
+716,mit_6.673
+717,mit_6.685
+718,mit_6.701
+719,mit_6.720
+720,mit_6.728
+721,mit_6.775
+722,mit_6.776
+723,mit_6.801
+724,mit_6.806
+725,mit_6.813
+726,mit_6.814
+727,mit_6.815
+728,mit_6.816
+729,mit_6.819
+730,mit_6.820
+731,mit_6.823
+732,mit_6.824
+733,mit_6.828
+734,mit_6.829
+735,mit_6.830
+736,mit_6.831
+737,mit_6.832
+738,mit_6.835
+739,mit_6.836
+740,mit_6.837
+741,mit_6.838
+742,mit_6.839
+743,mit_6.842
+744,mit_6.845
+745,mit_6.846
+746,mit_6.849
+747,mit_6.850
+748,mit_6.851
+749,mit_6.852
+750,mit_6.853
+751,mit_6.854
+752,mit_6.856
+753,mit_6.857
+754,mit_6.858
+755,mit_6.863
+756,mit_6.864
+757,mit_6.865
+758,mit_6.866
+759,mit_6.867
+760,mit_6.869
+761,mit_6.870
+762,mit_6.871
+763,mit_6.872
+764,mit_6.874
+765,mit_6.875
+766,mit_6.876
+767,mit_6.905
+768,mit_6.932
+769,mit_6.945
+770,mit_6.S04
+771,mit_6.UAR
+772,mit_6.UAT
+773,mit_6.UR
+774,msu_CSE 101
+775,msu_CSE 131
+776,msu_CSE 201
+777,msu_CSE 231
+778,msu_CSE 232
+779,msu_CSE 251
+780,msu_CSE 260
+781,msu_CSE 320
+782,msu_CSE 331
+783,msu_CSE 335
+784,msu_CSE 420
+785,msu_CSE 422
+786,msu_CSE 425
+787,msu_CSE 429
+788,msu_CSE 435
+789,msu_CSE 440
+790,msu_CSE 450
+791,msu_CSE 460
+792,msu_CSE 471
+793,msu_CSE 472
+794,msu_CSE 473
+795,msu_CSE 476
+796,msu_CSE 477
+797,msu_CSE 480
+798,msu_CSE 484
+799,msu_CSE 498
+800,msu_CSE 814
+801,msu_CSE 836
+802,msu_CSE 841
+803,msu_CSE 843
+804,msu_CSE 847
+805,msu_CSE 914
+806,"princeton_COS  109,EGR  109"
+807,"princeton_COS  126,EGR  126"
+808,princeton_COS  217
+809,princeton_COS  226
+810,princeton_COS  318
+811,princeton_COS  326
+812,princeton_COS  340
+813,"princeton_COS  375,ELE  375"
+814,princeton_COS  402
+815,princeton_COS  429
+816,"princeton_COS  432,ELE  432"
+817,princeton_COS  451
+818,princeton_COS  513
+819,princeton_COS  518
+820,princeton_COS  597B
+821,"princeton_ELE  475,COS  475"
+822,psu_CMPSC 102
+823,psu_CMPSC 121
+824,psu_CMPSC 122
+825,psu_CMPSC 201
+826,psu_CMPSC 221
+827,psu_CMPSC 302
+828,psu_CMPSC 311
+829,psu_CMPSC 312
+830,psu_CMPSC 313
+831,psu_CMPSC 360
+832,psu_CMPSC 397A
+833,psu_CMPSC 402
+834,psu_CMPSC 421
+835,psu_CMPSC 426
+836,psu_CMPSC 430
+837,psu_CMPSC 431W
+838,psu_CMPSC 436
+839,psu_CMPSC 438
+840,psu_CMPSC 441
+841,psu_CMPSC 442
+842,psu_CMPSC 443
+843,psu_CMPSC 444
+844,psu_CMPSC 448
+845,psu_CMPSC 450
+846,psu_CMPSC 451
+847,psu_CMPSC 455
+848,psu_CMPSC 456
+849,psu_CMPSC 457
+850,psu_CMPSC 458
+851,psu_CMPSC 459
+852,psu_CMPSC 460
+853,psu_CMPSC 461
+854,psu_CMPSC 462
+855,psu_CMPSC 463
+856,psu_CMPSC 464
+857,psu_CMPSC 465
+858,psu_CMPSC 467
+859,psu_CMPSC 470
+860,psu_CMPSC 471
+861,psu_CMPSC 472
+862,psu_CMPSC 473
+863,psu_CMPSC 474
+864,psu_CMPSC 475
+865,psu_CMPSC 483W
+866,psu_CMPSC 484
+867,psu_CMPSC 485W
+868,psu_CMPSC 487W
+869,psu_CMPSC 488
+870,psu_CMPSC 497B
+871,psu_CSE 511
+872,psu_CSE 520
+873,psu_CSE 522
+874,psu_CSE 530
+875,psu_CSE 532
+876,psu_CSE 537
+877,psu_CSE 539
+878,psu_CSE 541
+879,psu_CSE 542
+880,psu_CSE 543
+881,psu_CSE 544
+882,psu_CSE 545
+883,psu_CSE 550
+884,psu_CSE 552
+885,psu_CSE 555
+886,psu_CSE 557
+887,psu_CSE 560
+888,psu_CSE 562
+889,psu_CSE 563
+890,psu_CSE 564
+891,psu_CSE 565
+892,psu_CSE 588
+893,psu_CSE 597A
+894,purdue_CS 50200
+895,purdue_CS 50300
+896,purdue_CS 51400
+897,purdue_CS 52600
+898,purdue_CS 53500
+899,purdue_CS 53600
+900,purdue_CS 54100
+901,purdue_CS 54200
+902,purdue_CS 55500
+903,purdue_CS 58000
+904,purdue_CS 60300
+905,purdue_CS 61400
+906,purdue_CS 61500
+907,purdue_CS 62600
+908,purdue_CS 63500
+909,purdue_CS 63600
+910,purdue_CS 63800
+911,purdue_CS 64100
+912,purdue_CS 65500
+913,purdue_CS 66100
+914,stanford_CS 103
+915,stanford_CS 103A
+916,stanford_CS 106A
+917,stanford_CS 106B
+918,stanford_CS 107
+919,stanford_CS 107E
+920,stanford_CS 108
+921,stanford_CS 109
+922,stanford_CS 110
+923,stanford_CS 124
+924,stanford_CS 131
+925,stanford_CS 140
+926,stanford_CS 142
+927,stanford_CS 143
+928,stanford_CS 144
+929,stanford_CS 145
+930,stanford_CS 147
+931,stanford_CS 148
+932,stanford_CS 149
+933,stanford_CS 154
+934,stanford_CS 155
+935,stanford_CS 157
+936,stanford_CS 161
+937,stanford_CS 166
+938,stanford_CS 167
+939,stanford_CS 168
+940,stanford_CS 181
+941,stanford_CS 190
+942,stanford_CS 193P
+943,stanford_CS 194H
+944,stanford_CS 196
+945,stanford_CS 1C
+946,stanford_CS 205A
+947,stanford_CS 210A
+948,stanford_CS 210B
+949,stanford_CS 211
+950,stanford_CS 221
+951,stanford_CS 223A
+952,stanford_CS 224N
+953,stanford_CS 224U
+954,stanford_CS 225A
+955,stanford_CS 227B
+956,stanford_CS 228
+957,stanford_CS 229
+958,stanford_CS 229T
+959,stanford_CS 231A
+960,stanford_CS 231B
+961,stanford_CS 231M
+962,stanford_CS 231N
+963,stanford_CS 232
+964,stanford_CS 239
+965,stanford_CS 240
+966,stanford_CS 240H
+967,stanford_CS 241
+968,stanford_CS 242
+969,stanford_CS 243
+970,stanford_CS 244
+971,stanford_CS 244B
+972,stanford_CS 245
+973,stanford_CS 246
+974,stanford_CS 247
+975,stanford_CS 248
+976,stanford_CS 249A
+977,stanford_CS 255
+978,stanford_CS 261
+979,stanford_CS 262
+980,stanford_CS 265
+981,stanford_CS 267
+982,stanford_CS 275
+983,stanford_CS 279
+984,stanford_CS 294S
+985,stanford_CS 316
+986,stanford_CS 327A
+987,stanford_CS 345D
+988,stanford_CS 348A
+989,stanford_CS 348B
+990,stanford_CS 367
+991,stanford_CS 371
+992,stanford_CS 374
+993,stanford_CS 448J
+994,stanford_CS 448Z
+995,stanford_CS 476A
+996,stanford_CS 476B
+997,stanford_CS 549
+998,stanford_CS 9
+999,stanford_CS 92SI

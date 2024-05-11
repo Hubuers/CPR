@@ -1,0 +1,4227 @@
+13,r_contain_c,Mean Field Approximation
+140,r_contain_c,parsing
+263,r_contain_c,hidden markov models
+148,depend_on_r,33
+459,depend_on_r,460
+26,depend_on_r,29
+530,r_contain_c,regularization
+407,depend_on_r,458
+69,depend_on_r,495
+12,r_contain_c,probabilities
+338,r_contain_c,reinforcement learning
+460,depend_on_r,461
+484,r_contain_c,linear regression
+33,depend_on_r,129
+130,depend_on_r,515
+319,depend_on_r,329
+31,depend_on_r,39
+500,r_contain_c,learning
+40,r_contain_c,uncertainty
+387,r_contain_c,dimensionality reduction
+22,depend_on_r,24
+270,r_contain_c,predicate logic
+problem solving and search,depend_on_c,game playing in ai
+structured learning,depend_on_c,bio text mining
+21,r_contain_c,inference
+531,r_contain_c,probabilities
+probabilities,depend_on_c,structured learning
+linear algebra,depend_on_c,structured learning
+458,depend_on_r,85
+3,r_contain_c,probabilities
+470,r_contain_c,entropy
+word distributions,depend_on_c,topic modeling
+word embedding,depend_on_c,syntaxnet
+468,r_contain_c,beam search
+33,r_contain_c,search
+33,depend_on_r,470
+520,depend_on_r,533
+34,depend_on_r,160
+deep learning introduction,depend_on_c,word embedding
+166,r_contain_c,dependency parsing
+75,r_contain_c,singular value decomposition
+151,r_contain_c,dynamic programming
+259,depend_on_r,260
+534,r_contain_c,inference
+131,r_contain_c,parsing
+linguistics basics,depend_on_c,prosody
+321,r_contain_c,gradient descent
+263,depend_on_r,261
+129,r_contain_c,neural networks
+24,depend_on_r,22
+278,r_contain_c,perceptron
+465,r_contain_c,question answering
+30,r_contain_c,language modeling
+32,r_contain_c,others
+461,depend_on_r,469
+32,r_contain_c,edit distance
+131,r_contain_c,hidden markov models
+32,depend_on_r,149
+87,r_contain_c,dynamic programming
+139,r_contain_c,gradient descent
+154,r_contain_c,perceptron
+145,depend_on_r,32
+13,r_contain_c,markov chain monte carlo
+521,depend_on_r,513
+32,depend_on_r,474
+264,r_contain_c,programming languages
+bio text mining,depend_on_c,nlp for biology
+474,r_contain_c,regularization
+38,depend_on_r,40
+143,depend_on_r,147
+67,r_contain_c,probabilities
+calculus,depend_on_c,recursive neural network
+335,r_contain_c,bootstrapping
+31,r_contain_c,parsing
+text similarity,depend_on_c,event detection
+396,r_contain_c,context free grammar
+468,depend_on_r,70
+38,depend_on_r,32
+264,r_contain_c,feature selection
+163,r_contain_c,seq2seq
+parsing,depend_on_c,semantic parsing
+13,depend_on_r,7
+156,depend_on_r,158
+398,r_contain_c,question answering
+279,r_contain_c,learning
+40,r_contain_c,inference
+404,r_contain_c,learning
+74,r_contain_c,search
+274,r_contain_c,syntax
+399,r_contain_c,classification
+7,depend_on_r,9
+156,depend_on_r,148
+380,r_contain_c,neural networks
+275,r_contain_c,machine translation
+79,depend_on_r,77
+evaluation of text classification,depend_on_c,relation extraction
+15,r_contain_c,optimization
+271,r_contain_c,probabilities
+19,r_contain_c,clustering
+273,r_contain_c,entropy
+6,r_contain_c,classification
+machine learning resources,depend_on_c,spectral clustering
+146,r_contain_c,beam search
+128,depend_on_r,129
+332,r_contain_c,reinforcement learning
+129,depend_on_r,33
+328,r_contain_c,optimization
+519,r_contain_c,markov decision processes
+training neural networks,depend_on_c,recursive neural networks
+319,r_contain_c,optimization
+470,depend_on_r,469
+458,r_contain_c,optimization
+33,depend_on_r,159
+155,depend_on_r,515
+semantic similarity,depend_on_c,relation extraction
+268,depend_on_r,267
+397,r_contain_c,evaluation of dependency parsing
+272,r_contain_c,search
+124,r_contain_c,uncertainty
+485,r_contain_c,training neural networks
+480,r_contain_c,learning
+question answering,depend_on_c,neural question answering
+93,r_contain_c,dependency parsing
+331,r_contain_c,uncertainty
+86,r_contain_c,parts of speech
+531,r_contain_c,learning
+dimensionality reduction,depend_on_c,Principal Component Analysis
+338,r_contain_c,optimization
+278,depend_on_r,148
+92,depend_on_r,458
+5,r_contain_c,conditional probability
+387,r_contain_c,entropy
+320,depend_on_r,319
+32,depend_on_r,261
+39,r_contain_c,learning
+336,r_contain_c,variational autoencoders
+325,depend_on_r,324
+261,r_contain_c,probabilities
+35,r_contain_c,paraphrasing
+129,depend_on_r,135
+125,r_contain_c,learning
+532,r_contain_c,probabilities
+278,depend_on_r,259
+488,r_contain_c,logistic regression
+17,r_contain_c,inference
+information retrieval,depend_on_c,toolkits for information retrieval
+28,r_contain_c,kernels
+72,r_contain_c,caption generation
+139,depend_on_r,134
+390,r_contain_c,Naive Bayes
+324,r_contain_c,learning
+534,r_contain_c,reinforcement learning
+340,r_contain_c,domain adaptation
+278,depend_on_r,34
+natural language processing intro,depend_on_c,lexicography
+160,depend_on_r,30
+natural language processing intro,depend_on_c,semantic similarity
+339,depend_on_r,319
+278,r_contain_c,vector representations
+83,depend_on_r,392
+508,r_contain_c,neural networks
+401,r_contain_c,question answering
+388,r_contain_c,information extraction
+160,r_contain_c,entailment
+406,r_contain_c,named entity recognition
+533,depend_on_r,517
+458,r_contain_c,python
+474,depend_on_r,472
+80,r_contain_c,regularization
+521,r_contain_c,uncertainty
+279,depend_on_r,263
+466,depend_on_r,460
+15,r_contain_c,search
+natural language processing intro,depend_on_c,nlp for the humanities
+40,depend_on_r,35
+161,r_contain_c,syntax
+151,r_contain_c,lexicalized parsing
+language modeling,depend_on_c,evaluation of language modeling
+264,depend_on_r,266
+148,depend_on_r,271
+259,r_contain_c,learning
+379,r_contain_c,Unsupervised learning
+probabilities,depend_on_c,word distributions
+125,depend_on_r,149
+515,depend_on_r,135
+structured learning,depend_on_c,automated essay scoring
+268,r_contain_c,dependency parsing
+30,depend_on_r,142
+278,depend_on_r,149
+machine learning resources,depend_on_c,game playing in ai
+dimensionality reduction,depend_on_c,Manifold Learning
+calculus,depend_on_c,mathematical models
+32,r_contain_c,logistic regression
+21,r_contain_c,particle filter
+135,depend_on_r,125
+267,r_contain_c,unlexicalized parsing
+structured learning,depend_on_c,text mining
+138,r_contain_c,optimization
+467,depend_on_r,407
+264,r_contain_c,probabilities
+338,r_contain_c,planning
+329,depend_on_r,330
+35,depend_on_r,154
+406,r_contain_c,named entity recognition
+27,r_contain_c,markov chain monte carlo
+464,r_contain_c,dependency syntax
+482,depend_on_r,125
+30,depend_on_r,468
+161,r_contain_c,neural networks
+7,depend_on_r,13
+91,r_contain_c,entropy
+23,r_contain_c,matrix multiplication
+393,r_contain_c,perceptron
+31,r_contain_c,conditional probability
+29,depend_on_r,14
+135,r_contain_c,regularization
+14,r_contain_c,optimization
+278,r_contain_c,n-gram models
+37,r_contain_c,robotics
+530,r_contain_c,learning
+339,depend_on_r,335
+37,depend_on_r,36
+257,r_contain_c,syntax
+144,r_contain_c,inference
+165,r_contain_c,penn treebank
+472,depend_on_r,35
+485,depend_on_r,147
+387,r_contain_c,linear discriminant analysis
+60,r_contain_c,named entity recognition
+480,r_contain_c,gradient descent
+machine learning resources,depend_on_c,log-linear models
+323,r_contain_c,search
+89,r_contain_c,language modeling
+334,r_contain_c,learning
+84,depend_on_r,76
+491,r_contain_c,learning
+90,r_contain_c,learning
+501,r_contain_c,neural networks
+483,r_contain_c,matrix factorization
+404,r_contain_c,classification
+273,r_contain_c,activation functions
+160,depend_on_r,158
+126,depend_on_r,32
+8,depend_on_r,16
+134,r_contain_c,parsing
+126,depend_on_r,482
+82,r_contain_c,classification
+532,r_contain_c,activation functions
+machine learning resources,depend_on_c,semi-supervised learning
+257,depend_on_r,277
+27,depend_on_r,2
+129,r_contain_c,normalization
+158,depend_on_r,149
+474,r_contain_c,inference
+155,depend_on_r,466
+structured learning,depend_on_c,vector semantics
+143,r_contain_c,support vector machines
+501,r_contain_c,beam search
+389,r_contain_c,information extraction
+31,depend_on_r,32
+125,r_contain_c,object detection
+13,r_contain_c,clustering
+logic and logical agents,depend_on_c,agent-based view of ai
+465,depend_on_r,392
+86,r_contain_c,perceptron
+461,depend_on_r,470
+148,depend_on_r,32
+40,depend_on_r,125
+407,depend_on_r,393
+461,r_contain_c,entropy
+163,depend_on_r,149
+472,depend_on_r,469
+94,r_contain_c,classification
+407,r_contain_c,syntax
+340,r_contain_c,transfer learning
+information retrieval,depend_on_c,document ranking
+407,depend_on_r,74
+125,depend_on_r,126
+461,depend_on_r,30
+264,depend_on_r,270
+23,r_contain_c,Hilbert Space
+random walks and harmonic functions,depend_on_c,weakly-supervised learning
+279,depend_on_r,262
+16,r_contain_c,markov chain monte carlo
+329,r_contain_c,learning
+387,r_contain_c,Autoencoders
+155,depend_on_r,30
+text similarity,depend_on_c,word sense disambiguation
+474,depend_on_r,32
+263,r_contain_c,probabilities
+324,r_contain_c,AlphaGo
+482,r_contain_c,neural networks
+35,r_contain_c,entropy
+525,r_contain_c,Variable Elimination
+273,r_contain_c,optimization
+401,r_contain_c,classification
+388,r_contain_c,question answering
+259,depend_on_r,278
+466,depend_on_r,32
+84,r_contain_c,learning
+533,r_contain_c,decision trees
+36,r_contain_c,entailment
+530,depend_on_r,135
+30,depend_on_r,135
+sentence representations,depend_on_c,text mining
+533,depend_on_r,521
+78,depend_on_r,79
+526,r_contain_c,monte carlo methods
+278,r_contain_c,learning
+40,depend_on_r,34
+533,r_contain_c,conditional probability
+146,depend_on_r,143
+160,depend_on_r,156
+500,r_contain_c,named entity recognition
+525,r_contain_c,Sampling
+528,r_contain_c,speech recognition
+481,depend_on_r,485
+279,depend_on_r,261
+29,r_contain_c,others
+532,r_contain_c,classification
+154,r_contain_c,beam search
+398,depend_on_r,83
+466,depend_on_r,464
+465,r_contain_c,entropy
+natural language processing intro,depend_on_c,automated essay scoring
+380,r_contain_c,bagging
+476,r_contain_c,learning
+473,r_contain_c,normalization
+406,r_contain_c,inference
+394,r_contain_c,vector representations
+143,r_contain_c,gradient descent
+26,r_contain_c,linear regression
+135,r_contain_c,perceptron
+323,r_contain_c,reinforcement learning
+388,depend_on_r,458
+264,r_contain_c,learning
+129,depend_on_r,149
+164,depend_on_r,146
+26,r_contain_c,others
+35,r_contain_c,learning
+474,depend_on_r,460
+69,r_contain_c,convolutional neural network
+30,depend_on_r,149
+532,r_contain_c,maximum likelihood estimation
+70,r_contain_c,syntax
+Markov chains,depend_on_c,markov decision processes
+534,r_contain_c,optimization
+511,r_contain_c,classification
+18,r_contain_c,markov chain monte carlo
+385,r_contain_c,dimensionality reduction
+linguistics basics,depend_on_c,morphology and lexicon
+392,depend_on_r,398
+149,r_contain_c,learning
+86,depend_on_r,398
+394,r_contain_c,dynamic programming
+407,depend_on_r,134
+40,depend_on_r,160
+140,r_contain_c,learning
+125,depend_on_r,33
+148,r_contain_c,neural networks
+convolutional neural networks,depend_on_c,graph convolutional networks
+35,r_contain_c,question answering
+473,r_contain_c,loss function
+348,r_contain_c,learning
+33,depend_on_r,466
+472,r_contain_c,question answering
+166,depend_on_r,155
+71,r_contain_c,sentence representations
+533,r_contain_c,object detection
+84,depend_on_r,459
+534,r_contain_c,Unsupervised learning
+131,r_contain_c,structured prediction
+130,depend_on_r,163
+332,r_contain_c,Unsupervised learning
+486,r_contain_c,neural networks
+129,r_contain_c,logistic regression
+130,r_contain_c,optimization
+129,depend_on_r,148
+528,depend_on_r,517
+258,depend_on_r,272
+81,r_contain_c,logistic regression
+linguistics basics,depend_on_c,penn treebank
+511,r_contain_c,expert systems
+533,r_contain_c,neural machine translation
+271,r_contain_c,language modeling
+511,depend_on_r,517
+vector representations,depend_on_c,structured learning
+69,r_contain_c,neural networks
+32,r_contain_c,named entity recognition
+linguistics basics,depend_on_c,nlp for the humanities
+376,r_contain_c,graphical models
+135,depend_on_r,155
+67,r_contain_c,language modeling
+473,r_contain_c,optimization
+124,r_contain_c,semi-supervised learning
+383,r_contain_c,optimization
+476,r_contain_c,Unsupervised learning
+30,depend_on_r,160
+504,r_contain_c,regularization
+88,r_contain_c,linear programming
+394,r_contain_c,named entity recognition
+511,r_contain_c,speech recognition
+74,depend_on_r,398
+532,r_contain_c,neural machine translation
+70,depend_on_r,71
+39,r_contain_c,probabilities
+classic parsing methods,depend_on_c,shift-reduce parsing
+160,depend_on_r,34
+461,r_contain_c,matrix multiplication
+129,r_contain_c,classification
+linear algebra,depend_on_c,spectral methods
+83,r_contain_c,language modeling
+85,r_contain_c,long short term memory networks
+322,r_contain_c,monte carlo tree search
+339,r_contain_c,optimization
+388,r_contain_c,parts of speech
+126,depend_on_r,135
+34,depend_on_r,30
+2,r_contain_c,conditional probability
+466,r_contain_c,gated recurrent units
+linguistics basics,depend_on_c,word sense disambiguation
+62,r_contain_c,word embedding
+22,r_contain_c,entropy
+332,r_contain_c,entropy
+13,r_contain_c,monte carlo methods
+257,depend_on_r,269
+278,r_contain_c,Sampling
+loss function,depend_on_c,Variations of GANs
+461,r_contain_c,logistic regression
+94,r_contain_c,neural networks
+275,r_contain_c,learning
+337,r_contain_c,entropy
+130,r_contain_c,structured prediction
+32,r_contain_c,named entity recognition
+269,depend_on_r,264
+466,depend_on_r,126
+468,r_contain_c,search
+147,r_contain_c,search
+163,r_contain_c,reinforcement learning
+520,depend_on_r,528
+496,r_contain_c,learning
+531,r_contain_c,logistic regression
+321,r_contain_c,neural networks
+parsing,depend_on_c,neural parsing
+528,r_contain_c,conditional probability
+275,depend_on_r,259
+473,r_contain_c,named entity recognition
+509,r_contain_c,preprocessing
+516,depend_on_r,528
+32,depend_on_r,31
+backpropagation,depend_on_c,Variations of GANs
+279,depend_on_r,278
+471,r_contain_c,backpropagation
+87,r_contain_c,classification
+31,r_contain_c,vector representations
+10,r_contain_c,optimization
+32,r_contain_c,language modeling
+513,r_contain_c,speech recognition
+333,r_contain_c,Sampling
+88,r_contain_c,information extraction
+486,r_contain_c,learning
+161,r_contain_c,seq2seq
+129,r_contain_c,hidden markov models
+131,r_contain_c,inference
+458,depend_on_r,340
+35,r_contain_c,information retrieval
+257,r_contain_c,python
+158,depend_on_r,466
+35,depend_on_r,129
+30,depend_on_r,279
+linguistics basics,depend_on_c,edit distance
+327,r_contain_c,regularization
+40,depend_on_r,32
+520,r_contain_c,reinforcement learning
+466,depend_on_r,470
+92,r_contain_c,learning
+331,r_contain_c,Sampling
+34,depend_on_r,33
+word embedding,depend_on_c,word embedding variations
+391,r_contain_c,classification
+83,depend_on_r,398
+484,r_contain_c,search
+497,r_contain_c,neural networks
+325,r_contain_c,gradient descent
+469,r_contain_c,Autoencoders
+deep learning introduction,depend_on_c,stack lstm
+261,depend_on_r,33
+20,r_contain_c,clustering
+279,r_contain_c,logistic regression
+276,r_contain_c,neural networks
+468,depend_on_r,158
+66,r_contain_c,cross entropy
+470,depend_on_r,33
+probabilities,depend_on_c,course introduction
+3,depend_on_r,16
+15,depend_on_r,12
+522,r_contain_c,uncertainty
+30,r_contain_c,speech recognition
+521,depend_on_r,511
+probabilities,depend_on_c,question answering
+465,depend_on_r,388
+502,r_contain_c,python
+calculus,depend_on_c,Meta-Learning
+34,depend_on_r,261
+263,r_contain_c,parsing
+474,depend_on_r,466
+138,r_contain_c,structured prediction
+159,r_contain_c,search
+509,r_contain_c,backpropagation
+462,r_contain_c,neural networks
+332,r_contain_c,information theory
+93,r_contain_c,machine translation
+390,depend_on_r,75
+125,depend_on_r,482
+74,r_contain_c,structured prediction
+477,r_contain_c,reinforcement learning
+152,r_contain_c,parsing
+387,r_contain_c,optimization
+linguistics basics,depend_on_c,text to speech generation
+471,r_contain_c,recursive neural network
+272,r_contain_c,machine translation
+478,depend_on_r,481
+133,r_contain_c,information retrieval
+16,r_contain_c,inference
+483,r_contain_c,learning
+linguistics basics,depend_on_c,language modeling
+388,depend_on_r,74
+Principal Component Analysis,depend_on_c,Manifold Learning
+469,depend_on_r,156
+323,r_contain_c,optimization
+272,r_contain_c,word sense disambiguation
+278,r_contain_c,semantic role labeling
+140,r_contain_c,semi-supervised learning
+26,depend_on_r,14
+37,r_contain_c,learning
+261,r_contain_c,semantic parsing
+267,r_contain_c,shift-reduce parsing
+34,depend_on_r,158
+154,depend_on_r,155
+522,r_contain_c,speech recognition
+343,r_contain_c,calculus
+512,r_contain_c,search
+472,depend_on_r,474
+probabilities,depend_on_c,bayes theorem
+261,r_contain_c,parsing
+19,r_contain_c,Sampling
+498,r_contain_c,classification
+29,r_contain_c,uncertainty
+328,r_contain_c,monte carlo tree search
+neural summarization,depend_on_c,scientific article summarization
+148,r_contain_c,Sampling
+279,depend_on_r,260
+407,r_contain_c,logistic regression
+525,r_contain_c,conditional probability
+521,r_contain_c,reinforcement learning
+142,depend_on_r,162
+261,depend_on_r,276
+378,r_contain_c,feature selection
+natural language processing intro,depend_on_c,chomsky hierarchy
+6,depend_on_r,9
+96,r_contain_c,word sense disambiguation
+15,depend_on_r,3
+468,depend_on_r,474
+145,r_contain_c,dynamic programming
+515,r_contain_c,adversarial search
+random walks and harmonic functions,depend_on_c,semi-supervised learning
+natural language processing intro,depend_on_c,context free grammars
+134,depend_on_r,347
+263,r_contain_c,dynamic programming
+376,r_contain_c,preprocessing
+25,r_contain_c,optimization
+82,r_contain_c,machine translation
+17,r_contain_c,Mixture Models
+458,depend_on_r,388
+492,r_contain_c,classification
+478,r_contain_c,optimization
+linear algebra,depend_on_c,machine learning resources
+78,r_contain_c,conditional probability
+34,depend_on_r,38
+473,depend_on_r,468
+158,depend_on_r,35
+160,depend_on_r,155
+475,r_contain_c,machine translation
+32,depend_on_r,34
+34,depend_on_r,154
+78,r_contain_c,perceptron
+90,r_contain_c,search
+23,r_contain_c,conditional probability
+loss function,depend_on_c,machine learning resources
+474,r_contain_c,reinforcement learning
+503,r_contain_c,neural networks
+511,r_contain_c,machine translation
+vector representations,depend_on_c,text mining
+91,depend_on_r,92
+476,r_contain_c,ResNet
+24,r_contain_c,learning
+343,depend_on_r,340
+394,depend_on_r,146
+59,r_contain_c,gradient descent
+32,depend_on_r,468
+329,r_contain_c,reinforcement learning
+389,depend_on_r,398
+141,r_contain_c,linear programming
+natural language processing intro,depend_on_c,document representation
+529,r_contain_c,probabilities
+33,r_contain_c,syntaxnet
+135,r_contain_c,structured prediction
+77,r_contain_c,perceptron
+29,r_contain_c,regularization
+126,depend_on_r,129
+272,r_contain_c,learning
+37,r_contain_c,classification
+339,r_contain_c,reinforcement learning
+structured learning,depend_on_c,recommendation system
+128,r_contain_c,shallow parsing
+259,depend_on_r,263
+267,r_contain_c,penn treebank
+379,r_contain_c,optimization
+271,r_contain_c,question answering
+9,r_contain_c,clustering
+linguistics basics,depend_on_c,chomsky hierarchy
+528,depend_on_r,533
+59,r_contain_c,statistical machine translation
+38,depend_on_r,155
+469,r_contain_c,normalization
+text similarity,depend_on_c,recommendation system
+258,depend_on_r,269
+460,depend_on_r,390
+158,depend_on_r,37
+257,r_contain_c,inference
+333,r_contain_c,dynamic programming
+68,r_contain_c,search
+86,r_contain_c,machine translation
+469,depend_on_r,33
+511,r_contain_c,learning
+389,depend_on_r,392
+163,depend_on_r,40
+263,r_contain_c,entropy
+132,r_contain_c,structured learning
+529,r_contain_c,hidden markov models
+part of speech tagging,depend_on_c,statistical part of speech tagging
+40,r_contain_c,seq2seq
+latent variable models,depend_on_c,latent dirichlet allocation
+472,r_contain_c,regularization
+488,r_contain_c,activation functions
+486,r_contain_c,regularization
+2,r_contain_c,bayesian network
+532,depend_on_r,533
+95,r_contain_c,learning
+464,r_contain_c,inference
+458,depend_on_r,461
+143,r_contain_c,learning
+37,r_contain_c,probabilities
+376,r_contain_c,entropy
+165,r_contain_c,learning
+482,r_contain_c,search
+62,r_contain_c,matrix factorization
+262,depend_on_r,279
+31,r_contain_c,robotics
+8,depend_on_r,3
+469,depend_on_r,470
+273,r_contain_c,language modeling
+calculus,depend_on_c,structured sparsity
+516,r_contain_c,adversarial search
+149,depend_on_r,155
+19,r_contain_c,inference
+90,depend_on_r,91
+376,r_contain_c,decision trees
+464,r_contain_c,penn treebank
+96,r_contain_c,machine translation
+465,r_contain_c,gradient descent
+485,r_contain_c,perceptron
+530,r_contain_c,classification
+singular value decomposition,depend_on_c,Principal Component Analysis
+61,depend_on_r,144
+464,r_contain_c,bootstrapping
+30,depend_on_r,458
+474,r_contain_c,search
+395,r_contain_c,parsing
+153,r_contain_c,dependency syntax
+logic and reasoning,depend_on_c,knowledge representation
+516,depend_on_r,513
+natural language processing intro,depend_on_c,query expansion
+402,r_contain_c,wordnet
+484,r_contain_c,optimization
+linguistics basics,depend_on_c,phonetics
+130,r_contain_c,structured learning
+92,r_contain_c,neural machine translation
+279,depend_on_r,273
+391,r_contain_c,perceptron
+391,r_contain_c,logistic regression
+259,depend_on_r,276
+402,r_contain_c,paraphrasing
+469,depend_on_r,32
+459,r_contain_c,learning
+157,depend_on_r,155
+69,r_contain_c,learning
+68,r_contain_c,inference
+271,depend_on_r,279
+15,r_contain_c,calculus
+514,depend_on_r,515
+20,r_contain_c,gibbs sampling
+37,r_contain_c,others
+335,depend_on_r,339
+382,depend_on_r,384
+natural language processing intro,depend_on_c,knowledge representation
+86,r_contain_c,penn treebank
+473,r_contain_c,question answering
+1,r_contain_c,bayesian network
+context free grammar,depend_on_c,context sensitive grammar
+400,r_contain_c,vector semantics
+lexical semantics,depend_on_c,thesaurus-based similarity
+160,depend_on_r,36
+458,r_contain_c,speech recognition
+164,r_contain_c,language modeling
+74,r_contain_c,classification
+483,r_contain_c,loss function
+83,depend_on_r,90
+8,depend_on_r,18
+258,r_contain_c,tokenization
+23,r_contain_c,Belief Propagation
+148,depend_on_r,149
+331,depend_on_r,329
+481,r_contain_c,gradient descent
+501,r_contain_c,learning
+398,depend_on_r,74
+22,r_contain_c,inference
+398,depend_on_r,93
+467,r_contain_c,parsing
+278,r_contain_c,probabilities
+73,r_contain_c,learning
+148,depend_on_r,461
+38,r_contain_c,probabilities
+459,depend_on_r,461
+16,r_contain_c,Mean Field Approximation
+word distributions,depend_on_c,character level language models
+sentence representations,depend_on_c,text summarization
+vector semantics,depend_on_c,tsne
+266,depend_on_r,265
+390,r_contain_c,language identification
+262,depend_on_r,33
+34,r_contain_c,clustering
+266,r_contain_c,statistical parsing
+266,depend_on_r,264
+32,r_contain_c,hidden markov models
+464,r_contain_c,evaluation of dependency parsing
+85,depend_on_r,83
+515,depend_on_r,155
+407,r_contain_c,learning
+466,r_contain_c,entropy
+397,r_contain_c,relation extraction
+chinese nlp,depend_on_c,grammar checker
+524,r_contain_c,conditional probability
+139,depend_on_r,347
+458,r_contain_c,question answering
+458,r_contain_c,imagenet
+508,r_contain_c,regularization
+12,depend_on_r,7
+319,r_contain_c,monte carlo tree search
+39,depend_on_r,32
+25,r_contain_c,learning
+159,r_contain_c,noisy channel model
+18,r_contain_c,clustering
+17,depend_on_r,18
+11,r_contain_c,gradient descent
+340,depend_on_r,329
+14,depend_on_r,26
+124,r_contain_c,learning
+3,depend_on_r,5
+long short term memory networks,depend_on_c,neural question answering
+319,depend_on_r,340
+natural language processing intro,depend_on_c,machine translation
+29,r_contain_c,latent variable models
+340,depend_on_r,458
+258,r_contain_c,machine translation
+89,r_contain_c,statistical machine translation
+natural language processing intro,depend_on_c,text to speech generation
+59,r_contain_c,machine translation
+143,r_contain_c,perceptron
+25,r_contain_c,graphical models
+387,r_contain_c,probabilities
+30,depend_on_r,35
+12,depend_on_r,15
+139,depend_on_r,461
+17,depend_on_r,27
+279,r_contain_c,n-gram models
+474,r_contain_c,transfer learning
+59,r_contain_c,recurrent neural networks
+1,r_contain_c,information retrieval
+465,r_contain_c,backpropagation
+tree adjoining grammar,depend_on_c,context sensitive grammar
+33,depend_on_r,125
+474,depend_on_r,468
+64,r_contain_c,loss function
+calculus,depend_on_c,machine learning resources
+476,r_contain_c,autonomous cars
+16,depend_on_r,3
+linguistics basics,depend_on_c,lexicography
+32,r_contain_c,bootstrapping
+259,depend_on_r,275
+331,r_contain_c,learning
+319,r_contain_c,Meta-Learning
+84,r_contain_c,word embedding
+517,r_contain_c,reinforcement learning
+485,depend_on_r,481
+471,r_contain_c,stemming
+468,r_contain_c,regularization
+533,r_contain_c,perceptron
+398,r_contain_c,python
+339,r_contain_c,entropy
+269,depend_on_r,270
+evaluation of text classification,depend_on_c,sentiment analysis
+19,depend_on_r,21
+144,r_contain_c,imagenet
+145,r_contain_c,Markov chains
+273,r_contain_c,probabilities
+linguistics basics,depend_on_c,spelling correction
+492,r_contain_c,learning
+139,r_contain_c,conditional probability
+272,r_contain_c,wordnet
+38,r_contain_c,neural machine translation
+124,r_contain_c,relation extraction
+280,r_contain_c,machine translation
+145,depend_on_r,33
+464,r_contain_c,probabilities
+28,r_contain_c,entropy
+467,depend_on_r,468
+59,r_contain_c,sentence representations
+77,r_contain_c,classification
+392,depend_on_r,84
+1,r_contain_c,kernels
+384,depend_on_r,382
+machine translation techniques,depend_on_c,neural machine translation
+501,r_contain_c,recurrent neural networks
+474,r_contain_c,Mixture Models
+33,depend_on_r,155
+340,depend_on_r,142
+511,r_contain_c,dialog systems
+129,depend_on_r,155
+472,r_contain_c,neural networks
+26,r_contain_c,structured sparsity
+70,r_contain_c,Sequence to sequence
+261,r_contain_c,speech recognition
+528,r_contain_c,pagerank
+calculus,depend_on_c,harmonic functions
+structured learning,depend_on_c,word distributions
+relation extraction,depend_on_c,social media analysis
+526,r_contain_c,learning
+322,depend_on_r,326
+14,r_contain_c,graphical models
+502,r_contain_c,learning
+402,r_contain_c,others
+472,depend_on_r,466
+76,r_contain_c,wordnet
+529,r_contain_c,speech recognition
+143,depend_on_r,144
+471,r_contain_c,recursive neural networks
+466,depend_on_r,156
+319,depend_on_r,339
+semi-supervised learning,depend_on_c,graph convolutional networks
+76,depend_on_r,86
+405,r_contain_c,parsing
+468,r_contain_c,caption generation
+459,depend_on_r,392
+278,r_contain_c,machine translation
+135,depend_on_r,142
+149,depend_on_r,129
+18,depend_on_r,17
+402,r_contain_c,learning
+81,r_contain_c,classification
+468,r_contain_c,seq2seq
+521,depend_on_r,517
+278,depend_on_r,279
+38,depend_on_r,31
+263,r_contain_c,graphical models
+533,depend_on_r,531
+319,r_contain_c,neural networks
+83,depend_on_r,458
+482,depend_on_r,129
+3,r_contain_c,conditional probability
+7,depend_on_r,18
+34,r_contain_c,logistic regression
+278,depend_on_r,258
+1,r_contain_c,markov decision processes
+466,depend_on_r,33
+129,r_contain_c,Markov chains
+12,r_contain_c,conditional probability
+257,r_contain_c,machine translation
+17,r_contain_c,monte carlo methods
+38,depend_on_r,34
+320,r_contain_c,Sampling
+479,r_contain_c,loss function
+404,r_contain_c,information extraction
+155,depend_on_r,130
+77,r_contain_c,language identification
+13,depend_on_r,3
+328,r_contain_c,learning
+163,depend_on_r,35
+163,depend_on_r,166
+139,r_contain_c,entropy
+Sampling,depend_on_c,gibbs sampling
+1,r_contain_c,planning
+380,r_contain_c,bias-variance
+153,r_contain_c,syntax
+probabilities,depend_on_c,speech processing
+137,r_contain_c,beam search
+26,r_contain_c,kernel function
+optimization,depend_on_c,Meta-Learning
+393,depend_on_r,392
+164,depend_on_r,32
+linguistics basics,depend_on_c,feature selection
+145,r_contain_c,syntax
+482,r_contain_c,classification
+326,r_contain_c,reinforcement learning
+465,depend_on_r,458
+271,depend_on_r,276
+343,r_contain_c,linear algebra
+268,r_contain_c,context-sensitive grammars
+30,r_contain_c,machine translation
+273,r_contain_c,learning
+388,r_contain_c,word sense disambiguation
+natural language processing intro,depend_on_c,language modeling
+8,r_contain_c,logistic regression
+398,r_contain_c,information extraction
+1,r_contain_c,recommendation system
+163,depend_on_r,160
+139,r_contain_c,normalization
+94,r_contain_c,parsing
+275,r_contain_c,statistical machine translation
+166,depend_on_r,154
+465,depend_on_r,347
+526,r_contain_c,inference
+463,r_contain_c,python
+12,r_contain_c,bayes theorem
+257,r_contain_c,discourse model
+34,r_contain_c,paraphrasing
+331,r_contain_c,bootstrapping
+129,depend_on_r,32
+266,r_contain_c,dynamic programming
+479,depend_on_r,481
+94,depend_on_r,95
+68,r_contain_c,entailment
+464,r_contain_c,vector representations
+468,depend_on_r,32
+496,r_contain_c,computer vision
+266,r_contain_c,learning
+529,r_contain_c,Sampling
+18,r_contain_c,graphical models
+162,r_contain_c,others
+166,r_contain_c,gibbs sampling
+142,r_contain_c,penn treebank
+325,r_contain_c,dynamic programming
+461,depend_on_r,134
+139,depend_on_r,459
+520,depend_on_r,513
+530,r_contain_c,optimization
+32,depend_on_r,30
+473,r_contain_c,regularization
+463,depend_on_r,164
+164,depend_on_r,463
+393,r_contain_c,others
+130,r_contain_c,perceptron
+30,r_contain_c,linear algebra
+79,r_contain_c,calculus
+6,r_contain_c,learning
+481,r_contain_c,loss function
+506,r_contain_c,classification
+142,r_contain_c,Unsupervised learning
+468,depend_on_r,469
+graph-based nlp,depend_on_c,citation networks
+474,r_contain_c,sentiment analysis
+7,r_contain_c,probabilities
+139,depend_on_r,466
+86,depend_on_r,93
+394,r_contain_c,learning
+465,r_contain_c,Sampling
+327,r_contain_c,reinforcement learning
+28,r_contain_c,normalization
+473,depend_on_r,30
+9,r_contain_c,classification
+407,r_contain_c,neural networks
+153,r_contain_c,syntaxnet
+322,depend_on_r,323
+83,depend_on_r,84
+8,r_contain_c,cross entropy
+515,depend_on_r,530
+9,r_contain_c,Unsupervised learning
+148,depend_on_r,469
+79,depend_on_r,78
+481,r_contain_c,optimization
+491,r_contain_c,optimization
+141,r_contain_c,conditional probability
+397,r_contain_c,dependency parsing
+40,r_contain_c,search
+163,r_contain_c,k-nn
+66,r_contain_c,language modeling
+142,r_contain_c,neural networks
+84,r_contain_c,neural language modeling
+optimization,depend_on_c,dual decomposition
+466,depend_on_r,34
+398,depend_on_r,76
+38,r_contain_c,attention models
+79,r_contain_c,regularization
+528,r_contain_c,Sampling
+33,depend_on_r,262
+508,r_contain_c,backpropagation
+496,r_contain_c,convolutional neural networks
+160,depend_on_r,135
+324,r_contain_c,reinforcement learning
+404,r_contain_c,Unsupervised learning
+500,r_contain_c,word embedding
+79,r_contain_c,classification
+4,r_contain_c,Message Passing
+468,depend_on_r,460
+Unsupervised learning,depend_on_c,tsne
+39,depend_on_r,35
+482,r_contain_c,learning
+125,depend_on_r,130
+458,r_contain_c,question answering
+129,depend_on_r,35
+263,depend_on_r,259
+1,r_contain_c,imagenet
+156,r_contain_c,learning
+34,depend_on_r,32
+257,depend_on_r,124
+natural language processing intro,depend_on_c,probabilistic context free grammars
+6,r_contain_c,logistic regression
+29,r_contain_c,normalization
+460,r_contain_c,clustering
+neural networks,depend_on_c,neural language modeling
+471,r_contain_c,wordnet
+linguistics basics,depend_on_c,cky parsing
+linguistics basics,depend_on_c,event detection
+10,r_contain_c,logistic regression
+30,depend_on_r,36
+82,depend_on_r,398
+136,r_contain_c,structured learning
+156,depend_on_r,466
+478,r_contain_c,backpropagation
+91,r_contain_c,beam search
+21,r_contain_c,Mixture Models
+82,r_contain_c,language modeling
+329,depend_on_r,319
+263,r_contain_c,logistic regression
+458,r_contain_c,regularization
+33,r_contain_c,calculus
+279,depend_on_r,30
+267,r_contain_c,data structures
+479,r_contain_c,logistic regression
+378,r_contain_c,python
+Unsupervised learning,depend_on_c,k means
+272,depend_on_r,277
+natural language processing intro,depend_on_c,recommendation system
+6,r_contain_c,Markov Random Fields
+272,r_contain_c,information retrieval
+394,r_contain_c,hidden markov models
+probabilistic grammars,depend_on_c,probabilistic context free grammars
+381,r_contain_c,learning
+16,r_contain_c,graphical models
+401,r_contain_c,syntax
+6,r_contain_c,linear regression
+9,r_contain_c,Mixture Models
+528,r_contain_c,probabilities
+518,r_contain_c,markov decision processes
+500,r_contain_c,Sampling
+278,r_contain_c,language modeling
+66,r_contain_c,uncertainty
+333,depend_on_r,330
+464,r_contain_c,syntax
+502,r_contain_c,logistic regression
+148,r_contain_c,clustering
+13,r_contain_c,learning
+126,r_contain_c,optimization
+147,r_contain_c,training neural networks
+word embedding variations,depend_on_c,multilingual word embedding
+75,r_contain_c,vector representations
+38,r_contain_c,multi-task learning
+130,r_contain_c,Markov Random Fields
+130,r_contain_c,others
+388,r_contain_c,parsing
+34,r_contain_c,others
+407,depend_on_r,392
+11,r_contain_c,graphical models
+10,depend_on_r,26
+466,r_contain_c,classification
+407,depend_on_r,473
+343,r_contain_c,seq2seq
+134,depend_on_r,407
+30,depend_on_r,158
+14,r_contain_c,normalization
+398,depend_on_r,389
+32,depend_on_r,159
+33,depend_on_r,35
+515,depend_on_r,330
+390,r_contain_c,Sampling
+natural language processing intro,depend_on_c,nlp and vision
+473,depend_on_r,465
+recurrent neural networks,depend_on_c,gated recurrent units
+263,r_contain_c,shallow parsing
+460,r_contain_c,dimensionality reduction
+511,r_contain_c,robotics
+144,r_contain_c,others
+155,depend_on_r,166
+472,r_contain_c,learning
+32,depend_on_r,461
+73,r_contain_c,Unsupervised learning
+1,r_contain_c,inference
+391,r_contain_c,gradient descent
+30,r_contain_c,clustering
+64,r_contain_c,learning
+8,r_contain_c,graphical models
+477,r_contain_c,generative adversarial networks
+planning,depend_on_c,logic and logical agents
+521,r_contain_c,learning
+88,r_contain_c,dynamic programming
+319,r_contain_c,computer vision
+330,r_contain_c,optimization
+517,depend_on_r,513
+machine translation,depend_on_c,neural machine translation
+517,depend_on_r,516
+466,r_contain_c,recurrent neural networks
+388,depend_on_r,59
+329,r_contain_c,robotics
+32,r_contain_c,Markov chains
+401,r_contain_c,semantic role labeling
+394,r_contain_c,log-linear models
+27,r_contain_c,Dirichlet Processes
+259,r_contain_c,Sampling
+258,r_contain_c,probabilities
+485,r_contain_c,neural networks
+467,depend_on_r,465
+495,r_contain_c,neural networks
+sentence representations,depend_on_c,neural machine translation
+155,depend_on_r,33
+337,r_contain_c,planning
+96,r_contain_c,syntax
+276,depend_on_r,261
+330,depend_on_r,135
+348,r_contain_c,regularization
+93,r_contain_c,parsing
+81,r_contain_c,perceptron
+88,r_contain_c,named entity recognition
+monte carlo methods,depend_on_c,latent dirichlet allocation
+157,depend_on_r,401
+329,depend_on_r,339
+4,r_contain_c,markov chain monte carlo
+60,r_contain_c,neural networks
+458,depend_on_r,70
+264,r_contain_c,dynamic programming
+460,r_contain_c,Sampling
+466,depend_on_r,155
+347,r_contain_c,regularization
+496,r_contain_c,imagenet
+71,depend_on_r,70
+333,depend_on_r,329
+38,depend_on_r,401
+157,r_contain_c,syntax
+149,depend_on_r,461
+377,r_contain_c,learning
+154,r_contain_c,syntax
+331,r_contain_c,reinforcement learning
+parsing,depend_on_c,shallow parsing
+521,r_contain_c,optimization
+149,depend_on_r,32
+522,r_contain_c,normalization
+93,r_contain_c,perceptron
+144,r_contain_c,learning
+13,r_contain_c,inference
+397,r_contain_c,syntax
+276,r_contain_c,heuristic search
+335,r_contain_c,learning
+469,r_contain_c,recursive neural networks
+38,depend_on_r,149
+32,depend_on_r,148
+22,r_contain_c,optimization
+389,depend_on_r,86
+332,r_contain_c,Meta-Learning
+classic parsing methods,depend_on_c,semantic parsing
+14,r_contain_c,probabilities
+7,r_contain_c,learning
+149,depend_on_r,38
+35,depend_on_r,468
+160,depend_on_r,149
+392,depend_on_r,468
+277,depend_on_r,280
+machine learning resources,depend_on_c,latent dirichlet allocation
+475,r_contain_c,text summarization
+30,depend_on_r,401
+493,r_contain_c,activation functions
+128,r_contain_c,perceptron
+bayes theorem,depend_on_c,bayesian network
+458,r_contain_c,learning
+2,depend_on_r,1
+135,depend_on_r,30
+376,r_contain_c,backpropagation
+128,r_contain_c,Unsupervised learning
+406,r_contain_c,information extraction
+152,r_contain_c,neural parsing
+25,r_contain_c,others
+472,depend_on_r,32
+34,r_contain_c,combinatory categorial grammar
+401,r_contain_c,inference
+36,r_contain_c,machine translation
+388,r_contain_c,sentiment analysis
+262,depend_on_r,32
+460,r_contain_c,python
+279,r_contain_c,optimization
+39,r_contain_c,perceptron
+31,depend_on_r,33
+machine learning resources,depend_on_c,Meta-Learning
+471,r_contain_c,learning
+261,r_contain_c,machine translation
+389,r_contain_c,logistic regression
+267,r_contain_c,probabilities
+474,r_contain_c,sentence representations
+475,r_contain_c,learning
+probabilities,depend_on_c,Naive Bayes
+472,r_contain_c,machine translation
+40,depend_on_r,30
+525,r_contain_c,inference
+72,r_contain_c,gradient descent
+159,depend_on_r,33
+12,r_contain_c,Sampling
+478,depend_on_r,479
+natural language processing intro,depend_on_c,feature selection
+133,r_contain_c,perceptron
+472,r_contain_c,sentiment analysis
+464,r_contain_c,others
+151,r_contain_c,syntax
+40,depend_on_r,31
+28,r_contain_c,parsing
+96,depend_on_r,93
+530,r_contain_c,Naive Bayes
+7,r_contain_c,search
+71,r_contain_c,neural networks
+481,depend_on_r,479
+30,r_contain_c,learning
+465,r_contain_c,question answering
+528,r_contain_c,uncertainty
+143,depend_on_r,463
+261,depend_on_r,259
+1,depend_on_r,2
+468,depend_on_r,33
+401,r_contain_c,parsing
+1,r_contain_c,machine translation
+334,r_contain_c,probabilities
+probabilities,depend_on_c,Meta-Learning
+277,r_contain_c,parsing
+65,r_contain_c,gradient descent
+501,r_contain_c,classification
+35,depend_on_r,401
+33,depend_on_r,148
+linear algebra,depend_on_c,Manifold Learning
+23,r_contain_c,normalization
+273,r_contain_c,perceptron
+271,r_contain_c,predicate logic
+533,r_contain_c,Visual QA
+493,r_contain_c,regularization
+475,r_contain_c,entropy
+29,r_contain_c,search
+470,depend_on_r,35
+468,depend_on_r,472
+271,depend_on_r,260
+70,r_contain_c,backpropagation
+38,r_contain_c,classification
+134,depend_on_r,461
+343,r_contain_c,parsing
+324,r_contain_c,entropy
+155,depend_on_r,135
+32,depend_on_r,35
+syntax,depend_on_c,shift-reduce parsing
+10,depend_on_r,20
+10,r_contain_c,others
+93,r_contain_c,question answering
+385,r_contain_c,learning
+33,depend_on_r,152
+319,r_contain_c,robotics
+machine translation,depend_on_c,morphology and semantics in machine translation
+330,r_contain_c,planning
+469,depend_on_r,466
+380,r_contain_c,linear regression
+322,r_contain_c,backpropagation
+17,r_contain_c,Sampling
+269,r_contain_c,combinatory categorial grammar
+40,r_contain_c,learning
+66,r_contain_c,learning
+463,depend_on_r,143
+124,r_contain_c,dependency parsing
+165,r_contain_c,inference
+2,depend_on_r,27
+473,r_contain_c,penn treebank
+text similarity,depend_on_c,bio text mining
+2,r_contain_c,graphical models
+70,r_contain_c,neural networks
+7,r_contain_c,optimization
+263,depend_on_r,260
+124,r_contain_c,classification
+473,r_contain_c,learning
+376,r_contain_c,support vector machines
+probabilities,depend_on_c,mathematical models
+508,r_contain_c,entropy
+30,depend_on_r,473
+machine learning resources,depend_on_c,linear regression
+18,r_contain_c,Markov Random Fields
+279,depend_on_r,258
+339,depend_on_r,135
+39,r_contain_c,entailment
+463,r_contain_c,inference
+468,depend_on_r,466
+131,r_contain_c,learning
+calculus,depend_on_c,spectral methods
+142,depend_on_r,30
+334,r_contain_c,Sampling
+498,r_contain_c,clustering
+278,r_contain_c,imagenet
+134,depend_on_r,458
+33,depend_on_r,32
+467,r_contain_c,backpropagation
+461,r_contain_c,python
+148,depend_on_r,30
+35,depend_on_r,34
+484,r_contain_c,regularization
+265,r_contain_c,syntax
+uncertainty,depend_on_c,robotics
+398,r_contain_c,wordnet
+124,r_contain_c,knowledge representation
+9,r_contain_c,entropy
+4,r_contain_c,collaborative filtering
+499,r_contain_c,backpropagation
+149,depend_on_r,34
+526,r_contain_c,markov chain monte carlo
+32,depend_on_r,156
+159,r_contain_c,syntax
+60,r_contain_c,entropy
+533,r_contain_c,logistic regression
+74,r_contain_c,syntax
+269,r_contain_c,syntax
+35,depend_on_r,466
+458,depend_on_r,134
+278,r_contain_c,parsing
+72,r_contain_c,optimization
+139,r_contain_c,named entity recognition
+22,r_contain_c,linear algebra
+470,r_contain_c,probabilities
+84,depend_on_r,407
+36,depend_on_r,30
+461,depend_on_r,458
+30,r_contain_c,matrix factorization
+260,r_contain_c,optimization
+63,r_contain_c,neural networks
+262,depend_on_r,129
+135,r_contain_c,parsing
+dependency parsing,depend_on_c,transition based dependency parsing
+405,r_contain_c,others
+149,depend_on_r,30
+325,r_contain_c,learning
+6,r_contain_c,bayesian network
+86,depend_on_r,76
+1,r_contain_c,learning
+326,r_contain_c,gradient descent
+132,r_contain_c,clustering
+382,r_contain_c,learning
+162,r_contain_c,seq2seq
+31,r_contain_c,clustering
+466,depend_on_r,40
+132,depend_on_r,136
+273,r_contain_c,calculus
+334,r_contain_c,others
+35,r_contain_c,memory networks
+30,r_contain_c,question answering
+397,r_contain_c,dynamic programming
+513,r_contain_c,informed search
+259,depend_on_r,262
+75,r_contain_c,vector semantics
+458,r_contain_c,dialog systems
+257,r_contain_c,tokenization
+458,r_contain_c,syntax
+66,r_contain_c,speech recognition
+391,r_contain_c,probabilities
+468,r_contain_c,machine translation
+514,r_contain_c,constraint satisfaction
+149,r_contain_c,language modeling
+483,r_contain_c,generative adversarial networks
+473,r_contain_c,transfer learning
+502,r_contain_c,others
+3,r_contain_c,Markov Random Fields
+459,r_contain_c,loss function
+458,r_contain_c,vector representations
+39,r_contain_c,normalization
+129,r_contain_c,structured prediction
+515,depend_on_r,514
+517,depend_on_r,511
+461,depend_on_r,392
+61,r_contain_c,dynamic programming
+327,r_contain_c,optimization
+128,r_contain_c,others
+139,depend_on_r,468
+149,depend_on_r,35
+136,r_contain_c,inference
+158,depend_on_r,33
+458,depend_on_r,30
+517,r_contain_c,markov decision processes
+262,depend_on_r,261
+271,depend_on_r,148
+1,r_contain_c,clustering
+141,r_contain_c,learning
+probabilities,depend_on_c,Manifold Learning
+40,r_contain_c,entropy
+161,r_contain_c,learning
+linguistics basics,depend_on_c,speech synthesis
+330,depend_on_r,333
+8,r_contain_c,Gaussian graphical models
+532,r_contain_c,speech recognition
+90,r_contain_c,machine translation
+2,r_contain_c,Mixture Models
+92,depend_on_r,467
+27,r_contain_c,inference
+490,r_contain_c,optimization
+260,depend_on_r,271
+5,r_contain_c,probabilities
+458,r_contain_c,neural networks
+262,r_contain_c,dynamic programming
+482,r_contain_c,genetic algorithms
+380,r_contain_c,classification
+34,depend_on_r,35
+476,r_contain_c,perceptron
+518,depend_on_r,519
+93,r_contain_c,structured prediction
+154,depend_on_r,34
+260,depend_on_r,259
+probabilities,depend_on_c,structured sparsity
+154,depend_on_r,35
+32,r_contain_c,parts of speech
+474,r_contain_c,parsing
+348,r_contain_c,one-shot learning
+88,r_contain_c,structured prediction
+92,r_contain_c,machine translation
+326,r_contain_c,optimization
+Unsupervised learning,depend_on_c,spectral clustering
+71,r_contain_c,predicate logic
+32,depend_on_r,469
+469,depend_on_r,472
+485,r_contain_c,regularization
+466,depend_on_r,148
+397,r_contain_c,penn treebank
+70,depend_on_r,461
+140,r_contain_c,optimization
+4,r_contain_c,classification
+482,r_contain_c,loss function
+18,r_contain_c,gibbs sampling
+7,r_contain_c,entropy
+489,r_contain_c,logistic regression
+466,depend_on_r,474
+264,r_contain_c,syntax
+163,depend_on_r,142
+speech processing,depend_on_c,text to speech generation
+135,r_contain_c,shallow parsing
+33,depend_on_r,472
+vector semantics,depend_on_c,document representation
+34,depend_on_r,278
+linear algebra,depend_on_c,Variations of GANs
+23,r_contain_c,Kernel Graphical Models
+149,depend_on_r,125
+485,r_contain_c,logistic regression
+506,r_contain_c,cross entropy
+3,r_contain_c,Sampling
+linguistics basics,depend_on_c,query expansion
+322,r_contain_c,dynamic programming
+261,depend_on_r,34
+392,r_contain_c,probabilities
+machine learning resources,depend_on_c,speech synthesis
+472,r_contain_c,optimization
+139,r_contain_c,learning
+468,r_contain_c,inference
+29,depend_on_r,26
+464,r_contain_c,parsing
+29,r_contain_c,feature selection
+36,r_contain_c,optimization
+10,r_contain_c,Gaussian graphical models
+472,r_contain_c,part of speech tagging
+322,r_contain_c,neural networks
+124,r_contain_c,named entity recognition
+492,r_contain_c,neural networks
+Mixture Models,depend_on_c,expectation maximization algorithm
+search,depend_on_c,adversarial search
+271,depend_on_r,259
+260,r_contain_c,maximum likelihood estimation
+276,depend_on_r,275
+475,r_contain_c,reinforcement learning
+528,r_contain_c,hidden markov models
+339,r_contain_c,domain adaptation
+166,depend_on_r,158
+501,r_contain_c,regularization
+training neural networks,depend_on_c,stack lstm
+21,r_contain_c,clustering
+134,r_contain_c,perceptron
+147,r_contain_c,neural networks
+70,depend_on_r,35
+516,r_contain_c,monte carlo tree search
+9,depend_on_r,7
+29,r_contain_c,optimization
+24,depend_on_r,19
+258,depend_on_r,30
+chomsky hierarchy,depend_on_c,probabilistic grammars
+261,r_contain_c,information extraction
+131,r_contain_c,dependency parsing
+evaluation of information retrieval,depend_on_c,query expansion
+1,r_contain_c,classification
+530,depend_on_r,515
+141,r_contain_c,dynamic programming
+32,depend_on_r,126
+458,r_contain_c,gradient descent
+138,r_contain_c,loss function
+135,depend_on_r,129
+32,depend_on_r,466
+461,depend_on_r,148
+491,r_contain_c,gradient descent
+37,r_contain_c,entailment
+259,r_contain_c,maximum likelihood estimation
+474,r_contain_c,machine translation
+8,r_contain_c,learning
+502,r_contain_c,question answering
+34,r_contain_c,parsing
+93,r_contain_c,question answering
+276,r_contain_c,the ibm models
+381,r_contain_c,bias-variance
+155,r_contain_c,others
+7,r_contain_c,inference
+91,r_contain_c,search
+466,depend_on_r,461
+505,r_contain_c,loss function
+154,depend_on_r,38
+29,r_contain_c,graphical models
+95,depend_on_r,94
+147,r_contain_c,beam search
+329,r_contain_c,search
+29,r_contain_c,classification
+syntax,depend_on_c,syntaxnet
+145,depend_on_r,164
+70,r_contain_c,learning
+40,depend_on_r,39
+1,r_contain_c,Markov Random Fields
+277,r_contain_c,beam search
+76,r_contain_c,semantic similarity
+7,depend_on_r,6
+125,depend_on_r,148
+31,r_contain_c,Sampling
+86,r_contain_c,classification
+70,r_contain_c,predicate logic
+513,r_contain_c,a* search
+125,r_contain_c,optimization
+467,depend_on_r,458
+395,r_contain_c,syntax
+machine learning resources,depend_on_c,random walks and harmonic functions
+124,depend_on_r,142
+31,depend_on_r,155
+31,depend_on_r,156
+468,r_contain_c,word segmentation
+24,r_contain_c,linear algebra
+138,r_contain_c,search
+376,r_contain_c,Naive Bayes
+machine learning resources,depend_on_c,loss function
+475,r_contain_c,cross entropy
+91,r_contain_c,Sequence to sequence
+473,r_contain_c,AlphaGo
+267,r_contain_c,learning
+482,depend_on_r,126
+38,depend_on_r,158
+130,r_contain_c,data structures
+522,r_contain_c,constraint satisfaction
+77,r_contain_c,support vector machines
+130,r_contain_c,inference
+long short term memory networks,depend_on_c,memory networks
+31,r_contain_c,others
+467,r_contain_c,beam search
+neural networks,depend_on_c,Autoencoders
+79,r_contain_c,uncertainty
+466,depend_on_r,149
+155,depend_on_r,125
+155,depend_on_r,158
+24,depend_on_r,23
+2,r_contain_c,probabilities
+latent variable models,depend_on_c,topic modeling
+75,r_contain_c,word sense disambiguation
+3,r_contain_c,normalization
+25,r_contain_c,feature learning
+461,depend_on_r,468
+164,r_contain_c,learning
+natural language processing intro,depend_on_c,course introduction
+524,r_contain_c,Variable Elimination
+144,r_contain_c,gradient descent
+488,r_contain_c,neural networks
+271,r_contain_c,information retrieval
+387,r_contain_c,search
+461,depend_on_r,459
+165,r_contain_c,discourse parsing
+93,depend_on_r,398
+392,depend_on_r,389
+88,r_contain_c,learning
+485,depend_on_r,478
+61,r_contain_c,backpropagation
+501,r_contain_c,speech recognition
+30,depend_on_r,155
+466,depend_on_r,35
+340,depend_on_r,135
+496,r_contain_c,classification
+15,depend_on_r,20
+347,depend_on_r,139
+logic and logical agents,depend_on_c,propositional logic
+12,r_contain_c,graphical models
+vector representations,depend_on_c,context free grammars
+492,r_contain_c,normalization
+526,r_contain_c,gibbs sampling
+475,r_contain_c,seq2seq
+479,depend_on_r,478
+7,depend_on_r,8
+339,r_contain_c,transfer learning
+164,r_contain_c,Unsupervised learning
+144,r_contain_c,reading comprehension
+319,r_contain_c,Unsupervised learning
+93,r_contain_c,classification
+376,r_contain_c,search
+135,depend_on_r,157
+476,r_contain_c,graphical models
+13,r_contain_c,optimization
+search,depend_on_c,game playing in ai
+278,r_contain_c,neural networks
+74,r_contain_c,word sense disambiguation
+270,r_contain_c,semantic role labeling
+160,r_contain_c,reading comprehension
+458,r_contain_c,wordnet
+135,r_contain_c,structured learning
+135,depend_on_r,515
+152,r_contain_c,lexicalized parsing
+nlp for biology,depend_on_c,bio text mining
+155,depend_on_r,157
+chinese nlp,depend_on_c,spelling correction
+462,r_contain_c,backpropagation
+474,r_contain_c,classification
+126,depend_on_r,130
+33,r_contain_c,learning
+17,r_contain_c,graphical models
+384,r_contain_c,learning
+62,r_contain_c,syntax
+programming languages,depend_on_c,tools for dl
+126,r_contain_c,loss function
+163,depend_on_r,38
+391,r_contain_c,graphical models
+95,r_contain_c,parsing
+532,depend_on_r,528
+388,r_contain_c,dependency parsing
+154,r_contain_c,calculus
+80,r_contain_c,learning
+153,r_contain_c,uncertainty
+3,depend_on_r,15
+273,depend_on_r,278
+6,r_contain_c,gradient descent
+linguistics basics,depend_on_c,language identification
+natural language processing intro,depend_on_c,edit distance
+463,r_contain_c,Sampling
+498,r_contain_c,gradient descent
+73,r_contain_c,reinforcement learning
+18,r_contain_c,monte carlo methods
+154,r_contain_c,parsing
+486,r_contain_c,speech recognition
+137,r_contain_c,dependency parsing
+28,r_contain_c,feature selection
+154,r_contain_c,combinatory categorial grammar
+14,r_contain_c,clustering
+470,r_contain_c,others
+533,depend_on_r,520
+399,r_contain_c,syntax
+31,r_contain_c,spectral methods
+334,r_contain_c,reinforcement learning
+331,r_contain_c,others
+25,r_contain_c,gradient descent
+74,depend_on_r,93
+275,r_contain_c,noisy channel model
+155,r_contain_c,search
+508,r_contain_c,search
+158,depend_on_r,30
+26,depend_on_r,10
+137,r_contain_c,linear programming
+133,r_contain_c,collaborative filtering
+483,r_contain_c,Principal Component Analysis
+274,r_contain_c,noisy channel model
+340,depend_on_r,319
+330,r_contain_c,search
+160,r_contain_c,parsing
+python,depend_on_c,preprocessing
+163,depend_on_r,135
+9,r_contain_c,others
+148,depend_on_r,158
+468,depend_on_r,464
+15,r_contain_c,normalization
+28,r_contain_c,others
+16,r_contain_c,monte carlo methods
+1,r_contain_c,graphical models
+84,depend_on_r,398
+532,r_contain_c,computer vision
+473,r_contain_c,question answering
+463,r_contain_c,preprocessing
+387,r_contain_c,conditional probability
+329,depend_on_r,333
+31,depend_on_r,35
+467,r_contain_c,syntax
+34,depend_on_r,159
+502,r_contain_c,convolutional neural networks
+15,r_contain_c,classification
+157,depend_on_r,160
+155,r_contain_c,seq2seq
+532,r_contain_c,neural networks
+31,depend_on_r,129
+136,r_contain_c,clustering
+92,depend_on_r,84
+95,r_contain_c,search
+124,r_contain_c,semantic parsing
+337,r_contain_c,transfer learning
+93,r_contain_c,syntax
+270,r_contain_c,combinatory categorial grammar
+392,r_contain_c,speech recognition
+10,depend_on_r,15
+n-gram models,depend_on_c,word distributions
+475,r_contain_c,neural networks
+13,r_contain_c,uncertainty
+347,depend_on_r,458
+129,depend_on_r,40
+466,depend_on_r,139
+464,depend_on_r,34
+text summarization,depend_on_c,summarization evaluation
+532,r_contain_c,machine translation
+530,depend_on_r,125
+12,r_contain_c,search
+392,depend_on_r,347
+76,r_contain_c,classification
+532,r_contain_c,Visual QA
+530,r_contain_c,conditional probability
+263,depend_on_r,32
+157,r_contain_c,seq2seq
+461,r_contain_c,backpropagation
+494,depend_on_r,493
+482,r_contain_c,regularization
+484,r_contain_c,collaborative filtering
+460,depend_on_r,466
+145,r_contain_c,beam search
+504,r_contain_c,learning
+71,r_contain_c,Autoencoders
+157,depend_on_r,163
+22,depend_on_r,23
+32,r_contain_c,perceptron
+464,r_contain_c,classification
+463,r_contain_c,loss function
+40,r_contain_c,penn treebank
+dimensionality reduction,depend_on_c,tsne
+80,r_contain_c,others
+59,r_contain_c,inference
+390,r_contain_c,probabilities
+474,depend_on_r,31
+395,r_contain_c,context free grammars
+159,depend_on_r,32
+322,r_contain_c,gradient descent
+96,r_contain_c,classification
+39,depend_on_r,155
+376,r_contain_c,feature selection
+391,r_contain_c,learning
+69,r_contain_c,syntax
+467,r_contain_c,heuristic search
+465,r_contain_c,loss function
+524,r_contain_c,learning
+468,r_contain_c,Mixture Models
+279,r_contain_c,vector representations
+515,r_contain_c,genetic algorithms
+390,r_contain_c,learning
+135,depend_on_r,160
+32,depend_on_r,145
+378,r_contain_c,data structures
+graphical models,depend_on_c,Markov Random Fields
+33,r_contain_c,others
+460,r_contain_c,named entity recognition
+148,r_contain_c,learning
+324,depend_on_r,326
+509,r_contain_c,robotics
+263,depend_on_r,279
+387,r_contain_c,spectral clustering
+166,r_contain_c,inference
+29,r_contain_c,clustering
+20,r_contain_c,inference
+273,r_contain_c,neural networks
+531,r_contain_c,perceptron
+485,r_contain_c,speech processing
+488,r_contain_c,backpropagation
+164,depend_on_r,148
+503,r_contain_c,speech recognition
+16,r_contain_c,Sampling
+148,depend_on_r,155
+469,depend_on_r,35
+151,r_contain_c,dependency parsing
+monte carlo methods,depend_on_c,particle filter
+137,r_contain_c,Belief Propagation
+18,r_contain_c,inference
+271,depend_on_r,258
+396,r_contain_c,probabilities
+390,r_contain_c,decision trees
+classification,depend_on_c,sequence classification and conditional random fields
+31,r_contain_c,probabilities
+20,r_contain_c,graphical models
+morphology and lexicon,depend_on_c,query expansion
+30,r_contain_c,reinforcement learning
+268,r_contain_c,data structures
+329,r_contain_c,entropy
+136,r_contain_c,perceptron
+259,r_contain_c,machine translation
+470,r_contain_c,reinforcement learning
+149,depend_on_r,466
+261,r_contain_c,hidden markov models
+261,r_contain_c,learning
+469,r_contain_c,parsing
+128,r_contain_c,probabilities
+465,r_contain_c,learning
+35,r_contain_c,word embedding
+153,r_contain_c,parsing
+520,r_contain_c,planning
+28,r_contain_c,clustering
+522,r_contain_c,planning
+261,depend_on_r,258
+481,r_contain_c,regularization
+473,depend_on_r,407
+522,r_contain_c,probabilities
+257,r_contain_c,structured prediction
+280,depend_on_r,269
+15,r_contain_c,dimensionality reduction
+469,depend_on_r,474
+34,depend_on_r,149
+40,depend_on_r,163
+vector semantics,depend_on_c,text mining
+152,r_contain_c,dependency syntax
+493,r_contain_c,optimization
+19,r_contain_c,graphical models
+257,r_contain_c,dialog systems
+word distributions,depend_on_c,word embedding
+270,depend_on_r,258
+458,depend_on_r,347
+479,r_contain_c,linear regression
+272,r_contain_c,semi-supervised learning
+145,r_contain_c,inference
+468,depend_on_r,407
+linear algebra,depend_on_c,Principal Component Analysis
+149,r_contain_c,recurrent neural networks
+465,r_contain_c,recurrent neural networks
+88,r_contain_c,others
+126,r_contain_c,kernels
+460,r_contain_c,semantic similarity
+13,r_contain_c,entropy
+386,r_contain_c,search
+130,depend_on_r,126
+472,r_contain_c,memory networks
+158,r_contain_c,language modeling
+467,r_contain_c,statistical machine translation
+15,r_contain_c,graphical models
+linguistics basics,depend_on_c,information extraction
+dimensionality reduction,depend_on_c,latent semantic indexing
+1,r_contain_c,probabilities
+84,depend_on_r,83
+logic and reasoning,depend_on_c,predicate logic
+533,r_contain_c,learning
+30,depend_on_r,37
+88,r_contain_c,loss function
+511,r_contain_c,AlphaGo
+466,r_contain_c,cross entropy
+506,r_contain_c,transfer learning
+36,r_contain_c,learning
+400,r_contain_c,singular value decomposition
+488,r_contain_c,gradient descent
+124,depend_on_r,257
+519,r_contain_c,learning
+257,r_contain_c,learning
+38,r_contain_c,dialog systems
+133,r_contain_c,structured prediction
+483,r_contain_c,k means
+5,r_contain_c,dynamic programming
+34,r_contain_c,parsing evaluation
+165,r_contain_c,others
+152,r_contain_c,search
+474,r_contain_c,learning
+401,r_contain_c,others
+40,r_contain_c,others
+331,r_contain_c,planning
+392,depend_on_r,393
+486,r_contain_c,convolutional neural networks
+26,r_contain_c,maximum likelihood estimation
+271,depend_on_r,272
+35,depend_on_r,163
+bayes theorem,depend_on_c,question answering
+400,depend_on_r,471
+35,r_contain_c,reading comprehension
+521,depend_on_r,516
+514,r_contain_c,planning
+269,r_contain_c,lexical semantics
+156,depend_on_r,149
+347,r_contain_c,text generation
+467,depend_on_r,92
+522,r_contain_c,inference
+257,r_contain_c,lexical semantics
+148,depend_on_r,466
+85,r_contain_c,language modeling
+36,depend_on_r,37
+40,depend_on_r,466
+18,depend_on_r,3
+35,depend_on_r,70
+27,r_contain_c,gibbs sampling
+38,r_contain_c,backpropagation
+32,r_contain_c,semantic parsing
+458,depend_on_r,467
+convolutional neural network,depend_on_c,neural question answering
+333,r_contain_c,learning
+324,r_contain_c,policy gradient methods
+511,r_contain_c,python
+376,r_contain_c,learning
+470,depend_on_r,31
+151,r_contain_c,parsing
+30,r_contain_c,others
+270,r_contain_c,learning
+optimization,depend_on_c,machine learning resources
+499,r_contain_c,classification
+474,depend_on_r,35
+structured learning,depend_on_c,kernels
+34,r_contain_c,constraint satisfaction
+340,depend_on_r,343
+35,depend_on_r,469
+158,r_contain_c,syntax
+274,r_contain_c,information theory
+509,r_contain_c,Meta-Learning
+8,r_contain_c,entropy
+142,r_contain_c,linear algebra
+347,r_contain_c,Unsupervised learning
+84,r_contain_c,gradient descent
+machine learning resources,depend_on_c,sequence classification and conditional random fields
+261,r_contain_c,speech synthesis
+14,r_contain_c,Belief Propagation
+276,r_contain_c,probabilities
+80,r_contain_c,neural networks
+91,r_contain_c,backpropagation
+13,r_contain_c,Belief Propagation
+376,depend_on_r,30
+502,r_contain_c,object detection
+505,r_contain_c,imagenet
+68,r_contain_c,reading comprehension
+279,r_contain_c,language modeling
+499,r_contain_c,neural machine translation
+458,r_contain_c,linear algebra
+264,r_contain_c,data structures
+124,r_contain_c,neural networks
+389,r_contain_c,decision trees
+33,depend_on_r,40
+33,r_contain_c,inference
+74,depend_on_r,458
+327,r_contain_c,Sampling
+10,depend_on_r,28
+262,depend_on_r,278
+407,r_contain_c,Sequence to sequence
+461,depend_on_r,460
+38,depend_on_r,135
+vector semantics,depend_on_c,recommendation system
+15,r_contain_c,gibbs sampling
+9,r_contain_c,calculus
+319,r_contain_c,planning
+132,r_contain_c,optimization
+84,depend_on_r,458
+3,r_contain_c,information retrieval
+158,depend_on_r,148
+35,depend_on_r,149
+30,r_contain_c,semantic parsing
+finite state machines,depend_on_c,finite state transducers
+32,depend_on_r,263
+270,depend_on_r,264
+343,depend_on_r,142
+91,r_contain_c,learning
+519,depend_on_r,518
+534,r_contain_c,Sampling
+3,r_contain_c,gibbs sampling
+36,r_contain_c,others
+158,depend_on_r,34
+508,r_contain_c,learning
+59,r_contain_c,learning
+153,r_contain_c,beam search
+33,r_contain_c,cky parsing
+263,r_contain_c,speech recognition
+466,depend_on_r,469
+530,depend_on_r,130
+378,r_contain_c,preprocessing
+499,r_contain_c,machine translation
+10,r_contain_c,learning
+71,r_contain_c,parsing
+139,r_contain_c,loss function
+4,r_contain_c,conditional probability
+96,r_contain_c,structured prediction
+330,r_contain_c,classification
+391,r_contain_c,parsing
+16,depend_on_r,6
+31,depend_on_r,34
+263,depend_on_r,271
+34,depend_on_r,466
+395,r_contain_c,context free grammar
+38,depend_on_r,154
+517,depend_on_r,520
+70,r_contain_c,reinforcement learning
+92,r_contain_c,search
+502,r_contain_c,neural networks
+8,depend_on_r,7
+86,r_contain_c,dynamic programming
+35,r_contain_c,gradient descent
+469,depend_on_r,31
+267,r_contain_c,dependency parsing
+28,r_contain_c,learning
+39,depend_on_r,466
+35,depend_on_r,33
+40,depend_on_r,130
+347,depend_on_r,78
+33,r_contain_c,dynamic programming
+30,depend_on_r,38
+533,depend_on_r,513
+28,r_contain_c,support vector machines
+515,r_contain_c,constraint satisfaction
+272,r_contain_c,entailment
+469,depend_on_r,468
+76,r_contain_c,word sense disambiguation
+394,r_contain_c,conditional probability
+479,r_contain_c,optimization
+80,r_contain_c,classification
+328,r_contain_c,planning
+135,depend_on_r,530
+339,depend_on_r,340
+322,depend_on_r,324
+80,r_contain_c,optimization
+497,r_contain_c,object detection
+32,depend_on_r,39
+386,r_contain_c,regularization
+linguistics basics,depend_on_c,semantic role labeling
+459,r_contain_c,search
+257,r_contain_c,information extraction
+135,depend_on_r,126
+35,r_contain_c,semantic role labeling
+259,depend_on_r,271
+78,depend_on_r,347
+reinforcement learning,depend_on_c,robotics
+328,r_contain_c,entropy
+465,r_contain_c,speech recognition
+124,r_contain_c,perceptron
+124,r_contain_c,search
+32,r_contain_c,entropy
+40,r_contain_c,word embedding
+94,r_contain_c,perceptron
+276,r_contain_c,recurrent neural networks
+483,r_contain_c,linear algebra
+66,r_contain_c,search
+464,depend_on_r,461
+343,r_contain_c,optimization
+466,depend_on_r,472
+324,depend_on_r,325
+466,depend_on_r,158
+513,r_contain_c,search
+137,r_contain_c,learning
+471,depend_on_r,400
+27,r_contain_c,latent dirichlet allocation
+530,r_contain_c,Sampling
+32,r_contain_c,parsing
+391,r_contain_c,entropy
+478,r_contain_c,gradient descent
+393,depend_on_r,458
+natural language processing intro,depend_on_c,grammar checker
+84,r_contain_c,logistic regression
+126,r_contain_c,gradient descent
+69,r_contain_c,convolutional neural networks
+271,r_contain_c,singular value decomposition
+124,r_contain_c,entailment
+279,depend_on_r,276
+392,r_contain_c,language modeling
+476,r_contain_c,linear algebra
+91,r_contain_c,loss function
+15,r_contain_c,statistical machine translation
+460,depend_on_r,459
+139,r_contain_c,information extraction
+125,depend_on_r,129
+62,r_contain_c,Sampling
+natural language processing intro,depend_on_c,named entity recognition
+125,depend_on_r,135
+natural language processing intro,depend_on_c,speech processing
+469,r_contain_c,neural networks
+76,depend_on_r,389
+485,r_contain_c,random forest
+76,r_contain_c,learning
+474,r_contain_c,part of speech tagging
+508,r_contain_c,computer vision
+24,r_contain_c,normalization
+6,depend_on_r,3
+279,r_contain_c,neural networks
+158,depend_on_r,468
+146,depend_on_r,150
+3,r_contain_c,inference
+376,r_contain_c,neural networks
+467,r_contain_c,seq2seq
+276,r_contain_c,machine translation
+text summarization,depend_on_c,neural summarization
+492,r_contain_c,gradient descent
+88,r_contain_c,search
+39,depend_on_r,31
+279,depend_on_r,271
+152,r_contain_c,learning
+467,r_contain_c,machine translation
+461,r_contain_c,regularization
+155,depend_on_r,530
+159,r_contain_c,parsing
+486,r_contain_c,optimization
+474,r_contain_c,entailment
+natural language processing intro,depend_on_c,discourse analysis
+504,r_contain_c,logistic regression
+68,r_contain_c,learning
+149,depend_on_r,156
+335,r_contain_c,reinforcement learning
+10,r_contain_c,graphical models
+343,r_contain_c,speech recognition
+129,depend_on_r,515
+276,r_contain_c,syntax
+460,depend_on_r,474
+485,r_contain_c,loss function
+495,r_contain_c,convolutional neural networks
+158,depend_on_r,36
+machine learning resources,depend_on_c,neural networks
+12,r_contain_c,others
+124,r_contain_c,semantic role labeling
+30,depend_on_r,70
+389,r_contain_c,sentiment analysis
+336,r_contain_c,entropy
+59,depend_on_r,407
+35,r_contain_c,information extraction
+1,r_contain_c,bayes theorem
+60,r_contain_c,word embedding
+280,r_contain_c,markov decision processes
+159,depend_on_r,31
+512,r_contain_c,python
+9,r_contain_c,latent variable models
+125,r_contain_c,classification
+158,r_contain_c,parsing
+407,depend_on_r,465
+156,r_contain_c,pointer networks
+33,r_contain_c,dependency parsing
+syntax,depend_on_c,cky parsing
+388,r_contain_c,named entity recognition
+157,depend_on_r,130
+36,r_contain_c,syntax
+463,r_contain_c,learning
+26,r_contain_c,learning
+272,depend_on_r,271
+324,depend_on_r,322
+semantic similarity,depend_on_c,thesaurus-based similarity
+495,depend_on_r,497
+391,r_contain_c,regularization
+464,depend_on_r,70
+506,r_contain_c,loss function
+159,depend_on_r,156
+linguistics basics,depend_on_c,document representation
+461,depend_on_r,84
+328,r_contain_c,search
+262,r_contain_c,probabilities
+146,depend_on_r,164
+501,r_contain_c,search
+461,depend_on_r,466
+machine translation,depend_on_c,the ibm models
+8,r_contain_c,inference
+407,depend_on_r,84
+461,r_contain_c,learning
+495,r_contain_c,convolutional neural network
+329,depend_on_r,340
+485,r_contain_c,computer vision
+474,r_contain_c,question answering
+473,r_contain_c,entailment
+340,depend_on_r,335
+structured learning,depend_on_c,document representation
+30,depend_on_r,466
+81,r_contain_c,gradient descent
+339,depend_on_r,329
+5,r_contain_c,graphical models
+95,r_contain_c,dependency parsing
+266,r_contain_c,information retrieval
+394,r_contain_c,inference
+257,depend_on_r,142
+24,r_contain_c,Hilbert Space
+random walks and harmonic functions,depend_on_c,Unsupervised learning
+322,r_contain_c,search
+407,depend_on_r,83
+155,depend_on_r,154
+520,r_contain_c,learning
+322,r_contain_c,policy gradient methods
+32,r_contain_c,spelling correction
+35,depend_on_r,135
+271,r_contain_c,question answering
+130,r_contain_c,learning
+495,r_contain_c,classification
+141,r_contain_c,hidden markov models
+530,depend_on_r,155
+124,r_contain_c,others
+160,r_contain_c,memory networks
+153,r_contain_c,search
+401,depend_on_r,35
+158,r_contain_c,noisy channel model
+33,depend_on_r,158
+129,r_contain_c,entropy
+337,r_contain_c,others
+30,r_contain_c,python
+464,r_contain_c,entropy
+136,depend_on_r,132
+137,r_contain_c,dual decomposition
+11,r_contain_c,inference
+157,r_contain_c,parsing
+natural language processing intro,depend_on_c,regular expressions
+35,depend_on_r,32
+probabilities,depend_on_c,Mixture Models
+63,r_contain_c,learning
+468,depend_on_r,465
+470,depend_on_r,466
+163,r_contain_c,imagenet
+497,r_contain_c,convolutional neural networks
+530,r_contain_c,probabilities
+2,r_contain_c,hidden markov models
+461,r_contain_c,Sampling
+343,r_contain_c,computer vision
+526,r_contain_c,Sampling
+476,r_contain_c,optimization
+159,r_contain_c,word embedding
+30,depend_on_r,258
+268,r_contain_c,chomsky hierarchy
+393,r_contain_c,parts of speech
+machine translation,depend_on_c,statistical machine translation
+398,r_contain_c,probabilities
+513,depend_on_r,516
+343,r_contain_c,python
+training neural networks,depend_on_c,graph convolutional networks
+272,r_contain_c,neural networks
+475,r_contain_c,text generation
+154,depend_on_r,166
+347,r_contain_c,Sampling
+533,r_contain_c,entropy
+23,r_contain_c,probabilities
+340,r_contain_c,neural networks
+165,r_contain_c,discourse model
+32,depend_on_r,38
+336,r_contain_c,inference
+36,depend_on_r,160
+390,depend_on_r,460
+linguistics basics,depend_on_c,sentence simplification
+340,r_contain_c,Meta-Learning
+61,r_contain_c,Unsupervised learning
+380,r_contain_c,random forest
+137,r_contain_c,inference
+468,depend_on_r,392
+515,depend_on_r,130
+392,depend_on_r,407
+35,depend_on_r,38
+129,r_contain_c,probabilities
+7,r_contain_c,conditional probability
+155,depend_on_r,38
+36,r_contain_c,search
+28,r_contain_c,optimization
+7,r_contain_c,bayesian network
+165,r_contain_c,highway networks
+505,r_contain_c,neural networks
+155,r_contain_c,calculus
+vector semantics,depend_on_c,context free grammars
+131,r_contain_c,structured learning
+32,r_contain_c,wordnet
+148,depend_on_r,164
+programming languages,depend_on_c,preprocessing
+339,depend_on_r,333
+529,r_contain_c,particle filter
+22,r_contain_c,Variable Elimination
+17,depend_on_r,3
+91,r_contain_c,language modeling
+86,depend_on_r,393
+13,r_contain_c,Sampling
+94,r_contain_c,shift-reduce parsing
+loss function,depend_on_c,Autoencoders
+32,depend_on_r,158
+384,r_contain_c,optimization
+458,r_contain_c,inference
+sentence representations,depend_on_c,automated essay scoring
+70,depend_on_r,30
+15,r_contain_c,clustering
+472,r_contain_c,question answering
+85,depend_on_r,407
+272,r_contain_c,thesaurus-based similarity
+389,depend_on_r,82
+274,r_contain_c,statistical machine translation
+4,r_contain_c,Belief Propagation
+491,r_contain_c,neural networks
+156,depend_on_r,159
+semi-supervised learning,depend_on_c,neural networks
+142,depend_on_r,257
+129,depend_on_r,130
+31,depend_on_r,469
+483,r_contain_c,inference
+7,depend_on_r,12
+280,r_contain_c,seq2seq
+466,r_contain_c,neural networks
+matrix multiplication,depend_on_c,Message Passing
+27,r_contain_c,Sampling
+23,depend_on_r,24
+30,r_contain_c,parsing
+33,r_contain_c,probabilities
+458,r_contain_c,logistic regression
+337,r_contain_c,learning
+383,r_contain_c,learning
+145,r_contain_c,parsing
+129,r_contain_c,conditional probability
+377,r_contain_c,data structures
+28,r_contain_c,loss function
+32,depend_on_r,262
+79,r_contain_c,perceptron
+265,r_contain_c,cky parsing
+7,r_contain_c,Unsupervised learning
+15,r_contain_c,machine translation
+36,depend_on_r,474
+74,r_contain_c,machine translation
+feature learning,depend_on_c,Manifold Learning
+4,r_contain_c,Variable Elimination
+533,r_contain_c,regularization
+458,depend_on_r,473
+12,depend_on_r,18
+28,r_contain_c,search
+natural language processing intro,depend_on_c,Sequence to sequence
+structured learning,depend_on_c,semantic similarity
+25,r_contain_c,uncertainty
+95,r_contain_c,shift-reduce parsing
+59,r_contain_c,optimization
+263,r_contain_c,named entity recognition
+470,r_contain_c,inference
+24,r_contain_c,graphical models
+152,r_contain_c,preprocessing
+59,r_contain_c,convolutional neural network
+265,r_contain_c,parsing
+80,r_contain_c,uncertainty
+273,r_contain_c,loss function
+92,r_contain_c,attention models
+152,r_contain_c,dynamic programming
+388,r_contain_c,spelling correction
+460,r_contain_c,classification
+31,r_contain_c,dependency parsing
+264,depend_on_r,269
+5,r_contain_c,inference
+34,depend_on_r,474
+79,r_contain_c,optimization
+530,depend_on_r,129
+377,r_contain_c,search
+calculus,depend_on_c,Manifold Learning
+95,depend_on_r,93
+404,r_contain_c,question answering
+338,r_contain_c,Sampling
+163,r_contain_c,learning
+498,r_contain_c,learning
+72,r_contain_c,search
+340,r_contain_c,optimization
+521,depend_on_r,520
+468,r_contain_c,penn treebank
+534,r_contain_c,Markov chains
+323,r_contain_c,learning
+67,r_contain_c,search
+458,depend_on_r,407
+16,r_contain_c,normalization
+natural language processing intro,depend_on_c,vector representations
+planning,depend_on_c,game playing in ai
+261,depend_on_r,32
+3,depend_on_r,17
+34,depend_on_r,36
+461,depend_on_r,139
+405,r_contain_c,learning
+388,r_contain_c,machine translation
+71,r_contain_c,syntax
+388,r_contain_c,learning
+35,r_contain_c,search
+132,r_contain_c,perceptron
+468,r_contain_c,sentiment analysis
+388,depend_on_r,465
+263,r_contain_c,named entity recognition
+32,depend_on_r,33
+search,depend_on_c,heuristic search
+520,depend_on_r,516
+340,r_contain_c,Sampling
+153,r_contain_c,penn treebank
+60,r_contain_c,learning
+planning,depend_on_c,adversarial search
+263,r_contain_c,optimization
+392,r_contain_c,n-gram models
+129,r_contain_c,inference
+165,depend_on_r,388
+34,depend_on_r,469
+31,depend_on_r,148
+485,r_contain_c,convolutional neural networks
+511,r_contain_c,search engines
+261,depend_on_r,271
+323,r_contain_c,Sampling
+7,r_contain_c,classification
+398,depend_on_r,82
+138,r_contain_c,inference
+125,depend_on_r,155
+125,depend_on_r,31
+398,r_contain_c,clustering
+155,r_contain_c,inference
+475,r_contain_c,question answering
+28,r_contain_c,part of speech tagging
+513,depend_on_r,533
+466,depend_on_r,31
+460,r_contain_c,search
+479,r_contain_c,gradient descent
+linguistics basics,depend_on_c,grammar checker
+476,r_contain_c,gradient descent
+273,r_contain_c,classification
+natural language processing intro,depend_on_c,relation extraction
+29,r_contain_c,maximum likelihood estimation
+521,depend_on_r,533
+156,depend_on_r,31
+129,r_contain_c,learning
+509,r_contain_c,deep Q-network
+262,depend_on_r,259
+93,r_contain_c,information extraction
+145,depend_on_r,146
+391,r_contain_c,n-gram models
+473,r_contain_c,semi-supervised learning
+508,r_contain_c,imagenet
+83,depend_on_r,82
+469,depend_on_r,148
+473,r_contain_c,computer vision
+533,r_contain_c,computer vision
+21,r_contain_c,latent variable models
+148,depend_on_r,31
+515,r_contain_c,search
+461,r_contain_c,classification
+28,r_contain_c,classification
+155,depend_on_r,163
+340,r_contain_c,inference
+386,r_contain_c,dimensionality reduction
+76,depend_on_r,398
+385,r_contain_c,bias-variance
+59,depend_on_r,388
+516,r_contain_c,search
+273,r_contain_c,logistic regression
+264,r_contain_c,search
+462,r_contain_c,gradient descent
+linguistics basics,depend_on_c,propositional logic
+144,depend_on_r,143
+149,depend_on_r,158
+85,r_contain_c,backpropagation
+500,r_contain_c,named entity recognition
+509,r_contain_c,reinforcement learning
+389,depend_on_r,76
+30,depend_on_r,39
+466,r_contain_c,learning
+66,r_contain_c,caption generation
+social network extraction,depend_on_c,citation networks
+157,depend_on_r,142
+17,r_contain_c,gibbs sampling
+347,depend_on_r,461
+277,r_contain_c,search
+33,depend_on_r,149
+468,depend_on_r,30
+158,depend_on_r,166
+30,r_contain_c,sentiment analysis
+3,r_contain_c,graphical models
+34,depend_on_r,39
+33,r_contain_c,recursive neural network
+459,depend_on_r,139
+158,depend_on_r,155
+40,depend_on_r,149
+279,r_contain_c,recurrent neural networks
+18,depend_on_r,8
+30,r_contain_c,logistic regression
+466,r_contain_c,parsing
+165,r_contain_c,search
+478,r_contain_c,linear algebra
+93,r_contain_c,shift-reduce parsing
+126,r_contain_c,support vector machines
+499,r_contain_c,neural networks
+347,depend_on_r,468
+155,r_contain_c,parsing
+probabilities,depend_on_c,social network extraction
+517,depend_on_r,521
+16,r_contain_c,probabilities
+34,depend_on_r,464
+278,r_contain_c,logistic regression
+21,r_contain_c,graphical models
+471,r_contain_c,recurrent neural networks
+461,r_contain_c,named entity recognition
+11,depend_on_r,6
+166,depend_on_r,163
+501,r_contain_c,caption generation
+33,depend_on_r,34
+496,r_contain_c,neural networks
+376,r_contain_c,logistic regression
+534,r_contain_c,neural networks
+396,r_contain_c,cky parsing
+534,r_contain_c,learning
+389,r_contain_c,search
+323,depend_on_r,327
+129,r_contain_c,regularization
+389,r_contain_c,information retrieval
+66,r_contain_c,beam search
+278,r_contain_c,activation functions
+22,r_contain_c,kernels
+277,r_contain_c,inference
+337,r_contain_c,reinforcement learning
+393,depend_on_r,407
+63,r_contain_c,recurrent neural networks
+343,r_contain_c,imagenet
+482,r_contain_c,python
+17,r_contain_c,markov chain monte carlo
+146,r_contain_c,inference
+533,depend_on_r,532
+533,r_contain_c,classification
+24,r_contain_c,matrix factorization
+278,r_contain_c,computer vision
+329,r_contain_c,Sampling
+265,r_contain_c,probabilities
+485,r_contain_c,classification
+271,depend_on_r,263
+87,r_contain_c,perceptron
+156,depend_on_r,164
+125,depend_on_r,40
+129,r_contain_c,perceptron
+5,r_contain_c,others
+20,depend_on_r,12
+148,depend_on_r,125
+484,r_contain_c,matrix factorization
+325,depend_on_r,322
+392,depend_on_r,458
+276,r_contain_c,seq2seq
+parsing evaluation,depend_on_c,semantic parsing
+156,depend_on_r,32
+157,depend_on_r,30
+386,r_contain_c,Sampling
+466,depend_on_r,459
+520,depend_on_r,517
+linguistics basics,depend_on_c,speech processing
+473,depend_on_r,458
+376,r_contain_c,dimensionality reduction
+convolutional neural network,depend_on_c,ResNet
+460,depend_on_r,75
+533,r_contain_c,machine translation
+64,r_contain_c,linear algebra
+38,r_contain_c,speech recognition
+464,r_contain_c,learning
+12,r_contain_c,learning
+394,depend_on_r,164
+464,depend_on_r,468
+150,r_contain_c,syntax
+33,depend_on_r,30
+4,r_contain_c,Sampling
+161,r_contain_c,stemming
+146,depend_on_r,394
+96,depend_on_r,74
+syntax,depend_on_c,dependency syntax
+parsing,depend_on_c,parsing evaluation
+391,r_contain_c,sentiment analysis
+498,r_contain_c,loss function
+135,depend_on_r,330
+29,r_contain_c,loss function
+33,r_contain_c,combinatory categorial grammar
+1,r_contain_c,uncertainty
+134,r_contain_c,classification
+149,r_contain_c,entailment
+164,depend_on_r,394
+516,depend_on_r,533
+333,r_contain_c,bootstrapping
+neural networks,depend_on_c,syntaxnet
+137,r_contain_c,search
+149,r_contain_c,neural networks
+40,r_contain_c,Sampling
+32,r_contain_c,dynamic programming
+387,r_contain_c,feature selection
+67,r_contain_c,beam search
+129,depend_on_r,126
+61,r_contain_c,search
+465,depend_on_r,59
+495,r_contain_c,learning
+88,r_contain_c,perceptron
+1,r_contain_c,computer vision
+1,r_contain_c,structured sparsity
+93,depend_on_r,96
+265,r_contain_c,dynamic programming
+143,r_contain_c,neural networks
+261,depend_on_r,278
+39,r_contain_c,caption generation
+458,depend_on_r,465
+470,depend_on_r,139
+126,depend_on_r,125
+336,r_contain_c,Autoencoders
+339,r_contain_c,computer vision
+2,r_contain_c,inference
+400,r_contain_c,clustering
+92,r_contain_c,beam search
+262,r_contain_c,search
+155,depend_on_r,129
+5,depend_on_r,27
+83,r_contain_c,n-gram models
+74,depend_on_r,388
+13,depend_on_r,6
+latent variable models,depend_on_c,linear discriminant analysis
+85,r_contain_c,inference
+vector semantics,depend_on_c,bio text mining
+523,r_contain_c,probabilities
+161,r_contain_c,Autoencoders
+399,r_contain_c,clustering
+278,depend_on_r,261
+164,r_contain_c,transfer learning
+470,r_contain_c,word embedding
+natural language processing intro,depend_on_c,kernels
+458,r_contain_c,machine translation
+natural language processing intro,depend_on_c,noisy channel model
+28,r_contain_c,inference
+473,r_contain_c,named entity recognition
+134,r_contain_c,parts of speech
+penn treebank,depend_on_c,first-order logic
+70,depend_on_r,458
+84,depend_on_r,82
+vector semantics,depend_on_c,automated essay scoring
+linguistics basics,depend_on_c,computational phonology
+30,depend_on_r,33
+161,r_contain_c,language modeling
+511,r_contain_c,neural networks
+458,r_contain_c,classification
+129,depend_on_r,262
+15,r_contain_c,syntax
+509,r_contain_c,gradient descent
+398,depend_on_r,86
+137,r_contain_c,dynamic programming
+407,r_contain_c,machine translation
+machine learning resources,depend_on_c,logistic regression
+29,r_contain_c,latent dirichlet allocation
+32,depend_on_r,152
+84,depend_on_r,92
+search,depend_on_c,uncertainty
+271,depend_on_r,34
+468,depend_on_r,467
+9,r_contain_c,speech recognition
+machine learning resources,depend_on_c,word embedding
+531,r_contain_c,maximum likelihood estimation
+398,r_contain_c,information retrieval
+59,r_contain_c,sentiment analysis
+484,r_contain_c,gradient descent
+vector semantics,depend_on_c,kernels
+chomsky hierarchy,depend_on_c,computation theory
+323,depend_on_r,322
+339,r_contain_c,search
+269,depend_on_r,257
+262,r_contain_c,learning
+280,depend_on_r,272
+460,r_contain_c,entropy
+35,depend_on_r,470
+470,depend_on_r,32
+6,depend_on_r,8
+150,depend_on_r,146
+28,r_contain_c,structured prediction
+380,r_contain_c,python
+330,r_contain_c,reinforcement learning
+494,r_contain_c,multi-task learning
+82,depend_on_r,392
+130,depend_on_r,135
+497,depend_on_r,495
+machine translation,depend_on_c,noisy channel model
+35,depend_on_r,31
+python,depend_on_c,tools for dl
+3,depend_on_r,8
+471,r_contain_c,classification
+139,r_contain_c,inference
+64,r_contain_c,python
+75,depend_on_r,460
+163,depend_on_r,155
+38,r_contain_c,planning
+524,r_contain_c,inference
+521,depend_on_r,528
+73,r_contain_c,bootstrapping
+505,r_contain_c,entropy
+265,depend_on_r,266
+31,r_contain_c,logistic regression
+335,depend_on_r,340
+469,r_contain_c,search
+28,r_contain_c,dependency parsing
+481,depend_on_r,478
+131,r_contain_c,search
+61,r_contain_c,optimization
+linguistics basics,depend_on_c,discourse analysis
+linguistics basics,depend_on_c,entailment
+458,depend_on_r,392
+503,r_contain_c,logistic regression
+81,r_contain_c,training neural networks
+376,r_contain_c,python
+340,r_contain_c,entropy
+388,r_contain_c,information theory
+271,r_contain_c,parsing
+322,r_contain_c,optimization
+information extraction,depend_on_c,social media analysis
+403,r_contain_c,wordnet
+neural networks,depend_on_c,memory networks
+structured learning,depend_on_c,context free grammars
+398,r_contain_c,machine translation
+96,r_contain_c,dependency parsing
+460,r_contain_c,learning
+386,r_contain_c,random forest
+35,r_contain_c,calculus
+4,r_contain_c,graphical models
+387,r_contain_c,gradient descent
+465,r_contain_c,language modeling
+473,r_contain_c,imagenet
+519,r_contain_c,reinforcement learning
+163,depend_on_r,157
+396,r_contain_c,probabilistic context free grammars
+20,r_contain_c,markov chain monte carlo
+512,depend_on_r,513
+514,r_contain_c,search
+263,r_contain_c,maximum likelihood estimation
+30,depend_on_r,376
+76,r_contain_c,information retrieval
+461,r_contain_c,named entity recognition
+132,r_contain_c,learning
+490,r_contain_c,activation functions
+509,r_contain_c,AlphaGo
+392,r_contain_c,machine translation
+39,r_contain_c,Sampling
+6,depend_on_r,16
+87,depend_on_r,88
+34,r_contain_c,semantic parsing
+335,r_contain_c,entropy
+379,r_contain_c,learning
+graph-based nlp,depend_on_c,pagerank
+458,depend_on_r,84
+479,r_contain_c,learning
+76,r_contain_c,others
+7,r_contain_c,normalization
+83,r_contain_c,recurrent neural networks
+164,r_contain_c,entailment
+85,r_contain_c,n-gram models
+shift-reduce parsing,depend_on_c,transition based dependency parsing
+dynamic programming,depend_on_c,course introduction
+73,r_contain_c,probabilities
+38,r_contain_c,knowledge graph
+69,depend_on_r,497
+465,depend_on_r,467
+141,r_contain_c,perceptron
+390,r_contain_c,optimization
+1,r_contain_c,reinforcement learning
+501,r_contain_c,convolutional neural networks
+74,depend_on_r,76
+129,r_contain_c,search
+20,depend_on_r,15
+163,r_contain_c,search
+397,r_contain_c,learning
+270,r_contain_c,parsing
+35,depend_on_r,40
+neural networks,depend_on_c,neural parsing
+83,depend_on_r,85
+405,r_contain_c,clustering
+61,r_contain_c,reinforcement learning
+407,r_contain_c,Principal Component Analysis
+10,r_contain_c,regularization
+34,depend_on_r,401
+466,depend_on_r,125
+128,r_contain_c,parsing
+458,r_contain_c,convolutional neural networks
+476,r_contain_c,graph theory
+464,depend_on_r,466
+17,r_contain_c,Markov chains
+25,r_contain_c,linear regression
+473,r_contain_c,Unsupervised learning
+37,r_contain_c,statistical machine translation
+332,r_contain_c,learning
+486,r_contain_c,machine translation
+16,depend_on_r,8
+397,r_contain_c,dependency syntax
+164,r_contain_c,entropy
+32,r_contain_c,probabilities
+399,depend_on_r,75
+509,r_contain_c,loss function
+401,depend_on_r,157
+linguistics basics,depend_on_c,semantic similarity
+326,r_contain_c,Sampling
+31,depend_on_r,149
+322,r_contain_c,convolutional neural networks
+35,r_contain_c,semantic parsing
+83,depend_on_r,407
+533,r_contain_c,clustering
+19,r_contain_c,Mixture Models
+336,r_contain_c,learning
+348,r_contain_c,sentiment analysis
+34,depend_on_r,148
+401,depend_on_r,470
+465,depend_on_r,468
+376,r_contain_c,linear regression
+463,r_contain_c,linear regression
+79,r_contain_c,logistic regression
+148,depend_on_r,278
+517,r_contain_c,probabilities
+392,depend_on_r,82
+481,r_contain_c,neural networks
+88,r_contain_c,optimization
+27,r_contain_c,graphical models
+478,r_contain_c,linear regression
+6,r_contain_c,inference
+477,r_contain_c,Unsupervised learning
+74,depend_on_r,407
+532,r_contain_c,logistic regression
+84,depend_on_r,461
+151,r_contain_c,penn treebank
+473,r_contain_c,sentiment analysis
+38,r_contain_c,statistical machine translation
+31,depend_on_r,466
+Principal Component Analysis,depend_on_c,matrix factorization
+94,r_contain_c,recurrent neural networks
+401,depend_on_r,38
+5,r_contain_c,Message Passing
+148,depend_on_r,129
+74,r_contain_c,probabilities
+72,r_contain_c,question answering
+93,depend_on_r,76
+linguistics basics,depend_on_c,probabilistic context free grammars
+164,r_contain_c,hidden markov models
+158,r_contain_c,neural networks
+155,depend_on_r,156
+129,depend_on_r,530
+496,r_contain_c,transfer learning
+148,depend_on_r,34
+31,r_contain_c,matrix factorization
+linear algebra,depend_on_c,mathematical models
+optimization,depend_on_c,newton method
+511,depend_on_r,521
+19,depend_on_r,24
+32,r_contain_c,robotics
+407,depend_on_r,467
+264,depend_on_r,258
+5,r_contain_c,hidden markov models
+393,depend_on_r,86
+80,r_contain_c,loss function
+501,r_contain_c,statistical machine translation
+graph theory,depend_on_c,Message Passing
+136,r_contain_c,learning
+30,r_contain_c,classification
+534,r_contain_c,search
+159,r_contain_c,beam search
+142,r_contain_c,expert systems
+532,r_contain_c,optimization
+toolkits for information retrieval,depend_on_c,query expansion
+130,depend_on_r,530
+326,depend_on_r,322
+471,r_contain_c,neural networks
+38,r_contain_c,semantic parsing
+22,r_contain_c,conditional probability
+259,r_contain_c,language modeling
+472,r_contain_c,reinforcement learning
+472,depend_on_r,468
+94,depend_on_r,93
+125,depend_on_r,530
+linguistics basics,depend_on_c,recommendation system
+15,r_contain_c,learning
+96,r_contain_c,parsing
+404,r_contain_c,relation extraction
+128,r_contain_c,named entity recognition
+24,r_contain_c,latent variable models
+82,r_contain_c,speech recognition
+157,depend_on_r,135
+475,r_contain_c,semantic similarity
+526,r_contain_c,probabilities
+465,depend_on_r,407
+33,r_contain_c,parsing
+92,depend_on_r,91
+533,r_contain_c,neural networks
+planning,depend_on_c,robotics
+532,r_contain_c,object detection
+12,depend_on_r,20
+272,r_contain_c,question answering
+34,r_contain_c,learning
+166,r_contain_c,learning
+80,depend_on_r,379
+155,depend_on_r,32
+469,r_contain_c,entropy
+264,r_contain_c,optimization
+157,depend_on_r,154
+8,r_contain_c,normalization
+70,r_contain_c,parsing
+machine learning resources,depend_on_c,autonomous cars
+328,r_contain_c,reinforcement learning
+464,depend_on_r,397
+13,r_contain_c,calculus
+261,depend_on_r,279
+483,r_contain_c,dimensionality reduction
+natural language processing intro,depend_on_c,text mining
+neural networks,depend_on_c,convolutional neural networks
+473,r_contain_c,classification
+263,depend_on_r,262
+135,depend_on_r,329
+155,depend_on_r,148
+494,r_contain_c,transfer learning
+259,r_contain_c,probabilities
+461,r_contain_c,cross entropy
+39,depend_on_r,474
+158,depend_on_r,38
+533,r_contain_c,feature selection
+503,r_contain_c,clustering
+485,r_contain_c,recurrent neural networks
+534,r_contain_c,entropy
+145,r_contain_c,search
+83,r_contain_c,loss function
+327,depend_on_r,323
+156,r_contain_c,parsing
+first order logic,depend_on_c,predicate logic
+83,r_contain_c,neural networks
+388,r_contain_c,question answering
+393,r_contain_c,probabilities
+470,r_contain_c,learning
+142,depend_on_r,340
+63,r_contain_c,inference
+154,depend_on_r,157
+337,r_contain_c,inference
+278,r_contain_c,optimization
+501,r_contain_c,Sequence to sequence
+95,r_contain_c,parts of speech
+2,depend_on_r,5
+469,r_contain_c,machine translation
+502,r_contain_c,question answering
+459,r_contain_c,wordnet
+268,r_contain_c,combinatory categorial grammar
+8,r_contain_c,optimization
+152,depend_on_r,33
+521,r_contain_c,search
+274,r_contain_c,probabilities
+hidden markov models,depend_on_c,course introduction
+458,depend_on_r,83
+339,r_contain_c,neural networks
+150,r_contain_c,inference
+152,depend_on_r,32
+279,r_contain_c,Sampling
+33,depend_on_r,474
+142,r_contain_c,discourse analysis
+38,r_contain_c,information retrieval
+484,r_contain_c,neural networks
+29,r_contain_c,Mixture Models
+12,r_contain_c,Belief Propagation
+490,r_contain_c,regularization
+38,r_contain_c,learning
+136,r_contain_c,optimization
+468,depend_on_r,473
+376,r_contain_c,clustering
+472,r_contain_c,search
+159,depend_on_r,148
+15,r_contain_c,markov chain monte carlo
+465,r_contain_c,classification
+natural language processing intro,depend_on_c,dialog systems
+396,r_contain_c,context free grammars
+388,r_contain_c,syntax
+459,depend_on_r,82
+machine learning resources,depend_on_c,Unsupervised learning
+340,r_contain_c,search
+130,depend_on_r,155
+12,r_contain_c,inference
+157,depend_on_r,35
+257,r_contain_c,word sense disambiguation
+511,r_contain_c,constraint satisfaction
+280,r_contain_c,planning
+part of speech tagging,depend_on_c,syntaxnet
+273,r_contain_c,regularization
+machine learning resources,depend_on_c,linear discriminant analysis
+391,r_contain_c,others
+511,r_contain_c,planning
+76,depend_on_r,84
+391,r_contain_c,support vector machines
+72,r_contain_c,beam search
+391,r_contain_c,hidden markov models
+dynamic programming,depend_on_c,cky parsing
+513,r_contain_c,machine translation
+2,r_contain_c,Sampling
+14,r_contain_c,Message Passing
+125,depend_on_r,32
+75,r_contain_c,question answering
+37,r_contain_c,search
+335,r_contain_c,optimization
+graphical models,depend_on_c,Mean Field Approximation
+linguistics basics,depend_on_c,dialog systems
+382,r_contain_c,Sampling
+275,r_contain_c,the ibm models
+464,r_contain_c,word embedding
+9,r_contain_c,learning
+264,r_contain_c,maximum likelihood estimation
+148,r_contain_c,syntax
+458,r_contain_c,neural machine translation
+480,r_contain_c,normalization
+15,r_contain_c,Sampling
+460,r_contain_c,singular value decomposition
+402,r_contain_c,search
+386,r_contain_c,logistic regression
+143,r_contain_c,inference
+124,r_contain_c,inference
+31,depend_on_r,474
+142,r_contain_c,parsing
+330,r_contain_c,dynamic programming
+263,r_contain_c,learning
+392,depend_on_r,465
+272,r_contain_c,bootstrapping
+155,depend_on_r,31
+269,depend_on_r,280
+326,r_contain_c,neural networks
+259,r_contain_c,conditional probability
+9,depend_on_r,6
+149,depend_on_r,31
+460,r_contain_c,named entity recognition
+30,depend_on_r,34
+162,r_contain_c,search
+458,r_contain_c,search
+128,r_contain_c,named entity recognition
+461,r_contain_c,optimization
+470,depend_on_r,461
+327,r_contain_c,learning
+326,depend_on_r,324
+28,r_contain_c,graphical models
+33,r_contain_c,entropy
+124,r_contain_c,information extraction
+77,r_contain_c,sentiment analysis
+154,r_contain_c,learning
+23,r_contain_c,kernels
+129,depend_on_r,482
+158,r_contain_c,beam search
+88,r_contain_c,language identification
+347,depend_on_r,473
+459,r_contain_c,optimization
+34,r_contain_c,question answering
+534,r_contain_c,imagenet
+258,r_contain_c,planning
+528,r_contain_c,search engines
+164,depend_on_r,145
+146,r_contain_c,search
+3,r_contain_c,learning
+378,r_contain_c,Sampling
+35,depend_on_r,472
+407,depend_on_r,85
+143,r_contain_c,parts of speech
+273,r_contain_c,gradient descent
+29,r_contain_c,semi-supervised learning
+22,r_contain_c,latent variable models
+88,r_contain_c,classification
+134,r_contain_c,dependency parsing
+92,r_contain_c,Sampling
+probabilities,depend_on_c,bayesian network
+404,r_contain_c,bootstrapping
+natural language processing intro,depend_on_c,sentence simplification
+384,r_contain_c,probabilities
+164,r_contain_c,inference
+82,depend_on_r,84
+407,depend_on_r,59
+469,r_contain_c,learning
+141,r_contain_c,semantic role labeling
+271,r_contain_c,lexical semantics
+469,r_contain_c,neural machine translation
+499,r_contain_c,recurrent neural networks
+461,depend_on_r,347
+142,r_contain_c,learning
+39,r_contain_c,question answering
+407,depend_on_r,92
+320,r_contain_c,latent variable models
+88,r_contain_c,inference
+490,r_contain_c,classification
+472,r_contain_c,seq2seq
+probabilities,depend_on_c,hidden markov models
+149,r_contain_c,inference
+machine learning resources,depend_on_c,kernel function
+465,r_contain_c,named entity recognition
+470,r_contain_c,neural networks
+275,r_contain_c,syntax
+1,r_contain_c,optimization
+269,depend_on_r,272
+84,r_contain_c,loss function
+152,r_contain_c,syntax
+389,r_contain_c,tokenization
+466,r_contain_c,language modeling
+92,r_contain_c,perceptron
+68,r_contain_c,Unsupervised learning
+276,r_contain_c,beam search
+505,r_contain_c,learning
+458,depend_on_r,393
+classification,depend_on_c,sentiment analysis
+10,r_contain_c,inference
+488,r_contain_c,learning
+164,r_contain_c,Autoencoders
+388,r_contain_c,classification
+260,r_contain_c,probabilities
+125,r_contain_c,perceptron
+151,r_contain_c,Naive Bayes
+natural language processing intro,depend_on_c,shallow parsing
+528,r_contain_c,inference
+163,r_contain_c,others
+59,depend_on_r,465
+148,depend_on_r,159
+27,r_contain_c,clustering
+161,r_contain_c,memory networks
+383,r_contain_c,others
+probabilities,depend_on_c,monte carlo methods
+15,r_contain_c,entropy
+14,r_contain_c,inference
+528,depend_on_r,520
+linguistics basics,depend_on_c,Sequence to sequence
+38,depend_on_r,30
+22,r_contain_c,graphical models
+472,r_contain_c,inference
+33,depend_on_r,38
+257,r_contain_c,parsing
+natural language processing intro,depend_on_c,shift-reduce parsing
+32,depend_on_r,40
+optimization,depend_on_c,memory networks
+82,depend_on_r,83
+485,r_contain_c,gradient descent
+380,r_contain_c,feature selection
+517,r_contain_c,learning
+468,depend_on_r,139
+276,r_contain_c,search
+472,r_contain_c,Sequence to sequence
+480,r_contain_c,loss function
+469,depend_on_r,34
+400,r_contain_c,probabilities
+64,r_contain_c,linear regression
+348,r_contain_c,transfer learning
+135,depend_on_r,163
+parsing,depend_on_c,dependency parsing
+470,depend_on_r,155
+329,r_contain_c,neural networks
+155,depend_on_r,160
+160,r_contain_c,others
+32,r_contain_c,preprocessing
+11,r_contain_c,robotics
+387,r_contain_c,tsne
+lexical semantics,depend_on_c,event detection
+38,depend_on_r,466
+143,r_contain_c,Naive Bayes
+syntax,depend_on_c,penn treebank
+part of speech tagging,depend_on_c,course introduction
+131,r_contain_c,classification
+27,depend_on_r,17
+vector semantics,depend_on_c,word embedding
+347,depend_on_r,465
+149,depend_on_r,163
+326,r_contain_c,learning
+knowledge representation,depend_on_c,predicate logic
+258,depend_on_r,271
+325,r_contain_c,neural networks
+clustering,depend_on_c,Mixture Models
+388,r_contain_c,knowledge graph
+468,r_contain_c,classification
+278,depend_on_r,129
+473,r_contain_c,gradient descent
+503,r_contain_c,imagenet
+464,r_contain_c,beam search
+382,r_contain_c,bootstrapping
+321,r_contain_c,python
+335,r_contain_c,uncertainty
+513,depend_on_r,517
+1,r_contain_c,speech recognition
+79,r_contain_c,probabilities
+271,r_contain_c,vector representations
+339,r_contain_c,Meta-Learning
+472,r_contain_c,penn treebank
+511,r_contain_c,search
+156,r_contain_c,seq2seq
+474,r_contain_c,question answering
+274,r_contain_c,machine translation
+154,r_contain_c,first-order logic
+132,r_contain_c,inference
+401,depend_on_r,30
+340,r_contain_c,recurrent neural networks
+516,depend_on_r,520
+526,r_contain_c,python
+3,r_contain_c,bayesian network
+330,r_contain_c,learning
+36,r_contain_c,beam search
+35,depend_on_r,155
+61,r_contain_c,learning
+474,depend_on_r,34
+classification,depend_on_c,sentence boundary recognition
+266,r_contain_c,probabilities
+467,r_contain_c,search
+278,depend_on_r,273
+493,r_contain_c,search
+neural networks,depend_on_c,training neural networks
+robotics,depend_on_c,robotic locomotion
+66,r_contain_c,probabilities
+165,r_contain_c,parsing
+258,r_contain_c,others
+32,depend_on_r,470
+38,r_contain_c,others
+maximum likelihood estimation,depend_on_c,Autoencoders
+22,r_contain_c,learning
+379,depend_on_r,80
+499,r_contain_c,speech recognition
+155,r_contain_c,syntax
+493,r_contain_c,learning
+472,r_contain_c,recurrent neural networks
+165,r_contain_c,neural networks
+30,depend_on_r,40
+124,r_contain_c,transliteration
+6,r_contain_c,perceptron
+40,r_contain_c,robotics
+467,r_contain_c,learning
+500,r_contain_c,transfer learning
+485,r_contain_c,learning
+482,r_contain_c,others
+134,r_contain_c,learning
+279,r_contain_c,seq2seq
+62,r_contain_c,learning
+149,depend_on_r,160
+12,r_contain_c,Unsupervised learning
+160,depend_on_r,157
+163,depend_on_r,30
+143,depend_on_r,164
+458,depend_on_r,92
+343,r_contain_c,inference
+495,r_contain_c,computer vision
+34,r_contain_c,question answering
+linguistics basics,depend_on_c,relation extraction
+21,r_contain_c,probabilities
+random walks and harmonic functions,depend_on_c,neural networks
+29,depend_on_r,28
+31,depend_on_r,30
+82,depend_on_r,389
+optimization,depend_on_c,Lagrange duality
+36,depend_on_r,34
+sentence representations,depend_on_c,sentence simplification
+348,r_contain_c,reading comprehension
+528,r_contain_c,search
+392,depend_on_r,461
+90,r_contain_c,Sampling
+35,depend_on_r,158
+164,r_contain_c,parsing
+392,depend_on_r,83
+379,r_contain_c,decision trees
+164,depend_on_r,156
+probabilities,depend_on_c,problem solving and search
+vector representations,depend_on_c,bag of words model
+380,r_contain_c,learning
+sentence representations,depend_on_c,sentiment analysis
+278,r_contain_c,recurrent neural networks
+260,depend_on_r,279
+267,r_contain_c,parsing
+264,r_contain_c,hidden markov models
+273,depend_on_r,279
+478,r_contain_c,loss function
+268,r_contain_c,shift-reduce parsing
+378,r_contain_c,optimization
+407,r_contain_c,speech recognition
+14,r_contain_c,Mean Field Approximation
+131,r_contain_c,perceptron
+263,depend_on_r,278
+154,r_contain_c,others
+492,r_contain_c,regularization
+402,r_contain_c,query expansion
+71,r_contain_c,learning
+31,depend_on_r,158
+266,r_contain_c,penn treebank
+338,r_contain_c,generative adversarial networks
+380,r_contain_c,Sampling
+468,depend_on_r,470
+323,r_contain_c,neural networks
+527,r_contain_c,probabilities
+34,depend_on_r,31
+474,depend_on_r,30
+474,r_contain_c,dependency parsing
+404,r_contain_c,question answering
+487,r_contain_c,gradient descent
+natural language processing intro,depend_on_c,semantic role labeling
+72,r_contain_c,question answering
+40,depend_on_r,129
+random walks,depend_on_c,harmonic functions
+39,depend_on_r,33
+466,r_contain_c,optimization
+145,r_contain_c,Naive Bayes
+465,r_contain_c,machine translation
+parsing,depend_on_c,statistical parsing
+129,r_contain_c,log-linear models
+84,r_contain_c,language modeling
+probabilities,depend_on_c,statistical parsing
+148,depend_on_r,156
+150,r_contain_c,parsing
+157,r_contain_c,Naive Bayes
+473,r_contain_c,parsing
+383,r_contain_c,logistic regression
+465,r_contain_c,calculus
+90,depend_on_r,83
+24,r_contain_c,probabilities
+530,r_contain_c,inference
+sentence representations,depend_on_c,document representation
+25,r_contain_c,clustering
+wordnet,depend_on_c,thesaurus-based similarity
+470,depend_on_r,468
+18,r_contain_c,Mixture Models
+326,r_contain_c,entropy
+natural language processing intro,depend_on_c,chinese nlp
+468,r_contain_c,neural machine translation
+144,r_contain_c,perceptron
+376,r_contain_c,Sampling
+477,r_contain_c,classification
+261,r_contain_c,penn treebank
+natural language processing intro,depend_on_c,word embedding
+388,r_contain_c,text summarization
+125,depend_on_r,461
+257,r_contain_c,others
+21,r_contain_c,feature selection
+458,r_contain_c,regular expressions
+88,depend_on_r,87
+32,depend_on_r,129
+160,depend_on_r,35
+469,r_contain_c,inference
+395,r_contain_c,machine translation
+structured learning,depend_on_c,word embedding
+question answering,depend_on_c,Visual QA
+458,depend_on_r,74
+16,r_contain_c,Belief Propagation
+18,depend_on_r,7
+30,r_contain_c,question answering
+386,r_contain_c,entropy
+461,depend_on_r,464
+378,r_contain_c,dimensionality reduction
+23,r_contain_c,inference
+458,depend_on_r,59
+379,r_contain_c,python
+35,r_contain_c,preprocessing
+92,depend_on_r,407
+23,r_contain_c,graphical models
+14,depend_on_r,29
+20,r_contain_c,Sampling
+33,depend_on_r,261
+384,r_contain_c,classification
+479,r_contain_c,classification
+466,r_contain_c,machine translation
+39,r_contain_c,question answering
+376,r_contain_c,reinforcement learning
+71,r_contain_c,others
+280,r_contain_c,python
+141,r_contain_c,normalization
+91,depend_on_r,90
+396,r_contain_c,parsing
+3,depend_on_r,6
+linear algebra,depend_on_c,latent variable models
+526,r_contain_c,Variable Elimination
+155,r_contain_c,beam search
+Gaussian graphical models,depend_on_c,Mixture Models
+93,depend_on_r,95
+24,r_contain_c,kernels
+15,depend_on_r,10
+40,depend_on_r,135
+machine translation,depend_on_c,machine translation techniques
+258,r_contain_c,chomsky hierarchy
+528,depend_on_r,521
+407,r_contain_c,optimization
+22,r_contain_c,Belief Propagation
+166,r_contain_c,parsing
+529,r_contain_c,inference
+517,r_contain_c,search
+70,r_contain_c,Autoencoders
+18,depend_on_r,12
+470,depend_on_r,38
+76,depend_on_r,74
+481,r_contain_c,learning
+528,r_contain_c,Markov chains
+163,r_contain_c,neural networks
+148,r_contain_c,inference
+500,r_contain_c,classification
+407,r_contain_c,word embedding
+458,r_contain_c,sentiment analysis
+278,depend_on_r,271
+linguistics basics,depend_on_c,shallow parsing
+484,r_contain_c,learning
+34,r_contain_c,information extraction
+397,r_contain_c,parsing
+40,r_contain_c,loss function
+469,depend_on_r,461
+376,r_contain_c,optimization
+146,r_contain_c,Naive Bayes
+124,r_contain_c,named entity recognition
+347,r_contain_c,learning
+158,r_contain_c,penn treebank
+30,depend_on_r,32
+31,depend_on_r,125
+523,r_contain_c,conditional probability
+6,depend_on_r,13
+2,depend_on_r,3
+485,r_contain_c,backpropagation
+495,r_contain_c,gradient descent
+23,r_contain_c,Message Passing
+11,r_contain_c,linear regression
+87,r_contain_c,penn treebank
+59,depend_on_r,458
+487,r_contain_c,classification
+38,r_contain_c,Message Passing
+340,depend_on_r,339
+parsing,depend_on_c,event detection
+471,r_contain_c,python
+135,depend_on_r,35
+72,r_contain_c,learning
+497,r_contain_c,classification
+388,depend_on_r,165
+neural networks,depend_on_c,neural question answering
+258,r_contain_c,learning
+406,r_contain_c,learning
+linguistics basics,depend_on_c,kernels
+139,r_contain_c,named entity recognition
+508,r_contain_c,language modeling
+459,r_contain_c,Sampling
+88,r_contain_c,named entity recognition
+524,r_contain_c,Sampling
+469,r_contain_c,recursive neural network
+468,r_contain_c,neural networks
+61,r_contain_c,calculus
+38,r_contain_c,regular expressions
+linguistics basics,depend_on_c,semantic parsing
+30,r_contain_c,neural networks
+152,r_contain_c,dependency parsing
+140,r_contain_c,inference
+75,depend_on_r,390
+linear algebra,depend_on_c,State Space Models
+387,r_contain_c,kullback leibler divergence
+1,r_contain_c,Sampling
+3,depend_on_r,7
+489,r_contain_c,learning
+531,depend_on_r,533
+389,r_contain_c,learning
+149,depend_on_r,33
+76,r_contain_c,machine translation
+476,r_contain_c,class logistics
+31,r_contain_c,learning
+162,r_contain_c,learning
+481,r_contain_c,feature selection
+335,depend_on_r,333
+461,r_contain_c,neural networks
+391,r_contain_c,Naive Bayes
+32,r_contain_c,penn treebank
+152,r_contain_c,inference
+84,depend_on_r,389
+linguistics basics,depend_on_c,word embedding
+139,depend_on_r,470
+35,r_contain_c,classification
+32,depend_on_r,125
+464,r_contain_c,neural networks
+473,r_contain_c,seq2seq
+343,r_contain_c,search
+502,r_contain_c,machine translation
+34,r_contain_c,semantic role labeling
+461,depend_on_r,32
+275,depend_on_r,276
+163,depend_on_r,339
+linguistics basics,depend_on_c,sentence boundary recognition
+39,depend_on_r,34
+394,r_contain_c,search
+reinforcement learning,depend_on_c,agent-based view of ai
+155,depend_on_r,149
+376,r_contain_c,Unsupervised learning
+35,r_contain_c,logistic regression
+460,depend_on_r,468
+163,depend_on_r,130
+394,r_contain_c,named entity recognition
+28,depend_on_r,10
+523,r_contain_c,inference
+469,r_contain_c,convolutional neural networks
+466,depend_on_r,468
+529,r_contain_c,Variable Elimination
+517,depend_on_r,533
+472,r_contain_c,language modeling
+382,depend_on_r,376
+18,r_contain_c,latent dirichlet allocation
+520,depend_on_r,521
+522,r_contain_c,learning
+347,depend_on_r,134
+128,r_contain_c,constraint satisfaction
+376,depend_on_r,382
+75,r_contain_c,probabilities
+78,r_contain_c,classification
+466,r_contain_c,Sequence to sequence
+387,r_contain_c,Principal Component Analysis
+question answering,depend_on_c,evaluation of question answering
+279,depend_on_r,259
+129,depend_on_r,278
+141,r_contain_c,information extraction
+260,r_contain_c,conditional probability
+34,r_contain_c,bootstrapping
+530,r_contain_c,clustering
+19,r_contain_c,Dirichlet Processes
+optimization,depend_on_c,KKT conditions
+272,depend_on_r,258
+149,depend_on_r,148
+149,depend_on_r,40
+129,depend_on_r,125
+480,r_contain_c,neural networks
+499,r_contain_c,Sampling
+513,depend_on_r,512
+330,depend_on_r,324
+30,depend_on_r,278
+94,r_contain_c,dependency parsing
+278,r_contain_c,speech recognition
+158,r_contain_c,search
+28,r_contain_c,context free grammars
+4,r_contain_c,normalization
+153,r_contain_c,inference
+464,depend_on_r,458
+146,depend_on_r,145
+130,depend_on_r,157
+21,depend_on_r,19
+319,r_contain_c,reinforcement learning
+126,r_contain_c,perceptron
+519,r_contain_c,search
+513,r_contain_c,planning
+502,r_contain_c,text generation
+38,depend_on_r,163
+linguistics basics,depend_on_c,course introduction
+460,r_contain_c,normalization
+linear algebra,depend_on_c,dimensionality reduction
+145,r_contain_c,hidden markov models
+76,depend_on_r,93
+linguistics basics,depend_on_c,knowledge representation
+26,r_contain_c,optimization
+329,depend_on_r,331
+387,r_contain_c,python
+496,r_contain_c,ResNet
+522,r_contain_c,others
+481,r_contain_c,classification
+469,r_contain_c,beam search
+407,r_contain_c,search
+14,r_contain_c,entropy
+277,depend_on_r,269
+458,depend_on_r,464
+loss function,depend_on_c,speech processing
+473,r_contain_c,language modeling
+31,depend_on_r,38
+125,r_contain_c,support vector machines
+30,depend_on_r,157
+498,r_contain_c,one-shot learning
+142,r_contain_c,python
+465,depend_on_r,473
+495,depend_on_r,69
+277,r_contain_c,heuristic search
+69,r_contain_c,classification
+464,r_contain_c,search
+165,r_contain_c,clustering
+516,depend_on_r,517
+333,depend_on_r,335
+336,r_contain_c,latent variable models
+378,r_contain_c,normalization
+391,r_contain_c,conditional probability
+466,depend_on_r,39
+26,r_contain_c,graphical models
+504,r_contain_c,backpropagation
+125,r_contain_c,regularization
+324,depend_on_r,330
+516,depend_on_r,521
+468,r_contain_c,reinforcement learning
+503,r_contain_c,learning
+389,r_contain_c,normalization
+32,r_contain_c,learning
+155,depend_on_r,34
+407,r_contain_c,computer vision
+40,r_contain_c,planning
+33,r_contain_c,beam search
+85,depend_on_r,458
+339,r_contain_c,learning
+recurrent neural networks,depend_on_c,neural turing machine
+83,depend_on_r,92
+340,depend_on_r,333
+66,r_contain_c,word embedding
+277,depend_on_r,272
+519,r_contain_c,planning
+509,r_contain_c,learning
+280,r_contain_c,discourse model
+390,r_contain_c,classification
+329,depend_on_r,135
+258,depend_on_r,278
+24,r_contain_c,spectral methods
+258,depend_on_r,270
+329,r_contain_c,uncertainty
+278,depend_on_r,263
+462,r_contain_c,learning
+489,r_contain_c,neural networks
+474,depend_on_r,33
+388,r_contain_c,named entity recognition
+391,r_contain_c,optimization
+400,r_contain_c,learning
+497,r_contain_c,learning
+9,r_contain_c,inference
+407,r_contain_c,named entity recognition
+144,depend_on_r,61
+structured learning,depend_on_c,tsne
+465,depend_on_r,30
+493,r_contain_c,classification
+135,depend_on_r,339
+477,r_contain_c,learning
+35,r_contain_c,parsing
+77,depend_on_r,79
+139,r_contain_c,probabilities
+30,r_contain_c,loss function
+vector semantics,depend_on_c,semantic similarity
+deep learning introduction,depend_on_c,neural machine translation
+7,r_contain_c,linear regression
+30,r_contain_c,backpropagation
+3,depend_on_r,18
+511,r_contain_c,uncertainty
+261,r_contain_c,parts of speech
+40,r_contain_c,machine translation
+80,r_contain_c,perceptron
+3,depend_on_r,2
+461,depend_on_r,125
+501,r_contain_c,optimization
+148,r_contain_c,wordnet
+34,depend_on_r,155
+2,r_contain_c,learning
+398,depend_on_r,84
+139,r_contain_c,regularization
+142,depend_on_r,163
+523,r_contain_c,graphical models
+264,r_contain_c,parsing
+271,r_contain_c,semantic similarity
+517,depend_on_r,528
+476,r_contain_c,search
+natural language processing intro,depend_on_c,text generation
+528,r_contain_c,gibbs sampling
+34,r_contain_c,calculus
+506,r_contain_c,learning
+22,r_contain_c,Hilbert Space
+512,r_contain_c,planning
+156,depend_on_r,469
+528,depend_on_r,516
+269,depend_on_r,258
+35,r_contain_c,relation extraction
+262,r_contain_c,Unsupervised learning
+39,r_contain_c,inference
+31,r_contain_c,entropy
+146,r_contain_c,neural networks
+478,r_contain_c,neural networks
+40,depend_on_r,155
+37,r_contain_c,machine translation
+4,r_contain_c,inference
+61,r_contain_c,gradient descent
+82,depend_on_r,459
+482,r_contain_c,gradient descent
+476,r_contain_c,neural networks
+7,depend_on_r,3
+407,r_contain_c,backpropagation
+493,depend_on_r,494
+124,r_contain_c,shallow parsing
+493,r_contain_c,gradient descent
+129,depend_on_r,128
+465,r_contain_c,neural networks
+35,depend_on_r,474
+chomsky hierarchy,depend_on_c,context sensitive grammar
+8,depend_on_r,6
+4,r_contain_c,learning
+10,r_contain_c,loss function
+393,r_contain_c,penn treebank
+331,r_contain_c,neural networks
+91,r_contain_c,Sampling
+information retrieval,depend_on_c,image retrieval
+383,r_contain_c,Sampling
+529,r_contain_c,uncertainty
+166,r_contain_c,Sampling
+86,depend_on_r,389
+32,r_contain_c,log-linear models
+469,r_contain_c,regularization
+472,r_contain_c,neural machine translation
+11,r_contain_c,learning
+machine learning resources,depend_on_c,k means
+280,r_contain_c,dialog systems
+linguistics basics,depend_on_c,nlp and vision
+85,r_contain_c,recurrent neural networks
+258,depend_on_r,279
+322,depend_on_r,325
+468,depend_on_r,36
+501,r_contain_c,neural machine translation
+81,r_contain_c,activation functions
+80,r_contain_c,logistic regression
+482,r_contain_c,logistic regression
+340,r_contain_c,computer vision
+66,r_contain_c,machine translation
+528,depend_on_r,532
+28,r_contain_c,regularization
+340,r_contain_c,classification
+519,r_contain_c,Sampling
+126,r_contain_c,logistic regression
+135,depend_on_r,340
+487,r_contain_c,logistic regression
+259,r_contain_c,n-gram models
+147,depend_on_r,485
+30,depend_on_r,148
+27,r_contain_c,monte carlo methods
+135,r_contain_c,learning
+monte carlo tree search,depend_on_c,AlphaGo
+378,r_contain_c,learning
+40,r_contain_c,reinforcement learning
+31,depend_on_r,470
+459,depend_on_r,84
+159,depend_on_r,158
+376,r_contain_c,probabilities
+11,r_contain_c,neural networks
+81,r_contain_c,neural networks
+37,r_contain_c,parsing
+467,r_contain_c,python
+464,r_contain_c,dynamic programming
+518,r_contain_c,search
+96,r_contain_c,learning
+135,r_contain_c,inference
+322,r_contain_c,learning
+135,r_contain_c,classification
+165,r_contain_c,machine translation
+random walks and harmonic functions,depend_on_c,sentiment analysis
+86,r_contain_c,information extraction
+469,r_contain_c,classification
+407,depend_on_r,468
+12,r_contain_c,parts of speech
+32,depend_on_r,164
+278,r_contain_c,lexical semantics
+30,r_contain_c,spectral methods
+319,r_contain_c,search
+264,r_contain_c,logistic regression
+389,r_contain_c,stemming
+339,depend_on_r,163
+60,r_contain_c,named entity recognition
+398,r_contain_c,language modeling
+155,depend_on_r,40
+134,r_contain_c,inference
+22,r_contain_c,Message Passing
+158,depend_on_r,156
+403,r_contain_c,learning
+262,depend_on_r,263
+59,r_contain_c,convolutional neural networks
+471,r_contain_c,vector representations
+343,r_contain_c,semantic parsing
+86,r_contain_c,others
+158,depend_on_r,32
+483,r_contain_c,clustering
+125,r_contain_c,loss function
+semantic similarity,depend_on_c,sentence simplification
+407,r_contain_c,imagenet
+79,r_contain_c,learning
+386,r_contain_c,learning
+377,r_contain_c,python
+33,depend_on_r,31
+470,depend_on_r,401
+74,depend_on_r,96
+330,depend_on_r,515
+471,r_contain_c,search
+147,depend_on_r,143
+468,r_contain_c,recurrent neural networks
+30,depend_on_r,461
+505,r_contain_c,generative adversarial networks
+33,depend_on_r,39
+272,depend_on_r,269
+511,r_contain_c,question answering
+269,depend_on_r,277
+379,r_contain_c,others
+31,depend_on_r,40
+36,depend_on_r,468
+528,r_contain_c,machine translation
+124,r_contain_c,logistic regression
+159,depend_on_r,34
+15,r_contain_c,Mean Field Approximation
+532,r_contain_c,backpropagation
+276,depend_on_r,271
+377,r_contain_c,dimensionality reduction
+82,r_contain_c,probabilities
+Sampling,depend_on_c,markov chain monte carlo
+487,r_contain_c,python
+84,depend_on_r,392
+74,r_contain_c,parsing
+154,r_contain_c,dependency syntax
+261,depend_on_r,262
+505,r_contain_c,normalization
+138,r_contain_c,learning
+130,depend_on_r,40
+computer vision,depend_on_c,nlp and vision
+38,depend_on_r,33
+7,r_contain_c,logistic regression
+62,r_contain_c,transfer learning
+271,depend_on_r,278
+36,depend_on_r,158
+structured learning,depend_on_c,sentence representations
+recurrent neural networks,depend_on_c,neural question answering
+339,r_contain_c,multi-task learning
+390,r_contain_c,logistic regression
+38,r_contain_c,parsing
+386,r_contain_c,feature selection
+calculus,depend_on_c,State Space Models
+474,r_contain_c,language modeling
+77,r_contain_c,learning
+158,depend_on_r,159
+142,depend_on_r,343
+93,depend_on_r,74
+333,depend_on_r,340
+270,depend_on_r,269
+logic and logical agents,depend_on_c,expert systems
+508,r_contain_c,recurrent neural networks
+398,r_contain_c,question answering
+1,r_contain_c,search
+404,r_contain_c,wordnet
+270,r_contain_c,lexical semantics
+396,r_contain_c,dynamic programming
+333,r_contain_c,reinforcement learning
+30,r_contain_c,recurrent neural networks
+398,r_contain_c,thesaurus-based similarity
+260,depend_on_r,263
+134,depend_on_r,139
+40,depend_on_r,33
+129,r_contain_c,optimization
+273,r_contain_c,machine translation
+474,r_contain_c,seq2seq
+329,r_contain_c,inference
+274,r_contain_c,predicate logic
+258,r_contain_c,python
+276,depend_on_r,259
+465,r_contain_c,probabilities
+33,depend_on_r,156
+521,r_contain_c,constraint satisfaction
+514,r_contain_c,optimization
+natural language processing intro,depend_on_c,propositional logic
+135,depend_on_r,38
+155,r_contain_c,perceptron
+35,r_contain_c,others
+139,r_contain_c,newton method
+130,depend_on_r,125
+475,r_contain_c,question answering
+267,depend_on_r,268
+278,depend_on_r,262
+31,r_contain_c,Canonical Correlation Analysis
+148,r_contain_c,Mixture Models
+156,depend_on_r,160
+339,r_contain_c,others
+5,depend_on_r,3
+320,r_contain_c,classification
+275,r_contain_c,probabilities
+Markov chains,depend_on_c,markov chain monte carlo
+40,depend_on_r,38
+summarization evaluation,depend_on_c,scientific article summarization
+388,r_contain_c,language modeling
+84,r_contain_c,Sampling
+38,r_contain_c,Sequence to sequence
+31,depend_on_r,159
+29,r_contain_c,learning
+149,depend_on_r,278
+140,r_contain_c,maximum likelihood estimation
+146,r_contain_c,learning
+32,depend_on_r,472
+37,r_contain_c,beam search
+129,r_contain_c,gradient descent
+90,r_contain_c,neural machine translation
+401,r_contain_c,logistic regression
+464,r_contain_c,logistic regression
+evaluation of language modeling,depend_on_c,neural language modeling
+478,r_contain_c,python
+458,r_contain_c,parsing
+124,depend_on_r,277
+466,depend_on_r,30
+32,r_contain_c,inference
+Markov chains,depend_on_c,latent dirichlet allocation
+511,r_contain_c,question answering
+392,r_contain_c,classification
+126,r_contain_c,classification
+384,r_contain_c,Sampling
+472,r_contain_c,entropy
+35,depend_on_r,160
+533,r_contain_c,speech recognition
+340,r_contain_c,robotics
+147,r_contain_c,seq2seq
+459,depend_on_r,466
+33,depend_on_r,145
+90,r_contain_c,Sequence to sequence
+131,r_contain_c,Sampling
+139,r_contain_c,structured sparsity
+165,r_contain_c,multi-task learning
+loss function,depend_on_c,Meta-Learning
+473,r_contain_c,machine translation
+469,r_contain_c,backpropagation
+95,r_contain_c,perceptron
+159,r_contain_c,seq2seq
+390,r_contain_c,sentiment analysis
+156,depend_on_r,155
+269,r_contain_c,predicate logic
+information retrieval,depend_on_c,text mining
+272,depend_on_r,280
+158,depend_on_r,160
+70,depend_on_r,468
+7,r_contain_c,graphical models
+35,depend_on_r,36
+machine translation,depend_on_c,syntax based machine translation
+information retrieval,depend_on_c,search engines
+32,r_contain_c,classification
+75,r_contain_c,semantic similarity
+77,r_contain_c,conditional probability
+258,depend_on_r,264
+133,r_contain_c,learning
+23,r_contain_c,learning
+322,r_contain_c,planning
+96,r_contain_c,perceptron
+259,depend_on_r,261
+319,r_contain_c,learning
+259,r_contain_c,speech recognition
+347,depend_on_r,392
+464,r_contain_c,syntaxnet
+sentence representations,depend_on_c,information extraction
+494,r_contain_c,machine translation
+403,r_contain_c,bootstrapping
+330,depend_on_r,329
+32,depend_on_r,155
+495,r_contain_c,object detection
+38,depend_on_r,35
+66,r_contain_c,entropy
+59,r_contain_c,neural networks
+4,r_contain_c,others
+70,r_contain_c,seq2seq
+478,depend_on_r,485
+155,depend_on_r,470
+387,r_contain_c,clustering
+272,r_contain_c,question answering
+506,r_contain_c,convolutional neural network
+125,depend_on_r,466
+471,r_contain_c,beam search
+natural language processing intro,depend_on_c,event detection
+165,r_contain_c,preprocessing
+471,r_contain_c,parsing
+137,r_contain_c,gibbs sampling
+30,r_contain_c,robotics
+33,depend_on_r,468
+475,r_contain_c,loss function
+266,r_contain_c,parsing
+17,r_contain_c,latent dirichlet allocation
+128,r_contain_c,entropy
+36,r_contain_c,neural machine translation
+164,depend_on_r,143
+476,r_contain_c,python
+28,depend_on_r,29
+155,depend_on_r,35
+23,depend_on_r,22
+340,r_contain_c,learning
+88,r_contain_c,penn treebank
+36,depend_on_r,35
+78,r_contain_c,learning
+333,depend_on_r,339
+278,depend_on_r,30
+466,depend_on_r,38
+67,r_contain_c,seq2seq
+513,depend_on_r,520
+129,depend_on_r,31
+398,depend_on_r,392
+5,depend_on_r,2
+379,r_contain_c,entropy
+1,r_contain_c,hidden markov models
+Unsupervised learning,depend_on_c,neural networks
+129,r_contain_c,structured learning
+155,depend_on_r,39
+525,r_contain_c,learning
+464,r_contain_c,dependency parsing
+38,r_contain_c,machine translation
+522,r_contain_c,conditional probability
+9,r_contain_c,graphical models
+142,depend_on_r,124
+15,r_contain_c,inference
+389,r_contain_c,regular expressions
+145,r_contain_c,preprocessing
+258,r_contain_c,penn treebank
+wordnet,depend_on_c,lexical semantics
+474,depend_on_r,39
+320,r_contain_c,gradient descent
+459,r_contain_c,bag of words model
+468,r_contain_c,transliteration
+parsing,depend_on_c,semi supervised learning
+61,r_contain_c,regularization
+probabilities,depend_on_c,monte carlo tree search
+468,depend_on_r,461
+468,depend_on_r,458
+124,r_contain_c,structured prediction
+34,depend_on_r,40
+35,depend_on_r,30
+128,r_contain_c,learning
+460,r_contain_c,syntax
+18,r_contain_c,Sampling
+258,r_contain_c,regular expressions
+6,depend_on_r,11
+277,depend_on_r,257
+264,r_contain_c,entropy
+38,r_contain_c,seq2seq
+126,r_contain_c,learning
+458,r_contain_c,computer vision
+82,r_contain_c,n-gram models
+164,r_contain_c,clustering
+398,r_contain_c,entailment
+280,depend_on_r,277
+401,r_contain_c,machine translation
+20,depend_on_r,10
+511,r_contain_c,speech synthesis
+27,r_contain_c,search
+458,depend_on_r,468
+388,r_contain_c,speech recognition
+163,r_contain_c,ResNet
+143,depend_on_r,146
+501,r_contain_c,normalization
+9,r_contain_c,linear regression
+35,depend_on_r,157
+278,r_contain_c,seq2seq
+76,r_contain_c,vector semantics
+136,r_contain_c,structured prediction
+word distributions,depend_on_c,context free grammars
+11,r_contain_c,State Space Models
+472,r_contain_c,classification
+468,depend_on_r,347
+258,r_contain_c,parsing
+154,r_contain_c,search
+319,r_contain_c,transfer learning
+137,r_contain_c,parsing
+37,depend_on_r,158
+96,r_contain_c,search
+277,r_contain_c,discourse parsing
+326,r_contain_c,Autoencoders
+85,r_contain_c,memory networks
+153,r_contain_c,perceptron
+390,r_contain_c,planning
+30,depend_on_r,465
+141,r_contain_c,inference
+13,r_contain_c,Message Passing
+386,r_contain_c,classification
+461,r_contain_c,loss function
+vector representations,depend_on_c,automated essay scoring
+515,depend_on_r,129
+155,r_contain_c,Sampling
+461,depend_on_r,149
+29,r_contain_c,entropy
+91,r_contain_c,machine translation
+391,r_contain_c,feature selection
+376,r_contain_c,semi-supervised learning
+39,depend_on_r,40
+137,r_contain_c,structured prediction
+474,r_contain_c,penn treebank
+31,r_contain_c,wordnet
+473,r_contain_c,preprocessing
+text similarity,depend_on_c,text mining
+276,depend_on_r,279
+466,r_contain_c,gradient descent
+35,depend_on_r,39
+258,r_contain_c,parts of speech
+37,r_contain_c,syntax
+494,r_contain_c,speech recognition
+15,r_contain_c,Belief Propagation
+395,r_contain_c,parts of speech
+text similarity,depend_on_c,document representation
+506,r_contain_c,entropy
+387,r_contain_c,Manifold Learning
+6,r_contain_c,graphical models
+271,r_contain_c,word sense disambiguation
+context free grammar,depend_on_c,cky parsing
+92,depend_on_r,83
+6,depend_on_r,7
+vector representations,depend_on_c,bio text mining
+465,r_contain_c,named entity recognition
+search,depend_on_c,logic and logical agents
+483,r_contain_c,Unsupervised learning
+130,depend_on_r,129
+268,r_contain_c,parsing
+468,depend_on_r,35
+13,r_contain_c,graphical models
+128,r_contain_c,inference
+35,r_contain_c,inference
+129,r_contain_c,others
+9,r_contain_c,dimensionality reduction
+277,depend_on_r,124
+124,r_contain_c,optimization
+479,r_contain_c,neural networks
+28,r_contain_c,logistic regression
+467,r_contain_c,neural machine translation
+132,r_contain_c,structured prediction
+8,r_contain_c,probabilities
+135,depend_on_r,40
+533,depend_on_r,528
+264,r_contain_c,graphical models
+37,depend_on_r,30
+linguistics basics,depend_on_c,text generation
+24,r_contain_c,parsing
+70,depend_on_r,464
+91,r_contain_c,neural machine translation
+391,r_contain_c,machine translation
+508,r_contain_c,cross entropy
+12,r_contain_c,entropy
+459,r_contain_c,gradient descent
+477,r_contain_c,pagerank
+477,r_contain_c,clustering
+534,r_contain_c,robotics
+494,r_contain_c,learning
+397,depend_on_r,464
+87,r_contain_c,others
+30,r_contain_c,wordnet
+497,depend_on_r,69
+142,r_contain_c,syntax
+271,depend_on_r,261
+521,r_contain_c,planning
+468,r_contain_c,optimization
+89,r_contain_c,machine translation
+516,r_contain_c,uncertainty
+476,r_contain_c,classification
+158,r_contain_c,n-gram models
+39,depend_on_r,30
+517,r_contain_c,uncertainty
+75,depend_on_r,399
+392,depend_on_r,139
+335,r_contain_c,regularization
+75,r_contain_c,question answering
+401,depend_on_r,34
+262,r_contain_c,hidden markov models
+468,r_contain_c,learning
+162,r_contain_c,parsing
+513,depend_on_r,528
+124,r_contain_c,parsing
+90,r_contain_c,beam search
+92,r_contain_c,reinforcement learning
+5,r_contain_c,Belief Propagation
+338,r_contain_c,entropy
+398,r_contain_c,semantic similarity
+1,r_contain_c,information theory
+340,r_contain_c,others
+33,r_contain_c,semantic parsing
+458,r_contain_c,calculus
+468,r_contain_c,language modeling
+129,r_contain_c,information extraction
+258,depend_on_r,261
+464,r_contain_c,constraint satisfaction
+125,r_contain_c,logistic regression
+131,r_contain_c,dynamic programming
+33,depend_on_r,469
+36,r_contain_c,statistical machine translation
+139,depend_on_r,392
+473,depend_on_r,347
+deep learning introduction,depend_on_c,neural turing machine
+142,depend_on_r,157
+30,depend_on_r,163
+162,depend_on_r,142
+531,r_contain_c,optimization
+337,r_contain_c,dynamic programming
+528,depend_on_r,513
+35,r_contain_c,question answering
+340,r_contain_c,multi-task learning
+126,depend_on_r,466
+501,r_contain_c,machine translation
+29,r_contain_c,inference
+401,r_contain_c,question answering
+backpropagation,depend_on_c,Autoencoders
+400,r_contain_c,dimensionality reduction
+266,r_contain_c,unlexicalized parsing
+490,r_contain_c,logistic regression
+3,depend_on_r,13
+474,depend_on_r,36
+338,r_contain_c,learning
+161,r_contain_c,others
+322,r_contain_c,reinforcement learning
+planning,depend_on_c,problem solving and search
+534,r_contain_c,cross entropy
+165,r_contain_c,sentiment analysis
+30,depend_on_r,474
+speech processing,depend_on_c,speech synthesis
+70,r_contain_c,sentence representations
+259,depend_on_r,279
+142,depend_on_r,135
+heuristic search,depend_on_c,a* search
+160,depend_on_r,163
+392,depend_on_r,459
+526,r_contain_c,conditional probability
+470,r_contain_c,clustering
+158,depend_on_r,31
+155,r_contain_c,learning
+natural language processing intro,depend_on_c,morphology and lexicon
+474,depend_on_r,469
+532,r_contain_c,learning
+329,r_contain_c,planning
+478,r_contain_c,learning
+160,depend_on_r,40
+4,r_contain_c,monte carlo methods
+65,r_contain_c,learning
+533,depend_on_r,516
+153,r_contain_c,dependency parsing
+407,r_contain_c,named entity recognition
+word distributions,depend_on_c,language modeling
+73,r_contain_c,gradient descent
+93,depend_on_r,86
+320,r_contain_c,structured prediction
+472,depend_on_r,33
+461,depend_on_r,70
+328,r_contain_c,dynamic programming
+376,r_contain_c,handwriting recognition
+163,r_contain_c,inference
+vector representations,depend_on_c,word sense disambiguation
+164,r_contain_c,Sampling
+274,r_contain_c,neural machine translation
+34,depend_on_r,271
+28,r_contain_c,handwriting recognition
+382,r_contain_c,uncertainty
+38,depend_on_r,470
+59,r_contain_c,memory networks
+490,r_contain_c,learning
+460,r_contain_c,cross entropy
+513,depend_on_r,521
+389,depend_on_r,84
+147,r_contain_c,kernels
+391,r_contain_c,linear regression
+340,r_contain_c,reinforcement learning
+natural language processing intro,depend_on_c,word sense disambiguation
+137,r_contain_c,Sampling
+156,depend_on_r,33
+343,r_contain_c,learning
+163,r_contain_c,parsing
+320,r_contain_c,learning
+261,depend_on_r,263
+30,depend_on_r,31
+385,r_contain_c,python
+85,r_contain_c,neural networks
+473,r_contain_c,inference
+319,depend_on_r,320
+28,r_contain_c,dual problems
+278,r_contain_c,recursive neural networks
+93,depend_on_r,94
+126,r_contain_c,regularization
+probabilities,depend_on_c,variational bayes models
+387,r_contain_c,learning
+458,r_contain_c,recurrent neural networks
+476,r_contain_c,regularization
+27,depend_on_r,5
+40,r_contain_c,neural machine translation
+522,r_contain_c,search
+135,depend_on_r,130

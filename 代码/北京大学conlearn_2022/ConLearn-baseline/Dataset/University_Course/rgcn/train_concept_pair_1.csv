@@ -1,0 +1,1187 @@
+SQL,depend_on_c,Programming language
+Memory management,depend_on_c,Computing
+Distributed computing,depend_on_c,Discrete mathematics
+Computational complexity theory,depend_on_c,Complexity
+Finite-state machine,depend_on_c,Foundations of mathematics
+Cryptographic hash function,depend_on_c,Probability theory
+Halting problem,depend_on_c,Automata theory
+String searching algorithm,depend_on_c,Algorithm
+Shortest path problem,depend_on_c,Algorithm
+Python (programming language),depend_on_c,Data
+Parsing,depend_on_c,Automata theory
+Volume rendering,depend_on_c,Algorithm design
+Communications protocol,depend_on_c,Logic
+Cloud computing,depend_on_c,Computer
+Internet Protocol Suite,depend_on_c,Arithmetic
+Communications protocol,depend_on_c,Computing
+Java (programming language),depend_on_c,Object-oriented programming
+Index (database),depend_on_c,Algorithm design
+Logic programming,depend_on_c,Computing
+Type system,depend_on_c,Data structure
+Monte Carlo method,depend_on_c,Algorithm
+Cache coherence,depend_on_c,Computing
+NP (complexity),depend_on_c,Computation
+SQL,depend_on_c,Computational science
+Divide and conquer algorithm,depend_on_c,Recursion
+Document classification,depend_on_c,Logic
+Software design,depend_on_c,Computer programming
+Database management system,depend_on_c,Relational algebra
+Instruction set,depend_on_c,Arithmetic
+Concurrency control,depend_on_c,Data structure
+C (programming language),depend_on_c,Automata theory
+Imperative programming,depend_on_c,Computability
+Automatic programming,depend_on_c,Data structure
+Neural network,depend_on_c,Computational science
+Virtual memory,depend_on_c,Computer programming
+Scientific visualization,depend_on_c,Algorithm design
+Parallel computing,depend_on_c,Discrete mathematics
+Java (programming language),depend_on_c,Data type
+Database management system,depend_on_c,Data (computing)
+Compiler,depend_on_c,Computer
+Design of experiments,depend_on_c,Statistical inference
+Undecidable problem,depend_on_c,Polynomial
+Parallel algorithm,depend_on_c,Combinatorics
+Lexical analysis,depend_on_c,Discrete mathematics
+Lisp (programming language),depend_on_c,Logic programming
+Numerical analysis,depend_on_c,Computing
+Lexical analysis,depend_on_c,Theory of computation
+Randomness,depend_on_c,Mathematics
+Software development,depend_on_c,Object (computer science)
+JavaScript,depend_on_c,Computer
+Congestion control,depend_on_c,Graph (mathematics)
+Support vector machine,depend_on_c,Mathematics
+Compiler,depend_on_c,Natural language
+Database normalization,depend_on_c,Object (computer science)
+Concurrency control,depend_on_c,Computation
+NP (complexity),depend_on_c,Integer
+Newton's method,depend_on_c,Floating point
+Public-key cryptography,depend_on_c,Algorithm
+Machine translation,depend_on_c,Foundations of mathematics
+Operating system,depend_on_c,Computer
+Sentiment analysis,depend_on_c,Machine learning
+Distributed computing,depend_on_c,Computer science
+Context-free grammar,depend_on_c,Graph theory
+Distributed algorithms,depend_on_c,Discrete mathematics
+Computational chemistry,depend_on_c,Number theory
+PSPACE,depend_on_c,Polynomial
+Sentiment analysis,depend_on_c,Computer programming
+Speech recognition,depend_on_c,Probability theory
+Numerical analysis,depend_on_c,Foundations of mathematics
+Data structure,depend_on_c,Computer
+Knowledge representation and reasoning,depend_on_c,Computer
+Functional programming,depend_on_c,Computational complexity theory
+Transaction processing,depend_on_c,Object (computer science)
+String (computer science),depend_on_c,Data type
+Machine learning,depend_on_c,Computer
+Probability theory,depend_on_c,Foundations of mathematics
+Computational geometry,depend_on_c,Computing
+Central processing unit,depend_on_c,Computer science
+Superscalar,depend_on_c,Computer science
+NP (complexity),depend_on_c,Computer
+Programming style,depend_on_c,Computational complexity theory
+PSPACE,depend_on_c,Computational problem
+Time complexity,depend_on_c,Foundations of mathematics
+Web search engine,depend_on_c,Mathematical induction
+Least squares,depend_on_c,Approximation
+Interactivity,depend_on_c,Computer science
+Index (database),depend_on_c,Relational model
+Hash table,depend_on_c,Computer science
+Programming language,depend_on_c,Data structure
+Relational database management system,depend_on_c,Relational algebra
+Gradient descent,depend_on_c,Mathematics
+Volume rendering,depend_on_c,Graphics
+Database management system,depend_on_c,Data
+Parsing,depend_on_c,Natural language
+Machine translation,depend_on_c,Computer programming
+Robotics,depend_on_c,Artificial intelligence
+Memory management,depend_on_c,Computer programming
+Monte Carlo method,depend_on_c,Iterative method
+JavaScript,depend_on_c,Computational science
+Parsing,depend_on_c,Data
+CPU cache,depend_on_c,Central processing unit
+Linear programming,depend_on_c,Iterative method
+Concurrency control,depend_on_c,Foundations of mathematics
+Concurrency control,depend_on_c,Mathematics
+Dynamic programming,depend_on_c,Computation
+Computational complexity theory,depend_on_c,Iterative method
+Semidefinite programming,depend_on_c,Introduction to Algorithms
+Computer programming,depend_on_c,Number theory
+Support vector machine,depend_on_c,Polynomial
+Software engineering,depend_on_c,Foundations of mathematics
+Computational complexity theory,depend_on_c,Integer
+MATLAB,depend_on_c,Computer
+Theoretical computer science,depend_on_c,Graph theory
+Kernel (computing),depend_on_c,Computer
+Recursively enumerable set,depend_on_c,Finite set
+Concurrency (computer science),depend_on_c,Computing
+Variable (computer science),depend_on_c,Arithmetic
+Bioinformatics,depend_on_c,Asymptotic analysis
+Scheduling (computing),depend_on_c,Computation
+Analysis of algorithms,depend_on_c,Arithmetic
+Malware,depend_on_c,Graph (mathematics)
+Robotics,depend_on_c,Turing machine
+Virtual reality,depend_on_c,Computer graphics
+Polymorphism (computer science),depend_on_c,Computer science
+Object (computer science),depend_on_c,Computer science
+Data type,depend_on_c,Automata theory
+Debugging,depend_on_c,Computer programming
+Software design,depend_on_c,Algorithm
+Speech recognition,depend_on_c,Foundations of mathematics
+Prolog,depend_on_c,Data structure
+Web browser,depend_on_c,Computer
+Document classification,depend_on_c,Probability theory
+String searching algorithm,depend_on_c,Graph theory
+Algorithm,depend_on_c,Logic
+Cloud computing,depend_on_c,Graph (mathematics)
+Database system,depend_on_c,Computer science
+OSI model,depend_on_c,Computer network
+Linear programming,depend_on_c,Mathematical optimization
+Coding theory,depend_on_c,Theoretical computer science
+Pattern recognition,depend_on_c,Mathematics
+Support vector machine,depend_on_c,Problem solving
+Atomicity (database systems),depend_on_c,Database
+Graph coloring,depend_on_c,Algorithm design
+Concurrent computing,depend_on_c,Arithmetic
+C++,depend_on_c,Computational complexity theory
+Finite element method,depend_on_c,Numerical analysis
+Modular arithmetic,depend_on_c,Mathematical proof
+B-tree,depend_on_c,Mathematics
+Theoretical computer science,depend_on_c,Computer
+Artificial intelligence,depend_on_c,Mathematical induction
+Sentiment analysis,depend_on_c,Natural language processing
+Finite-state machine,depend_on_c,Discrete mathematics
+Automated theorem proving,depend_on_c,Mathematics
+Software design,depend_on_c,Computing
+Computer graphics,depend_on_c,Computing
+Artificial intelligence,depend_on_c,Digital electronics
+Algorithm,depend_on_c,Abstraction (computer science)
+Halting problem,depend_on_c,Computation
+Model of computation,depend_on_c,Polynomial
+Programming paradigm,depend_on_c,Number theory
+Monte Carlo method,depend_on_c,Logic
+Database management system,depend_on_c,Graph theory
+Natural language processing,depend_on_c,Computer science
+Programming style,depend_on_c,Computer science
+Virtual reality,depend_on_c,Data
+Machine translation,depend_on_c,Computation
+Java (programming language),depend_on_c,Data
+Index (database),depend_on_c,Data
+Symbol table,depend_on_c,Computer programming
+Computer programming,depend_on_c,Arithmetic
+Feature extraction,depend_on_c,Integer
+Gradient descent,depend_on_c,Integer
+Dynamic programming,depend_on_c,Computer
+Graph theory,depend_on_c,Discrete mathematics
+Haskell (programming language),depend_on_c,Logic
+Profiling (computer programming),depend_on_c,Arithmetic
+Compiler,depend_on_c,Regular expression
+Interpolation,depend_on_c,Matrix (mathematics)
+JavaScript,depend_on_c,Computing
+Economics,depend_on_c,Random variable
+Application programming interface,depend_on_c,Computational complexity theory
+Computational chemistry,depend_on_c,Foundations of mathematics
+Decision theory,depend_on_c,Computer science
+Coding theory,depend_on_c,Computer science
+Stochastic process,depend_on_c,Uncertainty
+Autonomous robot,depend_on_c,Computation
+Model of computation,depend_on_c,Computer
+Computer security,depend_on_c,Logic
+Graphical model,depend_on_c,Statistics
+Robotics,depend_on_c,Logic
+Expert system,depend_on_c,Algorithm
+Machine learning,depend_on_c,Computer science
+Robotics,depend_on_c,Programming language
+Context-free grammar,depend_on_c,Number theory
+Spanning tree,depend_on_c,Foundations of mathematics
+Analysis of algorithms,depend_on_c,Introduction to Algorithms
+Reinforcement learning,depend_on_c,Numerical analysis
+Parallel algorithm,depend_on_c,Theoretical computer science
+Database normalization,depend_on_c,Data (computing)
+Lexical semantics,depend_on_c,Semantics
+Knowledge representation and reasoning,depend_on_c,Mathematical induction
+Big data,depend_on_c,Logic
+Pattern recognition,depend_on_c,Computer science
+MapReduce,depend_on_c,Computer science
+Computer security,depend_on_c,Computer
+Control flow,depend_on_c,Digital electronics
+Interpolation,depend_on_c,Algorithm
+Hidden line removal,depend_on_c,Discrete mathematics
+Divide and conquer algorithm,depend_on_c,Algorithm
+PSPACE,depend_on_c,Computation
+Computational geometry,depend_on_c,Problem solving
+Computer security,depend_on_c,Security
+Mobile device,depend_on_c,Computer
+Transaction processing,depend_on_c,Foundations of mathematics
+Pattern matching,depend_on_c,Variable (computer science)
+Lexical analysis,depend_on_c,Regular expression
+Analysis of algorithms,depend_on_c,Computational science
+User interface,depend_on_c,Logic
+Type system,depend_on_c,Computer science
+Modular programming,depend_on_c,Programming language
+Newton's method,depend_on_c,Algorithm
+Machine translation,depend_on_c,Combinatorics
+Question answering,depend_on_c,Graph theory
+Divide and conquer algorithm,depend_on_c,Computation
+Message Passing Interface,depend_on_c,Synchronization
+Economics,depend_on_c,Linear algebra
+Lexical analysis,depend_on_c,String (computer science)
+Debugging,depend_on_c,Control flow
+Parametric polymorphism,depend_on_c,Data type
+Algorithm design,depend_on_c,Mathematical induction
+Lisp (programming language),depend_on_c,Generic programming
+Java (programming language),depend_on_c,Computing
+Java (programming language),depend_on_c,Parsing
+Recursion,depend_on_c,Discrete mathematics
+Calculus of variations,depend_on_c,Mathematics
+Type system,depend_on_c,Computability
+Computability,depend_on_c,Logic
+Computational chemistry,depend_on_c,Computational complexity theory
+Lisp (programming language),depend_on_c,Graph theory
+Profiling (computer programming),depend_on_c,Computation
+Relational database,depend_on_c,Data
+SQL,depend_on_c,Number theory
+Unix,depend_on_c,Arithmetic
+Assembly language,depend_on_c,Programming language
+NP-complete,depend_on_c,Foundations of mathematics
+Question answering,depend_on_c,Computational complexity theory
+Formal methods,depend_on_c,Analysis of algorithms
+Neural network,depend_on_c,Expected value
+Hash table,depend_on_c,Data (computing)
+P versus NP problem,depend_on_c,Computability
+Lisp (programming language),depend_on_c,Discrete mathematics
+Lisp (programming language),depend_on_c,Number theory
+Neural network,depend_on_c,Computation
+B-tree,depend_on_c,Data type
+Undecidable problem,depend_on_c,Complexity
+Game theory,depend_on_c,Linear algebra
+Computer vision,depend_on_c,Image processing
+Routing,depend_on_c,OSI model
+Amortized analysis,depend_on_c,"Best, worst and average case"
+Volume rendering,depend_on_c,Computer
+Linear programming,depend_on_c,Computer science
+Knowledge representation and reasoning,depend_on_c,Mathematics
+Cryptography,depend_on_c,Mathematics
+Parsing,depend_on_c,Discrete mathematics
+Linear programming,depend_on_c,Mathematics
+Dynamic programming,depend_on_c,Iterative method
+Abstraction (computer science),depend_on_c,Arithmetic
+Suffix tree,depend_on_c,Algorithm
+Software development,depend_on_c,High-level programming language
+Hidden Markov model,depend_on_c,Computational science
+PSPACE,depend_on_c,Integer
+Algorithm design,depend_on_c,Number theory
+Game theory,depend_on_c,Arithmetic
+Finite element method,depend_on_c,Integer
+Newton's method,depend_on_c,Numerical analysis
+Graphical model,depend_on_c,Computer
+Robotics,depend_on_c,Kinematics
+Program optimization,depend_on_c,Foundations of mathematics
+NP-complete,depend_on_c,Polynomial
+Concurrency control,depend_on_c,Mathematical induction
+Logic programming,depend_on_c,Foundations of mathematics
+Polymorphism (computer science),depend_on_c,Abstract data type
+Computational geometry,depend_on_c,Discrete mathematics
+Haskell (programming language),depend_on_c,Data structure
+User interface design,depend_on_c,Computer
+Amortized analysis,depend_on_c,Computer science
+Graphical model,depend_on_c,Machine learning
+Reinforcement learning,depend_on_c,Logic
+Virtual memory,depend_on_c,Operating system
+Probability theory,depend_on_c,Mathematics
+Dynamic programming,depend_on_c,Introduction to Algorithms
+Algorithm,depend_on_c,Computability
+Assembly language,depend_on_c,Computing
+Distributed computing,depend_on_c,Theoretical computer science
+Randomized algorithm,depend_on_c,Discrete mathematics
+Linear algebra,depend_on_c,Integer
+Distributed computing,depend_on_c,Polynomial
+Relational database,depend_on_c,Mathematics
+Robotics,depend_on_c,Computer
+Artificial intelligence,depend_on_c,Computation
+Logic programming,depend_on_c,Arithmetic
+Computer graphics,depend_on_c,Computational complexity theory
+Programming style,depend_on_c,Computing
+System call,depend_on_c,Central processing unit
+Digital signature,depend_on_c,Combinatorics
+Estimation theory,depend_on_c,Mathematics
+Parsing,depend_on_c,Formal grammar
+Complexity class,depend_on_c,Mathematics
+Public-key cryptography,depend_on_c,Combinatorics
+Communications protocol,depend_on_c,Computation
+Artificial intelligence,depend_on_c,Problem solving
+Kernel (computing),depend_on_c,Central processing unit
+Large deviations theory,depend_on_c,Probability theory
+Symbol table,depend_on_c,Computer science
+Atomicity (database systems),depend_on_c,Operating system
+Undecidable problem,depend_on_c,Computing
+Hidden Markov model,depend_on_c,Probability theory
+C++,depend_on_c,Computer programming
+Robotics,depend_on_c,Mechanical engineering
+Transaction processing,depend_on_c,Relational algebra
+Index (database),depend_on_c,Database
+Programming language,depend_on_c,Computing
+Communications protocol,depend_on_c,Algorithm
+Bioinformatics,depend_on_c,Computer science
+Index (database),depend_on_c,Computer
+Variable (computer science),depend_on_c,Logic
+JavaScript,depend_on_c,Arithmetic
+Computer programming,depend_on_c,Graph theory
+Integral,depend_on_c,Mathematics
+Statistical hypothesis testing,depend_on_c,Uncertainty
+Virtual memory,depend_on_c,Memory hierarchy
+Analysis of algorithms,depend_on_c,Computational problem
+Approximation algorithm,depend_on_c,Discrete mathematics
+String searching algorithm,depend_on_c,Iterative method
+Computer graphics,depend_on_c,Digital electronics
+Query language,depend_on_c,Computability
+Automated planning and scheduling,depend_on_c,Computer programming
+Microcode,depend_on_c,Digital electronics
+SQL,depend_on_c,Computer science
+Undecidable problem,depend_on_c,Combinatorics
+Haskell (programming language),depend_on_c,Computer programming
+Finite difference,depend_on_c,Numerical analysis
+Correlation and dependence,depend_on_c,Data
+Statistics,depend_on_c,Mathematics
+P versus NP problem,depend_on_c,Graph theory
+Application programming interface,depend_on_c,Computer programming
+Data mining,depend_on_c,Polynomial
+Unsupervised learning,depend_on_c,Probability
+Volume rendering,depend_on_c,Computer science
+Web search engine,depend_on_c,Logic
+Recursively enumerable set,depend_on_c,Polynomial
+Cryptography,depend_on_c,Algebra
+Garbage collection (computer science),depend_on_c,Computer
+Database management system,depend_on_c,Operating system
+Distributed algorithms,depend_on_c,Foundations of mathematics
+Compiler optimization,depend_on_c,Computer programming
+Sentiment analysis,depend_on_c,Algorithm
+Distributed computing,depend_on_c,Central processing unit
+Computer network,depend_on_c,Computer science
+Question answering,depend_on_c,Computational science
+Geometric modeling,depend_on_c,Computer graphics
+Formal methods,depend_on_c,Combinatorics
+Superscalar,depend_on_c,Thread (computer science)
+Big data,depend_on_c,Mathematics
+C++,depend_on_c,Object-oriented programming
+Multiplication,depend_on_c,Foundations of mathematics
+Divide and conquer algorithm,depend_on_c,Mathematics
+Web search engine,depend_on_c,Abstraction (computer science)
+Machine learning,depend_on_c,Linear algebra
+Digital signature,depend_on_c,Computer science
+Traffic analysis,depend_on_c,Mathematics
+Software testing,depend_on_c,Algorithm
+Type system,depend_on_c,Automata theory
+Artificial intelligence,depend_on_c,Computational problem
+Discrete mathematics,depend_on_c,Mathematical proof
+Time complexity,depend_on_c,Polynomial
+Computational geometry,depend_on_c,Iterative method
+NP-complete,depend_on_c,Iterative method
+C++,depend_on_c,Arithmetic
+Query language,depend_on_c,Computer programming
+Data warehouse,depend_on_c,Data structure
+Randomized algorithm,depend_on_c,Abstraction (computer science)
+Cryptography,depend_on_c,Combinatorics
+Bioinformatics,depend_on_c,Mathematical induction
+Modular programming,depend_on_c,Computer programming
+C (programming language),depend_on_c,Computational complexity theory
+Pushdown automaton,depend_on_c,Computer
+Database system,depend_on_c,Data (computing)
+Neural network,depend_on_c,Computer
+OSI model,depend_on_c,Computer science
+Relational database,depend_on_c,Computer science
+Cryptanalysis,depend_on_c,Modular arithmetic
+Analysis of algorithms,depend_on_c,Computer
+Distributed computing,depend_on_c,Complexity
+Randomized algorithm,depend_on_c,Theoretical computer science
+Functional programming,depend_on_c,Foundations of mathematics
+Computer security,depend_on_c,Number theory
+Fast Fourier transform,depend_on_c,Discrete mathematics
+Computer architecture,depend_on_c,Mathematics
+Markov chain,depend_on_c,Conditional probability
+Turing machine,depend_on_c,Mathematics
+Vector processor,depend_on_c,Central processing unit
+Question answering,depend_on_c,Computer science
+Relational database,depend_on_c,Object (computer science)
+Autonomous robot,depend_on_c,Speech recognition
+Parallel algorithm,depend_on_c,Computer programming
+Functional programming,depend_on_c,Variable (computer science)
+Volume rendering,depend_on_c,Shading
+Transaction processing,depend_on_c,Database
+Estimation theory,depend_on_c,Probability
+Computer simulation,depend_on_c,Logic
+Computer graphics,depend_on_c,Computer programming
+Fast Fourier transform,depend_on_c,Mathematical induction
+Support vector machine,depend_on_c,Iterative method
+Computational chemistry,depend_on_c,Data structure
+Computer vision,depend_on_c,Probability
+Natural language processing,depend_on_c,Reason
+Data mining,depend_on_c,Operating system
+Inheritance (object-oriented programming),depend_on_c,Data
+High-level programming language,depend_on_c,Discrete mathematics
+Large deviations theory,depend_on_c,Random variable
+Theoretical computer science,depend_on_c,Computation
+P versus NP problem,depend_on_c,Computer
+Social network,depend_on_c,Computational science
+Expert system,depend_on_c,Computer
+Microcode,depend_on_c,Computer science
+NP-complete,depend_on_c,Combinatorics
+Abstraction (computer science),depend_on_c,Computer science
+Firewall (computing),depend_on_c,Data
+Graphical model,depend_on_c,Computer science
+Lisp (programming language),depend_on_c,Variable (computer science)
+Programmer,depend_on_c,Arithmetic
+Recursion,depend_on_c,Integer
+Dynamic memory allocation,depend_on_c,Operating system
+Natural language processing,depend_on_c,Computational science
+Machine translation,depend_on_c,Problem solving
+Parallel algorithm,depend_on_c,Computer
+Poisson distribution,depend_on_c,Random variable
+C++,depend_on_c,Data
+Routing,depend_on_c,Data
+Inter-process communication,depend_on_c,Computing
+Virtual memory,depend_on_c,Computation
+Abstract data type,depend_on_c,Number theory
+Input/output,depend_on_c,Digital electronics
+Pattern recognition,depend_on_c,Computer
+Rendering (computer graphics),depend_on_c,Computer programming
+Complexity,depend_on_c,Iterative method
+Sentiment analysis,depend_on_c,Graph theory
+Monad (functional programming),depend_on_c,Variable (computer science)
+First-order logic,depend_on_c,Algorithm
+Congestion control,depend_on_c,Computer network
+Monte Carlo method,depend_on_c,Random variable
+Game theory,depend_on_c,Algorithm
+Logic programming,depend_on_c,Mathematics
+Shortest path problem,depend_on_c,Discrete mathematics
+Embedded system,depend_on_c,Microprocessor
+Relational database management system,depend_on_c,Analysis of algorithms
+Kernel (computing),depend_on_c,Computing
+Cryptanalysis,depend_on_c,Computability
+Bayesian network,depend_on_c,Random variable
+Concurrency (computer science),depend_on_c,Computer science
+Document classification,depend_on_c,Statistical inference
+Reinforcement learning,depend_on_c,Computer programming
+Probability,depend_on_c,Mathematics
+Inheritance (object-oriented programming),depend_on_c,Computability
+Computer graphics,depend_on_c,Discrete mathematics
+File system,depend_on_c,Central processing unit
+Memory management,depend_on_c,Computer
+Data mining,depend_on_c,Data
+Haskell (programming language),depend_on_c,Computability
+Bioinformatics,depend_on_c,Algorithm
+Quantum mechanics,depend_on_c,Continuous function
+Finite difference,depend_on_c,Partial differential equation
+Java (programming language),depend_on_c,Programming language
+Lisp (programming language),depend_on_c,Scope (computer science)
+Formal verification,depend_on_c,Discrete mathematics
+Speech recognition,depend_on_c,Number theory
+Turing machine,depend_on_c,Automata theory
+Estimation theory,depend_on_c,Expected value
+Scripting language,depend_on_c,Arithmetic
+Mathematical optimization,depend_on_c,Integer
+Parallel computing,depend_on_c,Foundations of mathematics
+Geometric modeling,depend_on_c,Computation
+Finite-state machine,depend_on_c,Logic
+Assembly language,depend_on_c,Instruction set
+Graphical model,depend_on_c,Markov chain
+Finite difference,depend_on_c,Eigenvalues and eigenvectors
+Turing machine,depend_on_c,Computation
+Python (programming language),depend_on_c,Data structure
+Python (programming language),depend_on_c,Computer programming
+Natural language processing,depend_on_c,Data structure
+Image processing,depend_on_c,Computer
+Hidden Markov model,depend_on_c,Mathematical optimization
+Formal methods,depend_on_c,Computing
+Superscalar,depend_on_c,Multi-core processor
+Numerical analysis,depend_on_c,Floating point
+Superscalar,depend_on_c,Parallel computing
+Complexity class,depend_on_c,Discrete mathematics
+Parallel computing,depend_on_c,Computing
+Graphical model,depend_on_c,Artificial intelligence
+Tensor,depend_on_c,Mathematics
+Logic programming,depend_on_c,Computational science
+Newton's method,depend_on_c,Arithmetic
+Relational database,depend_on_c,Algorithm design
+Visualization (computer graphics),depend_on_c,Computer graphics
+Quantum cryptography,depend_on_c,Number theory
+Program optimization,depend_on_c,Theoretical computer science
+Machine learning,depend_on_c,Data
+Analysis of algorithms,depend_on_c,Asymptotic analysis
+Object-oriented programming,depend_on_c,Computing
+Arithmetic logic unit,depend_on_c,Digital electronics
+Sentiment analysis,depend_on_c,Computer
+Debugging,depend_on_c,Algorithm
+Haskell (programming language),depend_on_c,Functional programming
+Poisson distribution,depend_on_c,Algebra
+Functional programming,depend_on_c,Number theory
+Computer animation,depend_on_c,Rendering (computer graphics)
+NP-complete,depend_on_c,Computation
+Control flow,depend_on_c,Computer science
+Model checking,depend_on_c,Polynomial
+Virtual memory,depend_on_c,Central processing unit
+Support vector machine,depend_on_c,Computability
+Context-free grammar,depend_on_c,String (computer science)
+Java (programming language),depend_on_c,Arithmetic
+Randomized algorithm,depend_on_c,Algorithm
+Fast Fourier transform,depend_on_c,Algorithm
+Parsing,depend_on_c,Computational science
+Object-oriented programming,depend_on_c,Arithmetic
+Round-off error,depend_on_c,Eigenvalues and eigenvectors
+Java (programming language),depend_on_c,Logic
+Scientific visualization,depend_on_c,Personal computer
+Internet,depend_on_c,Routing
+ML (programming language),depend_on_c,Computer programming
+Partial differential equation,depend_on_c,Algorithm
+Database,depend_on_c,Logic
+Machine learning,depend_on_c,Artificial intelligence
+Algorithm design,depend_on_c,Iterative method
+String (computer science),depend_on_c,Data structure
+Symmetric multiprocessing,depend_on_c,Parallel computing
+Symbol table,depend_on_c,Assembly language
+Digital signature,depend_on_c,Foundations of mathematics
+Unsupervised learning,depend_on_c,Mathematical optimization
+Software testing,depend_on_c,Software design
+Scope (computer science),depend_on_c,Algorithm
+Compiler,depend_on_c,Computational complexity theory
+Linked list,depend_on_c,Mathematics
+String searching algorithm,depend_on_c,Logic
+Sentiment analysis,depend_on_c,Statistics
+Computer vision,depend_on_c,Probability theory
+Turing machine,depend_on_c,Foundations of mathematics
+Database,depend_on_c,Discrete mathematics
+Debugging,depend_on_c,Logic
+Geometric modeling,depend_on_c,Computational geometry
+Programming style,depend_on_c,Computer programming
+Formal methods,depend_on_c,Turing machine
+Index (database),depend_on_c,Logic
+Software development,depend_on_c,Structured programming
+Software engineering,depend_on_c,Computational problem
+Routing,depend_on_c,Digital electronics
+Object-oriented programming,depend_on_c,Algorithm
+Computational complexity theory,depend_on_c,Computational problem
+Formal methods,depend_on_c,Arithmetic
+Packet switching,depend_on_c,Graph (mathematics)
+Recursion,depend_on_c,Computability
+Pattern matching,depend_on_c,Functional programming
+Parsing,depend_on_c,Polynomial
+Inheritance (object-oriented programming),depend_on_c,Object (computer science)
+Perl,depend_on_c,Compiler
+Speech recognition,depend_on_c,Discrete mathematics
+Program analysis,depend_on_c,Foundations of mathematics
+Multi-core processor,depend_on_c,Computer
+Parallel algorithm,depend_on_c,Logic
+3D computer graphics,depend_on_c,Iterative method
+Natural language processing,depend_on_c,Computer programming
+Run time (program lifecycle phase),depend_on_c,Discrete mathematics
+Data warehouse,depend_on_c,Computer science
+Question answering,depend_on_c,Computer programming
+Scientific visualization,depend_on_c,Computer
+Program optimization,depend_on_c,Combinatorics
+Computer network,depend_on_c,Graph (mathematics)
+Cryptography,depend_on_c,Security
+P versus NP problem,depend_on_c,Iterative method
+Numerical analysis,depend_on_c,Algorithm
+Computer graphics,depend_on_c,Geometry
+C++,depend_on_c,Computer
+Parsing,depend_on_c,Data type
+String (computer science),depend_on_c,Algorithm
+C (programming language),depend_on_c,Data structure
+Cache coherence,depend_on_c,Parallel computing
+Data warehouse,depend_on_c,Data
+Linear programming,depend_on_c,Problem solving
+Computer network,depend_on_c,Digital electronics
+Divide and conquer algorithm,depend_on_c,Integer
+Recommender system,depend_on_c,Algorithm design
+Assembly language,depend_on_c,Automata theory
+Undecidable problem,depend_on_c,Computational complexity theory
+Robotics,depend_on_c,Graph theory
+Fixed point (mathematics),depend_on_c,Mathematics
+MapReduce,depend_on_c,Parallel computing
+Software engineering,depend_on_c,Digital electronics
+Query language,depend_on_c,Computational complexity theory
+Decision theory,depend_on_c,Discrete mathematics
+Web server,depend_on_c,Digital electronics
+Concurrency control,depend_on_c,Digital electronics
+Natural language processing,depend_on_c,Programming language
+Automatic programming,depend_on_c,Foundations of mathematics
+Random walk,depend_on_c,Computational science
+Algorithm,depend_on_c,Mathematical induction
+Recurrence relation,depend_on_c,Computation
+Hidden Markov model,depend_on_c,Logic
+Randomized algorithm,depend_on_c,Computer science
+Communications protocol,depend_on_c,Theoretical computer science
+User interface,depend_on_c,Computational science
+Automated theorem proving,depend_on_c,Foundations of mathematics
+Computer programming,depend_on_c,Computing
+Abstract data type,depend_on_c,Discrete mathematics
+NP (complexity),depend_on_c,Computability
+Recursion,depend_on_c,Computer
+Concurrency control,depend_on_c,Asymptotic analysis
+Gradient descent,depend_on_c,Discrete mathematics
+Software development,depend_on_c,Object-oriented programming
+Functional programming,depend_on_c,Recursion
+Database design,depend_on_c,Data type
+Computer programming,depend_on_c,Complexity
+Gradient descent,depend_on_c,Computation
+Martingale (probability theory),depend_on_c,Mathematics
+String (computer science),depend_on_c,Data (computing)
+Virtual reality,depend_on_c,Interactivity
+String searching algorithm,depend_on_c,Number theory
+Database,depend_on_c,Mathematics
+Graph coloring,depend_on_c,Algorithm
+3D computer graphics,depend_on_c,Discrete mathematics
+Memory hierarchy,depend_on_c,Computer
+Analysis of algorithms,depend_on_c,Number theory
+Hidden Markov model,depend_on_c,Mathematics
+Divide and conquer algorithm,depend_on_c,Control flow
+Monte Carlo method,depend_on_c,Data
+Scripting language,depend_on_c,Digital electronics
+Hidden line removal,depend_on_c,Abstraction (computer science)
+Computer vision,depend_on_c,Linear algebra
+Computational complexity theory,depend_on_c,Mathematical induction
+Discrete mathematics,depend_on_c,Mathematics
+Neural network,depend_on_c,Probability
+Statistical inference,depend_on_c,Data
+Array data structure,depend_on_c,Data structure
+Big data,depend_on_c,Computer science
+Software development,depend_on_c,Theory of computation
+Inheritance (object-oriented programming),depend_on_c,Design pattern (computer science)
+Compiler,depend_on_c,Regular language
+Context-free grammar,depend_on_c,Logic
+Compiler,depend_on_c,Finite-state machine
+Software engineering,depend_on_c,Theoretical computer science
+Formal grammar,depend_on_c,Computer programming
+Analysis of algorithms,depend_on_c,Algebra
+Vector processor,depend_on_c,Time complexity
+Genetic algorithm,depend_on_c,Iterative method
+Model of computation,depend_on_c,Computational complexity theory
+Monte Carlo method,depend_on_c,Statistical inference
+Monte Carlo method,depend_on_c,Abstraction (computer science)
+Robot,depend_on_c,Reason
+JavaScript,depend_on_c,Algorithm
+Question answering,depend_on_c,Algorithm
+Profiling (computer programming),depend_on_c,Computational complexity theory
+World Wide Web,depend_on_c,Arithmetic
+OSI model,depend_on_c,Graph (mathematics)
+Motion planning,depend_on_c,Computer science
+Programming language,depend_on_c,Computational science
+Cache coherence,depend_on_c,Time complexity
+Interactivity,depend_on_c,Computer
+Application programming interface,depend_on_c,Computer science
+User interface design,depend_on_c,Digital electronics
+Linear programming,depend_on_c,Linear algebra
+Decision theory,depend_on_c,Random variable
+Analysis of algorithms,depend_on_c,Abstraction (computer science)
+Semidefinite programming,depend_on_c,Algorithm
+SQL,depend_on_c,Operating system
+Algorithm design,depend_on_c,Problem solving
+Motion planning,depend_on_c,Software engineering
+Calculus of variations,depend_on_c,Continuous function
+Numerical analysis,depend_on_c,Discrete mathematics
+Neural network,depend_on_c,Mathematics
+Poisson distribution,depend_on_c,Expected value
+Transaction processing,depend_on_c,Computational science
+Rendering (computer graphics),depend_on_c,Graphics
+Computational geometry,depend_on_c,Foundations of mathematics
+Automated planning and scheduling,depend_on_c,Numerical analysis
+Computational geometry,depend_on_c,Arithmetic
+Recursion (computer science),depend_on_c,Algorithm
+OSI model,depend_on_c,Data
+Database design,depend_on_c,Object (computer science)
+Recursion,depend_on_c,Abstraction (computer science)
+Computer simulation,depend_on_c,Computer science
+Analysis of algorithms,depend_on_c,Integer
+Computational geometry,depend_on_c,Combinatorics
+Reinforcement learning,depend_on_c,Mathematical optimization
+Analysis of algorithms,depend_on_c,Computation
+Routing,depend_on_c,Computer science
+Combinatorics,depend_on_c,Foundations of mathematics
+Prolog,depend_on_c,Computability
+Database design,depend_on_c,Database
+Computer graphics,depend_on_c,Image
+Programming language,depend_on_c,Computability
+Approximation algorithm,depend_on_c,Introduction to Algorithms
+Geometric modeling,depend_on_c,Computability
+Message Passing Interface,depend_on_c,Data
+Turing machine,depend_on_c,Discrete mathematics
+Formal language,depend_on_c,String (computer science)
+Volume rendering,depend_on_c,Data
+Complexity class,depend_on_c,Computer science
+Compiler,depend_on_c,Data structure
+Parallel computing,depend_on_c,Computer architecture
+Amortized analysis,depend_on_c,Data structure
+Time complexity,depend_on_c,Computer science
+Computer simulation,depend_on_c,Computer
+Motion capture,depend_on_c,Graphics
+Query optimization,depend_on_c,Database
+Cryptanalysis,depend_on_c,Abstraction (computer science)
+Robotics,depend_on_c,Introduction to Algorithms
+Robotics,depend_on_c,Markov chain
+Lisp (programming language),depend_on_c,Recursion (computer science)
+Concurrency control,depend_on_c,Algorithm design
+Computational chemistry,depend_on_c,Mathematics
+Question answering,depend_on_c,Programming language
+Functional programming,depend_on_c,Algorithm
+Recursion,depend_on_c,Programming language
+Database normalization,depend_on_c,Data
+Document classification,depend_on_c,Probability
+Linear programming,depend_on_c,Discrete mathematics
+Data mining,depend_on_c,Computation
+Array data structure,depend_on_c,Data type
+Internet Protocol Suite,depend_on_c,Communications protocol
+Robotics,depend_on_c,Reason
+Compiler,depend_on_c,Algorithm
+B-tree,depend_on_c,Graph theory
+Transaction processing,depend_on_c,Graph theory
+Concurrency control,depend_on_c,Computer science
+NP-complete,depend_on_c,Algorithm design
+Computer programming,depend_on_c,Polynomial
+Software development,depend_on_c,Abstract data type
+Concurrency (computer science),depend_on_c,Operating system
+Reinforcement learning,depend_on_c,Statistical inference
+Computer vision,depend_on_c,Geometry
+Computational geometry,depend_on_c,Computation
+Graphical user interface,depend_on_c,Discrete mathematics
+Recurrence relation,depend_on_c,Iterative method
+Automatic programming,depend_on_c,Computational science
+Finite element method,depend_on_c,Matrix (mathematics)
+Public-key cryptography,depend_on_c,Iterative method
+Compiler,depend_on_c,Automata theory
+Neural network,depend_on_c,Discrete mathematics
+C (programming language),depend_on_c,Computation
+Parallel algorithm,depend_on_c,Computation
+Recommender system,depend_on_c,Computer
+Distributed algorithms,depend_on_c,Computation
+Machine learning,depend_on_c,Data structure
+ML (programming language),depend_on_c,Recursion (computer science)
+Garbage collection (computer science),depend_on_c,Discrete mathematics
+Artificial intelligence,depend_on_c,Logic
+Autonomous robot,depend_on_c,Mechanical engineering
+Software engineering,depend_on_c,Abstract data type
+Graphical model,depend_on_c,Expected value
+Robotics,depend_on_c,Debugging
+Computer vision,depend_on_c,Introduction to Algorithms
+Assembly language,depend_on_c,Computer programming
+Distributed computing,depend_on_c,Arithmetic
+Visualization (computer graphics),depend_on_c,Computer
+Scope (computer science),depend_on_c,Computer science
+First-order logic,depend_on_c,Recursion
+Robotics,depend_on_c,Object-oriented programming
+Relational database management system,depend_on_c,Predicate logic
+Coding theory,depend_on_c,Graph theory
+Imperative programming,depend_on_c,Discrete mathematics
+Motion capture,depend_on_c,Computer science
+Speech recognition,depend_on_c,Mathematics
+Procedural programming,depend_on_c,Computer
+Computer architecture,depend_on_c,Computer science
+Operating system,depend_on_c,Digital electronics
+Undecidable problem,depend_on_c,Computer science
+Assembly language,depend_on_c,Computer science
+Approximation algorithm,depend_on_c,Linear algebra
+Computational geometry,depend_on_c,Algorithm
+Sentiment analysis,depend_on_c,Computational complexity theory
+Fixed point (mathematics),depend_on_c,Foundations of mathematics
+Relational model,depend_on_c,Foundations of mathematics
+Scripting language,depend_on_c,Computing
+Computational geometry,depend_on_c,Graphics
+Ray tracing (graphics),depend_on_c,Algorithm design
+Quantum computer,depend_on_c,Theory of computation
+Concurrency (computer science),depend_on_c,Parallel computing
+3D computer graphics,depend_on_c,Algorithm
+Ray tracing (graphics),depend_on_c,Graphics
+Relational database management system,depend_on_c,Relational model
+Neural network,depend_on_c,Data structure
+Cryptography,depend_on_c,Algorithm design
+Logic programming,depend_on_c,Discrete mathematics
+Recurrence relation,depend_on_c,Integer
+Ray tracing (graphics),depend_on_c,Shading
+Kernel (computing),depend_on_c,Operating system
+Atomicity (database systems),depend_on_c,Object (computer science)
+Geometry,depend_on_c,Mathematics
+Imperative programming,depend_on_c,Computer programming
+Cryptanalysis,depend_on_c,Computation
+Recursion,depend_on_c,Polynomial
+Formal methods,depend_on_c,Computer
+Approximation algorithm,depend_on_c,Mathematical optimization
+Computer software,depend_on_c,Input/output
+Cryptanalysis,depend_on_c,Probability theory
+Inheritance (object-oriented programming),depend_on_c,Data structure
+Machine translation,depend_on_c,Computer science
+Hidden line removal,depend_on_c,Computation
+Mathematics,depend_on_c,Foundations of mathematics
+Database system,depend_on_c,Database
+Hidden line removal,depend_on_c,Foundations of mathematics
+Transaction processing,depend_on_c,Database transaction
+Relational database,depend_on_c,Computer
+Inference,depend_on_c,Uncertainty
+Lexical analysis,depend_on_c,Automata theory
+Relational database,depend_on_c,Computing
+Python (programming language),depend_on_c,Algorithm
+Iterative method,depend_on_c,Polynomial
+Computer animation,depend_on_c,Image
+Data mining,depend_on_c,Computational science
+Computer graphics,depend_on_c,Graphics
+Monad (functional programming),depend_on_c,Computer programming
+Algebra,depend_on_c,Foundations of mathematics
+Data mining,depend_on_c,Algorithm
+Traffic analysis,depend_on_c,Mathematical proof
+Fast Fourier transform,depend_on_c,Foundations of mathematics
+Traffic analysis,depend_on_c,Information security
+Hash table,depend_on_c,Data structure
+Scheduling (computing),depend_on_c,Computing
+Complexity class,depend_on_c,Computational complexity theory
+Monte Carlo method,depend_on_c,Expected value
+Graphics processing unit,depend_on_c,Computer science
+NP-complete,depend_on_c,Algorithm
+Neural network,depend_on_c,Pattern recognition
+Variable (computer science),depend_on_c,Computing
+Programming paradigm,depend_on_c,Data structure
+Transaction processing,depend_on_c,Operating system
+Visualization (computer graphics),depend_on_c,Algorithm
+Parsing,depend_on_c,Foundations of mathematics
+Cryptography,depend_on_c,Logic
+Calculus,depend_on_c,Foundations of mathematics
+Robot,depend_on_c,Logic
+Abstraction (computer science),depend_on_c,Number theory
+Relational database,depend_on_c,Predicate logic
+Mathematical optimization,depend_on_c,Mathematical model
+NP-complete,depend_on_c,Theoretical computer science
+Natural language processing,depend_on_c,Machine learning
+Quantum mechanics,depend_on_c,Probability
+Arithmetic logic unit,depend_on_c,Combinational logic
+Cluster analysis,depend_on_c,Computer
+Application programming interface,depend_on_c,Computational science
+Parsing,depend_on_c,Problem solving
+Complexity class,depend_on_c,Mathematical induction
+Packet switching,depend_on_c,Data (computing)
+Graph (mathematics),depend_on_c,Mathematics
+Regular language,depend_on_c,Computability
+Recommender system,depend_on_c,Algorithm
+Regular language,depend_on_c,Logic
+Machine learning,depend_on_c,Integer
+Microcode,depend_on_c,Assembly language
+Support vector machine,depend_on_c,Logic
+Distributed computing,depend_on_c,Computer
+Distributed algorithms,depend_on_c,Polynomial
+Programming paradigm,depend_on_c,Automata theory
+Lisp (programming language),depend_on_c,Mathematics
+Natural language processing,depend_on_c,Computer
+Public-key cryptography,depend_on_c,Logic
+Computer programming,depend_on_c,Mathematics
+Genetic algorithm,depend_on_c,Combinatorics
+Game theory,depend_on_c,Probability theory
+Scope (computer science),depend_on_c,Computer
+Fast Fourier transform,depend_on_c,Signal processing
+Fourier analysis,depend_on_c,Mathematics
+SQL,depend_on_c,Object (computer science)
+Concurrency (computer science),depend_on_c,Computation
+Mathematical induction,depend_on_c,Mathematical proof
+Data mining,depend_on_c,Automata theory
+Computer network,depend_on_c,Communication
+Computer vision,depend_on_c,Asymptotic analysis
+MATLAB,depend_on_c,Programming language
+Unsupervised learning,depend_on_c,Algorithm
+Graphical user interface,depend_on_c,Arithmetic
+Distributed algorithms,depend_on_c,Iterative method
+Profiling (computer programming),depend_on_c,Iterative method
+Cluster analysis,depend_on_c,Computer science
+Random graph,depend_on_c,Mathematics
+Algorithm design,depend_on_c,Integer
+HTML,depend_on_c,Arithmetic
+Complexity,depend_on_c,Computation
+Parallel algorithm,depend_on_c,Lock (computer science)
+Data mining,depend_on_c,Theoretical computer science
+Relational database management system,depend_on_c,Data
+PSPACE,depend_on_c,Turing machine
+Lazy evaluation,depend_on_c,Data structure
+Polymorphism (computer science),depend_on_c,Computer programming
+Human-computer interaction,depend_on_c,Interface (computing)
+"Best, worst and average case",depend_on_c,Graph theory
+Computer animation,depend_on_c,Data
+Software testing,depend_on_c,Object-oriented programming
+Haskell (programming language),depend_on_c,Computer
+Discrete mathematics,depend_on_c,Arithmetic
+Scope (computer science),depend_on_c,Programming language
+SQL,depend_on_c,Data structure
+Computational chemistry,depend_on_c,Computer
+Pushdown automaton,depend_on_c,String (computer science)
+PSPACE,depend_on_c,Mathematics
+Garbage collection (computer science),depend_on_c,Graph theory
+Time complexity,depend_on_c,Algorithm
+Quantum computer,depend_on_c,Algorithm design
+Imperative programming,depend_on_c,Computer science
+Poisson distribution,depend_on_c,Mathematics
+Recursively enumerable set,depend_on_c,Computing
+Quantum computer,depend_on_c,Foundations of mathematics
+Computer architecture,depend_on_c,Graph theory
+Computational learning theory,depend_on_c,Mathematics
+Sentiment analysis,depend_on_c,Computational science
+Combinatorics,depend_on_c,Algebra
+Abstract data type,depend_on_c,Computer
+Lazy evaluation,depend_on_c,Computer science
+Mathematical optimization,depend_on_c,Algorithm
+Neural network,depend_on_c,Machine learning
+Database,depend_on_c,Data
+Processor register,depend_on_c,Array data structure
+Prolog,depend_on_c,Computer programming
+Complexity class,depend_on_c,Integer
+Graph coloring,depend_on_c,Graph theory
+Computer programming,depend_on_c,Computation
+Autonomous robot,depend_on_c,Kinematics
+Message passing,depend_on_c,Graph theory
+Newton's method,depend_on_c,Eigenvalues and eigenvectors
+Object-oriented programming,depend_on_c,Foundations of mathematics
+Profiling (computer programming),depend_on_c,Computer
+Public-key cryptography,depend_on_c,Discrete mathematics
+Database,depend_on_c,Operating system
+Finite-state machine,depend_on_c,Automata theory
+Natural language processing,depend_on_c,Graph (mathematics)
+Profiling (computer programming),depend_on_c,Abstraction (computer science)
+Web search engine,depend_on_c,Combinatorics
+Peer-to-peer,depend_on_c,Computer
+Index (database),depend_on_c,Data (computing)
+Partial differential equation,depend_on_c,Differential equation
+Unsupervised learning,depend_on_c,Statistical inference
+Sentiment analysis,depend_on_c,Document classification
+Operating system,depend_on_c,Algorithm
+Concurrency control,depend_on_c,Discrete mathematics
+Java (programming language),depend_on_c,Computational complexity theory
+Message passing,depend_on_c,Number theory
+Dynamic programming,depend_on_c,Polynomial
+P versus NP problem,depend_on_c,Logic
+Debugging,depend_on_c,Programming language
+Perl,depend_on_c,Regular expression
+ML (programming language),depend_on_c,Computer
+Complexity class,depend_on_c,Computing
+Numerical analysis,depend_on_c,Mathematical induction
+Formal language,depend_on_c,Computer
+Reinforcement learning,depend_on_c,Graph theory
+Parallel algorithm,depend_on_c,Computer science
+Concurrent computing,depend_on_c,Computer
+Recurrence relation,depend_on_c,Combinatorics
+Message passing,depend_on_c,Mathematics
+String searching algorithm,depend_on_c,Foundations of mathematics
+Symbol table,depend_on_c,Discrete mathematics
+Cryptographic hash function,depend_on_c,Mathematical proof
+Time complexity,depend_on_c,Computability
+Malware,depend_on_c,Computer network
+Formal language,depend_on_c,Foundations of mathematics
+Design of experiments,depend_on_c,Data
+Concurrency (computer science),depend_on_c,Lock (computer science)
+PSPACE,depend_on_c,Computational complexity theory
+Computer science,depend_on_c,Arithmetic
+Autonomous robot,depend_on_c,Motion planning
+Monte Carlo method,depend_on_c,Discrete mathematics
+String searching algorithm,depend_on_c,Integer
+Computer vision,depend_on_c,Numerical analysis
+Decision theory,depend_on_c,Data
+Computer programming,depend_on_c,Logic
+Automated planning and scheduling,depend_on_c,Computer science
+Partial differential equation,depend_on_c,Matrix (mathematics)
+Software design,depend_on_c,Logic
+Formal language,depend_on_c,Data structure
+Dynamic memory allocation,depend_on_c,Input/output
+Perl,depend_on_c,Computer science
+Algorithm design,depend_on_c,Mathematics
+Visualization (computer graphics),depend_on_c,Geometry
+Computer architecture,depend_on_c,Number theory
+Lisp (programming language),depend_on_c,Programming language
+Recommender system,depend_on_c,Artificial intelligence
+Parallel algorithm,depend_on_c,Computing
+Document classification,depend_on_c,Discrete mathematics
+Query language,depend_on_c,Data structure
+Recurrence relation,depend_on_c,Mathematical induction
+Software engineering,depend_on_c,Iterative method
+Java (programming language),depend_on_c,Computer
+String searching algorithm,depend_on_c,Mathematics
+Divide and conquer algorithm,depend_on_c,Combinatorics
+Theory of computation,depend_on_c,Computer
+SQL,depend_on_c,Computing
+Recursion (computer science),depend_on_c,Abstraction (computer science)
+Program optimization,depend_on_c,Computer science
+Hidden line removal,depend_on_c,Computability
+Partial differential equation,depend_on_c,Numerical analysis
+Scalability,depend_on_c,Java (programming language)
+Scalability,depend_on_c,Computer programming
+Functional programming,depend_on_c,Generic programming
+Application software,depend_on_c,Digital electronics
+Software framework,depend_on_c,Data structure
+Volume rendering,depend_on_c,Computer graphics
+Database,depend_on_c,Data structure
+Logic programming,depend_on_c,Graph theory
+Speech recognition,depend_on_c,Random variable
+Compiler,depend_on_c,Parsing
+Program analysis,depend_on_c,Graph theory
+Reinforcement learning,depend_on_c,Machine learning
+Mathematical model,depend_on_c,Foundations of mathematics
+Random walk,depend_on_c,Graph (mathematics)
+Computer programming,depend_on_c,Foundations of mathematics
+Cryptography,depend_on_c,Iterative method
+SQL,depend_on_c,Computability
+Query optimization,depend_on_c,Programming language
+Parametric polymorphism,depend_on_c,Automata theory
+Program optimization,depend_on_c,Mathematical induction
+Database design,depend_on_c,Operating system
+Software engineering,depend_on_c,Data type
+Martingale (probability theory),depend_on_c,Markov chain
+Functional programming,depend_on_c,Computability
+Formal language,depend_on_c,Computer programming
+Queue (data structure),depend_on_c,Array data structure
+Calculus,depend_on_c,Arithmetic
+Modular arithmetic,depend_on_c,Algebra
+Quantum cryptography,depend_on_c,Computational complexity theory
+Sentiment analysis,depend_on_c,Natural language
+Computational learning theory,depend_on_c,Uncertainty
+Parallel computing,depend_on_c,Mathematics
+Algorithm design,depend_on_c,Introduction to Algorithms
+C++,depend_on_c,Logic
+Imperative programming,depend_on_c,Foundations of mathematics
+Suffix tree,depend_on_c,Regular expression
+Symmetric multiprocessing,depend_on_c,Concurrency (computer science)
+Time complexity,depend_on_c,Computer
+Programming paradigm,depend_on_c,Programming language
+Decision theory,depend_on_c,Polynomial
+Profiling (computer programming),depend_on_c,Theoretical computer science
+Analysis of algorithms,depend_on_c,Logic
+User interface,depend_on_c,Algorithm
+Undecidable problem,depend_on_c,Foundations of mathematics
+Computer animation,depend_on_c,Geometry
+Graph theory,depend_on_c,Mathematics
+Java (programming language),depend_on_c,Data structure
+Randomized algorithm,depend_on_c,Mathematical induction
+Software engineering,depend_on_c,Computational science
+Computer graphics,depend_on_c,Abstraction (computer science)
+Virtual memory,depend_on_c,Input/output
+Geometric modeling,depend_on_c,Theoretical computer science
+Algorithm,depend_on_c,Mathematical proof
+Debugging,depend_on_c,Computing
+Cryptanalysis,depend_on_c,Problem solving
+PSPACE,depend_on_c,Discrete mathematics
+Personal computer,depend_on_c,Arithmetic
+Application programming interface,depend_on_c,Computer
+Pattern recognition,depend_on_c,Number theory
+Computational chemistry,depend_on_c,Computational science
+Geometric modeling,depend_on_c,Foundations of mathematics
+Graphical model,depend_on_c,Random variable
+Analysis of algorithms,depend_on_c,Graph (mathematics)
+Question answering,depend_on_c,Numerical analysis
+Support vector machine,depend_on_c,Algorithm
+B-tree,depend_on_c,Foundations of mathematics
+Relational database,depend_on_c,Graph theory
+Scientific visualization,depend_on_c,Computer science
+Software development,depend_on_c,Logic
+Poisson distribution,depend_on_c,Probability theory
+ML (programming language),depend_on_c,Computer science
+Ray tracing (graphics),depend_on_c,Mathematics
+Computer network,depend_on_c,Number theory
+Computer graphics,depend_on_c,Iterative method
+Object-oriented programming,depend_on_c,Computability
+Exponential family,depend_on_c,Algebra
+Formal language,depend_on_c,Computer science
+Concurrency control,depend_on_c,Computer
+JavaScript,depend_on_c,World Wide Web
+Operating system,depend_on_c,Arithmetic
+Python (programming language),depend_on_c,High-level programming language
+Web search engine,depend_on_c,Iterative method
+Least squares,depend_on_c,Numerical analysis
+Boundary value problem,depend_on_c,Partial differential equation
+Document classification,depend_on_c,Artificial intelligence
+Geometric modeling,depend_on_c,Mathematics
+Computational chemistry,depend_on_c,Computability
+Inheritance (object-oriented programming),depend_on_c,Object-oriented programming
+NP-complete,depend_on_c,Number theory
+Speech recognition,depend_on_c,Computer science
+Linked list,depend_on_c,Foundations of mathematics
+Model checking,depend_on_c,Computer science
+Software development,depend_on_c,Graph theory
+Expert system,depend_on_c,Computer science
+Pattern matching,depend_on_c,String (computer science)
+Machine learning,depend_on_c,Programming language
+Concurrency (computer science),depend_on_c,Computer programming
+Ray tracing (graphics),depend_on_c,Computational science
+Computer graphics,depend_on_c,Computer
+Congestion control,depend_on_c,Data (computing)
+Speech recognition,depend_on_c,Computer
+Quantum computer,depend_on_c,Integer
+Finite difference,depend_on_c,Integer
+Computer vision,depend_on_c,Computational science
+Programming paradigm,depend_on_c,Mathematics
+Statistical inference,depend_on_c,Mathematics
+C++,depend_on_c,Computing
+Neural network,depend_on_c,Statistical inference
+Database design,depend_on_c,Relational algebra
+Relational database,depend_on_c,Arithmetic
+Time complexity,depend_on_c,Discrete mathematics
+Atomicity (database systems),depend_on_c,Data structure
+Hidden Markov model,depend_on_c,Statistical inference
+Hidden line removal,depend_on_c,Computer science
+Computer simulation,depend_on_c,Graph theory
+Knowledge representation and reasoning,depend_on_c,Graph theory
+Theory of computation,depend_on_c,Foundations of mathematics
+Robot,depend_on_c,Artificial intelligence
+Divide and conquer algorithm,depend_on_c,Computability
+Run time (program lifecycle phase),depend_on_c,Mathematics
+Programming style,depend_on_c,Data structure
+Expert system,depend_on_c,Artificial intelligence
+Semidefinite programming,depend_on_c,Linear programming
+Lisp (programming language),depend_on_c,Computer programming
+Programmer,depend_on_c,Computability
+Undecidable problem,depend_on_c,Mathematical proof
+Computer programming,depend_on_c,Discrete mathematics
+Graph theory,depend_on_c,Computational science
+Object (computer science),depend_on_c,Number theory
+Amortized analysis,depend_on_c,Mathematics
+Compiler,depend_on_c,Assembly language
+Graphical user interface,depend_on_c,Number theory
+Complexity class,depend_on_c,Algorithm
+Hidden line removal,depend_on_c,Combinatorics
+Parsing,depend_on_c,Computer programming
+Symmetric multiprocessing,depend_on_c,Operating system
+Firewall (computing),depend_on_c,Computer
+Scientific visualization,depend_on_c,Algorithm
+Compiler,depend_on_c,Computer architecture
+Model of computation,depend_on_c,Integer
+System programming,depend_on_c,Algorithm
+Web search engine,depend_on_c,Discrete mathematics
+SQL,depend_on_c,Arithmetic
+Software design,depend_on_c,Computability
+Graphical user interface,depend_on_c,Logic
+Communications protocol,depend_on_c,Combinatorics
+Markov chain,depend_on_c,Algebra
+Ordinary differential equation,depend_on_c,Eigenvalues and eigenvectors
+3D modeling,depend_on_c,Computation
+Natural language processing,depend_on_c,Foundations of mathematics
+Boundary value problem,depend_on_c,Differential equation
+Computer animation,depend_on_c,Computer graphics
+High-level programming language,depend_on_c,Computer
+Interaction design,depend_on_c,Computer programming
+Automated theorem proving,depend_on_c,Mathematical proof
+Haskell (programming language),depend_on_c,Variable (computer science)
+Gradient descent,depend_on_c,Polynomial
+ML (programming language),depend_on_c,Functional programming
+Robotics,depend_on_c,Analysis of algorithms
+Lexical analysis,depend_on_c,Data structure
+Instruction set,depend_on_c,Computer
+String searching algorithm,depend_on_c,Computer science
+Assembly language,depend_on_c,Computational science
+3D computer graphics,depend_on_c,Problem solving
+Compiler optimization,depend_on_c,Programming language
+C++,depend_on_c,High-level programming language
+Symbol table,depend_on_c,Graph theory
+Scope (computer science),depend_on_c,Logic
+String (computer science),depend_on_c,Computing
+Network security,depend_on_c,Data (computing)
+Pipeline (computing),depend_on_c,Central processing unit
+Probability,depend_on_c,Uncertainty
+Recursion (computer science),depend_on_c,Computational science
+Java (programming language),depend_on_c,Variable (computer science)
+Operating system,depend_on_c,Computer programming
+Operating system,depend_on_c,Computer science
+Scalability,depend_on_c,Software design
+Computational complexity theory,depend_on_c,Mathematics
+List of undecidable problems,depend_on_c,Computer science
+B-tree,depend_on_c,Computer
+Graph (mathematics),depend_on_c,Mathematical proof
+Embedded system,depend_on_c,Input/output
+Data warehouse,depend_on_c,Data (computing)
+Time complexity,depend_on_c,Logic
